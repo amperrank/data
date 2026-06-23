@@ -1,0 +1,165 @@
+{
+  "operatorId": "PL*GWN",
+  "geohash": "0OaxzIcH",
+  "name": "Hotel Dwór Sójki Kutno",
+  "evses": [
+    {
+      "id": "PLGWNE50854801",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLGWNE50854803",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLGWNE52465103",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLGWNE52465101",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLGWNE82458602",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLGWNE82458601",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Sójki",
+    "street": "Sójki",
+    "houseNumber": "1",
+    "postcode": "99-300",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": false,
+    "regularHours": [
+      {
+        "weekday": 1,
+        "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 2,
+        "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 3,
+        "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 4,
+        "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 5,
+        "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 6,
+        "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 7,
+        "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      }
+    ]
+  }
+}

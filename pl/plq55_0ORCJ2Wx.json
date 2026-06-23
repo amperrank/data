@@ -1,0 +1,40 @@
+{
+  "operatorId": "PL*Q55",
+  "geohash": "0ORCJ2Wx",
+  "name": "Lidl Poznań Dymka",
+  "evses": [
+    {
+      "id": "PLQ55E01177302",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLQ55E01177301",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Poznań",
+    "street": "abpa Walentego Dymka",
+    "houseNumber": "212",
+    "postcode": "61-245",
+    "province": null
+  },
+  "openingHours": null
+}

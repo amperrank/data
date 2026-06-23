@@ -1,0 +1,59 @@
+[
+  {
+    "operatorId": {
+      "countryCode": "PL",
+      "cpo": "BB4"
+    },
+    "currency": "PLN",
+    "validFrom": null,
+    "validTo": null,
+    "updatedAt": "2026-06-23T00:00:00.000",
+    "description": "Prices vary by station and hour based on real-time energy market rates. Cheapest around solar midday (11–15h), most expensive during evening peaks (19–21h). Check the eTauron app or zaplac.etauron.tauron.pl for exact prices before charging.",
+    "tiers": [
+      {
+        "id": "unregistered_ac",
+        "name": "AC – ad-hoc (niezarejestrowany)",
+        "subscriptionFee": null,
+        "requiresMembership": false,
+        "applicableHours": null,
+        "description": null,
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 2.12,
+            "minPricePerUnit": 1.71,
+            "maxPricePerUnit": 3.44,
+            "unit": "kWh",
+            "condition": "AC",
+            "minPowerKw": null,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "applicableHours": null
+          }
+        ]
+      },
+      {
+        "id": "unregistered_dc",
+        "name": "DC – ad-hoc (niezarejestrowany)",
+        "subscriptionFee": null,
+        "requiresMembership": false,
+        "applicableHours": null,
+        "description": null,
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 2.31,
+            "minPricePerUnit": 1.71,
+            "maxPricePerUnit": 3.68,
+            "unit": "kWh",
+            "condition": "DC",
+            "minPowerKw": null,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "applicableHours": null
+          }
+        ]
+      }
+    ]
+  }
+]

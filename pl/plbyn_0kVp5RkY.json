@@ -1,0 +1,121 @@
+{
+  "operatorId": "PL*BYN",
+  "geohash": "0kVp5RkY",
+  "name": "Produkcyjna 86, 15-680 Białystok",
+  "evses": [
+    {
+      "id": "PLBYNE53D040BD",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLBYNE2862E0DB",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Białystok",
+    "street": "Produkcyjna",
+    "houseNumber": "86",
+    "postcode": "15-680",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": false,
+    "regularHours": [
+      {
+        "weekday": 1,
+        "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 2,
+        "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 3,
+        "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 4,
+        "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 5,
+        "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 6,
+        "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 7,
+        "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      }
+    ]
+  }
+}

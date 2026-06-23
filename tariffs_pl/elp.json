@@ -1,0 +1,45 @@
+[
+  {
+    "operatorId": {
+      "countryCode": "PL",
+      "cpo": "ELP"
+    },
+    "currency": "PLN",
+    "validFrom": null,
+    "validTo": null,
+    "updatedAt": "2026-06-23T00:00:00.000",
+    "description": null,
+    "tiers": [
+      {
+        "id": "standard",
+        "name": "Standard",
+        "subscriptionFee": null,
+        "requiresMembership": false,
+        "applicableHours": null,
+        "description": null,
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 1.99,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 2.39,
+            "unit": "kWh",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          }
+        ]
+      }
+    ]
+  }
+]

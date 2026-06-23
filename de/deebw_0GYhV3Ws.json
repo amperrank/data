@@ -1,0 +1,108 @@
+{
+  "operatorId": "DE*EBW",
+  "geohash": "0GYhV3Ws",
+  "name": "Unknown",
+  "evses": [
+    {
+      "id": "DEEBWE9044361",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEBWE9044362",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Steinfurt",
+    "street": "Max-Planck-Straße",
+    "houseNumber": null,
+    "postcode": "48565",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": false,
+    "regularHours": [
+      {
+        "weekday": 1,
+        "periodBegin": {
+          "hour": 8,
+          "minute": 30
+        },
+        "periodEnd": {
+          "hour": 19,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 2,
+        "periodBegin": {
+          "hour": 8,
+          "minute": 30
+        },
+        "periodEnd": {
+          "hour": 19,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 3,
+        "periodBegin": {
+          "hour": 8,
+          "minute": 30
+        },
+        "periodEnd": {
+          "hour": 19,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 4,
+        "periodBegin": {
+          "hour": 8,
+          "minute": 30
+        },
+        "periodEnd": {
+          "hour": 19,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 5,
+        "periodBegin": {
+          "hour": 8,
+          "minute": 30
+        },
+        "periodEnd": {
+          "hour": 19,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 6,
+        "periodBegin": {
+          "hour": 8,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 18,
+          "minute": 0
+        }
+      }
+    ]
+  }
+}

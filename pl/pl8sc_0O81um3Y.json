@@ -1,0 +1,110 @@
+{
+  "operatorId": "PL*8SC",
+  "geohash": "0O81um3Y",
+  "name": "Warszawska 45, 07-415 Grabowo",
+  "evses": [
+    {
+      "id": "PL8SCEAE0BAA8F",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PL8SCE95E6374A",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Grabowo",
+    "street": "Warszawska",
+    "houseNumber": "45",
+    "postcode": "07-415",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": false,
+    "regularHours": [
+      {
+        "weekday": 1,
+        "periodBegin": {
+          "hour": 8,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 17,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 2,
+        "periodBegin": {
+          "hour": 8,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 17,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 3,
+        "periodBegin": {
+          "hour": 8,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 17,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 4,
+        "periodBegin": {
+          "hour": 8,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 17,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 5,
+        "periodBegin": {
+          "hour": 8,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 17,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 6,
+        "periodBegin": {
+          "hour": 9,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 13,
+          "minute": 59
+        }
+      }
+    ]
+  }
+}

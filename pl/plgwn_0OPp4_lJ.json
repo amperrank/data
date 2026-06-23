@@ -1,0 +1,158 @@
+{
+  "operatorId": "PL*GWN",
+  "geohash": "0OPp4_lJ",
+  "name": "KFC Rokicińska Łódź",
+  "evses": [
+    {
+      "id": "PLGWNE14531301",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLGWNE26252001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLGWNE32482503",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLGWNE69777402",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLGWNE62577901",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 62.0
+        },
+        {
+          "type": "ccs",
+          "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Łódź",
+    "street": "Rokicińska",
+    "houseNumber": "199",
+    "postcode": "92-620",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": false,
+    "regularHours": [
+      {
+        "weekday": 1,
+        "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 2,
+        "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 3,
+        "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 4,
+        "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 5,
+        "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 6,
+        "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 7,
+        "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      }
+    ]
+  }
+}

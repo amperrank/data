@@ -1,0 +1,110 @@
+{
+  "operatorId": "PL*8BA",
+  "geohash": "0Oy9LMvi",
+  "name": "Przylesie 3, 03-153 Warszawa",
+  "evses": [
+    {
+      "id": "PL8BAE9DCA10F8",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 30.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Warszawa",
+    "street": "Przylesie",
+    "houseNumber": "3",
+    "postcode": "03-153",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": false,
+    "regularHours": [
+      {
+        "weekday": 1,
+        "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 2,
+        "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 3,
+        "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 4,
+        "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 5,
+        "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 6,
+        "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 7,
+        "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "operatorId": "DE*EBW",
+  "geohash": "0DmFr9uW",
+  "name": "Unknown",
+  "evses": [
+    {
+      "id": "DEEBWE9048061",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEBWE9048062",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Filderstadt",
+    "street": "Raiffeisenstr.",
+    "houseNumber": null,
+    "postcode": "70794",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": false,
+    "regularHours": [
+      {
+        "weekday": 1,
+        "periodBegin": {
+          "hour": 8,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 30
+        }
+      },
+      {
+        "weekday": 2,
+        "periodBegin": {
+          "hour": 8,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 30
+        }
+      },
+      {
+        "weekday": 3,
+        "periodBegin": {
+          "hour": 8,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 30
+        }
+      },
+      {
+        "weekday": 4,
+        "periodBegin": {
+          "hour": 8,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 30
+        }
+      },
+      {
+        "weekday": 5,
+        "periodBegin": {
+          "hour": 8,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 30
+        }
+      },
+      {
+        "weekday": 6,
+        "periodBegin": {
+          "hour": 8,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 30
+        }
+      }
+    ]
+  }
+}

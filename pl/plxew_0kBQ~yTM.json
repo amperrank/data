@@ -1,0 +1,121 @@
+{
+  "operatorId": "PL*XEW",
+  "geohash": "0kBQ~yTM",
+  "name": "Nazaruk Service Sp. z o.o.",
+  "evses": [
+    {
+      "id": "PLXEWE45A01LUB",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 72.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLXEWE45A02LUB",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 72.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLXEWE45A03LUB",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 72.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Lublin",
+    "street": "Abramowicka",
+    "houseNumber": "45",
+    "postcode": "20-067",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": false,
+    "regularHours": [
+      {
+        "weekday": 1,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 19,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 2,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 19,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 3,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 19,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 4,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 19,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 5,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 19,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 6,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 14,
+          "minute": 0
+        }
+      }
+    ]
+  }
+}

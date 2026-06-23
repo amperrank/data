@@ -1,0 +1,176 @@
+{
+  "operatorId": "PL*P2W",
+  "geohash": "0Oytja32",
+  "name": "Lotnisko Chopina, Warszawa, ul. Żwirki i Wigury 1, 02-143 Warszawa, działka nr 16/3 obr. 2-06-07",
+  "evses": [
+    {
+      "id": "PLP2WE10332001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLP2WE10332002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLP2WE10332003",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLP2WE10332004",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLP2WE17566001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 360.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLP2WE17566002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 360.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLP2WE17566003",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 360.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Warszawa",
+    "street": "ul. Żwirki i Wigury",
+    "houseNumber": "1",
+    "postcode": "02-143",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": false,
+    "regularHours": [
+      {
+        "weekday": 1,
+        "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 2,
+        "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 3,
+        "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 4,
+        "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 5,
+        "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 6,
+        "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 7,
+        "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "operatorId": "PL*CPN",
+  "geohash": "0L~c5WtS",
+  "name": "Autorud JuiceBox 11 kW, Komisji Edukacji Narodowej 49, 37-450 Stalowa Wola",
+  "evses": [
+    {
+      "id": "PLCPNE16522935",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Stalowa Wola",
+    "street": "Komisji Edukacji Narodowej",
+    "houseNumber": "49",
+    "postcode": "37-450",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": false,
+    "regularHours": [
+      {
+        "weekday": 1,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 1
+        },
+        "periodEnd": {
+          "hour": 15,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 2,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 1
+        },
+        "periodEnd": {
+          "hour": 15,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 3,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 1
+        },
+        "periodEnd": {
+          "hour": 15,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 4,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 1
+        },
+        "periodEnd": {
+          "hour": 15,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 5,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 1
+        },
+        "periodEnd": {
+          "hour": 15,
+          "minute": 0
+        }
+      }
+    ]
+  }
+}

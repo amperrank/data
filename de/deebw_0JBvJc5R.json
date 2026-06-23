@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*EBW",
+  "geohash": "0JBvJc5R",
+  "name": "Unknown",
+  "evses": [
+    {
+      "id": "DEEBWE9054051",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 43.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEBWE9054052",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEBWE9054053",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Erding",
+    "street": "Josef-Schwankl-Straße",
+    "houseNumber": null,
+    "postcode": "85435",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

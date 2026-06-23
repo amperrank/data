@@ -1,0 +1,110 @@
+{
+  "operatorId": "PL*9W5",
+  "geohash": "0OXpC9vw",
+  "name": "Plichta Audi Bydgoszcz",
+  "evses": [
+    {
+      "id": "PL9W5EK90Y34H2",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 30.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PL9W5EXVPWPHGY",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Bydgoszcz",
+    "street": "ul. Fordońska 262",
+    "houseNumber": "_",
+    "postcode": "85-766",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": false,
+    "regularHours": [
+      {
+        "weekday": 1,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 19,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 2,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 19,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 3,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 19,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 4,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 19,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 5,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 19,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 6,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 15,
+          "minute": 0
+        }
+      }
+    ]
+  }
+}

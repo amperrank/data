@@ -1,0 +1,51 @@
+{
+  "operatorId": "PL*MDR",
+  "geohash": "0Lwb5oK7",
+  "name": "Szaflarska 164, 34-400 Nowy Targ",
+  "evses": [
+    {
+      "id": "PLMDRE4E878D11",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 180.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLMDRE6E762C14",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLMDREC1A8AB20",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 180.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Nowy Targ",
+    "street": "Szaflarska",
+    "houseNumber": "164",
+    "postcode": "34-400",
+    "province": null
+  },
+  "openingHours": null
+}

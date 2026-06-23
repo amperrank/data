@@ -1,0 +1,40 @@
+{
+  "operatorId": "PL*Q55",
+  "geohash": "0OBGZRV4",
+  "name": "Lidl Wrocław",
+  "evses": [
+    {
+      "id": "PLQ55E01112001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLQ55E01112002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Wrocław",
+    "street": "Grabiszyńska",
+    "houseNumber": "253",
+    "postcode": "53-234",
+    "province": null
+  },
+  "openingHours": null
+}

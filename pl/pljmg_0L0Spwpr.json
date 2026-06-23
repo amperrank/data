@@ -1,0 +1,143 @@
+{
+  "operatorId": "PL*JMG",
+  "geohash": "0L0Spwpr",
+  "name": "Prof. Adam Różańskiego 3, 32-085 Modlniczka",
+  "evses": [
+    {
+      "id": "PLJMGE3B14F76F",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 120.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLJMGEFCD787B9",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 120.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLJMGE7D3A21FA",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLJMGE3133814C",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLJMGE59776C62",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Modlniczka",
+    "street": "Prof. Adam Różańskiego",
+    "houseNumber": "3",
+    "postcode": "32-085",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": false,
+    "regularHours": [
+      {
+        "weekday": 1,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 2,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 3,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 4,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 5,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 6,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 13,
+          "minute": 59
+        }
+      }
+    ]
+  }
+}

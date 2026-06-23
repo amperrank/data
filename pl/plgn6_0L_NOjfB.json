@@ -1,0 +1,110 @@
+{
+  "operatorId": "PL*GN6",
+  "geohash": "0L_NOjfB",
+  "name": "GG AUTO RZESZÓW AUDI",
+  "evses": [
+    {
+      "id": "PLGN6EJX4HL5YM",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLGN6E5XX1MCP4",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Rzeszów",
+    "street": "Lubelska 50C",
+    "houseNumber": "_",
+    "postcode": "35-233",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": false,
+    "regularHours": [
+      {
+        "weekday": 1,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 18,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 2,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 18,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 3,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 18,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 4,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 18,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 5,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 18,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 6,
+        "periodBegin": {
+          "hour": 9,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 15,
+          "minute": 0
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "operatorId": "PL*W5W",
+  "geohash": "0OQMmSjN",
+  "name": "Stacja LNG/CNG",
+  "evses": [
+    {
+      "id": "PLW5WEPGK20191",
+      "connectors": [],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLW5WEPGK20193",
+      "connectors": [],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLW5WEPGK20192",
+      "connectors": [],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "gas",
+    "cng",
+    "lng"
+  ],
+  "address": {
+    "city": "Mateuszewo",
+    "street": "Mateuszewo",
+    "houseNumber": "8",
+    "postcode": "63-100",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": false,
+    "regularHours": [
+      {
+        "weekday": 1,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 2,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 3,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 4,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 5,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 0
+        }
+      }
+    ]
+  }
+}

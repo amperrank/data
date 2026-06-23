@@ -1,0 +1,40 @@
+{
+  "operatorId": "PL*MR1",
+  "geohash": "0O4VOdPX",
+  "name": "Stacja ładowania A&M 2x22 kW AC",
+  "evses": [
+    {
+      "id": "PLMR1E00000001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLMR1E00000002",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Marki",
+    "street": "Ziołowa",
+    "houseNumber": "1",
+    "postcode": "05-270",
+    "province": null
+  },
+  "openingHours": null
+}

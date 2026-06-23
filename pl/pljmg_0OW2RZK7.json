@@ -1,0 +1,121 @@
+{
+  "operatorId": "PL*JMG",
+  "geohash": "0OW2RZK7",
+  "name": "Bydgoska 36A, 86-061 Brzoza",
+  "evses": [
+    {
+      "id": "PLJMGE9A5FBB05",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 120.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLJMGED1F04A12",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 120.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLJMGE55FF2741",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Brzoza",
+    "street": "Bydgoska",
+    "houseNumber": "36A",
+    "postcode": "86-061",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": false,
+    "regularHours": [
+      {
+        "weekday": 1,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 2,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 3,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 4,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 5,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 6,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 13,
+          "minute": 59
+        }
+      }
+    ]
+  }
+}

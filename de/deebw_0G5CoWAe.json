@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*EBW",
+  "geohash": "0G5CoWAe",
+  "name": "Unknown",
+  "evses": [
+    {
+      "id": "DEEBWE9039962",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEBWE9039963",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEBWE9039961",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 43.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Lehrte",
+    "street": "A2, Raststätte Lehrter See Süd",
+    "houseNumber": null,
+    "postcode": "31275",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

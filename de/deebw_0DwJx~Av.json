@@ -1,0 +1,105 @@
+{
+  "operatorId": "DE*EBW",
+  "geohash": "0DwJx~Av",
+  "name": "Unknown",
+  "evses": [
+    {
+      "id": "DEEBWE9053531",
+      "connectors": [
+        {
+          "type": "unknown",
+          "maxPowerKw": 3.7
+        },
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEBWE9053532",
+      "connectors": [
+        {
+          "type": "unknown",
+          "maxPowerKw": 3.7
+        },
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Wiesloch",
+    "street": "Adelsförsterpfad",
+    "houseNumber": null,
+    "postcode": "69168",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": false,
+    "regularHours": [
+      {
+        "weekday": 1,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 30
+        },
+        "periodEnd": {
+          "hour": 18,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 2,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 30
+        },
+        "periodEnd": {
+          "hour": 18,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 3,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 30
+        },
+        "periodEnd": {
+          "hour": 18,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 4,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 30
+        },
+        "periodEnd": {
+          "hour": 18,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 5,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 30
+        },
+        "periodEnd": {
+          "hour": 18,
+          "minute": 0
+        }
+      }
+    ]
+  }
+}

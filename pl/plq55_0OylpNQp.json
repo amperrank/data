@@ -1,0 +1,44 @@
+{
+  "operatorId": "PL*Q55",
+  "geohash": "0OylpNQp",
+  "name": "LIDL PRUSZKÓW BOHATEROW WARSZAWY",
+  "evses": [
+    {
+      "id": "PLQ55E01147501",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLQ55E01147502",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        },
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Pruszków",
+    "street": "Bohaterów Warszawy",
+    "houseNumber": "6",
+    "postcode": "05-800",
+    "province": null
+  },
+  "openingHours": null
+}

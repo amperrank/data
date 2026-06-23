@@ -1,0 +1,37 @@
+[
+  {
+    "operatorId": {
+      "countryCode": "PL",
+      "cpo": "P2W"
+    },
+    "currency": "PLN",
+    "validFrom": null,
+    "validTo": null,
+    "updatedAt": "2026-06-23T00:00:00.000",
+    "description": "Prices derived from 35 station entries on ekoen.pl/cennik/ (min–median–max). EKOEN applies dynamic pricing — actual rates vary by station, time, and network load.",
+    "tiers": [
+      {
+        "id": "standard",
+        "name": "Standard",
+        "subscriptionFee": null,
+        "requiresMembership": false,
+        "applicableHours": null,
+        "description": null,
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 2.03,
+            "minPricePerUnit": 1.39,
+            "maxPricePerUnit": 3.27,
+            "unit": "kWh",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          }
+        ]
+      }
+    ]
+  }
+]

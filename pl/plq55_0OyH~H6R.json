@@ -1,0 +1,44 @@
+{
+  "operatorId": "PL*Q55",
+  "geohash": "0OyH~H6R",
+  "name": "Lidl Błonie PKW",
+  "evses": [
+    {
+      "id": "PLQ55E170003DC",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        },
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLQ55E170003AC",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Piorunów",
+    "street": "Piorunów",
+    "houseNumber": "21",
+    "postcode": "05-870",
+    "province": null
+  },
+  "openingHours": null
+}

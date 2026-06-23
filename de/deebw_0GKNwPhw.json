@@ -1,0 +1,141 @@
+{
+  "operatorId": "DE*EBW",
+  "geohash": "0GKNwPhw",
+  "name": "Unknown",
+  "evses": [
+    {
+      "id": "DEEBWE9075761",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEBWE9075762",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEBWE9075763",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEBWE9075751",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEBWE9075752",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Herdorf",
+    "street": "Schneiderstraße",
+    "houseNumber": null,
+    "postcode": "57562",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": false,
+    "regularHours": [
+      {
+        "weekday": 1,
+        "periodBegin": {
+          "hour": 8,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 22,
+          "minute": 30
+        }
+      },
+      {
+        "weekday": 2,
+        "periodBegin": {
+          "hour": 8,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 22,
+          "minute": 30
+        }
+      },
+      {
+        "weekday": 3,
+        "periodBegin": {
+          "hour": 8,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 22,
+          "minute": 30
+        }
+      },
+      {
+        "weekday": 4,
+        "periodBegin": {
+          "hour": 8,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 22,
+          "minute": 30
+        }
+      },
+      {
+        "weekday": 5,
+        "periodBegin": {
+          "hour": 8,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 22,
+          "minute": 30
+        }
+      },
+      {
+        "weekday": 6,
+        "periodBegin": {
+          "hour": 8,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 22,
+          "minute": 30
+        }
+      }
+    ]
+  }
+}

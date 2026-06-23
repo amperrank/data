@@ -1,0 +1,48 @@
+{
+  "operatorId": "PL*JEK",
+  "geohash": "0MjN~pZl",
+  "name": "DYSKONT PALIWOWY ZGORZELEC I",
+  "evses": [
+    {
+      "id": "PLJEKE91130001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 120.0
+        },
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLJEKE91130002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 120.0
+        },
+        {
+          "type": "type2",
+          "maxPowerKw": 33.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Zgorzelec",
+    "street": "Słowiańska",
+    "houseNumber": "2",
+    "postcode": "59-900",
+    "province": null
+  },
+  "openingHours": null
+}

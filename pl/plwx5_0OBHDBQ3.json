@@ -1,0 +1,51 @@
+{
+  "operatorId": "PL*WX5",
+  "geohash": "0OBHDBQ3",
+  "name": "Strzegomska 139, 54-428 Wrocław",
+  "evses": [
+    {
+      "id": "PLWX5E14B1FB16",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLWX5E459245BB",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLWX5E9949E6D7",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Wrocław",
+    "street": "Strzegomska",
+    "houseNumber": "139",
+    "postcode": "54-428",
+    "province": null
+  },
+  "openingHours": null
+}

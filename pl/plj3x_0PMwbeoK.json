@@ -1,0 +1,110 @@
+{
+  "operatorId": "PL*J3X",
+  "geohash": "0PMwbeoK",
+  "name": "GRUPA MAKURAT VW, SKODA, SEAT, CUPRA, TESLA -, Czynne: pn.- pt. 7.00 - 18.00, sob. 7.00-13.0, Pomorskie, Poland",
+  "evses": [
+    {
+      "id": "PLJ3XE9OWU7ZMA",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLJ3XE01890983",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Czynne: pn.- pt. 7.00 - 18.00, sob. 7.00-13.0",
+    "street": "GRUPA MAKURAT VW, SKODA, SEAT, CUPRA, TESLA -",
+    "houseNumber": "_",
+    "postcode": "00-000",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": false,
+    "regularHours": [
+      {
+        "weekday": 1,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 18,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 2,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 18,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 3,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 18,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 4,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 18,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 5,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 18,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 6,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 13,
+          "minute": 0
+        }
+      }
+    ]
+  }
+}

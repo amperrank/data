@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*EBW",
+  "geohash": "0JEm7pNc",
+  "name": "Unknown",
+  "evses": [
+    {
+      "id": "DEEBWE9054081",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 43.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEBWE9054082",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEBWE9054083",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Mainburg",
+    "street": "Straßäcker",
+    "houseNumber": null,
+    "postcode": "84048",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

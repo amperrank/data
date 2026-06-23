@@ -1,0 +1,40 @@
+{
+  "operatorId": "PL*Q55",
+  "geohash": "0OnWwl9A",
+  "name": "Lidl Gorzyce",
+  "evses": [
+    {
+      "id": "PLQ55E01230701",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLQ55E01230702",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Gorzyce",
+    "street": "Mieszczańskiego",
+    "houseNumber": "12",
+    "postcode": "39-432",
+    "province": null
+  },
+  "openingHours": null
+}

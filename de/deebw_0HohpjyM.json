@@ -1,0 +1,119 @@
+{
+  "operatorId": "DE*EBW",
+  "geohash": "0HohpjyM",
+  "name": "Unknown",
+  "evses": [
+    {
+      "id": "DEEBWE9052362",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEBWE9052363",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEBWE9052361",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 43.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Wentorf bei Hamburg",
+    "street": "Südring",
+    "houseNumber": null,
+    "postcode": "21465",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": false,
+    "regularHours": [
+      {
+        "weekday": 1,
+        "periodBegin": {
+          "hour": 10,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 19,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 2,
+        "periodBegin": {
+          "hour": 10,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 19,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 3,
+        "periodBegin": {
+          "hour": 10,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 19,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 4,
+        "periodBegin": {
+          "hour": 10,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 19,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 5,
+        "periodBegin": {
+          "hour": 10,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 19,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 6,
+        "periodBegin": {
+          "hour": 10,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 16,
+          "minute": 0
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+[
+  {
+    "operatorId": {
+      "countryCode": "PL",
+      "cpo": "ANW"
+    },
+    "currency": "PLN",
+    "validFrom": null,
+    "validTo": null,
+    "updatedAt": "2026-06-23T00:00:00.000",
+    "description": "Ceny aplikacyjne (bez dopłaty 0,30 zł/kWh za terminal). Podane zakresy odzwierciedlają zróżnicowanie cen między stacjami.",
+    "tiers": [
+      {
+        "id": "standard",
+        "name": "Standard",
+        "subscriptionFee": null,
+        "requiresMembership": false,
+        "applicableHours": null,
+        "description": null,
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 1.99,
+            "minPricePerUnit": 1.89,
+            "maxPricePerUnit": 2.09,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": {
+              "isOpen247": false,
+              "regularHours": [
+                {
+                  "weekday": 1,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 2,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 3,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 4,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 5,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 6,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 7,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 1.69,
+            "minPricePerUnit": 1.49,
+            "maxPricePerUnit": 1.89,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": {
+              "isOpen247": false,
+              "regularHours": [
+                {
+                  "weekday": 1,
+                  "periodBegin": {
+                    "hour": 22,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 8,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 2,
+                  "periodBegin": {
+                    "hour": 22,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 8,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 3,
+                  "periodBegin": {
+                    "hour": 22,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 8,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 4,
+                  "periodBegin": {
+                    "hour": 22,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 8,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 5,
+                  "periodBegin": {
+                    "hour": 22,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 8,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 6,
+                  "periodBegin": {
+                    "hour": 22,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 8,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 7,
+                  "periodBegin": {
+                    "hour": 22,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 8,
+                    "minute": 0
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 1.94,
+            "minPricePerUnit": 1.89,
+            "maxPricePerUnit": 1.99,
+            "unit": "kWh",
+            "minPowerKw": 22.01,
+            "maxPowerKw": 60,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 2.39,
+            "minPricePerUnit": 2.29,
+            "maxPricePerUnit": 2.49,
+            "unit": "kWh",
+            "minPowerKw": 60.01,
+            "maxPowerKw": 120,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 2.64,
+            "minPricePerUnit": 2.49,
+            "maxPricePerUnit": 2.79,
+            "unit": "kWh",
+            "minPowerKw": 120.01,
+            "maxPowerKw": 180,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 2.84,
+            "minPricePerUnit": 2.69,
+            "maxPricePerUnit": 2.99,
+            "unit": "kWh",
+            "minPowerKw": 180.01,
+            "maxPowerKw": 400,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          }
+        ]
+      }
+    ]
+  }
+]

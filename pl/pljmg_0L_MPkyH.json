@@ -1,0 +1,110 @@
+{
+  "operatorId": "PL*JMG",
+  "geohash": "0L_MPkyH",
+  "name": "Aleja Majora Wacława Kopisto 3, 35-515 Rzeszów",
+  "evses": [
+    {
+      "id": "PLJMGE3FD4FE18",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLJMGE3F37A278",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 40.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Rzeszów",
+    "street": "Aleja Majora Wacława Kopisto",
+    "houseNumber": "3",
+    "postcode": "35-515",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": false,
+    "regularHours": [
+      {
+        "weekday": 1,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 2,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 3,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 4,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 5,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 6,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 13,
+          "minute": 59
+        }
+      }
+    ]
+  }
+}

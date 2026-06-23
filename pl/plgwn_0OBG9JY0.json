@@ -1,0 +1,132 @@
+{
+  "operatorId": "PL*GWN",
+  "geohash": "0OBG9JY0",
+  "name": "Renoma Wrocław",
+  "evses": [
+    {
+      "id": "PLGWNE34918101",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLGWNE34918103",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLGWNE34918102",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Wrocław",
+    "street": "Świdnicka",
+    "houseNumber": "40",
+    "postcode": "50-024",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": false,
+    "regularHours": [
+      {
+        "weekday": 1,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 2,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 3,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 4,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 5,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 6,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 7,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 0
+        }
+      }
+    ]
+  }
+}

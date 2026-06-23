@@ -1,0 +1,135 @@
+{
+  "operatorId": "DE*EBW",
+  "geohash": "0DlT97EO",
+  "name": "Unknown",
+  "evses": [
+    {
+      "id": "DEEBWE9060081",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        },
+        {
+          "type": "unknown",
+          "maxPowerKw": 3.7
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEBWE9060082",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        },
+        {
+          "type": "unknown",
+          "maxPowerKw": 3.7
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEBWE9058121",
+      "connectors": [
+        {
+          "type": "unknown",
+          "maxPowerKw": 3.7
+        },
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEBWE9058122",
+      "connectors": [
+        {
+          "type": "unknown",
+          "maxPowerKw": 3.7
+        },
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Bruchsal",
+    "street": "Söternstraße",
+    "houseNumber": null,
+    "postcode": "76646",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": false,
+    "regularHours": [
+      {
+        "weekday": 1,
+        "periodBegin": {
+          "hour": 17,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 7,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 2,
+        "periodBegin": {
+          "hour": 17,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 7,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 3,
+        "periodBegin": {
+          "hour": 17,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 7,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 4,
+        "periodBegin": {
+          "hour": 17,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 7,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 5,
+        "periodBegin": {
+          "hour": 17,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 7,
+          "minute": 0
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*EBW",
+  "geohash": "0GJ9CXoB",
+  "name": "Unknown",
+  "evses": [
+    {
+      "id": "DEEBWE9052911",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 43.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEBWE9052912",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEBWE9052913",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Schalksmühle",
+    "street": "A45, Autobahnraststätte Kaltenborn",
+    "houseNumber": null,
+    "postcode": "58579",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

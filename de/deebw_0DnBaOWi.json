@@ -1,0 +1,130 @@
+{
+  "operatorId": "DE*EBW",
+  "geohash": "0DnBaOWi",
+  "name": "Unknown",
+  "evses": [
+    {
+      "id": "DEEBWE9064861",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEBWE9064862",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEBWE9064871",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEBWE9064872",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Freiberg am Neckar",
+    "street": "Ruitstraße",
+    "houseNumber": null,
+    "postcode": "71691",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": false,
+    "regularHours": [
+      {
+        "weekday": 1,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 30
+        },
+        "periodEnd": {
+          "hour": 21,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 2,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 30
+        },
+        "periodEnd": {
+          "hour": 21,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 3,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 30
+        },
+        "periodEnd": {
+          "hour": 21,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 4,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 30
+        },
+        "periodEnd": {
+          "hour": 21,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 5,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 30
+        },
+        "periodEnd": {
+          "hour": 21,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 6,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 16,
+          "minute": 0
+        }
+      }
+    ]
+  }
+}

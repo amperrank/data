@@ -1,0 +1,40 @@
+{
+  "operatorId": "PL*Q55",
+  "geohash": "0kVpsgrY",
+  "name": "Lidl Białystok",
+  "evses": [
+    {
+      "id": "PLQ55E01176901",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLQ55E01176902",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Białystok",
+    "street": "aleja Jana Pawła II",
+    "houseNumber": "61",
+    "postcode": "15-704",
+    "province": null
+  },
+  "openingHours": null
+}

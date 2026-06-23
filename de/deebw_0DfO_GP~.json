@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*EBW",
+  "geohash": "0DfO_GP~",
+  "name": "Unknown",
+  "evses": [
+    {
+      "id": "DEEBWE9050841",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 43.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEBWE9050842",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEBWE9050843",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Limburg an der Lahn",
+    "street": "A3, Raststätte Limburg Ost",
+    "houseNumber": null,
+    "postcode": "65549",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

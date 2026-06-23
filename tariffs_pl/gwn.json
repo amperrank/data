@@ -1,0 +1,165 @@
+[
+  {
+    "operatorId": {
+      "countryCode": "PL",
+      "cpo": "GWN"
+    },
+    "currency": "PLN",
+    "validFrom": null,
+    "validTo": null,
+    "updatedAt": "2026-06-23T00:00:00.000",
+    "description": null,
+    "tiers": [
+      {
+        "id": "energia_max",
+        "name": "Energia MAX",
+        "subscriptionFee": 79.99,
+        "requiresMembership": true,
+        "applicableHours": null,
+        "description": null,
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 1.6,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 2.1,
+            "unit": "kWh",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "time",
+            "pricePerUnit": 0.4,
+            "unit": "min",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": 600,
+            "condition": "Obowiązuje w godzinach 07:00 - 21:00",
+            "applicableHours": null
+          },
+          {
+            "type": "time",
+            "pricePerUnit": 0.4,
+            "unit": "min",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": 60,
+            "condition": null,
+            "applicableHours": null
+          }
+        ]
+      },
+      {
+        "id": "energia_plus",
+        "name": "Energia PLUS",
+        "subscriptionFee": 29.99,
+        "requiresMembership": true,
+        "applicableHours": null,
+        "description": null,
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 1.75,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 2.4,
+            "unit": "kWh",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "time",
+            "pricePerUnit": 0.4,
+            "unit": "min",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": 600,
+            "condition": "Obowiązuje w godzinach 07:00 - 21:00",
+            "applicableHours": null
+          },
+          {
+            "type": "time",
+            "pricePerUnit": 0.4,
+            "unit": "min",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": 60,
+            "condition": null,
+            "applicableHours": null
+          }
+        ]
+      },
+      {
+        "id": "energia_standard",
+        "name": "Energia STANDARD",
+        "subscriptionFee": 0,
+        "requiresMembership": false,
+        "applicableHours": null,
+        "description": null,
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 1.89,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 2.99,
+            "unit": "kWh",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "time",
+            "pricePerUnit": 0.4,
+            "unit": "min",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": 600,
+            "condition": "Obowiązuje w godzinach 07:00 - 21:00",
+            "applicableHours": null
+          },
+          {
+            "type": "time",
+            "pricePerUnit": 0.4,
+            "unit": "min",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": 60,
+            "condition": null,
+            "applicableHours": null
+          }
+        ]
+      }
+    ]
+  }
+]

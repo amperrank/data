@@ -1,0 +1,108 @@
+{
+  "operatorId": "DE*EBW",
+  "geohash": "0GM2OQTv",
+  "name": "Unknown",
+  "evses": [
+    {
+      "id": "DEEBWE9066001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEBWE9066002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Lünen",
+    "street": "Kupferstraße",
+    "houseNumber": null,
+    "postcode": "44532",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": false,
+    "regularHours": [
+      {
+        "weekday": 1,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 30
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 30
+        }
+      },
+      {
+        "weekday": 2,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 30
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 30
+        }
+      },
+      {
+        "weekday": 3,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 30
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 30
+        }
+      },
+      {
+        "weekday": 4,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 30
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 30
+        }
+      },
+      {
+        "weekday": 5,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 30
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 30
+        }
+      },
+      {
+        "weekday": 6,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 30
+        },
+        "periodEnd": {
+          "hour": 18,
+          "minute": 30
+        }
+      }
+    ]
+  }
+}

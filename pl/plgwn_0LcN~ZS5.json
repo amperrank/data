@@ -1,0 +1,121 @@
+{
+  "operatorId": "PL*GWN",
+  "geohash": "0LcN~ZS5",
+  "name": "Rybnik Plaza",
+  "evses": [
+    {
+      "id": "PLGWNE88266301",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 140.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLGWNE88266303",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 140.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Rybnik",
+    "street": "Raciborska",
+    "houseNumber": "16",
+    "postcode": "44-200",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": false,
+    "regularHours": [
+      {
+        "weekday": 1,
+        "periodBegin": {
+          "hour": 9,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 21,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 2,
+        "periodBegin": {
+          "hour": 9,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 21,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 3,
+        "periodBegin": {
+          "hour": 9,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 21,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 4,
+        "periodBegin": {
+          "hour": 9,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 21,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 5,
+        "periodBegin": {
+          "hour": 9,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 21,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 6,
+        "periodBegin": {
+          "hour": 9,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 21,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 7,
+        "periodBegin": {
+          "hour": 9,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 21,
+          "minute": 0
+        }
+      }
+    ]
+  }
+}

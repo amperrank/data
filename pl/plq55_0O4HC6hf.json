@@ -1,0 +1,44 @@
+{
+  "operatorId": "PL*Q55",
+  "geohash": "0O4HC6hf",
+  "name": "LIDL WARSZAWA HALNA",
+  "evses": [
+    {
+      "id": "PLQ55E01153201",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLQ55E01153202",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        },
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Warszawa",
+    "street": "Halna",
+    "houseNumber": "35",
+    "postcode": "04-961",
+    "province": null
+  },
+  "openingHours": null
+}

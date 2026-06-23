@@ -1,0 +1,41 @@
+{
+  "operatorId": "PL*8BA",
+  "geohash": "0LeQWCSl",
+  "name": "Stacja Ładowania Galeria Kwiatowa 3",
+  "evses": [
+    {
+      "id": "PL8BAE03416441",
+      "connectors": [],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PL8BAE03416442",
+      "connectors": [],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PL8BAEDC7E8CB7",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Tychy",
+    "street": "Oświęcimska",
+    "houseNumber": "15,",
+    "postcode": "43-100",
+    "province": null
+  },
+  "openingHours": null
+}

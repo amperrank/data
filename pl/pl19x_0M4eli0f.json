@@ -1,0 +1,165 @@
+{
+  "operatorId": "PL*19X",
+  "geohash": "0M4eli0f",
+  "name": "Polenergia - MOP Rogoziniec",
+  "evses": [
+    {
+      "id": "PL19XE1PEM0047",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PL19XE2PEM0047",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PL19XE1PEM0048",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PL19XE2PEM0048",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PL19XE1PEM0049",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 180.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PL19XE2PEM0049",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 180.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Rogoziniec",
+    "street": "Rogoziniec",
+    "houseNumber": "11B",
+    "postcode": "66-210",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": false,
+    "regularHours": [
+      {
+        "weekday": 1,
+        "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 2,
+        "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 3,
+        "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 4,
+        "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 5,
+        "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 6,
+        "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 7,
+        "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      }
+    ]
+  }
+}

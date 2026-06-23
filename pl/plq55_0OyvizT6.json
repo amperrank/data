@@ -1,0 +1,99 @@
+{
+  "operatorId": "PL*Q55",
+  "geohash": "0OyvizT6",
+  "name": "Lidl Warszawa",
+  "evses": [
+    {
+      "id": "PLQ55E01183901",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 24.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Warszawa",
+    "street": "Aleja Rzeczypospolitej",
+    "houseNumber": "29E",
+    "postcode": "02-972",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": false,
+    "regularHours": [
+      {
+        "weekday": 1,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 22,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 2,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 22,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 3,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 22,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 4,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 22,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 5,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 22,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 6,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 22,
+          "minute": 59
+        }
+      }
+    ]
+  }
+}

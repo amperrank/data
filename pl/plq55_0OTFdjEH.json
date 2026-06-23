@@ -1,0 +1,40 @@
+{
+  "operatorId": "PL*Q55",
+  "geohash": "0OTFdjEH",
+  "name": "Lidl Gniezno Gdańska",
+  "evses": [
+    {
+      "id": "PLQ55E01186401",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLQ55E01186402",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Gniezno",
+    "street": "Gdańska",
+    "houseNumber": "92",
+    "postcode": "60-200",
+    "province": null
+  },
+  "openingHours": null
+}

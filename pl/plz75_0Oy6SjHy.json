@@ -1,0 +1,40 @@
+{
+  "operatorId": "PL*Z75",
+  "geohash": "0Oy6SjHy",
+  "name": "Centrum Giełdowe ul. Książęca 4 , 00-498 Warszawa",
+  "evses": [
+    {
+      "id": "PLZ75E00000023",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 120.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLZ75E00000024",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Warszawa",
+    "street": "ul. Książęca",
+    "houseNumber": "4",
+    "postcode": "00-498",
+    "province": null
+  },
+  "openingHours": null
+}

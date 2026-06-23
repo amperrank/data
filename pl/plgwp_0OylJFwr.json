@@ -1,0 +1,99 @@
+{
+  "operatorId": "PL*GWP",
+  "geohash": "0OylJFwr",
+  "name": "PL3330021 STRABAG Pruszków Parzniewska 10 (P)",
+  "evses": [
+    {
+      "id": "PLGWPE51474301",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 125.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLGWPE51474303",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 125.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Pruszków",
+    "street": "Parzniewska",
+    "houseNumber": "10",
+    "postcode": "05-800",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": false,
+    "regularHours": [
+      {
+        "weekday": 1,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 17,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 2,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 17,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 3,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 17,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 4,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 17,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 5,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 13,
+          "minute": 0
+        }
+      }
+    ]
+  }
+}
