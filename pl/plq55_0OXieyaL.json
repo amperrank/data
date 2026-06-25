@@ -1,36 +1,36 @@
 {
-  "operatorId": "PL*PKN",
-  "geohash": "0LeV2KeN",
-  "name": "ORLEN Stacja Paliw Katowice SŁ8133",
+  "operatorId": "PL*Q55",
+  "geohash": "0OXieyaL",
+  "name": "Lidl Bydgoszcz",
   "evses": [
     {
-      "id": "PLPKNE81330101",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 100.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "PLPKNE81330102",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "PLPKNE81330103",
+      "id": "PLQ55E01115801",
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 44.0
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLQ55E01115803",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLQ55E01115802",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
         }
       ],
       "authMethods": null,
@@ -41,10 +41,10 @@
     "energy"
   ],
   "address": {
-    "city": "Katowice",
-    "street": "Roździeńskiego",
-    "houseNumber": "102",
-    "postcode": "40-226",
+    "city": "Bydgoszcz",
+    "street": "Łęczycka 4",
+    "houseNumber": "N/A",
+    "postcode": "85-739",
     "province": null
   },
   "openingHours": {
@@ -53,78 +53,67 @@
       {
         "weekday": 1,
         "periodBegin": {
-          "hour": 0,
+          "hour": 6,
           "minute": 0
         },
         "periodEnd": {
-          "hour": 23,
-          "minute": 59
+          "hour": 22,
+          "minute": 0
         }
       },
       {
         "weekday": 2,
         "periodBegin": {
-          "hour": 0,
+          "hour": 6,
           "minute": 0
         },
         "periodEnd": {
-          "hour": 23,
-          "minute": 59
+          "hour": 22,
+          "minute": 0
         }
       },
       {
         "weekday": 3,
         "periodBegin": {
-          "hour": 0,
+          "hour": 6,
           "minute": 0
         },
         "periodEnd": {
-          "hour": 23,
-          "minute": 59
+          "hour": 22,
+          "minute": 0
         }
       },
       {
         "weekday": 4,
         "periodBegin": {
-          "hour": 0,
+          "hour": 6,
           "minute": 0
         },
         "periodEnd": {
-          "hour": 23,
-          "minute": 59
+          "hour": 22,
+          "minute": 0
         }
       },
       {
         "weekday": 5,
         "periodBegin": {
-          "hour": 0,
+          "hour": 6,
           "minute": 0
         },
         "periodEnd": {
-          "hour": 23,
-          "minute": 59
+          "hour": 22,
+          "minute": 0
         }
       },
       {
         "weekday": 6,
         "periodBegin": {
-          "hour": 0,
+          "hour": 6,
           "minute": 0
         },
         "periodEnd": {
-          "hour": 23,
-          "minute": 59
-        }
-      },
-      {
-        "weekday": 7,
-        "periodBegin": {
-          "hour": 0,
+          "hour": 22,
           "minute": 0
-        },
-        "periodEnd": {
-          "hour": 23,
-          "minute": 59
         }
       }
     ]

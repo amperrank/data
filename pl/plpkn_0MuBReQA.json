@@ -1,25 +1,25 @@
 {
-  "operatorId": "PL*APH",
-  "geohash": "0kVpPi1t",
-  "name": "AUDI CENTRUM BIAŁYSTOK",
+  "operatorId": "PL*PKN",
+  "geohash": "0MuBReQA",
+  "name": "ORLEN Stacja Paliw Lubin SŁ8349",
   "evses": [
     {
-      "id": "PLAPHE10006391",
+      "id": "PLPKNE83490101",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 50.0
+          "maxPowerKw": 180.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "PLAPHE10006392",
+      "id": "PLPKNE83490102",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 180.0
         }
       ],
       "authMethods": null,
@@ -30,10 +30,10 @@
     "energy"
   ],
   "address": {
-    "city": "Choroszcz",
-    "street": "Kolonia Porosły 2c",
-    "houseNumber": "_",
-    "postcode": "16-070",
+    "city": "Lubin",
+    "street": "Hutnicza",
+    "houseNumber": "12",
+    "postcode": "59-300",
     "province": null
   },
   "openingHours": {

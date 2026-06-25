@@ -1,59 +1,39 @@
 {
-  "operatorId": "DE*EBW",
-  "geohash": "0G015n5y",
-  "name": "Unknown",
+  "operatorId": "PL*GWP",
+  "geohash": "0OGfQAvE",
+  "name": "Volvo Charging Ostrów Wielkopolski (P)",
   "evses": [
     {
-      "id": "DEEBWE9074621",
+      "id": "PLGWPE66356601",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 300.0
+          "maxPowerKw": 175.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEEBWE9074622",
+      "id": "PLGWPE66356602",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEBWE9074611",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEBWE9074612",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
+          "maxPowerKw": 175.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     }
   ],
-  "facilities": null,
+  "facilities": [
+    "energy"
+  ],
   "address": {
-    "city": "Bremen",
-    "street": "Stresemannstraße",
-    "houseNumber": null,
-    "postcode": "28207",
+    "city": "Ostrów Wielkopolski",
+    "street": "Kaliska",
+    "houseNumber": "109",
+    "postcode": "63-400",
     "province": null
   },
   "openingHours": {
@@ -62,67 +42,78 @@
       {
         "weekday": 1,
         "periodBegin": {
-          "hour": 7,
+          "hour": 0,
           "minute": 0
         },
         "periodEnd": {
-          "hour": 22,
-          "minute": 0
+          "hour": 23,
+          "minute": 59
         }
       },
       {
         "weekday": 2,
         "periodBegin": {
-          "hour": 7,
+          "hour": 0,
           "minute": 0
         },
         "periodEnd": {
-          "hour": 22,
-          "minute": 0
+          "hour": 23,
+          "minute": 59
         }
       },
       {
         "weekday": 3,
         "periodBegin": {
-          "hour": 7,
+          "hour": 0,
           "minute": 0
         },
         "periodEnd": {
-          "hour": 22,
-          "minute": 0
+          "hour": 23,
+          "minute": 59
         }
       },
       {
         "weekday": 4,
         "periodBegin": {
-          "hour": 7,
+          "hour": 0,
           "minute": 0
         },
         "periodEnd": {
-          "hour": 22,
-          "minute": 0
+          "hour": 23,
+          "minute": 59
         }
       },
       {
         "weekday": 5,
         "periodBegin": {
-          "hour": 7,
+          "hour": 0,
           "minute": 0
         },
         "periodEnd": {
-          "hour": 22,
-          "minute": 0
+          "hour": 23,
+          "minute": 59
         }
       },
       {
         "weekday": 6,
         "periodBegin": {
-          "hour": 7,
+          "hour": 0,
           "minute": 0
         },
         "periodEnd": {
-          "hour": 22,
+          "hour": 23,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 7,
+        "periodBegin": {
+          "hour": 0,
           "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 59
         }
       }
     ]

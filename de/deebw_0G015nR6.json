@@ -1,10 +1,10 @@
 {
-  "operatorId": "PL*ELP",
-  "geohash": "0LzLh0rY",
-  "name": "Galeria Trzy Korony, Nowy Sącz",
+  "operatorId": "DE*EBW",
+  "geohash": "0G015nR6",
+  "name": "Unknown",
   "evses": [
     {
-      "id": "PLELPE32087168",
+      "id": "DEEBWE9115841",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "PLELPE89422169",
+      "id": "DEEBWE9115842",
       "connectors": [
         {
           "type": "ccs",
@@ -26,7 +26,7 @@
       "paymentMethods": null
     },
     {
-      "id": "PLELPE86834170",
+      "id": "DEEBWE9116401",
       "connectors": [
         {
           "type": "ccs",
@@ -37,25 +37,67 @@
       "paymentMethods": null
     },
     {
-      "id": "PLELPE86845171",
+      "id": "DEEBWE9116402",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEBWE9074621",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEBWE9074622",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEBWE9074611",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEBWE9074612",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     }
   ],
-  "facilities": [
-    "energy"
-  ],
+  "facilities": null,
   "address": {
-    "city": "Nowy Sącz",
-    "street": "Galeria Trzy Korony. Nowy Sącz",
-    "houseNumber": "-",
-    "postcode": "33-300",
+    "city": "Bremen",
+    "street": "Stresemannstraße",
+    "houseNumber": null,
+    "postcode": "28207",
     "province": null
   },
   "openingHours": {
@@ -64,78 +106,67 @@
       {
         "weekday": 1,
         "periodBegin": {
-          "hour": 0,
+          "hour": 7,
           "minute": 0
         },
         "periodEnd": {
-          "hour": 23,
-          "minute": 59
+          "hour": 22,
+          "minute": 0
         }
       },
       {
         "weekday": 2,
         "periodBegin": {
-          "hour": 0,
+          "hour": 7,
           "minute": 0
         },
         "periodEnd": {
-          "hour": 23,
-          "minute": 59
+          "hour": 22,
+          "minute": 0
         }
       },
       {
         "weekday": 3,
         "periodBegin": {
-          "hour": 0,
+          "hour": 7,
           "minute": 0
         },
         "periodEnd": {
-          "hour": 23,
-          "minute": 59
+          "hour": 22,
+          "minute": 0
         }
       },
       {
         "weekday": 4,
         "periodBegin": {
-          "hour": 0,
+          "hour": 7,
           "minute": 0
         },
         "periodEnd": {
-          "hour": 23,
-          "minute": 59
+          "hour": 22,
+          "minute": 0
         }
       },
       {
         "weekday": 5,
         "periodBegin": {
-          "hour": 0,
+          "hour": 7,
           "minute": 0
         },
         "periodEnd": {
-          "hour": 23,
-          "minute": 59
+          "hour": 22,
+          "minute": 0
         }
       },
       {
         "weekday": 6,
         "periodBegin": {
-          "hour": 0,
+          "hour": 7,
           "minute": 0
         },
         "periodEnd": {
-          "hour": 23,
-          "minute": 59
-        }
-      },
-      {
-        "weekday": 7,
-        "periodBegin": {
-          "hour": 0,
+          "hour": 22,
           "minute": 0
-        },
-        "periodEnd": {
-          "hour": 23,
-          "minute": 59
         }
       }
     ]

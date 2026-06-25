@@ -1,10 +1,10 @@
 {
-  "operatorId": "PL*GJC",
-  "geohash": "0Oy4URUT",
-  "name": "ul. Siodlarska 12, Warszawa",
+  "operatorId": "PL*Q55",
+  "geohash": "0LeUU0Qs",
+  "name": "Lidl Katowice",
   "evses": [
     {
-      "id": "PLGJCEEVP01991",
+      "id": "PLQ55E01105701",
       "connectors": [
         {
           "type": "type2",
@@ -15,11 +15,22 @@
       "paymentMethods": null
     },
     {
-      "id": "PLGJCEEVP01992",
+      "id": "PLQ55E01105703",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLQ55E01105702",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
         }
       ],
       "authMethods": null,
@@ -30,10 +41,10 @@
     "energy"
   ],
   "address": {
-    "city": "Warszawa",
-    "street": "Siodlarska",
-    "houseNumber": "12",
-    "postcode": "01-461",
+    "city": "Katowice",
+    "street": "Kolejowa 53",
+    "houseNumber": "N/A",
+    "postcode": "40-523",
     "province": null
   },
   "openingHours": {
