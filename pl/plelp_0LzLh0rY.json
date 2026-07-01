@@ -1,25 +1,47 @@
 {
-  "operatorId": "PL*PKN",
-  "geohash": "0ORAoDxW",
-  "name": "ORLEN Stacja Paliw Poznań SŁ8145",
+  "operatorId": "PL*ELP",
+  "geohash": "0LzLh0rY",
+  "name": "Galeria Trzy Korony, Nowy Sącz",
   "evses": [
     {
-      "id": "PLPKNE81450101",
+      "id": "PLELPE32087168",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 50.0
+          "maxPowerKw": 200.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "PLPKNE81450102",
+      "id": "PLELPE89422169",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 44.0
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLELPE86834170",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLELPE86845171",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
         }
       ],
       "authMethods": null,
@@ -30,10 +52,10 @@
     "energy"
   ],
   "address": {
-    "city": "Poznań",
-    "street": "Ludwika Zamenhofa",
-    "houseNumber": "140",
-    "postcode": "61-131",
+    "city": "Nowy Sącz",
+    "street": "Galeria Trzy Korony. Nowy Sącz",
+    "houseNumber": "-",
+    "postcode": "33-300",
     "province": null
   },
   "openingHours": {

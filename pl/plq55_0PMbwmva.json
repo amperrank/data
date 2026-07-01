@@ -1,25 +1,14 @@
 {
-  "operatorId": "PL*NOX",
-  "geohash": "0Lb08jSk",
-  "name": "Wadowicka 167, 34-120 Inwałd",
+  "operatorId": "PL*Q55",
+  "geohash": "0PMbwmva",
+  "name": "Lidl Gdańsk - PL*Q55*E01118203",
   "evses": [
     {
-      "id": "PLNOXEA3FC3543",
+      "id": "PLQ55E01118203",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "PLNOXE394BDC30",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 60.0
         }
       ],
       "authMethods": null,
@@ -30,10 +19,10 @@
     "energy"
   ],
   "address": {
-    "city": "Inwałd",
-    "street": "Wadowicka",
-    "houseNumber": "167",
-    "postcode": "34-120",
+    "city": "Gdańsk",
+    "street": "aleja Grunwaldzka 161",
+    "houseNumber": "N/A",
+    "postcode": "80-258",
     "province": null
   },
   "openingHours": {

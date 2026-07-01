@@ -4,7 +4,7 @@
   "name": "Unknown",
   "evses": [
     {
-      "id": "DEEBWE9099681",
+      "id": "DEEBWE9099091",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEBWE9099682",
+      "id": "DEEBWE9099092",
       "connectors": [
         {
           "type": "ccs",
@@ -26,11 +26,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEBWE9099683",
+      "id": "DEEBWE9099611",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEBWE9099612",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,
@@ -59,7 +70,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEBWE9099691",
+      "id": "DEEBWE9099681",
       "connectors": [
         {
           "type": "ccs",
@@ -70,7 +81,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEBWE9099692",
+      "id": "DEEBWE9099682",
       "connectors": [
         {
           "type": "ccs",
@@ -81,22 +92,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEBWE9099091",
+      "id": "DEEBWE9099683",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEBWE9099092",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -136,7 +136,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEBWE9099611",
+      "id": "DEEBWE9099691",
       "connectors": [
         {
           "type": "ccs",
@@ -147,7 +147,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEBWE9099612",
+      "id": "DEEBWE9099692",
       "connectors": [
         {
           "type": "ccs",

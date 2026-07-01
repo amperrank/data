@@ -1,10 +1,32 @@
 {
-  "operatorId": "PL*ELP",
-  "geohash": "0L2BODRX",
-  "name": "Galeria Rondo, Bochnia",
+  "operatorId": "DE*EBW",
+  "geohash": "0MAxcCFx",
+  "name": "Unknown",
   "evses": [
     {
-      "id": "PLELPE24456162",
+      "id": "DEEBWE9137521",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEBWE9137522",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEBWE9137531",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "PLELPE54696163",
+      "id": "DEEBWE9137532",
       "connectors": [
         {
           "type": "ccs",
@@ -26,7 +48,29 @@
       "paymentMethods": null
     },
     {
-      "id": "PLELPE50186164",
+      "id": "DEEBWE9151401",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEBWE9151402",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEBWE9137511",
       "connectors": [
         {
           "type": "ccs",
@@ -37,25 +81,23 @@
       "paymentMethods": null
     },
     {
-      "id": "PLELPE48292165",
+      "id": "DEEBWE9137512",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 50.0
+          "maxPowerKw": 200.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     }
   ],
-  "facilities": [
-    "energy"
-  ],
+  "facilities": null,
   "address": {
-    "city": "Bochnia",
-    "street": "Partyzantów",
-    "houseNumber": "2",
-    "postcode": "32-700",
+    "city": "Jena",
+    "street": "Stadtrodaer Straße",
+    "houseNumber": null,
+    "postcode": "07747",
     "province": null
   },
   "openingHours": {
@@ -64,78 +106,67 @@
       {
         "weekday": 1,
         "periodBegin": {
-          "hour": 0,
+          "hour": 10,
           "minute": 0
         },
         "periodEnd": {
-          "hour": 23,
-          "minute": 59
+          "hour": 19,
+          "minute": 0
         }
       },
       {
         "weekday": 2,
         "periodBegin": {
-          "hour": 0,
+          "hour": 10,
           "minute": 0
         },
         "periodEnd": {
-          "hour": 23,
-          "minute": 59
+          "hour": 19,
+          "minute": 0
         }
       },
       {
         "weekday": 3,
         "periodBegin": {
-          "hour": 0,
+          "hour": 10,
           "minute": 0
         },
         "periodEnd": {
-          "hour": 23,
-          "minute": 59
+          "hour": 19,
+          "minute": 0
         }
       },
       {
         "weekday": 4,
         "periodBegin": {
-          "hour": 0,
+          "hour": 10,
           "minute": 0
         },
         "periodEnd": {
-          "hour": 23,
-          "minute": 59
+          "hour": 19,
+          "minute": 0
         }
       },
       {
         "weekday": 5,
         "periodBegin": {
-          "hour": 0,
+          "hour": 10,
           "minute": 0
         },
         "periodEnd": {
-          "hour": 23,
-          "minute": 59
+          "hour": 19,
+          "minute": 0
         }
       },
       {
         "weekday": 6,
         "periodBegin": {
-          "hour": 0,
+          "hour": 10,
           "minute": 0
         },
         "periodEnd": {
-          "hour": 23,
-          "minute": 59
-        }
-      },
-      {
-        "weekday": 7,
-        "periodBegin": {
-          "hour": 0,
+          "hour": 19,
           "minute": 0
-        },
-        "periodEnd": {
-          "hour": 23,
-          "minute": 59
         }
       }
     ]

@@ -4,6 +4,28 @@
   "name": "Unknown",
   "evses": [
     {
+      "id": "DEEBWE9041661",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEBWE9041662",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 75.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEEBWE9041652",
       "connectors": [
         {
@@ -35,34 +57,12 @@
       ],
       "authMethods": null,
       "paymentMethods": null
-    },
-    {
-      "id": "DEEBWE9041661",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEBWE9041662",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 75.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Dietingen",
-    "street": "BAB81, Autobahnraststätte Neckarburg Ost",
+    "street": "A81, Raststätte Neckarburg Ost",
     "houseNumber": null,
     "postcode": "78661",
     "province": null

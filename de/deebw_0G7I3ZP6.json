@@ -4,7 +4,18 @@
   "name": "Unknown",
   "evses": [
     {
-      "id": "DEEBWE9102301",
+      "id": "DEEBWE9102521",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEBWE9102522",
       "connectors": [
         {
           "type": "ccs",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEBWE9102521",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 200.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEBWE9102522",
+      "id": "DEEBWE9102301",
       "connectors": [
         {
           "type": "ccs",

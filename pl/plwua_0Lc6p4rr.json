@@ -1,25 +1,29 @@
 {
-  "operatorId": "PL*GWP",
-  "geohash": "0PMBkEg2",
-  "name": "Gmina Przywidz Fundacja Erste (P)",
+  "operatorId": "PL*WUA",
+  "geohash": "0Lc6p4rr",
+  "name": "Biedronka Tychy, Bielska",
   "evses": [
     {
-      "id": "PLGWPE17035701",
+      "id": "PLWUAEPDOT1229",
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 11.0
+          "maxPowerKw": 22.0
+        },
+        {
+          "type": "ccs",
+          "maxPowerKw": 120.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "PLGWPE17035702",
+      "id": "PLWUAEPDOT1230",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 11.0
+          "type": "ccs",
+          "maxPowerKw": 120.0
         }
       ],
       "authMethods": null,
@@ -30,10 +34,10 @@
     "energy"
   ],
   "address": {
-    "city": "Przywidz",
-    "street": "Szkolna",
-    "houseNumber": "1",
-    "postcode": "83-047",
+    "city": "Tychy",
+    "street": "Bielska",
+    "houseNumber": "132",
+    "postcode": "43-100",
     "province": null
   },
   "openingHours": {

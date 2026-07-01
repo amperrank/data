@@ -5,7 +5,12 @@
   "evses": [
     {
       "id": "PLC41EVT101031",
-      "connectors": [],
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
       "authMethods": null,
       "paymentMethods": null
     }

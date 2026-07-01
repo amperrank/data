@@ -1,36 +1,47 @@
 {
   "operatorId": "DE*EBW",
-  "geohash": "0JJTE1YW",
+  "geohash": "0GDSZHLy",
   "name": "Unknown",
   "evses": [
     {
-      "id": "DEEBWE9045002",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEBWE9045003",
+      "id": "DEEBWE9142081",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 50.0
+          "maxPowerKw": 200.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEEBWE9045001",
+      "id": "DEEBWE9142082",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 43.0
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEBWE9142071",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEBWE9142072",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
         }
       ],
       "authMethods": null,
@@ -39,10 +50,10 @@
   ],
   "facilities": null,
   "address": {
-    "city": "Eggenfelden",
-    "street": "Schellenbruckstr.",
+    "city": "Mönchengladbach",
+    "street": "Rheydter Straße",
     "houseNumber": null,
-    "postcode": "84307",
+    "postcode": "41065",
     "province": null
   },
   "openingHours": {

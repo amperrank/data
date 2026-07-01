@@ -1,10 +1,10 @@
 {
-  "operatorId": "PL*C41",
-  "geohash": "0PE8FoMa",
-  "name": "Łupawa 49, 76-242 Łupawa",
+  "operatorId": "PL*Q55",
+  "geohash": "0OdOjkP4",
+  "name": "Lidl Chełmża",
   "evses": [
     {
-      "id": "PLC41E54463FD3",
+      "id": "PLQ55E01141601",
       "connectors": [
         {
           "type": "type2",
@@ -15,11 +15,15 @@
       "paymentMethods": null
     },
     {
-      "id": "PLC41ED9123E2D",
+      "id": "PLQ55E01141602",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        },
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -30,10 +34,10 @@
     "energy"
   ],
   "address": {
-    "city": "Łupawa",
-    "street": "Łupawa",
-    "houseNumber": "49",
-    "postcode": "76-242",
+    "city": "Chełmża",
+    "street": "Toruńska",
+    "houseNumber": "7b",
+    "postcode": "87-140",
     "province": null
   },
   "openingHours": null
