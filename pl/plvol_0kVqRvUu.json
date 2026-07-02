@@ -1,25 +1,47 @@
 {
-  "operatorId": "PL*GWP",
-  "geohash": "0PFChaUZ",
-  "name": "Samolej ZTS Włynkówko (P)",
+  "operatorId": "PL*VOL",
+  "geohash": "0kVqRvUu",
+  "name": "Hotel 3 Trio - A",
   "evses": [
     {
-      "id": "PLGWPE15524903",
+      "id": "PLVOLEN42NH7H9",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 120.0
+          "type": "type2",
+          "maxPowerKw": 11.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "PLGWPE15524901",
+      "id": "PLVOLEINB4WB7N",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 120.0
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLVOLEK4JYUUW9",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLVOLE6UQ8XXCI",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
         }
       ],
       "authMethods": null,
@@ -30,10 +52,10 @@
     "energy"
   ],
   "address": {
-    "city": "Włynkówko",
-    "street": "Rzemieślnicza",
-    "houseNumber": "3",
-    "postcode": "76-200",
+    "city": "Białystok",
+    "street": "Hurtowa 3",
+    "houseNumber": "_",
+    "postcode": "15-399",
     "province": null
   },
   "openingHours": {

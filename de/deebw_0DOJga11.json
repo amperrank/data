@@ -4,28 +4,6 @@
   "name": "Unknown",
   "evses": [
     {
-      "id": "DEEBWE9041911",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEBWE9041912",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 75.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEEBWE9041901",
       "connectors": [
         {
@@ -57,12 +35,34 @@
       ],
       "authMethods": null,
       "paymentMethods": null
+    },
+    {
+      "id": "DEEBWE9041911",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEBWE9041912",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 75.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Appenweier",
-    "street": "A5, Raststätte Renchtal Ost",
+    "street": "BAB5, Autobahnraststätte Renchtal Ost",
     "houseNumber": null,
     "postcode": "77767",
     "province": null

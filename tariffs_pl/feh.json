@@ -7,7 +7,7 @@
     "currency": "PLN",
     "validFrom": null,
     "validTo": null,
-    "updatedAt": "2026-06-25T00:00:00.000",
+    "updatedAt": "2026-07-02T00:00:00.000",
     "description": null,
     "tiers": [
       {
@@ -16,7 +16,7 @@
         "subscriptionFee": null,
         "requiresMembership": false,
         "applicableHours": null,
-        "description": null,
+        "description": "Na wszystkich nowo uruchomionych stacjach szybkiego ładowania DC przez pierwsze 3 miesiące od ich uruchomienia obowiązuje specjalna stawka: 1,99 zł/kWh",
         "prices": [
           {
             "type": "energy",
@@ -31,6 +31,7 @@
           {
             "type": "energy",
             "pricePerUnit": 2.39,
+            "minPricePerUnit": 1.99,
             "unit": "kWh",
             "minPowerKw": 22.01,
             "maxPowerKw": null,

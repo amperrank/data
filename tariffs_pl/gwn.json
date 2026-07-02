@@ -7,16 +7,16 @@
     "currency": "PLN",
     "validFrom": null,
     "validTo": null,
-    "updatedAt": "2026-06-25T00:00:00.000",
+    "updatedAt": "2026-07-02T00:00:00.000",
     "description": null,
     "tiers": [
       {
         "id": "energia_max",
         "name": "Energia MAX",
-        "subscriptionFee": 79.99,
+        "subscriptionFee": 39.99,
         "requiresMembership": true,
         "applicableHours": null,
-        "description": null,
+        "description": "Opłata abonamentowa Energia MAX obniżona z 79,99 zł/mies. Ceny już od 1,50 zł/kWh",
         "prices": [
           {
             "type": "energy",
@@ -31,6 +31,7 @@
           {
             "type": "energy",
             "pricePerUnit": 2.1,
+            "minPricePerUnit": 1.5,
             "unit": "kWh",
             "minPowerKw": 22.01,
             "maxPowerKw": null,
@@ -39,7 +40,7 @@
             "applicableHours": null
           },
           {
-            "type": "time",
+            "type": "idle",
             "pricePerUnit": 0.4,
             "unit": "min",
             "minPowerKw": null,
@@ -49,7 +50,7 @@
             "applicableHours": null
           },
           {
-            "type": "time",
+            "type": "idle",
             "pricePerUnit": 0.4,
             "unit": "min",
             "minPowerKw": 22.01,
@@ -63,10 +64,10 @@
       {
         "id": "energia_plus",
         "name": "Energia PLUS",
-        "subscriptionFee": 29.99,
+        "subscriptionFee": 4.99,
         "requiresMembership": true,
         "applicableHours": null,
-        "description": null,
+        "description": "Opłata abonamentowa Energia PLUS obniżona z 29,99 zł/mies. Ceny już od 1,50 zł/kWh",
         "prices": [
           {
             "type": "energy",
@@ -81,6 +82,7 @@
           {
             "type": "energy",
             "pricePerUnit": 2.4,
+            "minPricePerUnit": 1.5,
             "unit": "kWh",
             "minPowerKw": 22.01,
             "maxPowerKw": null,
@@ -89,7 +91,7 @@
             "applicableHours": null
           },
           {
-            "type": "time",
+            "type": "idle",
             "pricePerUnit": 0.4,
             "unit": "min",
             "minPowerKw": null,
@@ -99,7 +101,7 @@
             "applicableHours": null
           },
           {
-            "type": "time",
+            "type": "idle",
             "pricePerUnit": 0.4,
             "unit": "min",
             "minPowerKw": 22.01,
@@ -116,7 +118,7 @@
         "subscriptionFee": 0,
         "requiresMembership": false,
         "applicableHours": null,
-        "description": null,
+        "description": "Ceny już od 1,50 zł/kWh",
         "prices": [
           {
             "type": "energy",
@@ -131,6 +133,7 @@
           {
             "type": "energy",
             "pricePerUnit": 2.99,
+            "minPricePerUnit": 1.5,
             "unit": "kWh",
             "minPowerKw": 22.01,
             "maxPowerKw": null,
@@ -139,7 +142,7 @@
             "applicableHours": null
           },
           {
-            "type": "time",
+            "type": "idle",
             "pricePerUnit": 0.4,
             "unit": "min",
             "minPowerKw": null,
@@ -149,7 +152,7 @@
             "applicableHours": null
           },
           {
-            "type": "time",
+            "type": "idle",
             "pricePerUnit": 0.4,
             "unit": "min",
             "minPowerKw": 22.01,

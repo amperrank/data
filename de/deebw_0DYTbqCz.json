@@ -4,7 +4,7 @@
   "name": "Unknown",
   "evses": [
     {
-      "id": "DEEBWE9166441",
+      "id": "DEEBWE9167561",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +15,40 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEBWE9166442",
+      "id": "DEEBWE9167562",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEBWE9167563",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEBWE9166511",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEBWE9166512",
       "connectors": [
         {
           "type": "ccs",
@@ -81,7 +114,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEBWE9166511",
+      "id": "DEEBWE9166441",
       "connectors": [
         {
           "type": "ccs",
@@ -92,7 +125,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEBWE9166512",
+      "id": "DEEBWE9166442",
       "connectors": [
         {
           "type": "ccs",
@@ -119,39 +152,6 @@
         {
           "type": "ccs",
           "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEBWE9167561",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEBWE9167562",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEBWE9167563",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

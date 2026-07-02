@@ -9,10 +9,6 @@
         {
           "type": "ccs",
           "maxPowerKw": 400.0
-        },
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
         }
       ],
       "authMethods": null,
@@ -21,10 +17,6 @@
     {
       "id": "PLGWNE42934102",
       "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        },
         {
           "type": "ccs",
           "maxPowerKw": 400.0
@@ -39,10 +31,6 @@
         {
           "type": "ccs",
           "maxPowerKw": 400.0
-        },
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
         }
       ],
       "authMethods": null,
@@ -51,10 +39,6 @@
     {
       "id": "PLGWNE82231202",
       "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        },
         {
           "type": "ccs",
           "maxPowerKw": 400.0
@@ -69,10 +53,6 @@
         {
           "type": "ccs",
           "maxPowerKw": 150.0
-        },
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,
@@ -81,10 +61,6 @@
     {
       "id": "PLGWNE29580801",
       "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        },
         {
           "type": "ccs",
           "maxPowerKw": 150.0
@@ -107,10 +83,6 @@
     {
       "id": "PLGWNE88419301",
       "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        },
         {
           "type": "ccs",
           "maxPowerKw": 150.0
@@ -201,6 +173,17 @@
       },
       {
         "weekday": 6,
+        "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 7,
         "periodBegin": {
           "hour": 0,
           "minute": 0
