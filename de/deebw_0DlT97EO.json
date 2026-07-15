@@ -4,36 +4,6 @@
   "name": "Unknown",
   "evses": [
     {
-      "id": "DEEBWE9058121",
-      "connectors": [
-        {
-          "type": "unknown",
-          "maxPowerKw": 3.7
-        },
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEBWE9058122",
-      "connectors": [
-        {
-          "type": "unknown",
-          "maxPowerKw": 3.7
-        },
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEEBWE9060081",
       "connectors": [
         {
@@ -62,12 +32,42 @@
       ],
       "authMethods": null,
       "paymentMethods": null
+    },
+    {
+      "id": "DEEBWE9058121",
+      "connectors": [
+        {
+          "type": "unknown",
+          "maxPowerKw": 3.7
+        },
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEBWE9058122",
+      "connectors": [
+        {
+          "type": "unknown",
+          "maxPowerKw": 3.7
+        },
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Bruchsal",
-    "street": "Sötenerstr.",
+    "street": "Söternstraße",
     "houseNumber": null,
     "postcode": "76646",
     "province": null
@@ -78,7 +78,29 @@
       {
         "weekday": 1,
         "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 7,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 1,
+        "periodBegin": {
           "hour": 17,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 2,
+        "periodBegin": {
+          "hour": 0,
           "minute": 0
         },
         "periodEnd": {
@@ -93,6 +115,17 @@
           "minute": 0
         },
         "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 3,
+        "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
           "hour": 7,
           "minute": 0
         }
@@ -101,6 +134,17 @@
         "weekday": 3,
         "periodBegin": {
           "hour": 17,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 4,
+        "periodBegin": {
+          "hour": 0,
           "minute": 0
         },
         "periodEnd": {
@@ -115,6 +159,17 @@
           "minute": 0
         },
         "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 5,
+        "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
           "hour": 7,
           "minute": 0
         }
@@ -126,8 +181,8 @@
           "minute": 0
         },
         "periodEnd": {
-          "hour": 7,
-          "minute": 0
+          "hour": 23,
+          "minute": 59
         }
       }
     ]
