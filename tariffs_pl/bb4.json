@@ -7,7 +7,7 @@
     "currency": "PLN",
     "validFrom": null,
     "validTo": null,
-    "updatedAt": "2026-07-15T00:00:00.000",
+    "updatedAt": "2026-07-21T00:00:00.000",
     "description": "Prices vary by station and hour based on real-time energy market rates. Cheapest around solar midday (11–15h), most expensive during evening peaks (19–21h). Check the eTauron app or zaplac.etauron.tauron.pl for exact prices before charging.",
     "tiers": [
       {
@@ -22,7 +22,7 @@
             "type": "energy",
             "pricePerUnit": 2.15,
             "minPricePerUnit": 1.18,
-            "maxPricePerUnit": 2.57,
+            "maxPricePerUnit": 2.32,
             "unit": "kWh",
             "condition": "AC",
             "minPowerKw": null,
@@ -42,9 +42,9 @@
         "prices": [
           {
             "type": "energy",
-            "pricePerUnit": 2.39,
-            "minPricePerUnit": 1.89,
-            "maxPricePerUnit": 2.84,
+            "pricePerUnit": 2.23,
+            "minPricePerUnit": 1.71,
+            "maxPricePerUnit": 2.72,
             "unit": "kWh",
             "condition": "DC",
             "minPowerKw": null,

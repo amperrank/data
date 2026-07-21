@@ -4,22 +4,44 @@
   "name": "Unknown",
   "evses": [
     {
-      "id": "DEEBWE9142472",
+      "id": "DEEBWE9099631",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 150.0
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEEBWE9142471",
+      "id": "DEEBWE9099633",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 150.0
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEBWE9099632",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEBWE9099634",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -92,44 +114,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEBWE9099631",
+      "id": "DEEBWE9142472",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 300.0
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEEBWE9099633",
+      "id": "DEEBWE9142471",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEBWE9099632",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEBWE9099634",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,

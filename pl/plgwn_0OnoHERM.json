@@ -31,10 +31,6 @@
         {
           "type": "ccs",
           "maxPowerKw": 400.0
-        },
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
         }
       ],
       "authMethods": null,
@@ -43,10 +39,6 @@
     {
       "id": "PLGWNE70461301",
       "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        },
         {
           "type": "ccs",
           "maxPowerKw": 400.0
@@ -148,6 +140,17 @@
       },
       {
         "weekday": 6,
+        "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 7,
         "periodBegin": {
           "hour": 0,
           "minute": 0

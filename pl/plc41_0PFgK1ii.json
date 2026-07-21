@@ -1,0 +1,55 @@
+{
+  "operatorId": "PL*C41",
+  "geohash": "0PFgK1ii",
+  "name": "Witosa 2A, 76-231 Damnica",
+  "evses": [
+    {
+      "id": "PLC41EB68197D9",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLC41E91A950B6",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Damnica",
+    "street": "Witosa",
+    "houseNumber": "2A",
+    "postcode": "76-231",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": false,
+    "regularHours": [
+      {
+        "weekday": 4,
+        "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      }
+    ]
+  }
+}

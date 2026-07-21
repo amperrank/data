@@ -4,6 +4,28 @@
   "name": "Unknown",
   "evses": [
     {
+      "id": "DEEBWE9037381",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEBWE9037382",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEEBWE9037391",
       "connectors": [
         {
@@ -35,34 +57,12 @@
       ],
       "authMethods": null,
       "paymentMethods": null
-    },
-    {
-      "id": "DEEBWE9037381",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEBWE9037382",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Bochum",
-    "street": "Vietingstraße",
+    "street": "Vietingstr.",
     "houseNumber": null,
     "postcode": "44866",
     "province": null
