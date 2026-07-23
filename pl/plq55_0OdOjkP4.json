@@ -1,0 +1,44 @@
+{
+  "operatorId": "PL*Q55",
+  "geohash": "0OdOjkP4",
+  "name": "Lidl Chełmża",
+  "evses": [
+    {
+      "id": "PLQ55E01141601",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLQ55E01141602",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        },
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Chełmża",
+    "street": "Toruńska",
+    "houseNumber": "7b",
+    "postcode": "87-140",
+    "province": null
+  },
+  "openingHours": null
+}

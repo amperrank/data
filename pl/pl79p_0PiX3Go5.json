@@ -1,0 +1,90 @@
+{
+  "operatorId": "PL*79P",
+  "geohash": "0PiX3Go5",
+  "name": "Stacja CNG Olsztyn",
+  "evses": [
+    {
+      "id": "PL79PE00000085",
+      "connectors": [],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PL79PE00000086",
+      "connectors": [],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "gas",
+    "cng"
+  ],
+  "address": {
+    "city": "Olsztyn",
+    "street": "Lubelska",
+    "houseNumber": "40A",
+    "postcode": "10-410",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": false,
+    "regularHours": [
+      {
+        "weekday": 1,
+        "periodBegin": {
+          "hour": 8,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 16,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 2,
+        "periodBegin": {
+          "hour": 8,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 16,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 3,
+        "periodBegin": {
+          "hour": 8,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 16,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 4,
+        "periodBegin": {
+          "hour": 8,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 16,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 5,
+        "periodBegin": {
+          "hour": 8,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 16,
+          "minute": 0
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "operatorId": {
+      "countryCode": "PL",
+      "cpo": "BB4"
+    },
+    "currency": "PLN",
+    "validFrom": null,
+    "validTo": null,
+    "updatedAt": "2026-07-23T00:00:00.000",
+    "description": "Prices vary by station and hour based on real-time energy market rates. Cheapest around solar midday (11–15h), most expensive during evening peaks (19–21h). Check the eTauron app or zaplac.etauron.tauron.pl for exact prices before charging.",
+    "tiers": [
+      {
+        "id": "standard",
+        "role": "standard",
+        "name": "Standard",
+        "subscriptionFee": null,
+        "requiresMembership": false,
+        "applicableHours": null,
+        "description": null,
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 2.15,
+            "minPricePerUnit": 1.18,
+            "maxPricePerUnit": 2.64,
+            "unit": "kWh",
+            "condition": "AC",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": null,
+            "applicableHours": null
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 2.31,
+            "minPricePerUnit": 1.87,
+            "maxPricePerUnit": 2.88,
+            "unit": "kWh",
+            "condition": "DC",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "applicableHours": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,90 @@
+{
+  "operatorId": "PL*79P",
+  "geohash": "0M2ii8xd",
+  "name": "Stacja CNG Gorzów Wielkopolski",
+  "evses": [
+    {
+      "id": "PL79PE00000106",
+      "connectors": [],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PL79PE00000107",
+      "connectors": [],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "gas",
+    "cng"
+  ],
+  "address": {
+    "city": "Gorzów Wielkopolski",
+    "street": "Podmiejska",
+    "houseNumber": "20",
+    "postcode": "66-400",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": false,
+    "regularHours": [
+      {
+        "weekday": 1,
+        "periodBegin": {
+          "hour": 8,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 16,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 2,
+        "periodBegin": {
+          "hour": 8,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 16,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 3,
+        "periodBegin": {
+          "hour": 8,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 16,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 4,
+        "periodBegin": {
+          "hour": 8,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 16,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 5,
+        "periodBegin": {
+          "hour": 8,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 16,
+          "minute": 0
+        }
+      }
+    ]
+  }
+}

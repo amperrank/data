@@ -1,0 +1,40 @@
+{
+  "operatorId": "PL*Q55",
+  "geohash": "0O4FCBGx",
+  "name": "Lidl Warszawa Vogla",
+  "evses": [
+    {
+      "id": "PLQ55E01191802",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLQ55E01191801",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Warszawa",
+    "street": "Zygmunta Vogla",
+    "houseNumber": "45",
+    "postcode": "02-990",
+    "province": null
+  },
+  "openingHours": null
+}

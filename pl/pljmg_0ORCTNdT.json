@@ -1,0 +1,40 @@
+{
+  "operatorId": "PL*JMG",
+  "geohash": "0ORCTNdT",
+  "name": "Krańcowa 42, 61-037 Poznań",
+  "evses": [
+    {
+      "id": "PLJMGE481B1D80",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLJMGE870C9EDC",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Poznań",
+    "street": "Krańcowa",
+    "houseNumber": "42",
+    "postcode": "61-037",
+    "province": null
+  },
+  "openingHours": null
+}

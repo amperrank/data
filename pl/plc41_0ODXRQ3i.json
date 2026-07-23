@@ -1,0 +1,55 @@
+{
+  "operatorId": "PL*C41",
+  "geohash": "0ODXRQ3i",
+  "name": "Działosza 88, 56-500 Działosza",
+  "evses": [
+    {
+      "id": "PLC41E42E899C8",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLC41E8EEC74EA",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Działosza",
+    "street": "Działosza",
+    "houseNumber": "88",
+    "postcode": "56-500",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": false,
+    "regularHours": [
+      {
+        "weekday": 5,
+        "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      }
+    ]
+  }
+}

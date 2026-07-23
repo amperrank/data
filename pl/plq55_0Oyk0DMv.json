@@ -1,0 +1,44 @@
+{
+  "operatorId": "PL*Q55",
+  "geohash": "0Oyk0DMv",
+  "name": "LIDL PRUSZKÓW PRUSA 121",
+  "evses": [
+    {
+      "id": "PLQ55E01105801",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLQ55E01105802",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        },
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Pruszków",
+    "street": "Bolesława Prusa",
+    "houseNumber": "121",
+    "postcode": "05-800",
+    "province": null
+  },
+  "openingHours": null
+}

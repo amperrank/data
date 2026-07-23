@@ -1,0 +1,171 @@
+[
+  {
+    "operatorId": {
+      "countryCode": "PL",
+      "cpo": "GWN"
+    },
+    "currency": "PLN",
+    "validFrom": null,
+    "validTo": null,
+    "updatedAt": "2026-07-23T00:00:00.000",
+    "description": null,
+    "tiers": [
+      {
+        "id": "energia_max",
+        "name": "Energia MAX",
+        "role": "secondary",
+        "subscriptionFee": 39.99,
+        "requiresMembership": true,
+        "applicableHours": null,
+        "description": "Opłata abonamentowa Energia MAX obniżona z 79,99 zł/mies. Ceny już od 1,50 zł/kWh",
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 1.6,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 2.1,
+            "minPricePerUnit": 1.5,
+            "unit": "kWh",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.4,
+            "unit": "min",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": 600,
+            "condition": "Obowiązuje w godzinach 07:00 - 21:00",
+            "applicableHours": null
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.4,
+            "unit": "min",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": 60,
+            "condition": null,
+            "applicableHours": null
+          }
+        ]
+      },
+      {
+        "id": "energia_plus",
+        "name": "Energia PLUS",
+        "role": "secondary",
+        "subscriptionFee": 4.99,
+        "requiresMembership": true,
+        "applicableHours": null,
+        "description": "Opłata abonamentowa Energia PLUS obniżona z 29,99 zł/mies. Ceny już od 1,50 zł/kWh",
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 1.75,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 2.4,
+            "minPricePerUnit": 1.5,
+            "unit": "kWh",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.4,
+            "unit": "min",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": 600,
+            "condition": "Obowiązuje w godzinach 07:00 - 21:00",
+            "applicableHours": null
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.4,
+            "unit": "min",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": 60,
+            "condition": null,
+            "applicableHours": null
+          }
+        ]
+      },
+      {
+        "id": "energia_standard",
+        "name": "Energia STANDARD",
+        "role": "standard",
+        "subscriptionFee": 0,
+        "requiresMembership": false,
+        "applicableHours": null,
+        "description": "Ceny już od 1,50 zł/kWh",
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 1.89,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 2.99,
+            "minPricePerUnit": 1.5,
+            "unit": "kWh",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.4,
+            "unit": "min",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": 600,
+            "condition": "Obowiązuje w godzinach 07:00 - 21:00",
+            "applicableHours": null
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.4,
+            "unit": "min",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": 60,
+            "condition": null,
+            "applicableHours": null
+          }
+        ]
+      }
+    ]
+  }
+]

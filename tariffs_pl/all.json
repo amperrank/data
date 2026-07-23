@@ -1,0 +1,38 @@
+[
+  {
+    "operatorId": {
+      "countryCode": "PL",
+      "cpo": "ALL"
+    },
+    "currency": "PLN",
+    "validFrom": null,
+    "validTo": null,
+    "updatedAt": "2026-07-23T20:44:06+02:00",
+    "description": "Prices derived from 30 DC charging points in EIPA registry (min–median–max). Allego operates DC fast-charging stations in Poland. Actual prices vary by station.",
+    "tiers": [
+      {
+        "id": "standard",
+        "role": "standard",
+        "name": "Standard",
+        "subscriptionFee": null,
+        "requiresMembership": false,
+        "applicableHours": null,
+        "description": null,
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 3.39,
+            "minPricePerUnit": 3.39,
+            "maxPricePerUnit": 3.39,
+            "unit": "kWh",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          }
+        ]
+      }
+    ]
+  }
+]

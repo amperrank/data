@@ -1,0 +1,106 @@
+[
+  {
+    "operatorId": {
+      "countryCode": "PL",
+      "cpo": "NOX"
+    },
+    "currency": "PLN",
+    "validFrom": null,
+    "validTo": null,
+    "updatedAt": "2026-07-23T00:00:00.000",
+    "description": null,
+    "tiers": [
+      {
+        "id": "standard",
+        "role": "standard",
+        "name": "Standard",
+        "subscriptionFee": null,
+        "requiresMembership": false,
+        "applicableHours": null,
+        "description": null,
+        "prices": [
+          {
+            "type": "session",
+            "pricePerUnit": 2.5,
+            "unit": "session",
+            "minPowerKw": null,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 2.19,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 2.99,
+            "unit": "kWh",
+            "minPowerKw": 22.01,
+            "maxPowerKw": 30,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 3.09,
+            "unit": "kWh",
+            "minPowerKw": 30.01,
+            "maxPowerKw": 50,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 3.19,
+            "unit": "kWh",
+            "minPowerKw": 50.01,
+            "maxPowerKw": 60,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 3.3,
+            "unit": "kWh",
+            "minPowerKw": 60.01,
+            "maxPowerKw": 90,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 3.39,
+            "unit": "kWh",
+            "minPowerKw": 90.01,
+            "maxPowerKw": 120,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 3.49,
+            "unit": "kWh",
+            "minPowerKw": 120.01,
+            "maxPowerKw": 180,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          }
+        ]
+      }
+    ]
+  }
+]

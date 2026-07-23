@@ -1,0 +1,50 @@
+[
+  {
+    "operatorId": {
+      "countryCode": "PL",
+      "cpo": "1SN"
+    },
+    "currency": "PLN",
+    "validFrom": null,
+    "validTo": null,
+    "updatedAt": "2026-07-23T20:44:06+02:00",
+    "description": "Prices derived from 120 AC and 42 DC charging points in EIPA registry (min–median–max). Actual prices vary by station.",
+    "tiers": [
+      {
+        "id": "standard",
+        "role": "standard",
+        "name": "Standard",
+        "subscriptionFee": null,
+        "requiresMembership": false,
+        "applicableHours": null,
+        "description": null,
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 1.8,
+            "minPricePerUnit": 1.8,
+            "maxPricePerUnit": 1.8,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 2.69,
+            "minPricePerUnit": 1.8,
+            "maxPricePerUnit": 2.69,
+            "unit": "kWh",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          }
+        ]
+      }
+    ]
+  }
+]

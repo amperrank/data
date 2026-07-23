@@ -1,0 +1,38 @@
+[
+  {
+    "operatorId": {
+      "countryCode": "PL",
+      "cpo": "BYN"
+    },
+    "currency": "PLN",
+    "validFrom": null,
+    "validTo": null,
+    "updatedAt": "2026-07-23T20:44:06+02:00",
+    "description": "Prices derived from 39 AC and 0 DC charging points in EIPA registry (min–median–max). Leroy Merlin operates AC charging stations in store car parks across Poland. No public tariff page.",
+    "tiers": [
+      {
+        "id": "standard",
+        "role": "standard",
+        "name": "Standard",
+        "subscriptionFee": null,
+        "requiresMembership": false,
+        "applicableHours": null,
+        "description": null,
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 2,
+            "minPricePerUnit": 2,
+            "maxPricePerUnit": 2,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          }
+        ]
+      }
+    ]
+  }
+]

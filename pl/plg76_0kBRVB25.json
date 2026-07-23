@@ -1,0 +1,40 @@
+{
+  "operatorId": "PL*G76",
+  "geohash": "0kBRVB25",
+  "name": "Stacja ładowania 2x22 KUL - Konstantynów 1, Lublin",
+  "evses": [
+    {
+      "id": "PLG76E00000002",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLG76E00000001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Lublin",
+    "street": "Konstantynów",
+    "houseNumber": "1",
+    "postcode": "20-400",
+    "province": null
+  },
+  "openingHours": null
+}

@@ -1,0 +1,90 @@
+{
+  "operatorId": "PL*79P",
+  "geohash": "0LfJ6NWU",
+  "name": "Stacja CNG Dabrowa Górnicza",
+  "evses": [
+    {
+      "id": "PL79PE00000079",
+      "connectors": [],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PL79PE00000080",
+      "connectors": [],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "gas",
+    "cng"
+  ],
+  "address": {
+    "city": "Dąbrowa Górnicza",
+    "street": "aleja Józefa Piłsudskiego",
+    "houseNumber": "58 D",
+    "postcode": "41-300",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": false,
+    "regularHours": [
+      {
+        "weekday": 1,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 15,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 2,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 15,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 3,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 15,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 4,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 15,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 5,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 15,
+          "minute": 0
+        }
+      }
+    ]
+  }
+}

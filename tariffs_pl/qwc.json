@@ -1,0 +1,239 @@
+[
+  {
+    "operatorId": {
+      "countryCode": "PL",
+      "cpo": "QWC"
+    },
+    "currency": "PLN",
+    "validFrom": null,
+    "validTo": null,
+    "updatedAt": "2026-07-23T00:00:00.000",
+    "description": "Ceny brutto (z VAT 23%). Opłata infrastrukturalna za czas postoju — taka sama dla ładowania AC i DC.",
+    "tiers": [
+      {
+        "id": "day",
+        "name": "Taryfa dzienna",
+        "role": "standard",
+        "subscriptionFee": null,
+        "requiresMembership": false,
+        "applicableHours": {
+          "isOpen247": false,
+          "regularHours": [
+            {
+              "weekday": 1,
+              "periodBegin": {
+                "hour": 8,
+                "minute": 0
+              },
+              "periodEnd": {
+                "hour": 20,
+                "minute": 0
+              }
+            },
+            {
+              "weekday": 2,
+              "periodBegin": {
+                "hour": 8,
+                "minute": 0
+              },
+              "periodEnd": {
+                "hour": 20,
+                "minute": 0
+              }
+            },
+            {
+              "weekday": 3,
+              "periodBegin": {
+                "hour": 8,
+                "minute": 0
+              },
+              "periodEnd": {
+                "hour": 20,
+                "minute": 0
+              }
+            },
+            {
+              "weekday": 4,
+              "periodBegin": {
+                "hour": 8,
+                "minute": 0
+              },
+              "periodEnd": {
+                "hour": 20,
+                "minute": 0
+              }
+            },
+            {
+              "weekday": 5,
+              "periodBegin": {
+                "hour": 8,
+                "minute": 0
+              },
+              "periodEnd": {
+                "hour": 20,
+                "minute": 0
+              }
+            },
+            {
+              "weekday": 6,
+              "periodBegin": {
+                "hour": 8,
+                "minute": 0
+              },
+              "periodEnd": {
+                "hour": 20,
+                "minute": 0
+              }
+            },
+            {
+              "weekday": 7,
+              "periodBegin": {
+                "hour": 8,
+                "minute": 0
+              },
+              "periodEnd": {
+                "hour": 20,
+                "minute": 0
+              }
+            }
+          ]
+        },
+        "description": null,
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 1.75,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "time",
+            "pricePerUnit": 0.09,
+            "unit": "min",
+            "minPowerKw": null,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          }
+        ]
+      },
+      {
+        "id": "night",
+        "name": "Taryfa nocna",
+        "role": "secondary",
+        "subscriptionFee": null,
+        "requiresMembership": false,
+        "applicableHours": {
+          "isOpen247": false,
+          "regularHours": [
+            {
+              "weekday": 1,
+              "periodBegin": {
+                "hour": 20,
+                "minute": 0
+              },
+              "periodEnd": {
+                "hour": 8,
+                "minute": 0
+              }
+            },
+            {
+              "weekday": 2,
+              "periodBegin": {
+                "hour": 20,
+                "minute": 0
+              },
+              "periodEnd": {
+                "hour": 8,
+                "minute": 0
+              }
+            },
+            {
+              "weekday": 3,
+              "periodBegin": {
+                "hour": 20,
+                "minute": 0
+              },
+              "periodEnd": {
+                "hour": 8,
+                "minute": 0
+              }
+            },
+            {
+              "weekday": 4,
+              "periodBegin": {
+                "hour": 20,
+                "minute": 0
+              },
+              "periodEnd": {
+                "hour": 8,
+                "minute": 0
+              }
+            },
+            {
+              "weekday": 5,
+              "periodBegin": {
+                "hour": 20,
+                "minute": 0
+              },
+              "periodEnd": {
+                "hour": 8,
+                "minute": 0
+              }
+            },
+            {
+              "weekday": 6,
+              "periodBegin": {
+                "hour": 20,
+                "minute": 0
+              },
+              "periodEnd": {
+                "hour": 8,
+                "minute": 0
+              }
+            },
+            {
+              "weekday": 7,
+              "periodBegin": {
+                "hour": 20,
+                "minute": 0
+              },
+              "periodEnd": {
+                "hour": 8,
+                "minute": 0
+              }
+            }
+          ]
+        },
+        "description": null,
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 1.75,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "time",
+            "pricePerUnit": 0.09,
+            "unit": "min",
+            "minPowerKw": null,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": "maks. 16,20 zł (180 min); po 3 godz. bezpłatna",
+            "applicableHours": null
+          }
+        ]
+      }
+    ]
+  }
+]

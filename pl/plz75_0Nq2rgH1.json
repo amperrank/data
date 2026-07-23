@@ -1,0 +1,51 @@
+{
+  "operatorId": "PL*Z75",
+  "geohash": "0Nq2rgH1",
+  "name": "Miasto Szczecinek",
+  "evses": [
+    {
+      "id": "PLZ75E00001090",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 80.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLZ75E00001091",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 80.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLZ75E00001092",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Szczecinek",
+    "street": "3 Maja",
+    "houseNumber": "38",
+    "postcode": "78-400",
+    "province": null
+  },
+  "openingHours": null
+}

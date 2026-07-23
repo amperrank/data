@@ -1,0 +1,44 @@
+{
+  "operatorId": "PL*WUA",
+  "geohash": "0Ldq_RL1",
+  "name": "Biedronka Chorzów, św. Jana",
+  "evses": [
+    {
+      "id": "PLWUAEPDOT1233",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 120.0
+        },
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLWUAEPDOT1234",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 120.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Chorzów",
+    "street": "plac świętego Jana",
+    "houseNumber": "24",
+    "postcode": "41-503",
+    "province": null
+  },
+  "openingHours": null
+}

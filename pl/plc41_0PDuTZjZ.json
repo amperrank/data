@@ -1,0 +1,55 @@
+{
+  "operatorId": "PL*C41",
+  "geohash": "0PDuTZjZ",
+  "name": "Długa 64, 83-260 Kaliska",
+  "evses": [
+    {
+      "id": "PLC41EFF5EF581",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLC41E8C7585FE",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Kaliska",
+    "street": "Długa",
+    "houseNumber": "64",
+    "postcode": "83-260",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": false,
+    "regularHours": [
+      {
+        "weekday": 5,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 11,
+          "minute": 59
+        }
+      }
+    ]
+  }
+}

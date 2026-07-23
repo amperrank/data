@@ -1,0 +1,110 @@
+{
+  "operatorId": "PL*GWN",
+  "geohash": "0OXgvOGn",
+  "name": "Makro Bydgoszcz",
+  "evses": [
+    {
+      "id": "PLGWNE69038203",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 140.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLGWNE69038201",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 140.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Bydgoszcz",
+    "street": "al. Jana Pawła II",
+    "houseNumber": "123",
+    "postcode": "85-140",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": false,
+    "regularHours": [
+      {
+        "weekday": 1,
+        "periodBegin": {
+          "hour": 4,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 21,
+          "minute": 45
+        }
+      },
+      {
+        "weekday": 2,
+        "periodBegin": {
+          "hour": 4,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 21,
+          "minute": 45
+        }
+      },
+      {
+        "weekday": 3,
+        "periodBegin": {
+          "hour": 4,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 21,
+          "minute": 45
+        }
+      },
+      {
+        "weekday": 4,
+        "periodBegin": {
+          "hour": 4,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 21,
+          "minute": 45
+        }
+      },
+      {
+        "weekday": 5,
+        "periodBegin": {
+          "hour": 4,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 21,
+          "minute": 45
+        }
+      },
+      {
+        "weekday": 6,
+        "periodBegin": {
+          "hour": 4,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 21,
+          "minute": 45
+        }
+      }
+    ]
+  }
+}

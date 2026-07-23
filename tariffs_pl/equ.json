@@ -1,0 +1,50 @@
+[
+  {
+    "operatorId": {
+      "countryCode": "PL",
+      "cpo": "EQU"
+    },
+    "currency": "PLN",
+    "validFrom": null,
+    "validTo": null,
+    "updatedAt": "2026-07-23T20:44:06+02:00",
+    "description": "Prices derived from 23 AC and 34 DC charging points in EIPA registry (min–median–max). EQUAY operates AC and DC charging stations across Poland. No public tariff page.",
+    "tiers": [
+      {
+        "id": "standard",
+        "role": "standard",
+        "name": "Standard",
+        "subscriptionFee": null,
+        "requiresMembership": false,
+        "applicableHours": null,
+        "description": null,
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 1.73,
+            "minPricePerUnit": 1.61,
+            "maxPricePerUnit": 1.99,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 1.99,
+            "minPricePerUnit": 1.98,
+            "maxPricePerUnit": 3.15,
+            "unit": "kWh",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          }
+        ]
+      }
+    ]
+  }
+]

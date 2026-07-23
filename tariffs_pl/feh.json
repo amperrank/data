@@ -1,0 +1,47 @@
+[
+  {
+    "operatorId": {
+      "countryCode": "PL",
+      "cpo": "FEH"
+    },
+    "currency": "PLN",
+    "validFrom": null,
+    "validTo": null,
+    "updatedAt": "2026-07-23T00:00:00.000",
+    "description": null,
+    "tiers": [
+      {
+        "id": "standard",
+        "role": "standard",
+        "name": "Standard",
+        "subscriptionFee": null,
+        "requiresMembership": false,
+        "applicableHours": null,
+        "description": "Na wszystkich nowo uruchomionych stacjach szybkiego ładowania DC przez pierwsze 3 miesiące od ich uruchomienia obowiązuje specjalna stawka: 1,99 zł/kWh",
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 1.79,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 2.39,
+            "minPricePerUnit": 1.99,
+            "unit": "kWh",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          }
+        ]
+      }
+    ]
+  }
+]

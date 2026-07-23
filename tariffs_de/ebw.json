@@ -1,0 +1,201 @@
+[
+  {
+    "operatorId": {
+      "countryCode": "DE",
+      "cpo": "EBW"
+    },
+    "currency": "EUR",
+    "validFrom": null,
+    "validTo": null,
+    "updatedAt": "2026-07-23T00:00:00.000",
+    "description": null,
+    "tiers": [
+      {
+        "id": "s",
+        "name": "Ladetarif S",
+        "role": "standard",
+        "subscriptionFee": 0,
+        "requiresMembership": false,
+        "applicableHours": null,
+        "description": null,
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 0.51,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.1,
+            "unit": "min",
+            "minPowerKw": null,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": 240,
+            "condition": "max 12.00 EUR per session",
+            "applicableHours": null
+          }
+        ]
+      },
+      {
+        "id": "m",
+        "name": "Ladetarif M",
+        "role": "secondary",
+        "subscriptionFee": 5.99,
+        "requiresMembership": true,
+        "applicableHours": null,
+        "description": null,
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 0.41,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.1,
+            "unit": "min",
+            "minPowerKw": null,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": 240,
+            "condition": "max 12.00 EUR per session",
+            "applicableHours": null
+          }
+        ]
+      },
+      {
+        "id": "l",
+        "name": "Ladetarif L",
+        "role": "secondary",
+        "subscriptionFee": 11.99,
+        "requiresMembership": true,
+        "applicableHours": null,
+        "description": null,
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 0.34,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.1,
+            "unit": "min",
+            "minPowerKw": null,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": 240,
+            "condition": "max 12.00 EUR per session",
+            "applicableHours": null
+          }
+        ]
+      },
+      {
+        "id": "vorteil_s",
+        "name": "Vorteils-Tarif S",
+        "role": "promoRestricted",
+        "subscriptionFee": 0,
+        "requiresMembership": false,
+        "applicableHours": null,
+        "description": null,
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 0.45,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": "exklusiv für EnBW-Bestandskunden mit einem Strom-, Gas- oder Wärmestromvertrag",
+            "applicableHours": null
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.1,
+            "unit": "min",
+            "minPowerKw": null,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": 240,
+            "condition": "max 12.00 EUR per session",
+            "applicableHours": null
+          }
+        ]
+      },
+      {
+        "id": "vorteil_m",
+        "name": "Vorteils-Tarif M",
+        "role": "promoRestricted",
+        "subscriptionFee": 5.99,
+        "requiresMembership": true,
+        "applicableHours": null,
+        "description": null,
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 0.36,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": "exklusiv für EnBW-Bestandskunden mit einem Strom-, Gas- oder Wärmestromvertrag",
+            "applicableHours": null
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.1,
+            "unit": "min",
+            "minPowerKw": null,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": 240,
+            "condition": "max 12.00 EUR per session",
+            "applicableHours": null
+          }
+        ]
+      },
+      {
+        "id": "vorteil_l",
+        "name": "Vorteils-Tarif L",
+        "role": "promoRestricted",
+        "subscriptionFee": 11.99,
+        "requiresMembership": true,
+        "applicableHours": null,
+        "description": null,
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 0.3,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": "exklusiv für EnBW-Bestandskunden mit einem Strom-, Gas- oder Wärmestromvertrag",
+            "applicableHours": null
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.1,
+            "unit": "min",
+            "minPowerKw": null,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": 240,
+            "condition": "max 12.00 EUR per session",
+            "applicableHours": null
+          }
+        ]
+      }
+    ]
+  }
+]
