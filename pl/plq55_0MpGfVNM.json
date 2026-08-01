@@ -1,0 +1,44 @@
+{
+  "operatorId": "PL*Q55",
+  "geohash": "0MpGfVNM",
+  "name": "Lidl Lwówek Śląski",
+  "evses": [
+    {
+      "id": "PLQ55E01154401",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        },
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLQ55E01154402",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "LWÓWEK ŚLĄSKI",
+    "street": "JAŚKIEWICZA",
+    "houseNumber": "20B",
+    "postcode": "59-600",
+    "province": null
+  },
+  "openingHours": null
+}

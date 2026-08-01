@@ -1,0 +1,44 @@
+{
+  "operatorId": "PL*Q55",
+  "geohash": "0LfyVQWU",
+  "name": "Lidl Zawiercie Piłsudskiego",
+  "evses": [
+    {
+      "id": "PLQ55E01125001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLQ55E01125002",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        },
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Zawiercie",
+    "street": "Józefa Piłsudskiego",
+    "houseNumber": "23",
+    "postcode": "42-400",
+    "province": null
+  },
+  "openingHours": null
+}

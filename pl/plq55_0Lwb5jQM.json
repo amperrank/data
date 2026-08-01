@@ -1,0 +1,44 @@
+{
+  "operatorId": "PL*Q55",
+  "geohash": "0Lwb5jQM",
+  "name": "Lidl Nowy Targ Szaflarska",
+  "evses": [
+    {
+      "id": "PLQ55E01178501",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLQ55E01178502",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        },
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Nowy Targ",
+    "street": "Szaflarska",
+    "houseNumber": "162",
+    "postcode": "34-400",
+    "province": null
+  },
+  "openingHours": null
+}

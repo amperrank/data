@@ -1,0 +1,73 @@
+{
+  "operatorId": "PL*1W3",
+  "geohash": "0L0LyrWi",
+  "name": "Stacja ładowania DC LO Wieliczka",
+  "evses": [
+    {
+      "id": "PL1W3E00000AC1",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PL1W3E00000DC2",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PL1W3E00000DC3",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PL1W3E00000AC2",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PL1W3E00000AC3",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Wieliczka",
+    "street": "Marszałka Józefa Piłsudzkiego",
+    "houseNumber": "18",
+    "postcode": "32-020",
+    "province": null
+  },
+  "openingHours": null
+}

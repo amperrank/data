@@ -1,0 +1,44 @@
+{
+  "operatorId": "PL*WUA",
+  "geohash": "0LwxWUzh",
+  "name": "Biedronka Nowy Targ, Lotników",
+  "evses": [
+    {
+      "id": "PLWUAEPDOT1012",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        },
+        {
+          "type": "ccs",
+          "maxPowerKw": 120.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLWUAEPDOT1013",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 120.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Nowy Targ",
+    "street": "Lotników",
+    "houseNumber": "4",
+    "postcode": "34-400",
+    "province": null
+  },
+  "openingHours": null
+}

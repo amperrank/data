@@ -1,0 +1,40 @@
+{
+  "operatorId": "PL*Q55",
+  "geohash": "0OB5BAO4",
+  "name": "Lidl Oleśnica",
+  "evses": [
+    {
+      "id": "PLQ55E01225901",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLQ55E01225902",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Oleśnica",
+    "street": "Krzywoustego",
+    "houseNumber": "25",
+    "postcode": "56-400",
+    "province": null
+  },
+  "openingHours": null
+}

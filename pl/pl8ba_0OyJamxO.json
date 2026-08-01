@@ -1,0 +1,52 @@
+{
+  "operatorId": "PL*8BA",
+  "geohash": "0OyJamxO",
+  "name": "Stacja Ładowania Grodzisk Sfera Park",
+  "evses": [
+    {
+      "id": "PL8BAE01650221",
+      "connectors": [],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PL8BAE02650221",
+      "connectors": [],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PL8BAE277130C1",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PL8BAEF104418A",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Grodzisk Mazowiecki",
+    "street": "Żyrardowska",
+    "houseNumber": "14",
+    "postcode": "05-825",
+    "province": null
+  },
+  "openingHours": null
+}

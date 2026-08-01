@@ -1,0 +1,44 @@
+{
+  "operatorId": "PL*Q55",
+  "geohash": "0LeVZTXi",
+  "name": "1760 Lidl Katowice",
+  "evses": [
+    {
+      "id": "PLQ55E01176002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 24.0
+        },
+        {
+          "type": "chademo",
+          "maxPowerKw": 24.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLQ55E01176001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Katowice",
+    "street": "Gliwicka",
+    "houseNumber": "20",
+    "postcode": "40-855",
+    "province": null
+  },
+  "openingHours": null
+}

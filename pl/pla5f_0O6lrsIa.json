@@ -1,0 +1,40 @@
+{
+  "operatorId": "PL*A5F",
+  "geohash": "0O6lrsIa",
+  "name": "Warszawska 133, 08-110 Siedlce",
+  "evses": [
+    {
+      "id": "PLA5FE506D1D22",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLA5FEBBA87555",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Siedlce",
+    "street": "Warszawska",
+    "houseNumber": "133",
+    "postcode": "08-110",
+    "province": null
+  },
+  "openingHours": null
+}

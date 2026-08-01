@@ -1,0 +1,44 @@
+{
+  "operatorId": "PL*Q55",
+  "geohash": "0Mvl2ZiX",
+  "name": "Lidl Leszno Antoniny",
+  "evses": [
+    {
+      "id": "PLQ55E01211602",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        },
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLQ55E01211601",
+      "connectors": [
+        {
+          "type": "type1",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Leszno",
+    "street": "Antoniny",
+    "houseNumber": "12",
+    "postcode": "64-100",
+    "province": null
+  },
+  "openingHours": null
+}

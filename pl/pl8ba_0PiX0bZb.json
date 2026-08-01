@@ -1,0 +1,40 @@
+{
+  "operatorId": "PL*8BA",
+  "geohash": "0PiX0bZb",
+  "name": "Towarowa 16, 11-041 Olsztyn",
+  "evses": [
+    {
+      "id": "PL8BAEA901B05E",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 30.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PL8BAEB35BDC4C",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Olsztyn",
+    "street": "Towarowa",
+    "houseNumber": "16",
+    "postcode": "11-041",
+    "province": null
+  },
+  "openingHours": null
+}

@@ -1,0 +1,40 @@
+{
+  "operatorId": "PL*KT3",
+  "geohash": "0OBDfYNN",
+  "name": "Porsche Wrocław Charge Point 1",
+  "evses": [
+    {
+      "id": "PLKT3E00000011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 320.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLKT3E00000012",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 320.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Wrocław",
+    "street": "Aleja Karkonoska",
+    "houseNumber": "54",
+    "postcode": "53-015",
+    "province": null
+  },
+  "openingHours": null
+}

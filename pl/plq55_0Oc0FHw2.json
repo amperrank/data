@@ -1,0 +1,51 @@
+{
+  "operatorId": "PL*Q55",
+  "geohash": "0Oc0FHw2",
+  "name": "Lidl Toruń Lubicka",
+  "evses": [
+    {
+      "id": "PLQ55E121145AC",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLQ55E121145DC",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLQ55E121145CH",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Toruń",
+    "street": "Lubicka",
+    "houseNumber": "55",
+    "postcode": "87-100",
+    "province": null
+  },
+  "openingHours": null
+}

@@ -1,0 +1,55 @@
+{
+  "operatorId": "PL*Z75",
+  "geohash": "0kQlv2P7",
+  "name": "Parking PKS Stara Kornica",
+  "evses": [
+    {
+      "id": "PLZ75E00001107",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLZ75E00001108",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLZ75E00001109",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        },
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Stara Kornica",
+    "street": "Stara Kornica",
+    "houseNumber": "174A",
+    "postcode": "08-205",
+    "province": null
+  },
+  "openingHours": null
+}

@@ -1,0 +1,44 @@
+{
+  "operatorId": "PL*JMG",
+  "geohash": "0L0JzWcf",
+  "name": "Zakopiańska 169A, 30-435 Kraków",
+  "evses": [
+    {
+      "id": "PLJMGE71CA94F1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 40.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLJMGE87246CAC",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 40.0
+        },
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Kraków",
+    "street": "Zakopiańska",
+    "houseNumber": "169A",
+    "postcode": "30-435",
+    "province": null
+  },
+  "openingHours": null
+}

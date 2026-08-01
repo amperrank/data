@@ -1,0 +1,40 @@
+{
+  "operatorId": "PL*1J2",
+  "geohash": "0LXifaSr",
+  "name": "Charge Box",
+  "evses": [
+    {
+      "id": "PL1J2E00000001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 320.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PL1J2E00000002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 320.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Kamień Śląski",
+    "street": "Lotnicza",
+    "houseNumber": "5-7",
+    "postcode": "47-325",
+    "province": null
+  },
+  "openingHours": null
+}

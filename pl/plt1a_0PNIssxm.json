@@ -1,0 +1,40 @@
+{
+  "operatorId": "PL*T1A",
+  "geohash": "0PNIssxm",
+  "name": "Enefit Volt",
+  "evses": [
+    {
+      "id": "PLT1AECH110101",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 120.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLT1AECH110102",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 120.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Gdynia",
+    "street": "Kazimierza Górskiego",
+    "houseNumber": "2",
+    "postcode": "81-304",
+    "province": null
+  },
+  "openingHours": null
+}

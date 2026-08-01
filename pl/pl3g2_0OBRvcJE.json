@@ -1,0 +1,40 @@
+{
+  "operatorId": "PL*3G2",
+  "geohash": "0OBRvcJE",
+  "name": "Stacja ładowania  pojazdów Szewce",
+  "evses": [
+    {
+      "id": "PL3G2E00000001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 47.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PL3G2E00000002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 47.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Szewce",
+    "street": "Długa",
+    "houseNumber": "-",
+    "postcode": "55-114",
+    "province": null
+  },
+  "openingHours": null
+}

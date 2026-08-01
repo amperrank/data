@@ -1,0 +1,40 @@
+{
+  "operatorId": "PL*Q55",
+  "geohash": "0L0P0vvL",
+  "name": "Lidl Kraków",
+  "evses": [
+    {
+      "id": "PLQ55E01205401",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLQ55E01205402",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Kraków",
+    "street": "Osiedle Józefa Strusia",
+    "houseNumber": "21",
+    "postcode": "31-810",
+    "province": null
+  },
+  "openingHours": null
+}

@@ -1,0 +1,44 @@
+{
+  "operatorId": "PL*Z75",
+  "geohash": "0L3tWpg3",
+  "name": "Gmina Stopnica, 28-130 Stopnica dz. nr 333/2",
+  "evses": [
+    {
+      "id": "PLZ75E01001009",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 90.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLZ75E02001009",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 90.0
+        },
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Stopnica",
+    "street": "brak",
+    "houseNumber": "brak",
+    "postcode": "28-130",
+    "province": null
+  },
+  "openingHours": null
+}

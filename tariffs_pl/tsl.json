@@ -1,0 +1,135 @@
+[
+  {
+    "operatorId": {
+      "countryCode": "PL",
+      "cpo": "TSL"
+    },
+    "currency": "PLN",
+    "validFrom": null,
+    "validTo": null,
+    "updatedAt": "2026-08-01T00:00:00.000",
+    "description": null,
+    "tiers": [
+      {
+        "id": "tesla_free",
+        "name": "Tesla Free",
+        "role": "promoRestricted",
+        "subscriptionFee": null,
+        "requiresMembership": true,
+        "applicableHours": null,
+        "description": null,
+        "prices": [
+          {
+            "type": "idle",
+            "pricePerUnit": 2,
+            "unit": "min",
+            "minPowerKw": null,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": 5,
+            "condition": "Occupancy > 50%",
+            "applicableHours": null
+          }
+        ]
+      },
+      {
+        "id": "tesla_owner",
+        "name": "Tesla Owner",
+        "role": "promoRestricted",
+        "subscriptionFee": null,
+        "requiresMembership": true,
+        "applicableHours": null,
+        "description": null,
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 1.425,
+            "unit": "kWh",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null,
+            "minPricePerUnit": 1.1,
+            "maxPricePerUnit": 1.7
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 2,
+            "unit": "min",
+            "minPowerKw": null,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": 5,
+            "condition": "Occupancy > 50%",
+            "applicableHours": null
+          }
+        ]
+      },
+      {
+        "id": "tesla_member",
+        "name": "Tesla Member",
+        "role": "secondary",
+        "subscriptionFee": 50,
+        "requiresMembership": true,
+        "applicableHours": null,
+        "description": null,
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 1.6097,
+            "unit": "kWh",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null,
+            "minPricePerUnit": 1.2,
+            "maxPricePerUnit": 1.9
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 2,
+            "unit": "min",
+            "minPowerKw": null,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": 5,
+            "condition": "Occupancy > 50%",
+            "applicableHours": null
+          }
+        ]
+      },
+      {
+        "id": "ad_hoc",
+        "name": "Ad Hoc",
+        "role": "standard",
+        "subscriptionFee": null,
+        "requiresMembership": false,
+        "applicableHours": null,
+        "description": null,
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 2.0181,
+            "unit": "kWh",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null,
+            "minPricePerUnit": 1.5,
+            "maxPricePerUnit": 2.4
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 2,
+            "unit": "min",
+            "minPowerKw": null,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": 5,
+            "condition": "Occupancy > 50%",
+            "applicableHours": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,51 @@
+{
+  "operatorId": "PL*Z75",
+  "geohash": "0OHjb~hq",
+  "name": "Stacja ładowania STELLAR | Pasaż Podmiejski",
+  "evses": [
+    {
+      "id": "PLZ75E40088520",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 120.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLZ75E30735521",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 120.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLZ75E11150522",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Kalisz",
+    "street": "Podmiejska",
+    "houseNumber": "39",
+    "postcode": "62-800",
+    "province": null
+  },
+  "openingHours": null
+}

@@ -1,0 +1,40 @@
+{
+  "operatorId": "PL*Q55",
+  "geohash": "0M6z41uc",
+  "name": "Lidl Stęszew Zachodnia",
+  "evses": [
+    {
+      "id": "PLQ55E01214302",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLQ55E01214301",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Stęszew",
+    "street": "Zachodnia",
+    "houseNumber": "1",
+    "postcode": "62-060",
+    "province": null
+  },
+  "openingHours": null
+}
