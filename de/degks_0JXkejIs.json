@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*GKS",
+  "geohash": "0JXkejIs",
+  "name": "Charging station GK Software SE Schöneck/V. Waldstrasse",
+  "evses": [
+    {
+      "id": "DEGKSE000026",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGKSE000024",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGKSE000025",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Schöneck/Vogtland",
+    "street": "Waldstraße",
+    "houseNumber": "7",
+    "postcode": "08261",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

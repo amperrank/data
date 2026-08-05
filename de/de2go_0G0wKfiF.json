@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*2GO",
+  "geohash": "0G0wKfiF",
+  "name": "EWE Go Ladestation",
+  "evses": [
+    {
+      "id": "DE2GOEMCD14631A2",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD14631A1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Syke",
+    "street": "Herrlichkeit 9",
+    "houseNumber": null,
+    "postcode": "28857",
+    "province": "Niedersachsen"
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

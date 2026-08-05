@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*TES",
+  "geohash": "0MQkkJkJ",
+  "name": "ACHTUNG: Private Ladestation - kein öffentliches Laden!",
+  "evses": [
+    {
+      "id": "DETESE123546",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETESE12547",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Magdeburg",
+    "street": "Kleiner Werder",
+    "houseNumber": "5C",
+    "postcode": "39114",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

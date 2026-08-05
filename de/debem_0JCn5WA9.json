@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*BEM",
+  "geohash": "0JCn5WA9",
+  "name": "Ladestation VR EnergieGenossenschaft Oberbayern Südost eG",
+  "evses": [
+    {
+      "id": "DEBEME0010723",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBEME0010722",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Seeon-Seebruck",
+    "street": "Weinbergstraße",
+    "houseNumber": "3",
+    "postcode": "83370",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

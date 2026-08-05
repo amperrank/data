@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*2GO",
+  "geohash": "0Gd~vscX",
+  "name": "EWE Go Ladestation",
+  "evses": [
+    {
+      "id": "DE2GOEEWE76831A1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEEWE76831A2",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Wiesmoor",
+    "street": "Hauptstraße 193",
+    "houseNumber": null,
+    "postcode": "26639",
+    "province": "Niedersachsen"
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

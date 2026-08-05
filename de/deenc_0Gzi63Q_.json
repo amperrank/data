@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*ENC",
+  "geohash": "0Gzi63Q_",
+  "name": "enercity AG enercity - Eichsfelder Str/Stöckener Markt - A01",
+  "evses": [
+    {
+      "id": "DEENCELA001062A01B",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEENCELA001062A01A",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Hannover",
+    "street": "Eichsfelder Straße",
+    "houseNumber": "97",
+    "postcode": "30419",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

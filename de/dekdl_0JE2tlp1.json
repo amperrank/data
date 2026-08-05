@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*KDL",
+  "geohash": "0JE2tlp1",
+  "name": "Kaufland Neustadt a.d.Donau",
+  "evses": [
+    {
+      "id": "DEKDLE00001652",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEKDLE00001651",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEKDLE00001653",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Neustadt an der Donau",
+    "street": "Gewerbepark",
+    "houseNumber": "48",
+    "postcode": "93333",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

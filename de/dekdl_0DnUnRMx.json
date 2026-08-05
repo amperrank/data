@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*KDL",
+  "geohash": "0DnUnRMx",
+  "name": "Kaufland Heilbronn",
+  "evses": [
+    {
+      "id": "DEKDLE00002067",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEKDLE00002008",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEKDLE00002010",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Heilbronn",
+    "street": "Neckargartacher Straße",
+    "houseNumber": "111",
+    "postcode": "74080",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*ALL",
+  "geohash": "0GDSfQRG",
+  "name": "Allego - ATU Mönchengladbach",
+  "evses": [
+    {
+      "id": "DEALLEGO0029212",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEALLEGO0029211",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Mönchengladbach",
+    "street": "Korschenbroicher Str.",
+    "houseNumber": "105",
+    "postcode": "41065",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

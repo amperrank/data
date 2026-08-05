@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*2GO",
+  "geohash": "0Gy~A2Ch",
+  "name": "EWE Go Ladestation",
+  "evses": [
+    {
+      "id": "DE2GOEMCD02711A1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD02711A2",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Hannover",
+    "street": "Hildesheimer Straße 216",
+    "houseNumber": null,
+    "postcode": "30519",
+    "province": "Niedersachsen"
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

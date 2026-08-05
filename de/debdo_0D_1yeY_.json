@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*BDO",
+  "geohash": "0D_1yeY_",
+  "name": "ALP_100121249",
+  "evses": [
+    {
+      "id": "DEBDOE4161683401",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBDOE4161683402",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Coburg",
+    "street": "Neuer Weg",
+    "houseNumber": "11",
+    "postcode": "96450",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

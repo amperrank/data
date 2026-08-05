@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*2GO",
+  "geohash": "0DYG0_vk",
+  "name": "EWE Go Ladestation",
+  "evses": [
+    {
+      "id": "DE2GOEMCD10591A1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD10591A2",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Neunkirchen",
+    "street": "Königstraße 36",
+    "houseNumber": null,
+    "postcode": "66538",
+    "province": "Saarland"
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

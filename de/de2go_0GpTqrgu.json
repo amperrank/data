@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*2GO",
+  "geohash": "0GpTqrgu",
+  "name": "EWE Go Ladestation",
+  "evses": [
+    {
+      "id": "DE2GOEMCD08681A1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD08681A2",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Eschwege",
+    "street": "Landstraße 6",
+    "houseNumber": null,
+    "postcode": "37269",
+    "province": "Hessen"
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

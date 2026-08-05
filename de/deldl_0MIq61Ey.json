@@ -1,0 +1,130 @@
+{
+  "operatorId": "DE*LDL",
+  "geohash": "0MIq61Ey",
+  "name": "Lidl Olbernhau",
+  "evses": [
+    {
+      "id": "DELDLE00009270",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 180.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELDLE00009264",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELDLE00009271",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 180.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELDLE00009265",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Olbernhau",
+    "street": "Grünthaler Straße",
+    "houseNumber": "87",
+    "postcode": "09526",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": false,
+    "regularHours": [
+      {
+        "weekday": 6,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 45
+        },
+        "periodEnd": {
+          "hour": 21,
+          "minute": 15
+        }
+      },
+      {
+        "weekday": 5,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 45
+        },
+        "periodEnd": {
+          "hour": 21,
+          "minute": 15
+        }
+      },
+      {
+        "weekday": 4,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 45
+        },
+        "periodEnd": {
+          "hour": 21,
+          "minute": 15
+        }
+      },
+      {
+        "weekday": 3,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 45
+        },
+        "periodEnd": {
+          "hour": 21,
+          "minute": 15
+        }
+      },
+      {
+        "weekday": 2,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 45
+        },
+        "periodEnd": {
+          "hour": 21,
+          "minute": 15
+        }
+      },
+      {
+        "weekday": 1,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 45
+        },
+        "periodEnd": {
+          "hour": 21,
+          "minute": 15
+        }
+      }
+    ]
+  }
+}

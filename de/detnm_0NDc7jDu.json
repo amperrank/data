@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*TNM",
+  "geohash": "0NDc7jDu",
+  "name": "Shell Recharge OBN 3374 - Shell Mecklenburger Strasse",
+  "evses": [
+    {
+      "id": "DETNMEGL49013374012",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 360.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49013374011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 360.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Broderstorf",
+    "street": "Mecklenburger Straße",
+    "houseNumber": "3",
+    "postcode": "18184",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

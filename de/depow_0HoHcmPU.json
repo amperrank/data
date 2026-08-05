@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*POW",
+  "geohash": "0HoHcmPU",
+  "name": "Audi Hamburg Kollaustraße 41 HPC 2 150kW",
+  "evses": [
+    {
+      "id": "DEPOWE01902",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE01904",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Hamburg",
+    "street": "Kollaustraße",
+    "houseNumber": "41",
+    "postcode": "22529",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

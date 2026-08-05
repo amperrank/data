@@ -1,0 +1,41 @@
+{
+  "operatorId": "AT*HTB",
+  "geohash": "0HpCxW4A",
+  "name": "Ladestation Hans Stockmar GmbH & Co KG - 100% Ökostrom",
+  "evses": [
+    {
+      "id": "ATHTBE1001200",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "ATHTBE1001199",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Kaltenkirchen",
+    "street": "Borsigstrasse",
+    "houseNumber": "7",
+    "postcode": "24568",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

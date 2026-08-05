@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*TES",
+  "geohash": "0D0N0y2c",
+  "name": "ACHTUNG: Private Ladestation - kein öffentliches Laden!",
+  "evses": [
+    {
+      "id": "DETESE125786",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETESE125758",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Frankfurt am Main",
+    "street": "Richard-Strauss-Allee",
+    "houseNumber": "11",
+    "postcode": "60598",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

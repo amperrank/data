@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*TMO",
+  "geohash": "0GrlIsu5",
+  "name": "TMO LP1/2/3 REWE",
+  "evses": [
+    {
+      "id": "DETMOE99202001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 43.1
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETMOE99202003",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETMOE99202002",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Gebesee",
+    "street": "Siedlungsweg",
+    "houseNumber": "1",
+    "postcode": "99189",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

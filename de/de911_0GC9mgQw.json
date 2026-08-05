@@ -1,0 +1,63 @@
+{
+  "operatorId": "DE*911",
+  "geohash": "0GC9mgQw",
+  "name": "Porsche Sales & Marketplace Porsche Wallbox Links",
+  "evses": [
+    {
+      "id": "DE911EDE00196400000010000001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 12.8
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE911EDE00196300000010000001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 12.8
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE911EDE00014300000010000001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 320.16
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE911EDE00014300000020000001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 320.16
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Köln",
+    "street": "Fröbelstraße",
+    "houseNumber": "15",
+    "postcode": "50823",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*APS",
+  "geohash": "0GDMdha2",
+  "name": "AVIA Volt",
+  "evses": [
+    {
+      "id": "DEAPSE240018",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEAPSE240017",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Jüchen",
+    "street": "Neusser Straße",
+    "houseNumber": "206",
+    "postcode": "41363",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

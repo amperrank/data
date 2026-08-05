@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*VAT",
+  "geohash": "0MOnsQHa",
+  "name": "DE*VAT*EXCHA*C6E15BCC25SMTFGTZV*1",
+  "evses": [
+    {
+      "id": "DEVATEXCHAC6E15BCC25SMTFGTZV2",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEVATEXCHAC6E15BCC25SMTFGTZV1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Schwarzheide",
+    "street": "Ruhlander Straße",
+    "houseNumber": "71",
+    "postcode": "01987",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

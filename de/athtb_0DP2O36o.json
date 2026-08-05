@@ -1,0 +1,41 @@
+{
+  "operatorId": "AT*HTB",
+  "geohash": "0DP2O36o",
+  "name": "Gemeindewerke_Herxheim 3",
+  "evses": [
+    {
+      "id": "ATHTBE1016643",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "ATHTBE1016644",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Herxheim bei Landau",
+    "street": "Am Rathaus",
+    "houseNumber": null,
+    "postcode": "76863",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

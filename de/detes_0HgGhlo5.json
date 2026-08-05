@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*TES",
+  "geohash": "0HgGhlo5",
+  "name": "ACHTUNG: Private Ladestation - kein öffentliches Laden!",
+  "evses": [
+    {
+      "id": "DETESE123669",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETESE123671",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Bremerhaven",
+    "street": "An der Neuen Schleuse",
+    "houseNumber": "10A",
+    "postcode": "27570",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

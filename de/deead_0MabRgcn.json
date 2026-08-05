@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*EAD",
+  "geohash": "0MabRgcn",
+  "name": "VW Zeesen - Im Gewerbepark",
+  "evses": [
+    {
+      "id": "DEEADE287415010011",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEADE287415010012",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 30.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Königs Wusterhausen",
+    "street": "Im Gewerbepark",
+    "houseNumber": "27",
+    "postcode": "15711",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

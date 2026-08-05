@@ -1,0 +1,71 @@
+{
+  "operatorId": "DE*TNM",
+  "geohash": "0MbAgeKc",
+  "name": "Shell Recharge OBN 6774 - Shell Bahnhofstrasse",
+  "evses": [
+    {
+      "id": "DETNMEGL4901677403",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 175.0
+        },
+        {
+          "type": "chademo",
+          "maxPowerKw": 70.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49016774012",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL4901677402",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 70.0
+        },
+        {
+          "type": "ccs",
+          "maxPowerKw": 175.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49016774011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Berlin",
+    "street": "Bahnhofstraße",
+    "houseNumber": "1",
+    "postcode": "12305",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

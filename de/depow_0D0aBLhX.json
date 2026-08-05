@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*POW",
+  "geohash": "0D0aBLhX",
+  "name": "DE_VGRD_F_VW_Strahlenberger_Weg_60599_PP01_22kW_öffentlich",
+  "evses": [
+    {
+      "id": "DEPOWE01590",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE01992",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE03139",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Frankfurt am Main",
+    "street": "Strahlenberger Weg",
+    "houseNumber": "30",
+    "postcode": "60599",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

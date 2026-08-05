@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*POW",
+  "geohash": "0DwWQROg",
+  "name": "DE_VGRD_MA_VW_Kaefertal_68309_Trafo04_19BZ00805_öffentlich",
+  "evses": [
+    {
+      "id": "DEPOWE01706",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 75.2
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE01705",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Mannheim",
+    "street": "Weinheimer Straße",
+    "houseNumber": "74",
+    "postcode": "68309",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*TMO",
+  "geohash": "0MCAe6Ht",
+  "name": "TMO LP1/2 Autohaus",
+  "evses": [
+    {
+      "id": "DETMOE11298001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETMOE11298002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Zeulenroda-Triebes",
+    "street": "Am Waldstadion",
+    "houseNumber": "1",
+    "postcode": "07937",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

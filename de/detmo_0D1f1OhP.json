@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*TMO",
+  "geohash": "0D1f1OhP",
+  "name": "TMO LP1/2 EDEKA Schwarztorweg",
+  "evses": [
+    {
+      "id": "DETMOE11348001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETMOE11348002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Buseck",
+    "street": "Schwarztorweg",
+    "houseNumber": "6",
+    "postcode": "35418",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

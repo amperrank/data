@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*DES",
+  "geohash": "0MGu1Nzw",
+  "name": "[FL-PUB] Autohaus Müller Eilenburg GmbH - Eichrecht - DC -DE*DES*E1003063",
+  "evses": [
+    {
+      "id": "DEDESE10030631",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEDESE10030632",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Eilenburg",
+    "street": "Bergstr.",
+    "houseNumber": "45",
+    "postcode": "04838",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

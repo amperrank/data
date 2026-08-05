@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*TES",
+  "geohash": "0GsKnC6a",
+  "name": "ACHTUNG: Private Ladestation - kein öffentliches Laden!",
+  "evses": [
+    {
+      "id": "DETESE123991",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETESE123990",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Heilbad Heiligenstadt",
+    "street": "Flinsberger Straße",
+    "houseNumber": "19",
+    "postcode": "37308",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

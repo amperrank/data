@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*CKE",
+  "geohash": "0HoJ5bdx",
+  "name": "Circle K I Hamburg Andreas Meyer Strasse 63",
+  "evses": [
+    {
+      "id": "DECKEEXD040030013",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 49.68
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECKEEXD040030012",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 49.68
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECKEEXD040030011",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 12.8
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Hamburg",
+    "street": "Andreas Meyer Strasse",
+    "houseNumber": "63",
+    "postcode": "22113",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

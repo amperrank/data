@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*POW",
+  "geohash": "0GSq1nk8",
+  "name": "DE Bernard Knubel GmbH & Co. KG öffentlich (KKT) - 23BZ8419A",
+  "evses": [
+    {
+      "id": "DEPOWEE03245",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWEE03246",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 75.2
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Ahaus",
+    "street": "Wüllener Straße",
+    "houseNumber": "87",
+    "postcode": "48683",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*TNM",
+  "geohash": "0MK9tb7H",
+  "name": "Shell Recharge OBN 2751 - Rewe Remscheider Strasse",
+  "evses": [
+    {
+      "id": "DETNMEGL49022751012",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49022751011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Pirna",
+    "street": "Remscheider Straße",
+    "houseNumber": "3A",
+    "postcode": "01796",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

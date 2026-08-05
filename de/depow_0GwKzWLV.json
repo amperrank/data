@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*POW",
+  "geohash": "0GwKzWLV",
+  "name": "DE_AH_Buchholz_HYC49,9_100142658_(30kW)_öffentlich",
+  "evses": [
+    {
+      "id": "DEPOWE03609",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 49.9
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE03610",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 49.9
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE03611",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Bad Salzuflen",
+    "street": "Industriestraße",
+    "houseNumber": "13",
+    "postcode": "32108",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

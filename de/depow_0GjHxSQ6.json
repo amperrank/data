@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*POW",
+  "geohash": "0GjHxSQ6",
+  "name": "DE Fritzlar 34560 Wolfhager Straße 7 AH Range DC 50kW KKT öffentlich",
+  "evses": [
+    {
+      "id": "DEPOWE02987",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE02988",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Fritzlar",
+    "street": "Wolfhager Straße",
+    "houseNumber": "7",
+    "postcode": "34560",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

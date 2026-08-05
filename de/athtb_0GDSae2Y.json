@@ -1,0 +1,41 @@
+{
+  "operatorId": "AT*HTB",
+  "geohash": "0GDSae2Y",
+  "name": "Private Betriebsladesäule Scheidt&Bachmann",
+  "evses": [
+    {
+      "id": "ATHTBE000032004",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "ATHTBE000032002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Mönchengladbach",
+    "street": "Breite Straße",
+    "houseNumber": "132",
+    "postcode": "41238",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

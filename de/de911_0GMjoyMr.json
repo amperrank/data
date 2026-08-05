@@ -1,0 +1,97 @@
+{
+  "operatorId": "DE*911",
+  "geohash": "0GMjoyMr",
+  "name": "Porsche Sales & Marketplace Porsche Zentrum Hagen Ladesäule 2",
+  "evses": [
+    {
+      "id": "DE911EDE00008200000010000001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 475.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE911EDE00008200000020000001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 475.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Hagen",
+    "street": "Florianstraße",
+    "houseNumber": "1",
+    "postcode": "58119",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": false,
+    "regularHours": [
+      {
+        "weekday": 3,
+        "periodBegin": {
+          "hour": 10,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 16,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 4,
+        "periodBegin": {
+          "hour": 10,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 16,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 2,
+        "periodBegin": {
+          "hour": 10,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 16,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 1,
+        "periodBegin": {
+          "hour": 10,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 16,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 5,
+        "periodBegin": {
+          "hour": 10,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 16,
+          "minute": 0
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "operatorId": "DE*CPI",
+  "geohash": "0DdJIMuc",
+  "name": "MERBAG MW MAYEN DC 1",
+  "evses": [
+    {
+      "id": "DECPIE65138951",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 62.5
+        },
+        {
+          "type": "chademo",
+          "maxPowerKw": 62.5
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE65138851",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 62.5
+        },
+        {
+          "type": "chademo",
+          "maxPowerKw": 62.5
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Mayen",
+    "street": "Polcher Str.",
+    "houseNumber": "140",
+    "postcode": "56727",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

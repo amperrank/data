@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*MER",
+  "geohash": "0GimqJ6f",
+  "name": "Mer Germany GmbH Mer Germany (TuR) - Burghaun - Großenmoor Ost",
+  "evses": [
+    {
+      "id": "DEMERE00009703",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 43.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00009701",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00009702",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Burghaun",
+    "street": "Großenmoor Ost, An der A7",
+    "houseNumber": null,
+    "postcode": "36151",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*TMO",
+  "geohash": "0MA1goSP",
+  "name": "TMO LP1/2 Netto",
+  "evses": [
+    {
+      "id": "DETMOE11087002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETMOE11087001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Jena",
+    "street": "Dorfstraße",
+    "houseNumber": "2",
+    "postcode": "07751",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

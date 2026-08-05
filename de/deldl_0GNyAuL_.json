@@ -1,0 +1,119 @@
+{
+  "operatorId": "DE*LDL",
+  "geohash": "0GNyAuL_",
+  "name": "Lidl Filiale Senden",
+  "evses": [
+    {
+      "id": "DELDLE00003379",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELDLE00003378",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELDLE00003377",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 43.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Senden",
+    "street": "Bulderner Straße",
+    "houseNumber": "8",
+    "postcode": "48308",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": false,
+    "regularHours": [
+      {
+        "weekday": 6,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 15
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 45
+        }
+      },
+      {
+        "weekday": 5,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 15
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 45
+        }
+      },
+      {
+        "weekday": 4,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 15
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 45
+        }
+      },
+      {
+        "weekday": 3,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 15
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 45
+        }
+      },
+      {
+        "weekday": 2,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 15
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 45
+        }
+      },
+      {
+        "weekday": 1,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 15
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 45
+        }
+      }
+    ]
+  }
+}

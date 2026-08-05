@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*POW",
+  "geohash": "0GzRnLvn",
+  "name": "DE Nienburg 31582 Südring 2 Autohaus Südring 23BZ8993A (öffentlich KKT)",
+  "evses": [
+    {
+      "id": "DEPOWE03386",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE03385",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Nienburg/Weser",
+    "street": "Südring",
+    "houseNumber": "2",
+    "postcode": "31582",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

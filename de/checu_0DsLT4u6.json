@@ -1,0 +1,38 @@
+{
+  "operatorId": "CH*ECU",
+  "geohash": "0DsLT4u6",
+  "name": "DC50kW/AC43kW/2x22kW Solarstrom Spiegler GmbH",
+  "evses": [
+    {
+      "id": "CHECUEUE5HFYDR2XYEYNMX7TX5RMQLPX",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "CHECUEDQP4VFE7T7U6YHZMQM6LX4AD5S",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 62.5
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Gerstetten",
+    "street": "Ludwig-Erhard-Straße",
+    "houseNumber": "9",
+    "postcode": "89547",
+    "province": null
+  },
+  "openingHours": null
+}

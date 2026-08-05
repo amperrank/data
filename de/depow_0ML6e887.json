@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*POW",
+  "geohash": "0ML6e887",
+  "name": "DE Pulsnitz 01896 Kamenzer Straße 10 AH Franke HYC_50 (100140437) KKT öffentlich",
+  "evses": [
+    {
+      "id": "DEPOWE03466",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE03465",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE03467",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Pulsnitz",
+    "street": "Kamenzer Straße",
+    "houseNumber": "10",
+    "postcode": "01896",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

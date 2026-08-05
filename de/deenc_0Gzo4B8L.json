@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*ENC",
+  "geohash": "0Gzo4B8L",
+  "name": "enercity AG enercity - Windausstr./Vahrenwalder Str. - 001",
+  "evses": [
+    {
+      "id": "DEENCELA000377001B",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEENCELA000377001A",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Hannover",
+    "street": "Windausstraße",
+    "houseNumber": null,
+    "postcode": "30163",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "operatorId": "DE*LDL",
+  "geohash": "0D1Uz631",
+  "name": "LidlWetzlar/Niedergirmes",
+  "evses": [
+    {
+      "id": "DELDLE00005991",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELDLE00005989",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELDLE00005990",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Wetzlar",
+    "street": "Carolinenhütte",
+    "houseNumber": "15",
+    "postcode": "35576",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": false,
+    "regularHours": [
+      {
+        "weekday": 6,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 45
+        },
+        "periodEnd": {
+          "hour": 21,
+          "minute": 15
+        }
+      },
+      {
+        "weekday": 5,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 45
+        },
+        "periodEnd": {
+          "hour": 21,
+          "minute": 15
+        }
+      },
+      {
+        "weekday": 4,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 45
+        },
+        "periodEnd": {
+          "hour": 21,
+          "minute": 15
+        }
+      },
+      {
+        "weekday": 3,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 45
+        },
+        "periodEnd": {
+          "hour": 21,
+          "minute": 15
+        }
+      },
+      {
+        "weekday": 2,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 45
+        },
+        "periodEnd": {
+          "hour": 21,
+          "minute": 15
+        }
+      },
+      {
+        "weekday": 1,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 45
+        },
+        "periodEnd": {
+          "hour": 21,
+          "minute": 15
+        }
+      }
+    ]
+  }
+}

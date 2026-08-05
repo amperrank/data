@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*BEM",
+  "geohash": "0JNU4YQf",
+  "name": "Ladestation Gemeinde Zandt",
+  "evses": [
+    {
+      "id": "DEBEME0011046",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBEME0011044",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBEME0011045",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Zandt",
+    "street": "Kirchplatz",
+    "houseNumber": "10",
+    "postcode": "93499",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*POW",
+  "geohash": "0DowBHD9",
+  "name": "MM_Seitz_Memmingen_VW 19BZ00209 HYC 150 öffentlich (KKT)",
+  "evses": [
+    {
+      "id": "DEPOWE02612",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE02613",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 75.2
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE02611",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Memmingen",
+    "street": "Münchner Straße",
+    "houseNumber": "81",
+    "postcode": "87700",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

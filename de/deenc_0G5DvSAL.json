@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*ENC",
+  "geohash": "0G5DvSAL",
+  "name": "enercity AG enercity - Volksbank Burgdorf - A01",
+  "evses": [
+    {
+      "id": "DEENCELA000864A01A",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEENCELA000864A01B",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Burgdorf",
+    "street": "Poststraße",
+    "houseNumber": "9",
+    "postcode": "31303",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

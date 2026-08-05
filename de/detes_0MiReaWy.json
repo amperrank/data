@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*TES",
+  "geohash": "0MiReaWy",
+  "name": "ACHTUNG: Private Ladestation - kein öffentliches Laden!",
+  "evses": [
+    {
+      "id": "DETESE123953",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETESE123952",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Zittau",
+    "street": "Villingenring",
+    "houseNumber": "10",
+    "postcode": "02763",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

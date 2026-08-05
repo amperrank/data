@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*ALL",
+  "geohash": "0GfS4ekB",
+  "name": "Allego - HEM Tankstelle Westerstede",
+  "evses": [
+    {
+      "id": "DEALLEGO0031831",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEALLEGO0031832",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Westerstede",
+    "street": "Leererstr.",
+    "houseNumber": "7",
+    "postcode": "26655",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

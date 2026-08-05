@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*TNM",
+  "geohash": "0GDzosH1",
+  "name": "Shell Recharge OBN 3572 - Shell Karlsruher Strasse",
+  "evses": [
+    {
+      "id": "DETNMEGL49013572011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49013572012",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Düsseldorf",
+    "street": "Karlsruher Straße",
+    "houseNumber": "45",
+    "postcode": "40229",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

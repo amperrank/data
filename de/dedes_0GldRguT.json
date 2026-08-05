@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*DES",
+  "geohash": "0GldRguT",
+  "name": "[FL-PUB] BMW - Autohaus Becker-Tiemann Bielefeld GmbH & Co. KG - AC/DC - Eichrecht SAM - DE*DES*E1003313",
+  "evses": [
+    {
+      "id": "DEDESE10033132",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEDESE10033131",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Bielefeld",
+    "street": "Am Niedermeyers Feld",
+    "houseNumber": "6",
+    "postcode": "33719",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "operatorId": "DE*911",
+  "geohash": "0HoMRfv9",
+  "name": "Porsche Sales & Marketplace Porsche Zentrum Hamburg City Ladesäule 2",
+  "evses": [
+    {
+      "id": "DE911EDE00003000000020000001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 475.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE911EDE00003000000010000001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 475.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE911EDE00140200000010000001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 12.8
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE911EDE00140100000010000001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 12.8
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Hamburg",
+    "street": "Lübecker Straße",
+    "houseNumber": "2",
+    "postcode": "22087",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

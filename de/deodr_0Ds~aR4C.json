@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*ODR",
+  "geohash": "0Ds~aR4C",
+  "name": "EnBW ODR - HPC 150kW Parkplatz Reimlinger Tor, Nördlingen",
+  "evses": [
+    {
+      "id": "DEODRE10000778",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEODRE10000777",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Nördlingen",
+    "street": "An der Reimlinger Mauer",
+    "houseNumber": "28",
+    "postcode": "86720",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

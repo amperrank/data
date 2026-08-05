@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*BOX",
+  "geohash": "0GMHEr6M",
+  "name": "Stadtwerke Bochum, McFit Wattenscheid, Feldstraße 5",
+  "evses": [
+    {
+      "id": "DEBOXEAC0952",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBOXEAC0953",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Bochum",
+    "street": "Feldstr.",
+    "houseNumber": "5",
+    "postcode": "44867",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*BEM",
+  "geohash": "0IX_m2lu",
+  "name": "Stromversorgung Ruhpolding Ladestation",
+  "evses": [
+    {
+      "id": "DEBEME0011348",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBEME0011349",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Ruhpolding",
+    "street": "Eisenberg",
+    "houseNumber": "1",
+    "postcode": "83324",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

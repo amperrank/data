@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*DES",
+  "geohash": "0GJd5V8F",
+  "name": "[FL-PUB] Procar Automobile GmbH Sprockhövel - DC - Eichrecht - DE*DES*E1002974",
+  "evses": [
+    {
+      "id": "DEDESE10029742",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEDESE10029741",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 75.2
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Sprockhövel",
+    "street": "Eichenhofer Weg",
+    "houseNumber": "1-7",
+    "postcode": "45549",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

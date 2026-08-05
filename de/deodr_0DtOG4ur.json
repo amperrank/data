@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*ODR",
+  "geohash": "0DtOG4ur",
+  "name": "EnBW ODR - HPC 150kW",
+  "evses": [
+    {
+      "id": "DEODRE10000045",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEODRE10000046",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Ellwangen",
+    "street": "Unterer Brühl",
+    "houseNumber": "2",
+    "postcode": "73479",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

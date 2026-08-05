@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*POW",
+  "geohash": "0JCBKMso",
+  "name": "DE Autohaus Robert M. Boxhammer GmbH - 83043 Bad Aibling - Altwasserstr. 15 (öffentlich) (KKT)",
+  "evses": [
+    {
+      "id": "DEPOWE02507",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 80.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE02508",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Bad Aibling",
+    "street": "Altwasserstraße",
+    "houseNumber": "15",
+    "postcode": "83043",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

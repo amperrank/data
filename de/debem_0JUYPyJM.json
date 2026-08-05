@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*BEM",
+  "geohash": "0JUYPyJM",
+  "name": "Stadtwerke Kulmbach Ladestation",
+  "evses": [
+    {
+      "id": "DEBEME0010041",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBEME0010040",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Kulmbach",
+    "street": "Albert-Schweitzer-Straße",
+    "houseNumber": null,
+    "postcode": "95326",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

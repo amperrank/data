@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*EDH",
+  "geohash": "0CfN5uS4",
+  "name": "Naturenergie Community - Rickenbach Autohaus Stoll",
+  "evses": [
+    {
+      "id": "DEEDHE001496",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEDHE001497",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEDHE001495",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 43.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Rickenbach",
+    "street": "Im Schaffeld",
+    "houseNumber": "1",
+    "postcode": "79736",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

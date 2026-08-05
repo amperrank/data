@@ -1,0 +1,52 @@
+{
+  "operatorId": "AT*HTB",
+  "geohash": "0Gt5wUzx",
+  "name": "Bernhard Olbrich GmbH, Goslar",
+  "evses": [
+    {
+      "id": "ATHTBE1000920",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "ATHTBE1000918",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "ATHTBE1000877",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Goslar",
+    "street": "Dörntener Str.",
+    "houseNumber": "6",
+    "postcode": "38644",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

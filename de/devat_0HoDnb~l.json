@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*VAT",
+  "geohash": "0HoDnb~l",
+  "name": "DE*VAT*EXCHA*C7NE28A0CCACVQMWJF*1",
+  "evses": [
+    {
+      "id": "DEVATEXCHAC7NE28A0CCACVQMWJF2",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEVATEXCHAC7NE28A0CCACVQMWJF1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Hamburg",
+    "street": "Reinstorfweg",
+    "houseNumber": "16",
+    "postcode": "21107",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*ALL",
+  "geohash": "0NDX9ypv",
+  "name": "Allego - HEM Tankstelle Rostock",
+  "evses": [
+    {
+      "id": "DEALLEGO0034501",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEALLEGO0034502",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Rostock",
+    "street": "Zum Südtor",
+    "houseNumber": "6",
+    "postcode": "18147",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*EWM",
+  "geohash": "0DLmWHgm",
+  "name": "Bezirksstelle Hausach",
+  "evses": [
+    {
+      "id": "DEEWME0000446",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEWME0000214",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEWME0000042",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 75.2
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Hausach",
+    "street": "In den Brachfeldern",
+    "houseNumber": "6",
+    "postcode": "77756",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

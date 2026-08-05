@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*HTL",
+  "geohash": "0GMYUUij",
+  "name": "HTL - Grenzweg 18 - Herne",
+  "evses": [
+    {
+      "id": "DEHTLE1005092",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEHTLE1005091",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEHTLE2005291",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Herne",
+    "street": "Grenzweg",
+    "houseNumber": "18",
+    "postcode": "44623",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "operatorId": "DE*WAG",
+  "geohash": "0GMyGT3e",
+  "name": "Autohaus Schmidt Dortmund",
+  "evses": [
+    {
+      "id": "DEWAGE245284",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        },
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEWAGE245283",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Dortmund",
+    "street": "Eisenacher Str.",
+    "houseNumber": "11",
+    "postcode": "44143",
+    "province": null
+  },
+  "openingHours": null
+}

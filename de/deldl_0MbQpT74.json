@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*LDL",
+  "geohash": "0MbQpT74",
+  "name": "Lidl Filiale Berlin-Pankow",
+  "evses": [
+    {
+      "id": "DELDLE00004482",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELDLE00004484",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELDLE00004483",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Berlin-Pankow",
+    "street": "Prenzlauer Promenade",
+    "houseNumber": "65-67",
+    "postcode": "13089",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

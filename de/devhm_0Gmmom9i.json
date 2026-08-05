@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*VHM",
+  "geohash": "0Gmmom9i",
+  "name": "VHM Ladestation",
+  "evses": [
+    {
+      "id": "DEVHME100001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEVHME100002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Hann. Münden",
+    "street": "Schlossplatz",
+    "houseNumber": null,
+    "postcode": "34346",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*ENC",
+  "geohash": "0Gy9xMvt",
+  "name": "enercity AG enercity - Eleonorenstraße/Heesestraße - 001",
+  "evses": [
+    {
+      "id": "DEENCELA000411001B",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEENCELA000411001A",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Hannover",
+    "street": "Eleonorenstraße",
+    "houseNumber": null,
+    "postcode": "30449",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

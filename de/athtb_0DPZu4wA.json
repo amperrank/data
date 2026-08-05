@@ -1,0 +1,52 @@
+{
+  "operatorId": "AT*HTB",
+  "geohash": "0DPZu4wA",
+  "name": "Stadtwerke_BBZ_50KW_1",
+  "evses": [
+    {
+      "id": "ATHTBE1004245",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "ATHTBE1004247",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "ATHTBE1004246",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Bad Bergzabern",
+    "street": "Meßplatz",
+    "houseNumber": null,
+    "postcode": "76887",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

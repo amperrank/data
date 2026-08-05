@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*MER",
+  "geohash": "0HoHMknS",
+  "name": "Mer Germany SemiPublic Charging Beiersdorf AG (ÖFFENTLICH) - Hamburg - Beiersdorfstraße 3 #2",
+  "evses": [
+    {
+      "id": "DEMERE00701201",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00701101",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Hamburg",
+    "street": "3 Beiersdorfstraße",
+    "houseNumber": null,
+    "postcode": "22529",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

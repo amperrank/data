@@ -1,0 +1,42 @@
+{
+  "operatorId": "DE*VIR",
+  "geohash": "0MQLpANb",
+  "name": "Voets Autozentrum Magdeburg Süd",
+  "evses": [
+    {
+      "id": "DEVIRE243703",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        },
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEVIRE243702",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Magdeburg",
+    "street": "Werner-von-Siemens-Ring-5",
+    "houseNumber": null,
+    "postcode": "39116",
+    "province": null
+  },
+  "openingHours": null
+}

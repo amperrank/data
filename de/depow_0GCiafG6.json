@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*POW",
+  "geohash": "0GCiafG6",
+  "name": "DE Euskirchen 53879 RoitzheimerStraße 123 AH Fleischhauer Ladesäule 1",
+  "evses": [
+    {
+      "id": "DEPOWE03133",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE03134",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Euskirchen",
+    "street": "Roitzheimer Straße",
+    "houseNumber": "123",
+    "postcode": "53879",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

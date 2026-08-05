@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*TNM",
+  "geohash": "0DmRFWAQ",
+  "name": "Shell Recharge OBN 7627 - Shell Burgstallstrasse",
+  "evses": [
+    {
+      "id": "DETNMEGL49017627012",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49017627011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Stuttgart",
+    "street": "Burgstallstrasse",
+    "houseNumber": "122",
+    "postcode": "70199",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

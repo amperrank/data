@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*ENC",
+  "geohash": "0G5hVrpJ",
+  "name": "enercity AG enercity - Apothekenstraße/Kaiserstraße – 001",
+  "evses": [
+    {
+      "id": "DEENCELA001023001B",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.5
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEENCELA001023001A",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 20.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Uetze",
+    "street": "Apothekenstraße",
+    "houseNumber": null,
+    "postcode": "31311",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

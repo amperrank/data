@@ -1,0 +1,49 @@
+{
+  "operatorId": "DE*TNM",
+  "geohash": "0MLkNiCc",
+  "name": "Shell Recharge OBN 9152 - Shell Hansastrasse",
+  "evses": [
+    {
+      "id": "DETNMEGL4901915202",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 175.0
+        },
+        {
+          "type": "chademo",
+          "maxPowerKw": 70.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL4901915201",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 175.0
+        },
+        {
+          "type": "chademo",
+          "maxPowerKw": 70.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Dresden",
+    "street": "Hansastrasse",
+    "houseNumber": "60",
+    "postcode": "01097",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

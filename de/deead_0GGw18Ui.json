@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*EAD",
+  "geohash": "0GGw18Ui",
+  "name": "SBRS - Porsche Dinslaken",
+  "evses": [
+    {
+      "id": "DEEADE500019",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEADE500012",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 175.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEADE500011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 175.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Dinslaken",
+    "street": "Bärenstr.",
+    "houseNumber": "1",
+    "postcode": "46535",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

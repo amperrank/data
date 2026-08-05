@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*ODR",
+  "geohash": "0Dm0SxHv",
+  "name": "Stadwerke Schorndorf - HPC 150kW - Stuttgarter Str. 77",
+  "evses": [
+    {
+      "id": "DEODRE10000796",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEODRE10000795",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Schorndorf",
+    "street": "Stuttgarter Straße",
+    "houseNumber": "77",
+    "postcode": "73614",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

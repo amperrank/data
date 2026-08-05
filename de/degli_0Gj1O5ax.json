@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*GLI",
+  "geohash": "0Gj1O5ax",
+  "name": "Kassel GKLZ 175 kW",
+  "evses": [
+    {
+      "id": "DEGLIE100100168",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 175.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGLIE100100169",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 75.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Kassel",
+    "street": "Ochshäuser Straße",
+    "houseNumber": "37",
+    "postcode": "34123",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

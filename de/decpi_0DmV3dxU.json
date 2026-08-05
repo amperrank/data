@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*CPI",
+  "geohash": "0DmV3dxU",
+  "name": "HAHN AUTOMOBILE VK KWH DC 31",
+  "evses": [
+    {
+      "id": "DECPIE66202551",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 75.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE66202552",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 75.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Kornwestheim",
+    "street": "Leibnizstraße",
+    "houseNumber": "1",
+    "postcode": "70806",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

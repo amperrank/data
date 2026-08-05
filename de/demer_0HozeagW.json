@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*MER",
+  "geohash": "0HozeagW",
+  "name": "Mer Germany GmbH Mer Germany (TuR) - Todendorf - Buddikate West",
+  "evses": [
+    {
+      "id": "DEMERE00009402",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00009403",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 43.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00009401",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Todendorf",
+    "street": "Buddikate West, An der A1",
+    "houseNumber": null,
+    "postcode": "22965",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

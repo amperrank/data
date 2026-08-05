@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*HMS",
+  "geohash": "0GmmtAz9",
+  "name": "VHM Ladestation",
+  "evses": [
+    {
+      "id": "DEHMSE100010",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEHMSE100009",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Hann. Münden",
+    "street": "Hallenbadstraße",
+    "houseNumber": null,
+    "postcode": "34346",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

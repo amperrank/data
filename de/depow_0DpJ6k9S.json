@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*POW",
+  "geohash": "0DpJ6k9S",
+  "name": "DE_ IL_Seitz_Illertissen 0027413 Compleo 50 öffentlich max. 22Kw",
+  "evses": [
+    {
+      "id": "DEPOWE02610",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE02609",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Illertissen",
+    "street": "Siemensstraße",
+    "houseNumber": "1",
+    "postcode": "89257",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

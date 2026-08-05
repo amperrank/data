@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*POW",
+  "geohash": "0D4JWiag",
+  "name": "DE Autohaus Otto Model GmbH & Co.KG 23BZ8835A (öffentlich KKT)",
+  "evses": [
+    {
+      "id": "DEPOWE03417",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 75.2
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE03418",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Blaufelden",
+    "street": "Brettheimer Straße",
+    "houseNumber": "18",
+    "postcode": "74572",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

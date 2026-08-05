@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*DES",
+  "geohash": "0GPMCuCa",
+  "name": "[FL-PUB] Procar Automobile Münsterland GmbH Ahlen - DC - Eichrecht - DE*DES*E1002965",
+  "evses": [
+    {
+      "id": "DEDESE10029652",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEDESE10029651",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 75.2
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Ahlen",
+    "street": "Kruppstr.",
+    "houseNumber": "2 b",
+    "postcode": "59227",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

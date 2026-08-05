@@ -1,0 +1,40 @@
+{
+  "operatorId": "PL*G2F",
+  "geohash": "0LcNn4gz",
+  "name": "Margo - Skoda",
+  "evses": [
+    {
+      "id": "PLG2FE00000001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLG2FE00000002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 30.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Rybnik",
+    "street": "Wodzisławska",
+    "houseNumber": "201",
+    "postcode": "44-218",
+    "province": null
+  },
+  "openingHours": null
+}

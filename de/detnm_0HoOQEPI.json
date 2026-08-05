@@ -1,0 +1,34 @@
+{
+  "operatorId": "DE*TNM",
+  "geohash": "0HoOQEPI",
+  "name": "Shell Recharge OBN 6731 - Shell Schiffbeker Weg",
+  "evses": [
+    {
+      "id": "DETNMEGL4901673101",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 175.0
+        },
+        {
+          "type": "chademo",
+          "maxPowerKw": 70.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Hamburg",
+    "street": "Schiffbeker Weg",
+    "houseNumber": "90/92",
+    "postcode": "22119",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*LDL",
+  "geohash": "0Dl2INq3",
+  "name": "Lidl Filiale Eppingen",
+  "evses": [
+    {
+      "id": "DELDLE00006163",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELDLE00006162",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELDLE00006161",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Eppingen",
+    "street": "Tullastraße",
+    "houseNumber": "2-8",
+    "postcode": "75031",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

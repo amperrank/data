@@ -1,0 +1,45 @@
+{
+  "operatorId": "DE*CPI",
+  "geohash": "0DmW0s6k",
+  "name": "HAHN AUTOMOBILE VK FB AU ABB 62",
+  "evses": [
+    {
+      "id": "DECPIE65748552",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 44.0
+        },
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE65748551",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 43.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Fellbach",
+    "street": "Waiblinger Straße",
+    "houseNumber": "68-70",
+    "postcode": "70734",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

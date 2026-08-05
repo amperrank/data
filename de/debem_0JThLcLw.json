@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*BEM",
+  "geohash": "0JThLcLw",
+  "name": "Ladestation bayernwerk e-mobil Marktplatz Vohenstrauß",
+  "evses": [
+    {
+      "id": "DEBEME0011111",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBEME0011110",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Vohenstrauß",
+    "street": "Marktplatz",
+    "houseNumber": "25",
+    "postcode": "92648",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

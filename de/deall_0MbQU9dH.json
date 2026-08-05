@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*ALL",
+  "geohash": "0MbQU9dH",
+  "name": "Allego - ATU Berlin Reinickendorf",
+  "evses": [
+    {
+      "id": "DEALLEGO0034612",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEALLEGO0034611",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Berlin",
+    "street": "Wilhelmsruher Damm",
+    "houseNumber": "25",
+    "postcode": "13158",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

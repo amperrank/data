@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*EWM",
+  "geohash": "0DLuVC2~",
+  "name": "Schnellladesäule EDEKA Armbruster-Welle, Schiltach",
+  "evses": [
+    {
+      "id": "DEEWME0000441",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEWME0000440",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEWME0000439",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Schiltach",
+    "street": "Hauptstraße",
+    "houseNumber": "74",
+    "postcode": "77761",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*2GO",
+  "geohash": "0GduVTFs",
+  "name": "EWE Go Ladestation",
+  "evses": [
+    {
+      "id": "DE2GOEEWE72661A1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEEWE72661A2",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 49.95
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Detern",
+    "street": "Alte Heerstraße 6",
+    "houseNumber": null,
+    "postcode": "26847",
+    "province": "Niedersachsen"
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

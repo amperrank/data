@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*KDL",
+  "geohash": "0M0dlGJc",
+  "name": "Kaufland Schwedt/Oder",
+  "evses": [
+    {
+      "id": "DEKDLE00001633",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEKDLE00001629",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Schwedt/Oder",
+    "street": "Platz der Befreiung",
+    "houseNumber": "6",
+    "postcode": "16303",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

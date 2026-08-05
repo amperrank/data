@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*APS",
+  "geohash": "0GfjkCh6",
+  "name": "AVIA Volt",
+  "evses": [
+    {
+      "id": "DEAPSE000023",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 180.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEAPSE000022",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 180.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Oldenburg",
+    "street": "Rosenstraße",
+    "houseNumber": "50",
+    "postcode": "26122",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

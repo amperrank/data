@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*GWE",
+  "geohash": "0GBqIl6l",
+  "name": "GW_Kirchplatz 10 Linnich_DC_Oe",
+  "evses": [
+    {
+      "id": "DEGWEEAC1033",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 20.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGWEEAC1034",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Linnich",
+    "street": "Kirchplatz",
+    "houseNumber": "10",
+    "postcode": "52441",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

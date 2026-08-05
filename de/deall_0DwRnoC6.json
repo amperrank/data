@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*ALL",
+  "geohash": "0DwRnoC6",
+  "name": "Allego - ATU Mannheim-Neckerau",
+  "evses": [
+    {
+      "id": "DEALLEGO0031101",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEALLEGO0031102",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Mannheim-Neckerau",
+    "street": "Morchfeldstr.",
+    "houseNumber": "47 - 49",
+    "postcode": "68199",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

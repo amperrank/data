@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*BOX",
+  "geohash": "0GMNS~vq",
+  "name": "Küppersstraße 2, Stadtwerke Bochum",
+  "evses": [
+    {
+      "id": "DEBOXEDC0007",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBOXEAC0004",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBOXEDC0008",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Bochum",
+    "street": "Küppersstraße",
+    "houseNumber": "2",
+    "postcode": "44791",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

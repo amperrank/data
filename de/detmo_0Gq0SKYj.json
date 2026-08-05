@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*TMO",
+  "geohash": "0Gq0SKYj",
+  "name": "TMO LP1/2 Marktplatz",
+  "evses": [
+    {
+      "id": "DETMOE11367002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETMOE11367001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Nesse-Apfelstädt OT Neudietendorf",
+    "street": "Von-Bülow-Platz",
+    "houseNumber": null,
+    "postcode": "99192",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

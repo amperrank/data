@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*ODE",
+  "geohash": "0G47wpwp",
+  "name": "Star Tankstelle Braunschweig",
+  "evses": [
+    {
+      "id": "DEODEEDC100220102",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEODEEDC100220101",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Braunschweig",
+    "street": "Neustadtring",
+    "houseNumber": "30",
+    "postcode": "38114",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

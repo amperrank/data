@@ -1,0 +1,63 @@
+{
+  "operatorId": "DE*911",
+  "geohash": "0GabEu~5",
+  "name": "Porsche Sales & Marketplace PZ Osnabrück _AC Wallbox 2",
+  "evses": [
+    {
+      "id": "DE911EDE00081700000010000001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 12.8
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE911EDE00010800000010000001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 320.16
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE911EDE00010800000020000001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 320.16
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE911EDE00198200000010000001",
+      "connectors": [
+        {
+          "type": "type1",
+          "maxPowerKw": 12.8
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Osnabrück",
+    "street": "Blumenhaller Weg",
+    "houseNumber": "153",
+    "postcode": "49078",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

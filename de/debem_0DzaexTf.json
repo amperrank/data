@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*BEM",
+  "geohash": "0DzaexTf",
+  "name": "Ladestation Gemeinde Faulbach",
+  "evses": [
+    {
+      "id": "DEBEME0010990",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBEME0010991",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Faulbach",
+    "street": "Schulgasse",
+    "houseNumber": "1",
+    "postcode": "97906",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

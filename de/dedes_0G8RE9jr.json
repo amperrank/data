@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*DES",
+  "geohash": "0G8RE9jr",
+  "name": "[FL-PUB] Gerd Hoyer Soltau - AC/DC - Eichrecht - DE*DES*E1004091",
+  "evses": [
+    {
+      "id": "DEDESE10040912",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEDESE10040911",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Soltau",
+    "street": "Vor dem Weiherbusch",
+    "houseNumber": "1",
+    "postcode": "29614",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

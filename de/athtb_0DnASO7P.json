@@ -1,0 +1,52 @@
+{
+  "operatorId": "AT*HTB",
+  "geohash": "0DnASO7P",
+  "name": "Lotter Waldäcker Ladesäule",
+  "evses": [
+    {
+      "id": "ATHTBE1002775",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 20.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "ATHTBE1002773",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "ATHTBE1002774",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Ludwigsburg",
+    "street": "Waldäcker",
+    "houseNumber": "15",
+    "postcode": "71636",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*TMO",
+  "geohash": "0GrdC5Qy",
+  "name": "TMO LP1/2 REWE",
+  "evses": [
+    {
+      "id": "DETMOE11319002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETMOE11319001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Ebeleben",
+    "street": "Sondershäuser Straße",
+    "houseNumber": "16",
+    "postcode": "99713",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

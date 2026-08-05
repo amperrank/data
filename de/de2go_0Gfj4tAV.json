@@ -1,0 +1,53 @@
+{
+  "operatorId": "DE*2GO",
+  "geohash": "0Gfj4tAV",
+  "name": "EWE Go Ladestation",
+  "evses": [
+    {
+      "id": "DE2GOE71012",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOE71011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Oldenburg",
+    "street": "Waterender Weg 30A",
+    "houseNumber": null,
+    "postcode": "26123",
+    "province": "Niedersachsen"
+  },
+  "openingHours": {
+    "isOpen247": false,
+    "regularHours": [
+      {
+        "weekday": 1,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 16,
+          "minute": 0
+        }
+      }
+    ]
+  }
+}

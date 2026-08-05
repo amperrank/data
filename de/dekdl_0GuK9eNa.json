@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*KDL",
+  "geohash": "0GuK9eNa",
+  "name": "Kaufland Sondershausen",
+  "evses": [
+    {
+      "id": "DEKDLE00001835",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEKDLE00001836",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Sondershausen",
+    "street": "Frankenhäuser Straße",
+    "houseNumber": "1",
+    "postcode": "99706",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

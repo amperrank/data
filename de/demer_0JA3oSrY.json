@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*MER",
+  "geohash": "0JA3oSrY",
+  "name": "Mer Germany GmbH Mer Germany (TuR) - Vaterstetten - Vaterstetten West #1",
+  "evses": [
+    {
+      "id": "DEMERE00010601",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00010602",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00010603",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 43.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Vaterstetten",
+    "street": "Vaterstetten West, An der A99",
+    "houseNumber": null,
+    "postcode": "85622",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

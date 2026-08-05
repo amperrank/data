@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*MEW",
+  "geohash": "0GzLCYz2",
+  "name": "Stadtwerke Wunstorf GmbH & Co. KG meerenergie - AH Kahle / Marktkauf - 001",
+  "evses": [
+    {
+      "id": "DEMEWELA000236001B",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 12.8
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMEWELA000236001A",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 3.68
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Wunstorf",
+    "street": "Hagenburger Straße",
+    "houseNumber": "16-18",
+    "postcode": "31515",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*POW",
+  "geohash": "0MLKcUyj",
+  "name": "DE Freital 01705 Wilsdruffer Straße 37 VGRD VW PP01 (öffentlich) (Dresden)",
+  "evses": [
+    {
+      "id": "DEPOWE02023",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE02024",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Freital",
+    "street": "Wilsdruffer Straße",
+    "houseNumber": "37",
+    "postcode": "01705",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

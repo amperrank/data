@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*LDL",
+  "geohash": "0MZvOHt6",
+  "name": "Lidl Filiale Berlin-Charlottenburg-Wilmersdorf",
+  "evses": [
+    {
+      "id": "DELDLE00002979",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELDLE00002980",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELDLE00002981",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Berlin-Charlottenburg-Wilmersdorf",
+    "street": "Lise-Meitner-Str.",
+    "houseNumber": "6",
+    "postcode": "10589",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

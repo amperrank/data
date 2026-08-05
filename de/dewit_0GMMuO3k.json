@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*WIT",
+  "geohash": "0GMMuO3k",
+  "name": "STWW_In der Lake 33, 58456 Witten_DC_Oe",
+  "evses": [
+    {
+      "id": "DEWITE0173",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEWITE0172",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Witten",
+    "street": "In der Lake",
+    "houseNumber": "33",
+    "postcode": "58456",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

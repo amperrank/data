@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*APS",
+  "geohash": "0GP7pfNE",
+  "name": "AVIA Volt",
+  "evses": [
+    {
+      "id": "DEAPSE240008",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEAPSE240007",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Gütersloh",
+    "street": "Carl-Bertelsmann-Straße",
+    "houseNumber": "255",
+    "postcode": "33335",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

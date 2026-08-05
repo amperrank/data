@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*POW",
+  "geohash": "0DL_3SAe",
+  "name": "DE Freudenstadt 72250 Wildbader Straße AH Kohler 21BZ0151A (öffentlich)",
+  "evses": [
+    {
+      "id": "DEPOWE02891",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 75.2
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE02892",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Freudenstadt",
+    "street": "Wildbader Straße",
+    "houseNumber": "1-3",
+    "postcode": "72250",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

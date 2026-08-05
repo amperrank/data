@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*GLI",
+  "geohash": "0GpWwEYf",
+  "name": "Bad Sooden Allendorf Stöber ABB 50kW",
+  "evses": [
+    {
+      "id": "DEGLIE100100107",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGLIE100100108",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Bad Sooden",
+    "street": "Werrastraße",
+    "houseNumber": "13",
+    "postcode": "37242",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

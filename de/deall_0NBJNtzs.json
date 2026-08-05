@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*ALL",
+  "geohash": "0NBJNtzs",
+  "name": "Allego - HEM Tankstelle Dorf Mecklenburg OT Karow",
+  "evses": [
+    {
+      "id": "DEALLEGO0025312",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEALLEGO0025311",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Dorf Mecklenburg OT Karow",
+    "street": "Akazienstraße",
+    "houseNumber": "1",
+    "postcode": "23972",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

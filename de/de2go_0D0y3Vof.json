@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*2GO",
+  "geohash": "0D0y3Vof",
+  "name": "EWE Go Ladestation",
+  "evses": [
+    {
+      "id": "DE2GOEMCD02441A2",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 99.75
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD02441A1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 99.75
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Hanau",
+    "street": "Lamboystraße 32",
+    "houseNumber": null,
+    "postcode": "63452",
+    "province": "Hessen"
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

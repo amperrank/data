@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*EDH",
+  "geohash": "0CdvGULF",
+  "name": "NaturEnergie Community - Lörrach Marie-Curie-Straße",
+  "evses": [
+    {
+      "id": "DEEDHE001193",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEDHE001192",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Lörrach",
+    "street": "Marie-Curie-Straße",
+    "houseNumber": "1",
+    "postcode": "79539",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

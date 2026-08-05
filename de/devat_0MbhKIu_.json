@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*VAT",
+  "geohash": "0MbhKIu_",
+  "name": "DE*VAT*EXCHA*C8A233S025HQZHBYLZ*1",
+  "evses": [
+    {
+      "id": "DEVATEXCHAC8A233S025HQZHBYLZ1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEVATEXCHAC8A233S025HQZHBYLZ2",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Erkner",
+    "street": "Berliner Straße",
+    "houseNumber": "4",
+    "postcode": "15537",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

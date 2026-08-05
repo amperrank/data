@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*CIW",
+  "geohash": "0Deh0Y76",
+  "name": "CITYWATT Ingelheim/Heidesheim #01 - 300kW",
+  "evses": [
+    {
+      "id": "DECIWE001116",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECIWE001115",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Ingelheim am Rhein",
+    "street": "Prof.-Karl-Bohland-Straße",
+    "houseNumber": "4",
+    "postcode": "55262",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

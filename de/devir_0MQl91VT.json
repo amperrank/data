@@ -1,0 +1,38 @@
+{
+  "operatorId": "DE*VIR",
+  "geohash": "0MQl91VT",
+  "name": "Voets Autozentrum Magdeburg Nord",
+  "evses": [
+    {
+      "id": "DEVIRE245311",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 250.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEVIRE243700",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 250.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Magdeburg",
+    "street": "August-Bebel-Damm",
+    "houseNumber": "48",
+    "postcode": "39126",
+    "province": null
+  },
+  "openingHours": null
+}

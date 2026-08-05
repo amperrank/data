@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*APS",
+  "geohash": "0GSio4Cg",
+  "name": "AVIA Volt",
+  "evses": [
+    {
+      "id": "DEAPSE240011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEAPSE240012",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Vreden",
+    "street": "Wüllener Straße",
+    "houseNumber": "108",
+    "postcode": "48691",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

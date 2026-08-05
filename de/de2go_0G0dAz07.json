@@ -1,0 +1,53 @@
+{
+  "operatorId": "DE*2GO",
+  "geohash": "0G0dAz07",
+  "name": "EWE Go Ladestation",
+  "evses": [
+    {
+      "id": "DE2GOE03581",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOE03582",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Delmenhorst",
+    "street": "Am Stadtbad 2",
+    "houseNumber": null,
+    "postcode": "27753",
+    "province": "Niedersachsen"
+  },
+  "openingHours": {
+    "isOpen247": false,
+    "regularHours": [
+      {
+        "weekday": 1,
+        "periodBegin": {
+          "hour": 10,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 21,
+          "minute": 0
+        }
+      }
+    ]
+  }
+}

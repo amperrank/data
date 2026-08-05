@@ -1,0 +1,42 @@
+{
+  "operatorId": "DE*WAG",
+  "geohash": "0GMsUMf4",
+  "name": "Autohaus Schmidt - Schwerte",
+  "evses": [
+    {
+      "id": "DEWAGEE0343",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 24.0
+        },
+        {
+          "type": "chademo",
+          "maxPowerKw": 24.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEWAGEE0344",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Schwerte",
+    "street": "Hörder Str.",
+    "houseNumber": "55",
+    "postcode": "58239",
+    "province": null
+  },
+  "openingHours": null
+}

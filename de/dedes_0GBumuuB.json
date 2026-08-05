@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*DES",
+  "geohash": "0GBumuuB",
+  "name": "[FL-PUB] Procar Automobile GmbH Erkelenz- DC - Eichrecht - DE*DES*E1002956",
+  "evses": [
+    {
+      "id": "DEDESE10029562",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEDESE10029561",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 75.2
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Erkelenz",
+    "street": "Antwerpener Straße",
+    "houseNumber": "6",
+    "postcode": "41812",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

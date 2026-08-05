@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*CPI",
+  "geohash": "0DmVxIPv",
+  "name": "HAHN AUTOMOBILE KWH VK SK DC 33",
+  "evses": [
+    {
+      "id": "DECPIE66216452",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 75.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE66216451",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 75.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Kornwestheim",
+    "street": "Albstr.",
+    "houseNumber": "18",
+    "postcode": "70806",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

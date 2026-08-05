@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*MER",
+  "geohash": "0JEdO7P9",
+  "name": "Mer Germany GmbH Mer Germany (TuR) - Hepberg - Köschinger Forst West",
+  "evses": [
+    {
+      "id": "DEMERE00510002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00510001",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00510003",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Hepberg",
+    "street": "Köschinger Forst West, An der A9",
+    "houseNumber": null,
+    "postcode": "85120",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

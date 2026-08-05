@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*CPI",
+  "geohash": "0HIige6H",
+  "name": "LADESTATION ABP STATION 1",
+  "evses": [
+    {
+      "id": "DECPIE71336552",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE71336551",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Aurich",
+    "street": "24 Tjüchkampstraße",
+    "houseNumber": null,
+    "postcode": "26605",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

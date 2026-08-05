@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*BOX",
+  "geohash": "0GMH47Xv",
+  "name": "Stadtwerke Bochum, Finca Bar Celona, Gahlensche Straße 92",
+  "evses": [
+    {
+      "id": "DEBOXEAC0930",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBOXEAC0931",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Bochum",
+    "street": "Gahlensche Str.",
+    "houseNumber": "92",
+    "postcode": "44809",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

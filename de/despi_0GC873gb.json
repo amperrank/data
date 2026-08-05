@@ -1,0 +1,49 @@
+{
+  "operatorId": "DE*SPI",
+  "geohash": "0GC873gb",
+  "name": "ESSO Höninger Weg 12",
+  "evses": [
+    {
+      "id": "DESPIEG0011",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 12.8
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DESPIEG0012",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DESPIEG0013",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Köln",
+    "street": "Höninger Weg",
+    "houseNumber": "12",
+    "postcode": "50969",
+    "province": null
+  },
+  "openingHours": null
+}

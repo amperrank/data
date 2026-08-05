@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*MER",
+  "geohash": "0JNVQ9Y_",
+  "name": "Mer Germany GmbH Kreiswerke Cham - Cham - Mittelweg 15 #1",
+  "evses": [
+    {
+      "id": "DEMERE00037401",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00037402",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Cham",
+    "street": "15 Mittelweg",
+    "houseNumber": null,
+    "postcode": "93413",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

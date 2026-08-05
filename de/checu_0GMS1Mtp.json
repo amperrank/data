@@ -1,0 +1,49 @@
+{
+  "operatorId": "CH*ECU",
+  "geohash": "0GMS1Mtp",
+  "name": "T54HV-IT1-2221-133",
+  "evses": [
+    {
+      "id": "CHECUE74XRN7BTEKTAB8XRC3C3KR52AX",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 12.8
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "CHECUEM3CXPHTLCDKUY8BSK5EVZGBY73",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 62.5
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "CHECUE3CWYVZ2EZYQYY2MGG7ZRRVHD3Q",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Herne",
+    "street": "Heerstraße",
+    "houseNumber": "20",
+    "postcode": "44653",
+    "province": null
+  },
+  "openingHours": null
+}

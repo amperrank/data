@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*GLI",
+  "geohash": "0GjeH_B1",
+  "name": "Baunatal Glinicke 175KW",
+  "evses": [
+    {
+      "id": "DEGLIE100100110",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 175.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGLIE100100111",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 75.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGLIE100100114",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Baunatal",
+    "street": "Porschestraße",
+    "houseNumber": "2-8",
+    "postcode": "34225",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

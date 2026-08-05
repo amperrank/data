@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*122",
+  "geohash": "0D48wcTT",
+  "name": "BayWa Mobility Charging",
+  "evses": [
+    {
+      "id": "DE122E7020302",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE122E7020301",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Bad Windsheim",
+    "street": "Hofmannstraße",
+    "houseNumber": "5",
+    "postcode": "91438",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

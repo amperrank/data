@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*122",
+  "geohash": "0JVpEtcb",
+  "name": "Strobel 1",
+  "evses": [
+    {
+      "id": "DE122E0000064",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE122E0000065",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Selbitz",
+    "street": "Dörnthal",
+    "houseNumber": "71",
+    "postcode": "95152",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

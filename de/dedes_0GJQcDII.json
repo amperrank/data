@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*DES",
+  "geohash": "0GJQcDII",
+  "name": "[FL-PUB] Procar Automobile GmbH Solingen - DC - Eichrecht - DE*DES*E1002967",
+  "evses": [
+    {
+      "id": "DEDESE10029671",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 75.2
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEDESE10029672",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Solingen",
+    "street": "Frankfurter Damm",
+    "houseNumber": "15",
+    "postcode": "42719",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

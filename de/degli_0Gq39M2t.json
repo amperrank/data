@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*GLI",
+  "geohash": "0Gq39M2t",
+  "name": "Erfurt Audi Zentrum 50 kW Rudolstädter Str. 19",
+  "evses": [
+    {
+      "id": "DEGLIE100100140",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGLIE100100139",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGLIE100100138",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 43.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Erfurt",
+    "street": "Rudolstädter Straße",
+    "houseNumber": "19",
+    "postcode": "99099",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

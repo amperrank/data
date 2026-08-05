@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*ODE",
+  "geohash": "0C82R9fX",
+  "name": "DC-14001-01",
+  "evses": [
+    {
+      "id": "DEODEEDC140010102",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEODEEDC140010101",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Oberstdorf",
+    "street": "Am Faltenbach",
+    "houseNumber": "27",
+    "postcode": "87561",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

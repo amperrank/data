@@ -1,0 +1,41 @@
+{
+  "operatorId": "AT*HTB",
+  "geohash": "0GH_lDT6",
+  "name": "Ladestation 300kW Dieker & Voss Gescher",
+  "evses": [
+    {
+      "id": "ATHTBE1017736",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "ATHTBE1017737",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Gescher",
+    "street": "Porschestraße",
+    "houseNumber": "2-4",
+    "postcode": "48712",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

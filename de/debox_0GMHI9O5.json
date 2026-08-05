@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*BOX",
+  "geohash": "0GMHI9O5",
+  "name": "Stadtwerke Bochum, Rewe Mokanski Westenfelder Str. 202",
+  "evses": [
+    {
+      "id": "DEBOXEAC0946",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBOXEAC0947",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Bochum",
+    "street": "Westenfelder Str.",
+    "houseNumber": "202",
+    "postcode": "44867",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

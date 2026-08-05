@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*ODR",
+  "geohash": "0DnX8lEK",
+  "name": "Stadtwerke Neckarsulm - Cäcilienstraße - CCS200",
+  "evses": [
+    {
+      "id": "DEODRE10002022",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEODRE10002021",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Neckarsulm",
+    "street": "Cäcilienstraße",
+    "houseNumber": "5",
+    "postcode": "74172",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "operatorId": "DE*TNM",
+  "geohash": "0Hom1Y4e",
+  "name": "Shell Recharge OBN 6782 - Shell Moellner Landstrasse",
+  "evses": [
+    {
+      "id": "DETNMEGL4901678202",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 175.0
+        },
+        {
+          "type": "chademo",
+          "maxPowerKw": 70.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49016782031",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 360.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49016782032",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 360.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Witzhave",
+    "street": "Möllner Landstraße",
+    "houseNumber": "13",
+    "postcode": "22969",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

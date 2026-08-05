@@ -1,0 +1,41 @@
+{
+  "operatorId": "AT*HTB",
+  "geohash": "0MEZjklm",
+  "name": "ParkplatzHauptstr",
+  "evses": [
+    {
+      "id": "ATHTBECSN0548451",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 44.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "ATHTBECSN00548452",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Helbra",
+    "street": "Hauptstraße",
+    "houseNumber": "8",
+    "postcode": "06311",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

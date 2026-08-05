@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*POW",
+  "geohash": "0Dp080Gh",
+  "name": "DE_Auto König GmbH & Co. KG - HYC50 Schnellladestation - 100136846 öffentlich (KKT)",
+  "evses": [
+    {
+      "id": "DEPOWE02750",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE02749",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Günzburg",
+    "street": "Heidenheimer Straße",
+    "houseNumber": "11",
+    "postcode": "89312",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

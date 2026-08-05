@@ -1,0 +1,49 @@
+{
+  "operatorId": "DE*TNM",
+  "geohash": "0HoF6BIA",
+  "name": "Shell Recharge OBN 6740 - Shell Volksparkstrasse",
+  "evses": [
+    {
+      "id": "DETNMEGL4901674002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 175.0
+        },
+        {
+          "type": "chademo",
+          "maxPowerKw": 70.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL4901674001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 175.0
+        },
+        {
+          "type": "chademo",
+          "maxPowerKw": 70.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Hamburg",
+    "street": "Volksparkstraße",
+    "houseNumber": "44-46",
+    "postcode": "22525",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

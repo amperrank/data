@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*KDL",
+  "geohash": "0G4GU3Jo",
+  "name": "Kaufland Hildesheim",
+  "evses": [
+    {
+      "id": "DEKDLE00001506",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEKDLE00001505",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Hildesheim",
+    "street": "Römerring",
+    "houseNumber": "8-10",
+    "postcode": "31137",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

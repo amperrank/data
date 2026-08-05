@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*CIW",
+  "geohash": "0C9EWdaR",
+  "name": "CITYWATT - Gretter Bauunternehmen",
+  "evses": [
+    {
+      "id": "DECIWE000863",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECIWE000864",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Scheidegg",
+    "street": "Grüntenweg",
+    "houseNumber": "6",
+    "postcode": "88175",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

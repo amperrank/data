@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*EDH",
+  "geohash": "0DKWdNn7",
+  "name": "Autostrom Ladenetz - Emmendingen Festplatz DC",
+  "evses": [
+    {
+      "id": "DEEDHE001105",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEDHE001104",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Emmendingen",
+    "street": "Karl-Bautz-Str.",
+    "houseNumber": "16",
+    "postcode": "79312",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

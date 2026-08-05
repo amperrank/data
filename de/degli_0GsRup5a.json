@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*GLI",
+  "geohash": "0GsRup5a",
+  "name": "Göttingen British Cars 50 kW",
+  "evses": [
+    {
+      "id": "DEGLIE100100162",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGLIE100100163",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Göttingen",
+    "street": "Große Breite",
+    "houseNumber": "3",
+    "postcode": "37077",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*DES",
+  "geohash": "0GMWj2Ud",
+  "name": "[FL-PUB] Vogelsang Automobile - AC/DC - Eichrecht SAM - DE*DES*E1003241",
+  "evses": [
+    {
+      "id": "DEDESE10032411",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 20.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEDESE10032412",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Recklinghausen",
+    "street": "Rottstr.",
+    "houseNumber": "118",
+    "postcode": "45659",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

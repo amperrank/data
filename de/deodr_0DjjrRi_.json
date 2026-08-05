@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*ODR",
+  "geohash": "0DjjrRi_",
+  "name": "Batholomäus GmbH - DC-Ladesäule 75kW",
+  "evses": [
+    {
+      "id": "DEODRE10001472",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 75.2
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEODRE10001473",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Emerkingen",
+    "street": "Bachstraße",
+    "houseNumber": "10",
+    "postcode": "89607",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

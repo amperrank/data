@@ -1,0 +1,42 @@
+{
+  "operatorId": "DE*VIR",
+  "geohash": "0G1g4Vnu",
+  "name": "Kletterzentrum Bremen",
+  "evses": [
+    {
+      "id": "DEVIRE299713",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEVIRE299712",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        },
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Bremen",
+    "street": "Robert-Hooke-Str.",
+    "houseNumber": "19",
+    "postcode": "28359",
+    "province": null
+  },
+  "openingHours": null
+}

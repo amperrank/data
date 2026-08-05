@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*EAD",
+  "geohash": "0MOHhKeu",
+  "name": "Autohaus Neustadt E-Charger",
+  "evses": [
+    {
+      "id": "DEEADE100046",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEADE100045",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Elsterwerda",
+    "street": "Westbogen",
+    "houseNumber": "2",
+    "postcode": "04910",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

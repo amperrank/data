@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*POW",
+  "geohash": "0MZHGV2Q",
+  "name": "DE Nauen 14641 Brandenburger Allee 3 Havelland-Solar HPC1 (öffentlich)",
+  "evses": [
+    {
+      "id": "DEPOWE02333",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE02332",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Nauen",
+    "street": "Brandenburger Allee",
+    "houseNumber": "3",
+    "postcode": "14641",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

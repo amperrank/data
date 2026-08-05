@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*APS",
+  "geohash": "0GHtVsXy",
+  "name": "AVIA Volt",
+  "evses": [
+    {
+      "id": "DEAPSE100001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEAPSE100002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Borken",
+    "street": "Ahauser Straße",
+    "houseNumber": "21",
+    "postcode": "46325",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

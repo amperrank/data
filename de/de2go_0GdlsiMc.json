@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*2GO",
+  "geohash": "0GdlsiMc",
+  "name": "EWE Go Ladestation",
+  "evses": [
+    {
+      "id": "DE2GOEEWE80801C6",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 49.95
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEEWE80801C5",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 49.95
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Leer (Ostfriesland)",
+    "street": "Kupenwarf 4",
+    "houseNumber": null,
+    "postcode": "26789",
+    "province": "Niedersachsen"
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "operatorId": "DE*CPI",
+  "geohash": "0Dm0Se1A",
+  "name": "BURGER SCHLOZ LADESÄULE 1",
+  "evses": [
+    {
+      "id": "DECPIE71127751",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.08
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE71127752",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.08
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Schorndorf",
+    "street": "60 Stuttgarter Straße",
+    "houseNumber": null,
+    "postcode": "73614",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": false,
+    "regularHours": [
+      {
+        "weekday": 7,
+        "periodBegin": {
+          "hour": 5,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 30
+        }
+      },
+      {
+        "weekday": 6,
+        "periodBegin": {
+          "hour": 5,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 30
+        }
+      }
+    ]
+  }
+}

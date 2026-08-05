@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*VAT",
+  "geohash": "0HivOo3f",
+  "name": "DE*VAT*EXCHA*C6E15BCC25KFUHCNFR*2",
+  "evses": [
+    {
+      "id": "DEVATEXCHAC6E15BCC25KFUHCNFR2",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEVATEXCHAC6E15BCC25KFUHCNFR1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Hamburg",
+    "street": "Sülldorfer Landstraße",
+    "houseNumber": "188",
+    "postcode": "22589",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

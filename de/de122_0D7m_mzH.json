@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*122",
+  "geohash": "0D7m_mzH",
+  "name": "BayWa Mobility Charging",
+  "evses": [
+    {
+      "id": "DE122E7020502",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE122E7020501",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE122E0000478",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Forchheim",
+    "street": "Am Bertelsweiher",
+    "houseNumber": "1a",
+    "postcode": "91301",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

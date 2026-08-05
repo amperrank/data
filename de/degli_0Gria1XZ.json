@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*GLI",
+  "geohash": "0Gria1XZ",
+  "name": "Erfurt Hyundai/Peugeot 50kW",
+  "evses": [
+    {
+      "id": "DEGLIE100100150",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGLIE100100149",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Erfurt",
+    "street": "Vollbrachtstraße",
+    "houseNumber": "14",
+    "postcode": "99086",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

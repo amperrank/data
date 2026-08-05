@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*DES",
+  "geohash": "0GyJl8MP",
+  "name": "[VA] [FL-PUB] Autohaus Becker-Tiemann Schaumburg GmbH & Co. KG - DC - Eichrecht - DE*DES*E1003308",
+  "evses": [
+    {
+      "id": "DEDESE10033082",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEDESE10033081",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Hameln",
+    "street": "Ohsener Straße",
+    "houseNumber": "74",
+    "postcode": "31789",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

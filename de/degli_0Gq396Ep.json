@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*GLI",
+  "geohash": "0Gq396Ep",
+  "name": "Erfurt PZ 350kW Ladepunkt 2",
+  "evses": [
+    {
+      "id": "DEGLIE100100153",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGLIE100100154",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Erfurt",
+    "street": "Holzlandstraße",
+    "houseNumber": "4",
+    "postcode": "99099",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

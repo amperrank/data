@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*TMO",
+  "geohash": "0MAXgy~l",
+  "name": "TMO LP1/2/3 Rasthof",
+  "evses": [
+    {
+      "id": "DETMOE11047003",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETMOE11047002",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETMOE11047001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 43.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Mellingen",
+    "street": "Hainholzstrasse",
+    "houseNumber": "1",
+    "postcode": "99441",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

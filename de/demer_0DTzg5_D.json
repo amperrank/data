@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*MER",
+  "geohash": "0DTzg5_D",
+  "name": "Mer Germany GmbH Autohaus Scholtes GmbH - Mehring - Moselstraße 1 #1",
+  "evses": [
+    {
+      "id": "DEMERE00670201",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00670202",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Mehring",
+    "street": "1 Moselstraße",
+    "houseNumber": null,
+    "postcode": "54346",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

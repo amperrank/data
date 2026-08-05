@@ -1,0 +1,49 @@
+{
+  "operatorId": "DE*WAG",
+  "geohash": "0GNyC_wU",
+  "name": "Westfalen Ladestation Westfalen AG - Senden",
+  "evses": [
+    {
+      "id": "DEWAGEE0095",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEWAGEE0096",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEWAGEE0307",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Senden",
+    "street": "Münsterstraße",
+    "houseNumber": "52",
+    "postcode": "48308",
+    "province": null
+  },
+  "openingHours": null
+}

@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*MER",
+  "geohash": "0D6h9fKQ",
+  "name": "Mer Germany GmbH Mer Germany (TuR) - Kammerstein - Kammersteiner Land Süd #1",
+  "evses": [
+    {
+      "id": "DEMERE00010803",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 43.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00010802",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00010801",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Kammerstein",
+    "street": "Kammersteiner Land Süd, An der A6",
+    "houseNumber": null,
+    "postcode": "91126",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

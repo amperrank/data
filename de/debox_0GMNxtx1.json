@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*BOX",
+  "geohash": "0GMNxtx1",
+  "name": "Stadtwerke Bochum, Grüner Weg 44, Stadtwerke Bochum",
+  "evses": [
+    {
+      "id": "DEBOXEAC0905",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBOXEAC0904",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Bochum",
+    "street": "Grüner Weg",
+    "houseNumber": "44",
+    "postcode": "44791",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

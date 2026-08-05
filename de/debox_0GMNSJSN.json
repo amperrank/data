@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*BOX",
+  "geohash": "0GMNSJSN",
+  "name": "Stadtwerke Bochum, Große Beckstraße 20, 50kW",
+  "evses": [
+    {
+      "id": "DEBOXEAC01002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBOXEAC01001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Bochum",
+    "street": "Große Beckstr.",
+    "houseNumber": "12",
+    "postcode": "44787",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

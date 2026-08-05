@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*122",
+  "geohash": "0Djdu30p",
+  "name": "BayWa Mobility Charging",
+  "evses": [
+    {
+      "id": "DE122E7022301",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE122E7022302",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Bad Urach",
+    "street": "Seilerweg",
+    "houseNumber": "22",
+    "postcode": "72574",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

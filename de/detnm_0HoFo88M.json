@@ -1,0 +1,49 @@
+{
+  "operatorId": "DE*TNM",
+  "geohash": "0HoFo88M",
+  "name": "Shell Recharge OBN 0338 - Shell Schnackenburgallee",
+  "evses": [
+    {
+      "id": "DETNMEGL4901033801",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 175.0
+        },
+        {
+          "type": "chademo",
+          "maxPowerKw": 70.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL4901033802",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 175.0
+        },
+        {
+          "type": "chademo",
+          "maxPowerKw": 70.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Hamburg",
+    "street": "Schnackenburgallee",
+    "houseNumber": "12",
+    "postcode": "22525",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

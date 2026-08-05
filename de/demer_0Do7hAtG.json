@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*MER",
+  "geohash": "0Do7hAtG",
+  "name": "Mer Germany SemiPublic Charging Grob Werke (Öffentlich) - Mindelheim - Hochvogelstraße 5 #1",
+  "evses": [
+    {
+      "id": "DEMERE00664402",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00664401",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Mindelheim",
+    "street": "5 Hochvogelstraße",
+    "houseNumber": null,
+    "postcode": "87719",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

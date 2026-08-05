@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*POW",
+  "geohash": "0MEhD2Pb",
+  "name": "DE Querfurt 06268 Merseburger Straße 104 Autohaus Jacob Querfurt HYC150 (23BZ8417A) öffentlich KKT",
+  "evses": [
+    {
+      "id": "DEPOWE03447",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 75.2
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE03448",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Querfurt",
+    "street": "Merseburger Straße",
+    "houseNumber": "104",
+    "postcode": "06268",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

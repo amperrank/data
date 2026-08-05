@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*SMC",
+  "geohash": "0Dq6B8Lp",
+  "name": "HerrschingAmAmmersee.Bahnhofsplatz4.Public",
+  "evses": [
+    {
+      "id": "DESMCE0000288",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DESMCE0000287",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Herrsching am Ammersee",
+    "street": "Bahnhofspl.",
+    "houseNumber": "4",
+    "postcode": "82211",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

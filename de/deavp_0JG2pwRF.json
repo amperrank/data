@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*AVP",
+  "geohash": "0JG2pwRF",
+  "name": "Probatum Sun GmbH",
+  "evses": [
+    {
+      "id": "DEAVPE0000246",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEAVPE0000245",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Leiblfing",
+    "street": "Haidersberg",
+    "houseNumber": "9",
+    "postcode": "94339",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

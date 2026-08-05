@@ -1,0 +1,34 @@
+{
+  "operatorId": "DE*TNM",
+  "geohash": "0HoM3QaW",
+  "name": "Shell Recharge OBN 0039 - Shell Juethornstrasse",
+  "evses": [
+    {
+      "id": "DETNMEGL4901003901",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 175.0
+        },
+        {
+          "type": "chademo",
+          "maxPowerKw": 70.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Hamburg",
+    "street": "Jüthornstrasse",
+    "houseNumber": "49",
+    "postcode": "22043",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

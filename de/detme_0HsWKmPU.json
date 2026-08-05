@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*TME",
+  "geohash": "0HsWKmPU",
+  "name": "Gettorf, Hasselrott 11 LIS 1",
+  "evses": [
+    {
+      "id": "DETMEE30107",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETMEE30233",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETMEE30106",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Gettorf",
+    "street": "Hasselrott",
+    "houseNumber": "11",
+    "postcode": "24214",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "operatorId": "DE*911",
+  "geohash": "0GsRup5a",
+  "name": "Porsche Sales & Marketplace Porsche Zentrum Göttingen Wallbox links",
+  "evses": [
+    {
+      "id": "DE911EDE00009800000010000001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 320.16
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE911EDE00147000000010000001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 6.4
+        },
+        {
+          "type": "chademo",
+          "maxPowerKw": 6.4
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE911EDE00147100000010000001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 6.4
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE911EDE00009800000020000001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 320.16
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Göttingen",
+    "street": "Große Breite",
+    "houseNumber": "2",
+    "postcode": "37083",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

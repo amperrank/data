@@ -1,0 +1,63 @@
+{
+  "operatorId": "DE*911",
+  "geohash": "0DnR_L7p",
+  "name": "Porsche Sales & Marketplace PZ HN Ladesäule 1",
+  "evses": [
+    {
+      "id": "DE911EDE00090400000010000001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 6.4
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE911EDE00023900000020000001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 320.16
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE911EDE00023900000010000001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 320.16
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE911EDE00090300000010000001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 12.8
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Heilbronn",
+    "street": "Stuttgarter Straße",
+    "houseNumber": "111",
+    "postcode": "74074",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

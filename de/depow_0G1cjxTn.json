@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*POW",
+  "geohash": "0G1cjxTn",
+  "name": "DE Hagen im Bremischen Börsten 38 AH Küver HPC1 (öffentlich) (KKT)",
+  "evses": [
+    {
+      "id": "DEPOWE02326",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE02325",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Hagen im Bremischen",
+    "street": "Börsten",
+    "houseNumber": "38",
+    "postcode": "27628",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

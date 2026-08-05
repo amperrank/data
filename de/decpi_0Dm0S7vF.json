@@ -1,0 +1,45 @@
+{
+  "operatorId": "DE*CPI",
+  "geohash": "0Dm0S7vF",
+  "name": "HAHN AUTOMOBILE VK SD AU ABB 12",
+  "evses": [
+    {
+      "id": "DECPIE65923452",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        },
+        {
+          "type": "chademo",
+          "maxPowerKw": 44.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE65923451",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 43.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Schorndorf",
+    "street": "Stuttgarter Str.",
+    "houseNumber": "31-57",
+    "postcode": "73614",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

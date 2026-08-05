@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*EWM",
+  "geohash": "0DOO4nRu",
+  "name": "Schnellladesäule Achern, Wilhelm-Schechter-Straße 15 (Rathaus)",
+  "evses": [
+    {
+      "id": "DEEWME0000146",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 75.2
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEWME0000147",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Achern",
+    "street": "Wilhelm-Schechter-Straße",
+    "houseNumber": "15",
+    "postcode": "77855",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

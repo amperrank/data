@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*DES",
+  "geohash": "0JBMCJYp",
+  "name": "Volksbank Raiffeisenbank Dachau eG - DE*DES*E0151",
+  "evses": [
+    {
+      "id": "DEDESE01513",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEDESE01512",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEDESE01511",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Dachau",
+    "street": "Münchner Str.",
+    "houseNumber": "35",
+    "postcode": "85221",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

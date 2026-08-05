@@ -1,0 +1,30 @@
+{
+  "operatorId": "AT*HTB",
+  "geohash": "0D0bbdpl",
+  "name": "ACHTUNG: Private Ladestation - kein öffentliches Laden!",
+  "evses": [
+    {
+      "id": "ATHTBE1015876",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Musterstadt",
+    "street": "Musterstraße",
+    "houseNumber": null,
+    "postcode": "12345",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

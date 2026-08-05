@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*DES",
+  "geohash": "0Gwxm1M7",
+  "name": "[FL-PUB] Autohaus Becker-Tiemann Minden-Lübbecke - DC - Eichrecht - DE*DES*E1003318",
+  "evses": [
+    {
+      "id": "DEDESE10033181",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEDESE10033182",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Minden",
+    "street": "Uphauser Weg",
+    "houseNumber": "70",
+    "postcode": "32429",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

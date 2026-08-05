@@ -1,0 +1,49 @@
+{
+  "operatorId": "DE*TNM",
+  "geohash": "0GDoKg5I",
+  "name": "Shell Recharge OBN 2260 - Shell Hugo-Eckener-Strasse",
+  "evses": [
+    {
+      "id": "DETNMEGL4901226002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 175.0
+        },
+        {
+          "type": "chademo",
+          "maxPowerKw": 70.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL4901226001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 175.0
+        },
+        {
+          "type": "chademo",
+          "maxPowerKw": 70.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Köln",
+    "street": "Hugo-Eckener-Straße",
+    "houseNumber": "27A",
+    "postcode": "50829",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

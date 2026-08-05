@@ -1,0 +1,49 @@
+{
+  "operatorId": "DE*TNM",
+  "geohash": "0HoCOxid",
+  "name": "Shell Recharge OBN 6726 - Shell Bremerstrasse",
+  "evses": [
+    {
+      "id": "DETNMEGL4901672601",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 175.0
+        },
+        {
+          "type": "chademo",
+          "maxPowerKw": 70.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL4901672602",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 175.0
+        },
+        {
+          "type": "chademo",
+          "maxPowerKw": 70.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Hamburg",
+    "street": "Bremer Str.",
+    "houseNumber": "112",
+    "postcode": "21073",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

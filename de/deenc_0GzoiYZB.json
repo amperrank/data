@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*ENC",
+  "geohash": "0GzoiYZB",
+  "name": "enercity AG enercity - Gerhardtstr./Kornstr. - 001",
+  "evses": [
+    {
+      "id": "DEENCELA000130001C",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEENCELA000130001B",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEENCELA000130001A",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Hannover",
+    "street": "Gerhardtstraße",
+    "houseNumber": "12",
+    "postcode": "30167",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

@@ -1,0 +1,99 @@
+[
+  {
+    "operatorId": {
+      "countryCode": "DE",
+      "cpo": "IOY"
+    },
+    "currency": "EUR",
+    "validFrom": null,
+    "validTo": null,
+    "updatedAt": "2026-08-05T00:00:00.000",
+    "description": null,
+    "tiers": [
+      {
+        "id": "power",
+        "name": "IONITY Power",
+        "role": "secondary",
+        "subscriptionFee": 11.99,
+        "requiresMembership": true,
+        "applicableHours": null,
+        "description": null,
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 0.41,
+            "unit": "kWh",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          }
+        ]
+      },
+      {
+        "id": "motion",
+        "name": "IONITY Motion",
+        "role": "secondary",
+        "subscriptionFee": 5.99,
+        "requiresMembership": true,
+        "applicableHours": null,
+        "description": null,
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 0.51,
+            "unit": "kWh",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          }
+        ]
+      },
+      {
+        "id": "app",
+        "name": "IONITY App",
+        "role": "secondary",
+        "subscriptionFee": null,
+        "requiresMembership": false,
+        "applicableHours": null,
+        "description": null,
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 0.68,
+            "unit": "kWh",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          }
+        ]
+      },
+      {
+        "id": "direct",
+        "name": "IONITY Direct",
+        "role": "standard",
+        "subscriptionFee": null,
+        "requiresMembership": false,
+        "applicableHours": null,
+        "description": null,
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 0.72,
+            "unit": "kWh",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          }
+        ]
+      }
+    ]
+  }
+]

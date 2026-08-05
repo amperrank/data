@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*ODR",
+  "geohash": "0Dgg4eyT",
+  "name": "EW Aach - Singener Straße 17 - HPC 150 kW",
+  "evses": [
+    {
+      "id": "DEODRE10000703",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEODRE10000704",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEODRE10000705",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Aach",
+    "street": "Singener Straße",
+    "houseNumber": "17",
+    "postcode": "78267",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

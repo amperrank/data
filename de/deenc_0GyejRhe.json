@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*ENC",
+  "geohash": "0GyejRhe",
+  "name": "Stadtwerke Barsinghausen GmbH Autohaus Senne - star Tankstelle - 001",
+  "evses": [
+    {
+      "id": "DEENCELA000238001B",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 12.8
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEENCELA000238001A",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 3.68
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Barsinghausen",
+    "street": "Rehrbrinkstraße",
+    "houseNumber": "8",
+    "postcode": "30890",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

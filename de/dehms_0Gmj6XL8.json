@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*HMS",
+  "geohash": "0Gmj6XL8",
+  "name": "VHM Ladestation",
+  "evses": [
+    {
+      "id": "DEHMSE100024",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEHMSE100023",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Hann. Münden",
+    "street": "Gergraben",
+    "houseNumber": null,
+    "postcode": "34346",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

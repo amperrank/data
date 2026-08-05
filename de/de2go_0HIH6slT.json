@@ -1,0 +1,53 @@
+{
+  "operatorId": "DE*2GO",
+  "geohash": "0HIH6slT",
+  "name": "EWE Go Ladestation",
+  "evses": [
+    {
+      "id": "DE2GOE02371",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOE02372",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Norden",
+    "street": "Am Markt 24",
+    "houseNumber": null,
+    "postcode": "26506",
+    "province": "Niedersachsen"
+  },
+  "openingHours": {
+    "isOpen247": false,
+    "regularHours": [
+      {
+        "weekday": 1,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 22,
+          "minute": 0
+        }
+      }
+    ]
+  }
+}

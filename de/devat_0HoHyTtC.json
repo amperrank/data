@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*VAT",
+  "geohash": "0HoHyTtC",
+  "name": "DE*VAT*EXCHA*C7NE28A0CCATPYVUAPR*1",
+  "evses": [
+    {
+      "id": "DEVATEXCHAC7NE28A0CCATPYVUAPR2",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEVATEXCHAC7NE28A0CCATPYVUAPR1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Hamburg",
+    "street": "Eppendorfer Landstraße",
+    "houseNumber": "154",
+    "postcode": "20251",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

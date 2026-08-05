@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*EDH",
+  "geohash": "0Cfn7DiW",
+  "name": "NaturEnergie Community - Waldshut-Tiengen Südstern Triplecharger - 150021",
+  "evses": [
+    {
+      "id": "DEEDHE001364",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEDHE001363",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 43.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEDHE001356",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Waldshut-Tiengen",
+    "street": "Nikolaus-Otto-Straße",
+    "houseNumber": "4",
+    "postcode": "79761",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

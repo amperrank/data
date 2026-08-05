@@ -1,0 +1,42 @@
+{
+  "operatorId": "DE*WAG",
+  "geohash": "0GCNQNr4",
+  "name": "Westfalen Ladestation Westfalen AG - Düren",
+  "evses": [
+    {
+      "id": "DEWAGEE0046",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEWAGEE0047",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        },
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Düren",
+    "street": "Nikolaus-Otto-Straße",
+    "houseNumber": "1",
+    "postcode": "52351",
+    "province": null
+  },
+  "openingHours": null
+}

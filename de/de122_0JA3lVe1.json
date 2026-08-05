@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*122",
+  "geohash": "0JA3lVe1",
+  "name": "BayWa Mobility Charging",
+  "evses": [
+    {
+      "id": "DE122E7020402",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE122E7020401",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Feldkirchen",
+    "street": "Oberndorfer Straße",
+    "houseNumber": "24",
+    "postcode": "85622",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

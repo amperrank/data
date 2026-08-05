@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*DES",
+  "geohash": "0Gauj61r",
+  "name": "[FL-PUB] Autohaus Becker-Tiemann Spenge - DC - Eichrecht - DE*DES*E1003307",
+  "evses": [
+    {
+      "id": "DEDESE10033072",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEDESE10033071",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Spenge",
+    "street": "Duettingdorfer Str.",
+    "houseNumber": "342",
+    "postcode": "32139",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

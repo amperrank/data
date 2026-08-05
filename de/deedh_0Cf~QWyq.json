@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*EDH",
+  "geohash": "0Cf~QWyq",
+  "name": "NaturEnergie Community - Bonndorf Autohaus Amann Triplecharger - 150034",
+  "evses": [
+    {
+      "id": "DEEDHE000574",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEDHE000572",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 43.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEDHE000573",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Bonndorf",
+    "street": "Talstrasse",
+    "houseNumber": "3a",
+    "postcode": "79848",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

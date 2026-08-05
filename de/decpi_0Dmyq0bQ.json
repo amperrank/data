@@ -1,0 +1,45 @@
+{
+  "operatorId": "DE*CPI",
+  "geohash": "0Dmyq0bQ",
+  "name": "HAHN AUTOMOBILE VK GP AU ABB 15",
+  "evses": [
+    {
+      "id": "DECPIE65989952",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        },
+        {
+          "type": "chademo",
+          "maxPowerKw": 44.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE65989951",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 43.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Göppingen",
+    "street": "Heininger Str.",
+    "houseNumber": "16",
+    "postcode": "73037",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

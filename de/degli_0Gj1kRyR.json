@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*GLI",
+  "geohash": "0Gj1kRyR",
+  "name": "Glinicke Sport und Geländewagen Kassel 175kW",
+  "evses": [
+    {
+      "id": "DEGLIE100100184",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 75.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGLIE100100204",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGLIE100100183",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 175.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Kassel",
+    "street": "Leipziger straße",
+    "houseNumber": "228",
+    "postcode": "34123",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

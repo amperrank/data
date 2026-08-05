@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*911",
+  "geohash": "0C92kv6C",
+  "name": "Porsche Sales & Marketplace Porsche Zentrum Allgäu Wallbox 2",
+  "evses": [
+    {
+      "id": "DE911EDE00147300000010000001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 12.8
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE911EDE00017300000020000001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 320.16
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE911EDE00147200000010000001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 12.8
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Kempten",
+    "street": "Georg-Krug-Straße",
+    "houseNumber": "10",
+    "postcode": "87437",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

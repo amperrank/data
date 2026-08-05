@@ -1,0 +1,64 @@
+{
+  "operatorId": "DE*CPI",
+  "geohash": "0DnmHbgo",
+  "name": "BURGER SCHLOZ MURRHARDT 1",
+  "evses": [
+    {
+      "id": "DECPIE71730452",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.08
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE71730451",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.08
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Murrhardt",
+    "street": "114 Fornsbacher Straße",
+    "houseNumber": null,
+    "postcode": "71540",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": false,
+    "regularHours": [
+      {
+        "weekday": 7,
+        "periodBegin": {
+          "hour": 5,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 30
+        }
+      },
+      {
+        "weekday": 6,
+        "periodBegin": {
+          "hour": 5,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 30
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*POW",
+  "geohash": "0MGi~ki6",
+  "name": "DE Taucha 04425 Otto-Schmidt-Str. 8 Auto-Center Weber HYC 50 (100140043) öffentlich KKT",
+  "evses": [
+    {
+      "id": "DEPOWE03450",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE03449",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Taucha",
+    "street": "Otto-Schmidt-Straße",
+    "houseNumber": "8",
+    "postcode": "04425",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

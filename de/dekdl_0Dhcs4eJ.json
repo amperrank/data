@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*KDL",
+  "geohash": "0Dhcs4eJ",
+  "name": "Kaufland Horb",
+  "evses": [
+    {
+      "id": "DEKDLE00000910",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 20.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEKDLE00000911",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 20.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEKDLE00000909",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Horb am Neckar",
+    "street": "Bahnhofstraße",
+    "houseNumber": "15",
+    "postcode": "72160",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

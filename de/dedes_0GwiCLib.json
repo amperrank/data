@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*DES",
+  "geohash": "0GwiCLib",
+  "name": "[FL-PUB] Autohaus Becker-Tiemann Lemgo - DC - Eichrecht - DE*DES*E1003315",
+  "evses": [
+    {
+      "id": "DEDESE10033151",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEDESE10033152",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Lemgo",
+    "street": "Entruper Weg",
+    "houseNumber": "23",
+    "postcode": "32657",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

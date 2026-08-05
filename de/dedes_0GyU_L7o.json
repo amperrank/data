@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*DES",
+  "geohash": "0GyU_L7o",
+  "name": "[FL-PUB] Autohaus Becker-Tiemann Schaumburg GmbH & Co. KG - DC - Eichrecht - DE*DES*E1003319",
+  "evses": [
+    {
+      "id": "DEDESE10033191",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEDESE10033192",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Stadthagen",
+    "street": "Vornhäger Str.",
+    "houseNumber": "59",
+    "postcode": "31655",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

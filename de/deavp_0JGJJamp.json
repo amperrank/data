@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*AVP",
+  "geohash": "0JGJJamp",
+  "name": "Porsche Zentrum Landshut Säule 1 - 350kW",
+  "evses": [
+    {
+      "id": "DEAVPE0000016",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEAVPE0000015",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Ergolding",
+    "street": "Albert-Einstein-Straße",
+    "houseNumber": "1",
+    "postcode": "84030",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

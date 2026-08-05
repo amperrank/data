@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*DES",
+  "geohash": "0GzLAj0t",
+  "name": "[FL-PUB] Autohaus Becker-Tiemann Schaumburg GmbH & Co. KG - DC - Eichrecht - DE*DES*E1003321",
+  "evses": [
+    {
+      "id": "DEDESE10033212",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEDESE10033211",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Wunstorf",
+    "street": "Hagenburgerstr.",
+    "houseNumber": "46",
+    "postcode": "31515",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

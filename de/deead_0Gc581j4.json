@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*EAD",
+  "geohash": "0Gc581j4",
+  "name": "EQ - Esterwegen Poststraße 13",
+  "evses": [
+    {
+      "id": "DEEADE500060",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 120.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEADE500061",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Esterwegen",
+    "street": "Poststr.",
+    "houseNumber": "13",
+    "postcode": "26897",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

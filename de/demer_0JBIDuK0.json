@@ -1,0 +1,63 @@
+{
+  "operatorId": "DE*MER",
+  "geohash": "0JBIDuK0",
+  "name": "Mer Germany GmbH Mer Germany (TuR) - München - Pippinger Flur Süd #1",
+  "evses": [
+    {
+      "id": "DEMERE00135703",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00135701",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00135704",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00135702",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 62.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "München",
+    "street": "Pippinger Flur Süd, An der A8",
+    "houseNumber": null,
+    "postcode": "81247",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

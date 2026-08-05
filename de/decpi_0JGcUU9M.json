@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*CPI",
+  "geohash": "0JGcUU9M",
+  "name": "SMP SCHIERLING STATION 1",
+  "evses": [
+    {
+      "id": "DECPIE73900451",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE73900452",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Schierling",
+    "street": "1 Ludwig-Erhard-Straße",
+    "houseNumber": null,
+    "postcode": "84069",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*POW",
+  "geohash": "0C9FLjIa",
+  "name": "LI_Seitz_Hauptstraße 81_Lindenberg_88161_0019367 öffentlich",
+  "evses": [
+    {
+      "id": "DEPOWE02740",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE02739",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Lindenberg im Allgäu",
+    "street": "Hauptstraße",
+    "houseNumber": "81",
+    "postcode": "88161",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

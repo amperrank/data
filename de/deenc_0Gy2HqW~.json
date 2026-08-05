@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*ENC",
+  "geohash": "0Gy2HqW~",
+  "name": "enercity AG enercity - Dammstraße/Brauereiweg - A01",
+  "evses": [
+    {
+      "id": "DEENCELA001262A01B",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 20.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEENCELA001262A01A",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 20.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Gehrden",
+    "street": "Dammstraße",
+    "houseNumber": null,
+    "postcode": "30989",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

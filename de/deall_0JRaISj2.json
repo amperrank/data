@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*ALL",
+  "geohash": "0JRaISj2",
+  "name": "Allego - Kaufland Pegnitz",
+  "evses": [
+    {
+      "id": "DEALLEGO0017491",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEALLEGO0031402",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEALLEGO0031401",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Pegnitz",
+    "street": "Nürnberger Str.",
+    "houseNumber": "22-28",
+    "postcode": "91257",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

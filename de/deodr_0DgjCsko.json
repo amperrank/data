@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*ODR",
+  "geohash": "0DgjCsko",
+  "name": "EW Aach - Eigeltingen Krumme Straße 1 - HPC 150 kW",
+  "evses": [
+    {
+      "id": "DEODRE10000706",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEODRE10000708",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEODRE10000707",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Eigeltingen",
+    "street": "Krumme Straße",
+    "houseNumber": "1",
+    "postcode": "78253",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

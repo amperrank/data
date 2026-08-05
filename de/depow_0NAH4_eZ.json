@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*POW",
+  "geohash": "0NAH4_eZ",
+  "name": "DE Schwerin 19061 Hagenower Chaussee OTLG AH Ahnefeld LS1 (öffentlich)",
+  "evses": [
+    {
+      "id": "DEPOWE02921",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE02922",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Schwerin",
+    "street": "Hagenower Chaussee",
+    "houseNumber": "1B",
+    "postcode": "19061",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

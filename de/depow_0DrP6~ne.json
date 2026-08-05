@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*POW",
+  "geohash": "0DrP6~ne",
+  "name": "DE VGRD VW Augsburg 86179 Schwaba Bischofsackerweg 10 PP01 21BZ1577A öffentlich (KKT) AC Buchse defekt",
+  "evses": [
+    {
+      "id": "DEPOWE02718",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE022717",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 75.2
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Augsburg",
+    "street": "Bischofsackerweg",
+    "houseNumber": "10",
+    "postcode": "86179",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

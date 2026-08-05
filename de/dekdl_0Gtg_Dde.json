@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*KDL",
+  "geohash": "0Gtg_Dde",
+  "name": "Kaufland Osterode",
+  "evses": [
+    {
+      "id": "DEKDLE00001155",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEKDLE00001156",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Osterode am Harz",
+    "street": "Herzberger Landstraße",
+    "houseNumber": "8",
+    "postcode": "37520",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*ODR",
+  "geohash": "0Dj4z7M9",
+  "name": "Andreas Rau Gewerbepark - DC-Ladesäule 150kW",
+  "evses": [
+    {
+      "id": "DEODRE10001470",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEODRE10001469",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEODRE10001471",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Schelklingen",
+    "street": "Ehinger Straße",
+    "houseNumber": "11",
+    "postcode": "89601",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

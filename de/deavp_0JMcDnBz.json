@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*AVP",
+  "geohash": "0JMcDnBz",
+  "name": "AVP - 0061 - PZ Niederbayern/Plattling 350kW",
+  "evses": [
+    {
+      "id": "DEAVPE0000038",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEAVPE0000037",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Plattling",
+    "street": "Ferdinand-Porsche-Straße",
+    "houseNumber": "1",
+    "postcode": "94447",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

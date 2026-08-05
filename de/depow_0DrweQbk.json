@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*POW",
+  "geohash": "0DrweQbk",
+  "name": "DE VGRD VW Augsburg 86165 Schwaba Donaustraße 8 NW04 PP07 PP08 100110549 öffentlich gedrosselt auf 42kW",
+  "evses": [
+    {
+      "id": "DEPOWE02511",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE02512",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Augsburg",
+    "street": "Donaustraße",
+    "houseNumber": "8",
+    "postcode": "86165",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

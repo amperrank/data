@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*CIW",
+  "geohash": "0Dvlg4MT",
+  "name": "Auto Bierschneider GmbH",
+  "evses": [
+    {
+      "id": "DECIWE001513",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECIWE001514",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Weißenburg",
+    "street": "Dettenheimer Str.",
+    "houseNumber": "17",
+    "postcode": "91781",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

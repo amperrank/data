@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*BOX",
+  "geohash": "0GMN_B4S",
+  "name": "Parkplatz Ruhr Park, Am Einkaufszentrum; Stadtwerke Bochum",
+  "evses": [
+    {
+      "id": "DEBOXEDC0002",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBOXEAC0001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBOXEDC0001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Bochum",
+    "street": "Parkplatz Ruhr Park, Am Einkaufszentrum",
+    "houseNumber": null,
+    "postcode": "44791",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

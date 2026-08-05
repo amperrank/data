@@ -1,0 +1,50 @@
+[
+  {
+    "operatorId": {
+      "countryCode": "DE",
+      "cpo": "BDO"
+    },
+    "currency": "EUR",
+    "validFrom": null,
+    "validTo": null,
+    "updatedAt": "2026-08-05T18:01:44.4082148+00:00",
+    "description": "Variable energy prices, split by AC (≤ 22 kW), DC (> 22 kW), and HDC (DC ≥ 150 kW), derived from 2367 per-kWh prices across 1727 DE*BDO stations in the Mobilithek stat feed (min–median–max per type). All prices incl. 19% VAT. Actual prices vary by station. Blocking/parking fees and session fees are irregular and not included.",
+    "tiers": [
+      {
+        "id": "standard",
+        "role": "standard",
+        "name": "Standard",
+        "subscriptionFee": null,
+        "requiresMembership": false,
+        "applicableHours": null,
+        "description": null,
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 0.5,
+            "minPricePerUnit": 0.2,
+            "maxPricePerUnit": 0.89,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 0.57,
+            "minPricePerUnit": 0.28,
+            "maxPricePerUnit": 0.89,
+            "unit": "kWh",
+            "minPowerKw": 150,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          }
+        ]
+      }
+    ]
+  }
+]

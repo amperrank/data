@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*POW",
+  "geohash": "0DpToL_i",
+  "name": "DE_VGRD_NU_VW_Memminger_Str_89231_PP02_öffentlich (LM1)",
+  "evses": [
+    {
+      "id": "DEPOWE02213",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE022211",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 75.2
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Neu-Ulm",
+    "street": "Memminger Straße",
+    "houseNumber": "61-67",
+    "postcode": "89231",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

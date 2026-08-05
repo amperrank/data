@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*DES",
+  "geohash": "0MH6h79I",
+  "name": "[FL-PUB] Autohaus Müller Wittenberg GmbH - Eichrecht SAM - DC - DE*DES*E1003064",
+  "evses": [
+    {
+      "id": "DEDESE10030642",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEDESE10030641",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Lutherstadt Wittenberg",
+    "street": "Dessauer Straße",
+    "houseNumber": "9",
+    "postcode": "06886",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*POW",
+  "geohash": "0DrbyPMI",
+  "name": "DE VGRD GWZ Gersthofen 86368 Schwaba Porschestr. 2 - L1-1 - öffentlich (KKT) (Ausfahrt West PP01 + PP02)",
+  "evses": [
+    {
+      "id": "DEPOWE03106",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE03105",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Gersthofen",
+    "street": "Porschestraße",
+    "houseNumber": "2",
+    "postcode": "86368",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

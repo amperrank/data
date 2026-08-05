@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*DES",
+  "geohash": "0GwH3nwz",
+  "name": "[FL-PUB] Autohaus Becker-Tiemann Bünde - DC - Eichrecht - DE*DES*E1003316",
+  "evses": [
+    {
+      "id": "DEDESE10033161",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEDESE10033162",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Bünde",
+    "street": "Wasserbreite",
+    "houseNumber": "88-94",
+    "postcode": "32257",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

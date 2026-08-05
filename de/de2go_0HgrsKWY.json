@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*2GO",
+  "geohash": "0HgrsKWY",
+  "name": "EWE Go Ladestation",
+  "evses": [
+    {
+      "id": "DE2GOEMCD11191A1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 54.5
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD11191A2",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 54.5
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Bremervörde",
+    "street": "Zeppelinstraße 6",
+    "houseNumber": null,
+    "postcode": "27432",
+    "province": "Niedersachsen"
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*KDL",
+  "geohash": "0MlpnVqX",
+  "name": "Kaufland Forst",
+  "evses": [
+    {
+      "id": "DEKDLE00001151",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEKDLE00001152",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Forst",
+    "street": "Promenade",
+    "houseNumber": "2",
+    "postcode": "03149",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

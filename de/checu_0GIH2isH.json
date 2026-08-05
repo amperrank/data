@@ -1,0 +1,38 @@
+{
+  "operatorId": "CH*ECU",
+  "geohash": "0GIH2isH",
+  "name": "Audi Autohaus Hoff Ladeparkplatz 1",
+  "evses": [
+    {
+      "id": "CHECUERANQH9FQ5VYNWBXYRMUCRM54YA",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "CHECUEURK4LDBR6NBEWA9ZRME55QSEPQ",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 12.8
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Sankt Augustin",
+    "street": "Einsteinstraße",
+    "houseNumber": "17",
+    "postcode": "53757",
+    "province": null
+  },
+  "openingHours": null
+}

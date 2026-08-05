@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*POW",
+  "geohash": "0DKjMqea",
+  "name": "DE Lenzkirch 79853 Ludwig-Kegelstraße 11 AH Wittmer HPC öffentlich",
+  "evses": [
+    {
+      "id": "DEPOWE02378",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE02377",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Lenzkirch",
+    "street": "Ludwig-Kegel-Straße",
+    "houseNumber": "11",
+    "postcode": "79853",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

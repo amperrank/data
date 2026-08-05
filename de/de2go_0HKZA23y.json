@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*2GO",
+  "geohash": "0HKZA23y",
+  "name": "EWE Go Ladestation",
+  "evses": [
+    {
+      "id": "DE2GOEEWE75301A1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 49.95
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEEWE75301A2",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 49.95
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Wangerland",
+    "street": "Bismarckstraße 9",
+    "houseNumber": null,
+    "postcode": "26434",
+    "province": "Niedersachsen"
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

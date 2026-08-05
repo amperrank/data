@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*SMC",
+  "geohash": "0NKrTLSz",
+  "name": "Pasewalk.BahnhofStrasse2.Public",
+  "evses": [
+    {
+      "id": "DESMCE0000302",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DESMCE0000301",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Pasewalk",
+    "street": "Bahnhofstraße",
+    "houseNumber": "2",
+    "postcode": "17309",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}
