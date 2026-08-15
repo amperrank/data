@@ -1,10 +1,10 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0DOBvBlC",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0541",
   "evses": [
     {
-      "id": "DE2GOEMCD09571A1",
+      "id": "DE2GOEMCD09571A2",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEMCD09571A2",
+      "id": "DE2GOEMCD09571A1",
       "connectors": [
         {
           "type": "ccs",
@@ -29,16 +29,159 @@
   "facilities": null,
   "address": {
     "city": "Kehl",
-    "street": "Königsberger Straße 17",
+    "street": "Königsbergerstraße",
     "houseNumber": null,
     "postcode": "77694",
-    "province": "Baden-Württemberg"
+    "province": null
   },
   "openingHours": {
     "isOpen247": false,
     "regularHours": [
       {
+        "weekday": 6,
+        "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 4,
+          "minute": 30
+        }
+      },
+      {
+        "weekday": 6,
+        "periodBegin": {
+          "hour": 9,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 7,
+        "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 4,
+          "minute": 30
+        }
+      },
+      {
+        "weekday": 7,
+        "periodBegin": {
+          "hour": 9,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      },
+      {
         "weekday": 1,
+        "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 4,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 1,
+        "periodBegin": {
+          "hour": 9,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 2,
+        "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 4,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 2,
+        "periodBegin": {
+          "hour": 9,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 3,
+        "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 4,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 3,
+        "periodBegin": {
+          "hour": 9,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 4,
+        "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 4,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 4,
+        "periodBegin": {
+          "hour": 9,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 59
+        }
+      },
+      {
+        "weekday": 5,
+        "periodBegin": {
+          "hour": 0,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 4,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 5,
         "periodBegin": {
           "hour": 9,
           "minute": 0

@@ -1,19 +1,8 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0GMRVJio",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE1000159",
   "evses": [
-    {
-      "id": "DE2GOEMCD15201B4",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DE2GOEMCD15201B3",
       "connectors": [
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEMCD15201A1",
+      "id": "DE2GOEMCD15201B4",
       "connectors": [
         {
           "type": "ccs",
@@ -46,15 +35,26 @@
       ],
       "authMethods": null,
       "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD15201A1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Gelsenkirchen",
-    "street": "Feldhauser Straße 91",
+    "street": "Feldhauser Straße",
     "houseNumber": null,
     "postcode": "45894",
-    "province": "Nordrhein-Westfalen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

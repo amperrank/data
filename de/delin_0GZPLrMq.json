@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*LIN",
+  "geohash": "0GZPLrMq",
+  "name": "Hotel - Restaurant Veldscholten",
+  "evses": [
+    {
+      "id": "DELINEN400",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELINEN401",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Lingen",
+    "street": "Frerener Str.",
+    "houseNumber": "4",
+    "postcode": "49809",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

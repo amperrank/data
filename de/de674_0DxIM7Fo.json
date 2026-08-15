@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*674",
+  "geohash": "0DxIM7Fo",
+  "name": "Stadtwerke Weinheim GmbH, Tilsitter Straße 30, 69502 Hemsbach",
+  "evses": [
+    {
+      "id": "DE674E000036001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE674E000036002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Hemsbach",
+    "street": "Tilsitter Straße",
+    "houseNumber": "30",
+    "postcode": "69502",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

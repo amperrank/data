@@ -1,10 +1,21 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0D1N5SZf",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0654",
   "evses": [
     {
       "id": "DE2GOEMCD09531A2",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "54756E050B050B64EBA6BBF2B5E41EB8",
       "connectors": [
         {
           "type": "ccs",
@@ -29,10 +40,10 @@
   "facilities": null,
   "address": {
     "city": "Butzbach",
-    "street": "Griedeler Straße 77",
+    "street": "Griedeler Straße",
     "houseNumber": null,
     "postcode": "35510",
-    "province": "Darmstadt"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

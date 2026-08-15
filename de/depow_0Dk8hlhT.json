@@ -4,6 +4,17 @@
   "name": "DE Leonberg 71229 Glemseckstraße 52 32 AH Weeber Skoda (Delta) (100kW)",
   "evses": [
     {
+      "id": "DEPOWE02480",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEPOWE02479",
       "connectors": [
         {
@@ -15,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPOWE02480",
+      "id": "DEPOWE01896",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -49,17 +60,6 @@
     },
     {
       "id": "DEPOWE02861",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEPOWE01896",
       "connectors": [
         {
           "type": "type2",

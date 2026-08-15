@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*TNK",
+  "geohash": "0GC~Ru2u",
+  "name": "[RheinEnergie] - Neusser Straße. 216 (Mast 28C)",
+  "evses": [
+    {
+      "id": "DETNKE10014401",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 2.3
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNKE10014201",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Köln",
+    "street": "Neusser Str.",
+    "houseNumber": "216",
+    "postcode": "50733",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

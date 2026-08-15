@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*PWA",
+  "geohash": "0DKScZn_",
+  "name": "Pfalzwerke Ladestation (OBI)",
+  "evses": [
+    {
+      "id": "DEPWAEALP22267X0004501",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPWAEALP22267X0004502",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Freiburg im Breisgau",
+    "street": "Tullastraße",
+    "houseNumber": null,
+    "postcode": "79108",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

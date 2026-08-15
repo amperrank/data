@@ -1,8 +1,19 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0DxXtxDW",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0569",
   "evses": [
+    {
+      "id": "DE2GOEMCD18291A1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DE2GOEMCD18291A2",
       "connectors": [
@@ -35,26 +46,15 @@
       ],
       "authMethods": null,
       "paymentMethods": null
-    },
-    {
-      "id": "DE2GOEMCD18291A1",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Weiterstadt",
-    "street": "Max-Planck-Straße 1",
+    "street": "Max-Planck-Straße",
     "houseNumber": null,
     "postcode": "64331",
-    "province": "Hessen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

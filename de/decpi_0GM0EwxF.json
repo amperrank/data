@@ -4,7 +4,7 @@
   "name": "SLK GMBH STATION 5",
   "evses": [
     {
-      "id": "DECPIE65154452",
+      "id": "DECPIE65154451",
       "connectors": [
         {
           "type": "type2",
@@ -37,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE65154451",
+      "id": "DECPIE65154452",
       "connectors": [
         {
           "type": "type2",
@@ -57,74 +57,7 @@
     "province": null
   },
   "openingHours": {
-    "isOpen247": false,
-    "regularHours": [
-      {
-        "weekday": 1,
-        "periodBegin": {
-          "hour": 6,
-          "minute": 0
-        },
-        "periodEnd": {
-          "hour": 17,
-          "minute": 0
-        }
-      },
-      {
-        "weekday": 2,
-        "periodBegin": {
-          "hour": 6,
-          "minute": 0
-        },
-        "periodEnd": {
-          "hour": 17,
-          "minute": 0
-        }
-      },
-      {
-        "weekday": 3,
-        "periodBegin": {
-          "hour": 6,
-          "minute": 0
-        },
-        "periodEnd": {
-          "hour": 17,
-          "minute": 0
-        }
-      },
-      {
-        "weekday": 4,
-        "periodBegin": {
-          "hour": 6,
-          "minute": 0
-        },
-        "periodEnd": {
-          "hour": 17,
-          "minute": 0
-        }
-      },
-      {
-        "weekday": 5,
-        "periodBegin": {
-          "hour": 6,
-          "minute": 0
-        },
-        "periodEnd": {
-          "hour": 17,
-          "minute": 0
-        }
-      },
-      {
-        "weekday": 6,
-        "periodBegin": {
-          "hour": 7,
-          "minute": 0
-        },
-        "periodEnd": {
-          "hour": 13,
-          "minute": 0
-        }
-      }
-    ]
+    "isOpen247": true,
+    "regularHours": null
   }
 }

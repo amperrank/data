@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*LDK",
+  "geohash": "0G46_R8b",
+  "name": "BS|ENERGY Hans-Porner-Straße",
+  "evses": [
+    {
+      "id": "DELDKE00152",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELDKE00153",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Braunschweig",
+    "street": "Hans-Porner-Straße",
+    "houseNumber": "7",
+    "postcode": "38126",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

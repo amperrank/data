@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*PWA",
+  "geohash": "0DwLNSI9",
+  "name": "Pfalzwerke Ladestation (PENNY)",
+  "evses": [
+    {
+      "id": "DEPWAEALP22267X0003001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPWAEALP22267X0003002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Dielheim",
+    "street": "Beethovenstraße",
+    "houseNumber": null,
+    "postcode": "69234",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

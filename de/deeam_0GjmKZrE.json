@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*EAM",
+  "geohash": "0GjmKZrE",
+  "name": "360 011S Morschen Rathaus",
+  "evses": [
+    {
+      "id": "DEEAME0859",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEAME0860",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Morschen",
+    "street": "Posthofstraße",
+    "houseNumber": null,
+    "postcode": "34326",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

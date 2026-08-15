@@ -1,10 +1,32 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0HgD3LaW",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE1000196",
   "evses": [
     {
+      "id": "DE2GOEEWE74012A4",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DE2GOEEWE74012A3",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEEWE74013A6",
       "connectors": [
         {
           "type": "ccs",
@@ -24,59 +46,15 @@
       ],
       "authMethods": null,
       "paymentMethods": null
-    },
-    {
-      "id": "DE2GOEEWE74012A4",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 49.95
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE2GOEEWE74011A1",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE2GOEEWE74011A2",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 49.95
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE2GOEEWE74013A6",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 49.95
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Bremerhaven",
-    "street": "Hoebelstraße 20",
+    "street": "Hoebelstraße",
     "houseNumber": null,
     "postcode": "27572",
-    "province": "Bremen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

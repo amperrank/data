@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*OPE",
+  "geohash": "0GIGMSYv",
+  "name": "An der Siebengebirgsbahn 3 DC50",
+  "evses": [
+    {
+      "id": "DEOPEE0054900L",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEOPEE0054900R",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Bonn",
+    "street": "An der Siebengebirgsbahn",
+    "houseNumber": "3",
+    "postcode": "53227",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*Q1A",
+  "geohash": "0GabNHbx",
+  "name": "Q1 Autostrom Ladestation",
+  "evses": [
+    {
+      "id": "DEQ1AE48141607",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEQ1AE48141608",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEQ1AE48141609",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Osnabrück",
+    "street": "Kurt-Schumacher-Damm",
+    "houseNumber": null,
+    "postcode": "49078",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

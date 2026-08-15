@@ -1,19 +1,8 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0G0FRHFi",
-  "name": "EWE Go Ladestation",
+  "name": "EWE_7216_1A",
   "evses": [
-    {
-      "id": "DE2GOEEWE72161B4",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 49.95
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DE2GOEEWE72161A1",
       "connectors": [
@@ -30,7 +19,18 @@
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 49.95
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEEWE72161B4",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -51,10 +51,10 @@
   "facilities": null,
   "address": {
     "city": "Wildeshausen",
-    "street": "Gildeplatz 11",
+    "street": "Gildeplatz",
     "houseNumber": null,
     "postcode": "27793",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

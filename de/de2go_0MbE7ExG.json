@@ -1,7 +1,7 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0MbE7ExG",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0315",
   "evses": [
     {
       "id": "DE2GOEMCD14181A1",
@@ -29,18 +29,84 @@
   "facilities": null,
   "address": {
     "city": "Berlin",
-    "street": "Wrangelstraße 35",
+    "street": "Wrangelstraße",
     "houseNumber": null,
     "postcode": "10997",
-    "province": "Berlin"
+    "province": null
   },
   "openingHours": {
     "isOpen247": false,
     "regularHours": [
       {
-        "weekday": 1,
+        "weekday": 4,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 7,
         "periodBegin": {
           "hour": 9,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 3,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 2,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 1,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 6,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 5,
+        "periodBegin": {
+          "hour": 7,
           "minute": 0
         },
         "periodEnd": {

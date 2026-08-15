@@ -1,19 +1,8 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0GhL_ur2",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE1000190",
   "evses": [
-    {
-      "id": "DE2GOENUV00061A1",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DE2GOENUV00061D7",
       "connectors": [
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOENUV00061B3",
+      "id": "DE2GOENUV00061D8",
       "connectors": [
         {
           "type": "ccs",
@@ -37,33 +26,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOENUV00061E10",
+      "id": "DE2GOENUV00061E9",
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 7.36
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DE2GOENUV00061B4",
+      "id": "1E416EB27EFA2DDD4FBA7FD4442A532B",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 49.95
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE2GOENUV00061C6",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 49.95
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -74,7 +52,18 @@
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 7.36
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOENUV00061E10",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -85,7 +74,29 @@
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 7.36
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOENUV00061A1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOENUV00061A2",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -103,33 +114,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOENUV00061E9",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE2GOENUV00061D8",
+      "id": "DE2GOENUV00061C6",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 49.95
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE2GOENUV00061A2",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 49.95
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -138,11 +127,11 @@
   ],
   "facilities": null,
   "address": {
-    "city": "Frankenberg (Eder)",
-    "street": "Siegener Straße 5",
+    "city": "Frankenberg",
+    "street": "Siegener Straße",
     "houseNumber": null,
     "postcode": "35066",
-    "province": "Hessen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

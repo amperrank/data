@@ -4,17 +4,6 @@
   "name": "Kaufland Delmenhorst",
   "evses": [
     {
-      "id": "DEKDLE00001037",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 60.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEKDLE00001038",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DEKDLE00001039",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEKDLE00001037",
       "connectors": [
         {
           "type": "ccs",

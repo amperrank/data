@@ -1,0 +1,178 @@
+[
+  {
+    "operatorId": {
+      "countryCode": "DE",
+      "cpo": "EIC"
+    },
+    "currency": "EUR",
+    "validFrom": null,
+    "validTo": null,
+    "updatedAt": "2026-08-15T00:00:00.000",
+    "description": "EW Eichsfeldgas (Eichsfeldwerke Group) tariffs. All prices incl. 19% VAT.",
+    "tiers": [
+      {
+        "id": "ladekarte",
+        "name": "Ladekarte (own columns)",
+        "role": "standard",
+        "subscriptionFee": null,
+        "requiresMembership": true,
+        "applicableHours": null,
+        "description": "Eichsfeldwerke Ladekarte at own charging columns. AC-blocking fee is suspended between 22:00 and 06:00; charge times before/after are added up.",
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 0.49,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 0.66,
+            "unit": "kWh",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.12,
+            "unit": "min",
+            "minPowerKw": null,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": 240,
+            "condition": null,
+            "applicableHours": {
+              "isOpen247": false,
+              "regularHours": [
+                {
+                  "weekday": 1,
+                  "periodBegin": {
+                    "hour": 6,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 2,
+                  "periodBegin": {
+                    "hour": 6,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 3,
+                  "periodBegin": {
+                    "hour": 6,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 4,
+                  "periodBegin": {
+                    "hour": 6,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 5,
+                  "periodBegin": {
+                    "hour": 6,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 6,
+                  "periodBegin": {
+                    "hour": 6,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 7,
+                  "periodBegin": {
+                    "hour": 6,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.12,
+            "unit": "min",
+            "minPowerKw": null,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": 60,
+            "condition": null,
+            "applicableHours": null
+          }
+        ]
+      },
+      {
+        "id": "ad-hoc",
+        "name": "Ad-hoc (other operators)",
+        "role": "secondary",
+        "subscriptionFee": null,
+        "requiresMembership": false,
+        "applicableHours": null,
+        "description": "Ad-hoc charging at other operators' columns (QR code) — pay by card. Higher AC/DC rates than the Ladekarte tier.",
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 0.62,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 0.81,
+            "unit": "kWh",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          }
+        ]
+      }
+    ]
+  }
+]

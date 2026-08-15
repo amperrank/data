@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*CC2",
+  "geohash": "0JA_Ax6a",
+  "name": "Telekom (öffentliche Ladesäule)",
+  "evses": [
+    {
+      "id": "DECC2ECC21900004ALP03",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECC2ECC21900004ALP02",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECC2ECC21900004ALP01",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Kirchseeon",
+    "street": "Ahornstr",
+    "houseNumber": null,
+    "postcode": "85614",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

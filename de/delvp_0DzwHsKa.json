@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*LVP",
+  "geohash": "0DzwHsKa",
+  "name": "Wertheim - Schnelllader Bahnhofstraße",
+  "evses": [
+    {
+      "id": "DELVPE21392002",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELVPE21459002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELVPE21459001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Wertheim",
+    "street": "Bahnhofstraße",
+    "houseNumber": "18",
+    "postcode": "97877",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

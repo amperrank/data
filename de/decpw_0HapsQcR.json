@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*CPW",
+  "geohash": "0HapsQcR",
+  "name": "CutPower CutPower Sylt (HPC)",
+  "evses": [
+    {
+      "id": "DECPWE10000434121",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPWE10000434122",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPWE10000434123",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Sylt",
+    "street": "Kiarwai",
+    "houseNumber": "1",
+    "postcode": "25980",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

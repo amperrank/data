@@ -4,17 +4,6 @@
   "name": "Kaufland Pfullingen",
   "evses": [
     {
-      "id": "DEKDLE00002940",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 60.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEKDLE00002914",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DEKDLE00002913",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEKDLE00002940",
       "connectors": [
         {
           "type": "ccs",

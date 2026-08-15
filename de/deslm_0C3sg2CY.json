@@ -1,0 +1,49 @@
+{
+  "operatorId": "DE*SLM",
+  "geohash": "0C3sg2CY",
+  "name": "SWLi Kundenparkplatz",
+  "evses": [
+    {
+      "id": "DESLME0100001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        },
+        {
+          "type": "unknown",
+          "maxPowerKw": 3.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DESLME0100002",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        },
+        {
+          "type": "unknown",
+          "maxPowerKw": 3.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Lindau",
+    "street": "Auenstraße",
+    "houseNumber": "12",
+    "postcode": "88131",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

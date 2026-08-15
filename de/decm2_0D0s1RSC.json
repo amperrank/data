@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*CM2",
+  "geohash": "0D0s1RSC",
+  "name": "1249_ÖLIS_EMS_AnDerWaldschule_Karlstein-Großwelzheim",
+  "evses": [
+    {
+      "id": "DECM2E4100004AC001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECM2E4100004DC001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 24.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Karlstein-Großwelzheim",
+    "street": "An der Waldschule",
+    "houseNumber": "1003",
+    "postcode": "63791",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

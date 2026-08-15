@@ -4,33 +4,22 @@
   "name": "Eni Station - OLVENSTEDTER CHAUSSEE 22",
   "evses": [
     {
-      "id": "DEPLNEH0014912",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 51.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEPLNEH0014921",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEPLNEH0014922",
       "connectors": [
         {
           "type": "chademo",
           "maxPowerKw": 51.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPLNEH0014913",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
@@ -48,11 +37,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPLNEH0014913",
+      "id": "DEPLNEH0014921",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPLNEH0014912",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 51.0
         }
       ],
       "authMethods": null,

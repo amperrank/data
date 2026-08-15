@@ -4,40 +4,7 @@
   "name": "Mer Germany GmbH Mer Germany (TuR) - Rheda-Wiedenbrück - Aurea 3 #1",
   "evses": [
     {
-      "id": "DEMERE00141501",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 225.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE00307802",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 62.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEMERE00141502",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 225.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE00307801",
       "connectors": [
         {
           "type": "ccs",
@@ -64,6 +31,39 @@
         {
           "type": "type2",
           "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00307802",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 62.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00307801",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 225.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00141501",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 225.0
         }
       ],
       "authMethods": null,

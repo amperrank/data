@@ -4,7 +4,18 @@
   "name": "Fastned Herzogenrath Bergerstraße",
   "evses": [
     {
-      "id": "DEFASE4960606",
+      "id": "DEFASE4960608",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEFASE4960601",
       "connectors": [
         {
           "type": "ccs",
@@ -24,28 +35,6 @@
         {
           "type": "chademo",
           "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEFASE4960601",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEFASE4960604",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
         }
       ],
       "authMethods": null,
@@ -89,7 +78,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFASE4960608",
+      "id": "DEFASE4960606",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEFASE4960604",
       "connectors": [
         {
           "type": "ccs",

@@ -4,6 +4,17 @@
   "name": "Kaufland Vogelsdorf",
   "evses": [
     {
+      "id": "DEKDLE00000040",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEKDLE00000038",
       "connectors": [
         {
@@ -19,17 +30,6 @@
       "connectors": [
         {
           "type": "chademo",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEKDLE00000040",
-      "connectors": [
-        {
-          "type": "ccs",
           "maxPowerKw": 50.0
         }
       ],

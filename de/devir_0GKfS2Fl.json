@@ -4,6 +4,39 @@
   "name": "Kellershohn GmbH & Co.KG",
   "evses": [
     {
+      "id": "DEVIRE309860",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 3.68
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEVIRE309777",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 250.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEVIRE001L",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 250.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEVIRE310521",
       "connectors": [
         {
@@ -42,39 +75,6 @@
         {
           "type": "type2",
           "maxPowerKw": 3.68
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEVIRE309860",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 3.68
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEVIRE309777",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 250.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEVIRE001L",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 250.0
         }
       ],
       "authMethods": null,

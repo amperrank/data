@@ -1,14 +1,25 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0G0WWpNS",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE0442",
   "evses": [
     {
       "id": "DE2GOE04421",
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 7.36
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "017B7E7766A8A33BA6AFC1C766B2FECF",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -19,7 +30,7 @@
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 7.36
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -29,10 +40,10 @@
   "facilities": null,
   "address": {
     "city": "Ganderkesee",
-    "street": "Bergedorfer Straße 4",
+    "street": "Bergedorfer Straße",
     "houseNumber": null,
     "postcode": "27777",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

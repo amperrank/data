@@ -1,10 +1,21 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0GLPfBzt",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE1000150",
   "evses": [
     {
       "id": "DE2GOEMCD09811A1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "7A7D8E9B8432882358D8AE85D224F5B4",
       "connectors": [
         {
           "type": "ccs",
@@ -29,10 +40,10 @@
   "facilities": null,
   "address": {
     "city": "Lennestadt",
-    "street": "Elsper Straße 42",
+    "street": "Elsper Straße",
     "houseNumber": null,
     "postcode": "57368",
-    "province": "Nordrhein-Westfalen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

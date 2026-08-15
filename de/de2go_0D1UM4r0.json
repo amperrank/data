@@ -1,21 +1,10 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0D1UM4r0",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0866",
   "evses": [
     {
-      "id": "DE2GOEMCD11021A1",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE2GOEMCD11021B4",
+      "id": "DE2GOEMCD11021B3",
       "connectors": [
         {
           "type": "ccs",
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEMCD11021B3",
+      "id": "DE2GOEMCD11021B4",
       "connectors": [
         {
           "type": "ccs",
@@ -46,15 +35,26 @@
       ],
       "authMethods": null,
       "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD11021A1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Wetzlar",
-    "street": "Alte Straße 1",
+    "street": "Alte Straße",
     "houseNumber": null,
     "postcode": "35578",
-    "province": "Hessen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

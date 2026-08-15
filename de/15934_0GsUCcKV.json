@@ -1,0 +1,52 @@
+{
+  "operatorId": "15*934",
+  "geohash": "0GsUCcKV",
+  "name": "NETTO Ladestation",
+  "evses": [
+    {
+      "id": "15934E4D452B73EA1AA73104ECE8D4C3",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE384E166852CS00012",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE384E166852CS00011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Bovenden-Harste",
+    "street": "Königsweg",
+    "houseNumber": null,
+    "postcode": "37120",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

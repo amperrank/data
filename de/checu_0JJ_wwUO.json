@@ -4,6 +4,17 @@
   "name": "Ladesäule Fassstadel 1",
   "evses": [
     {
+      "id": "CHECUEDP5FHVBAZH5MWMVFYPMMHSRJFZ",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 12.8
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "CHECUECTF5DYLDZ3J6JQY6958HKNKMFA",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "CHECUEX8MKPWW7ZBQJHMXHZ7TR8ZFCDW",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 12.8
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "CHECUEDP5FHVBAZH5MWMVFYPMMHSRJFZ",
       "connectors": [
         {
           "type": "type2",

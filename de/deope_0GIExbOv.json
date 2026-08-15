@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*OPE",
+  "geohash": "0GIExbOv",
+  "name": "Mackestraße 2 DC",
+  "evses": [
+    {
+      "id": "DEOPEE0034700R",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEOPEE0034700L",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEOPEE0017100M",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Bonn",
+    "street": "Mackestraße",
+    "houseNumber": "2",
+    "postcode": "53119",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

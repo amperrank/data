@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*LMS",
+  "geohash": "0DZDebwg",
+  "name": "Hymes Energy GmbH Autohaus Kröninger",
+  "evses": [
+    {
+      "id": "DELMSE10000878632",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELMSE10000878631",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Birkenfeld",
+    "street": "Hochwaldstraße",
+    "houseNumber": "2",
+    "postcode": "55765",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

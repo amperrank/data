@@ -4,22 +4,22 @@
   "name": "DE VGRD M VW Detmoldstrasse 80935 GW01 öffentlich (OK)",
   "evses": [
     {
-      "id": "DEPOWE01329",
+      "id": "DEPOWE01330",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 75.2
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEPOWE01330",
+      "id": "DEPOWE01329",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 75.2
         }
       ],
       "authMethods": null,

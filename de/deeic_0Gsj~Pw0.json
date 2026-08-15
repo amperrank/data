@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*EIC",
+  "geohash": "0Gsj~Pw0",
+  "name": "EIC000025-Worbis, EWEG, Hof",
+  "evses": [
+    {
+      "id": "DEGUCEEIC0055",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGUCEEIC0056",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Leinefelde-Worbis",
+    "street": "Hausener Weg",
+    "houseNumber": null,
+    "postcode": "37339",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

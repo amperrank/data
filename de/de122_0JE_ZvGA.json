@@ -4,11 +4,11 @@
   "name": "#Transfer offen-BK Abensberg",
   "evses": [
     {
-      "id": "DE122E0000325",
+      "id": "DE122E0000326",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
@@ -48,7 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DE122E0000326",
+      "id": "DE122E0000327",
       "connectors": [
         {
           "type": "ccs",
@@ -59,11 +59,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DE122E0000327",
+      "id": "DE122E0000325",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 300.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

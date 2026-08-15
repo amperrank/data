@@ -1,8 +1,19 @@
 {
   "operatorId": "DE*ENC",
   "geohash": "0Gy9yqJ8",
-  "name": "enercity AG enercity - Robert-Enke-Straße/Lodemannweg - 001",
+  "name": "enercity AG enercity - Robert-Enke-Straße/Lodemannweg - 003",
   "evses": [
+    {
+      "id": "DEENCELA000360003B",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DEENCELA000360001B",
       "connectors": [
@@ -20,6 +31,39 @@
         {
           "type": "ccs",
           "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEENCELA000360002A",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEENCELA000360003A",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEENCELA000360002B",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
         }
       ],
       "authMethods": null,

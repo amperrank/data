@@ -4,22 +4,22 @@
   "name": "KCS. SCHLEHDORF DC1",
   "evses": [
     {
-      "id": "DECPIE69454352",
+      "id": "DECPIE69675352",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.08
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DECPIE69675352",
+      "id": "DECPIE69454351",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.08
         }
       ],
       "authMethods": null,
@@ -37,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE69454351",
+      "id": "DECPIE69454352",
       "connectors": [
         {
           "type": "type2",

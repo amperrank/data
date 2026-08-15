@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*OVA",
+  "geohash": "0D12uBsy",
+  "name": "OVAG Wetterfeld - Kirchgasse 1 - Cardtank 24",
+  "evses": [
+    {
+      "id": "DEOVAE00321",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEOVAE00322",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Laubach",
+    "street": "Kirchgasse",
+    "houseNumber": "1",
+    "postcode": "35321",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

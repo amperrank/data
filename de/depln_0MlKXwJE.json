@@ -4,6 +4,17 @@
   "name": "Eni Station - Hänchener Str. 4, 03050 Cottbus, Deutschland",
   "evses": [
     {
+      "id": "DEPLNEH0013061",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEPLNEH0013063",
       "connectors": [
         {
@@ -26,28 +37,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPLNEH0013062",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 51.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEPLNEH0013061",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEPLNEH0031033",
       "connectors": [
         {
@@ -60,6 +49,17 @@
     },
     {
       "id": "DEPLNEH0031032",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 51.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPLNEH0013062",
       "connectors": [
         {
           "type": "chademo",

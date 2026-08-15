@@ -1,14 +1,14 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0HIsL1nw",
-  "name": "EWE Go Ladestation",
+  "name": "EWE_4405_1A",
   "evses": [
     {
-      "id": "DE2GOEEWE71481A1",
+      "id": "DE2GOE44051A1",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 150.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -19,18 +19,7 @@
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE2GOE44051A1",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -46,15 +35,26 @@
       ],
       "authMethods": null,
       "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEEWE71481A1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Aurich",
-    "street": "Westerlooger Straße 1",
+    "street": "Westerlooger Straße",
     "houseNumber": null,
     "postcode": "26607",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

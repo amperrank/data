@@ -1,0 +1,63 @@
+{
+  "operatorId": "DE*CC2",
+  "geohash": "0JMfwLjr",
+  "name": "Telekom (öffentliche Ladesäule)",
+  "evses": [
+    {
+      "id": "DECC2ECC21900021DLT04",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECC2ECC21900021DLT03",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECC2ECC21900021DLT02",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECC2ECC21900021DLT01",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Deggendorf",
+    "street": "Friedrich-Gauß-Strasse",
+    "houseNumber": null,
+    "postcode": "94469",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

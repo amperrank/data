@@ -4,7 +4,29 @@
   "name": "AVIA Volt",
   "evses": [
     {
+      "id": "DEAPSE270006",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEAPSE270004",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEAPSE270005",
       "connectors": [
         {
           "type": "ccs",
@@ -37,29 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEAPSE270006",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEAPSE270004",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEAPSE270005",
       "connectors": [
         {
           "type": "ccs",

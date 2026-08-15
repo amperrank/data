@@ -1,19 +1,8 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0G0_HfV_",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE1000790",
   "evses": [
-    {
-      "id": "DE2GOEEWE76741C6",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DE2GOEEWE76741A1",
       "connectors": [
@@ -37,7 +26,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEEWE76741C5",
+      "id": "DE2GOEEWE76741B4",
       "connectors": [
         {
           "type": "ccs",
@@ -59,7 +48,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEEWE76741B4",
+      "id": "DE2GOEEWE76741C5",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEEWE76741C6",
       "connectors": [
         {
           "type": "ccs",
@@ -73,10 +73,10 @@
   "facilities": null,
   "address": {
     "city": "Achim",
-    "street": "Margarete-Steiff-Allee 1",
+    "street": "Margarete-Steiff-Allee",
     "houseNumber": null,
     "postcode": "28832",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

@@ -4,28 +4,6 @@
   "name": "ACE0238417",
   "evses": [
     {
-      "id": "ATHTBE1017038",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "ATHTBE1017040",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 180.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "ATHTBE1017039",
       "connectors": [
         {
@@ -48,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "ATHTBE1017031",
+      "id": "ATHTBE1017040",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 180.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "ATHTBE1017038",
       "connectors": [
         {
           "type": "type2",
@@ -60,6 +49,17 @@
     },
     {
       "id": "ATHTBE1017033",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "ATHTBE1017031",
       "connectors": [
         {
           "type": "type2",

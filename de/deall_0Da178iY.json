@@ -4,6 +4,17 @@
   "name": "Allego - toom Baumarkt Grünstadt A6",
   "evses": [
     {
+      "id": "DEALLEGO0036531",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEALLEGO0036532",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DEALLEGO0036541",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEALLEGO0036531",
       "connectors": [
         {
           "type": "ccs",

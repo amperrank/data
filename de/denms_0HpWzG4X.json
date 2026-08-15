@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*NMS",
+  "geohash": "0HpWzG4X",
+  "name": "SWN_Bismarckstraße 51 Kundenparkplatz",
+  "evses": [
+    {
+      "id": "DENMSE500051001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DENMSE500051002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DENMSE500020001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Neumünster",
+    "street": "Bismarckstraße",
+    "houseNumber": "51",
+    "postcode": "24534",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

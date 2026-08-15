@@ -1,21 +1,32 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0GdluSzc",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE1000141",
   "evses": [
     {
-      "id": "DE2GOEEWE72171B4",
+      "id": "DE2GOEEWE72171C5",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 49.95
+          "maxPowerKw": 200.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEEWE72171A1",
+      "id": "DE2GOEEWE72171C6",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEEWE72171B4",
       "connectors": [
         {
           "type": "ccs",
@@ -37,33 +48,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEEWE72171C5",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE2GOEEWE72171C6",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DE2GOEEWE72171A2",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 49.95
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEEWE72171A1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -72,11 +72,11 @@
   ],
   "facilities": null,
   "address": {
-    "city": "Leer (Ostfriesland)",
-    "street": "Mühlenstraße 129",
+    "city": "Leer",
+    "street": "Mühlenstraße",
     "houseNumber": null,
     "postcode": "26789",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

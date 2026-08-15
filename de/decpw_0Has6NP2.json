@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*CPW",
+  "geohash": "0Has6NP2",
+  "name": "CutPower CutPower Kampen (HPC)",
+  "evses": [
+    {
+      "id": "DECPWE12347070021",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPWE12347070022",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPWE12347070023",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Kampen",
+    "street": "Strönwai",
+    "houseNumber": "333B",
+    "postcode": "25999",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

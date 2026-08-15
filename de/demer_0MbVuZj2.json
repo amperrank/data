@@ -4,6 +4,17 @@
   "name": "Mer Germany GmbH Mer Germany GmbH - Wandlitz - Prenzlauer Str. 65j #1",
   "evses": [
     {
+      "id": "DEMERE00714102",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEMERE00714101",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEMERE00714201",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE00714102",
       "connectors": [
         {
           "type": "ccs",

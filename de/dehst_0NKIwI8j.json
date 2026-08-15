@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*HST",
+  "geohash": "0NKIwI8j",
+  "name": "Stadtwerke Stralsund D-17348, Woldegk, Ernst-Thälmann-Str. 8",
+  "evses": [
+    {
+      "id": "DEHSTE12346437762",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 25.6
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEHSTE12346437761",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Woldegk",
+    "street": "Ernst-Thälmann-Str.",
+    "houseNumber": "8",
+    "postcode": "17348",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

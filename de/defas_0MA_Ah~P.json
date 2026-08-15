@@ -4,6 +4,17 @@
   "name": "Fastned Hermsdorf-Ost",
   "evses": [
     {
+      "id": "DEFASE4907106",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEFASE4907105",
       "connectors": [
         {
@@ -15,22 +26,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFASE4907108",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 50.0
-        },
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEFASE4907106",
+      "id": "DEFASE4907107",
       "connectors": [
         {
           "type": "ccs",
@@ -56,7 +52,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFASE4907107",
+      "id": "DEFASE4907103",
       "connectors": [
         {
           "type": "ccs",
@@ -67,8 +63,12 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFASE4907103",
+      "id": "DEFASE4907108",
       "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        },
         {
           "type": "ccs",
           "maxPowerKw": 300.0

@@ -4,17 +4,6 @@
   "name": "Porsche Sales & Marketplace PZ_ Porsche Zentrum Essen_4 Rechts Straße",
   "evses": [
     {
-      "id": "DE911EDE00148500000010000001",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 12.8
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DE911EDE00148600000010000001",
       "connectors": [
         {
@@ -42,6 +31,17 @@
         {
           "type": "ccs",
           "maxPowerKw": 320.16
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE911EDE00148500000010000001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 12.8
         }
       ],
       "authMethods": null,

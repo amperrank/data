@@ -1,8 +1,19 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0G1AS3Ps",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE1000318",
   "evses": [
+    {
+      "id": "DE2GOEEWE71561B3",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DE2GOEEWE71561B4",
       "connectors": [
@@ -35,26 +46,15 @@
       ],
       "authMethods": null,
       "paymentMethods": null
-    },
-    {
-      "id": "DE2GOEEWE71561B3",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 100.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
-    "city": "Hude",
-    "street": "Parkstraße 45",
+    "city": "Hude (Oldenburg)",
+    "street": "Parkstraße",
     "houseNumber": null,
     "postcode": "27798",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

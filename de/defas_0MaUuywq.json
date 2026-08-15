@@ -4,7 +4,22 @@
   "name": "Fastned Rangsdorf",
   "evses": [
     {
-      "id": "DEFASE4903104",
+      "id": "DEFASE4903102",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        },
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEFASE4903103",
       "connectors": [
         {
           "type": "ccs",
@@ -26,23 +41,8 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFASE4903103",
+      "id": "DEFASE4903104",
       "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEFASE4903102",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 50.0
-        },
         {
           "type": "ccs",
           "maxPowerKw": 300.0

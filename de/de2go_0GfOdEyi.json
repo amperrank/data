@@ -1,8 +1,19 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0GfOdEyi",
-  "name": "EWE Go Ladestation",
+  "name": "EWE_7199_1B",
   "evses": [
+    {
+      "id": "DE2GOEEWE71991B4",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DE2GOEEWE71991B3",
       "connectors": [
@@ -16,17 +27,6 @@
     },
     {
       "id": "DE2GOEEWE71991A2",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE2GOEEWE71991B4",
       "connectors": [
         {
           "type": "ccs",
@@ -51,10 +51,10 @@
   "facilities": null,
   "address": {
     "city": "Bad Zwischenahn",
-    "street": "Dreiberger Straße 8",
+    "street": "Dreiberger Straße",
     "houseNumber": null,
     "postcode": "26160",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

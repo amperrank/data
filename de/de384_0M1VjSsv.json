@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*384",
+  "geohash": "0M1VjSsv",
+  "name": "NETTO Ladestation",
+  "evses": [
+    {
+      "id": "DE384E170048CS00011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE384E170048CS00012",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Brüssow",
+    "street": "Prenzlauer Straße",
+    "houseNumber": null,
+    "postcode": "17326",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

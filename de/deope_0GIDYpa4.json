@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*OPE",
+  "geohash": "0GIDYpa4",
+  "name": "Wurzerstraße 9 DC",
+  "evses": [
+    {
+      "id": "DEOPEE0045300L",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEOPEE0045300R",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEOPEE0019900M",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Bonn",
+    "street": "Wurzerstraße",
+    "houseNumber": "9",
+    "postcode": "53175",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

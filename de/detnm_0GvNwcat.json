@@ -4,6 +4,17 @@
   "name": "Shell Recharge OBN 3461 - Shell Ilsenburger Strasse",
   "evses": [
     {
+      "id": "DETNMEGL49013461011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DETNMEGL49013461012",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DETNMEGL49013461022",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49013461011",
       "connectors": [
         {
           "type": "ccs",

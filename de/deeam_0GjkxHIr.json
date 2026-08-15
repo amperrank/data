@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*EAM",
+  "geohash": "0GjkxHIr",
+  "name": "340 039S Rathaus Malsfeld",
+  "evses": [
+    {
+      "id": "DEEAME0972",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEAME0971",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Malsfeld",
+    "street": "Am Knick",
+    "houseNumber": null,
+    "postcode": "34232",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

@@ -4,17 +4,6 @@
   "name": "Eviny Germany Neu-Ulm",
   "evses": [
     {
-      "id": "DEEVYENU3B",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 200.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEEVYENU2B",
       "connectors": [
         {
@@ -37,17 +26,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEVYENU1B",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEEVYENU2A",
       "connectors": [
         {
@@ -59,11 +37,33 @@
       "paymentMethods": null
     },
     {
+      "id": "DEEVYENU1B",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEEVYENU1A",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEVYENU3B",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
         }
       ],
       "authMethods": null,

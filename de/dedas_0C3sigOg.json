@@ -1,10 +1,32 @@
 {
   "operatorId": "DE*DAS",
   "geohash": "0C3sigOg",
-  "name": "Unterberger - Autohaus Lindau PG-Line 1",
+  "name": "Unterberger - Autohaus Lindau PG-Line 3",
   "evses": [
     {
+      "id": "DEDASE60000011",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEDASE60000012",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEDASE60000008",
       "connectors": [
         {
           "type": "type2",
@@ -46,28 +68,6 @@
       ],
       "authMethods": null,
       "paymentMethods": null
-    },
-    {
-      "id": "DEDASE60000008",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEDASE60000011",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
     }
   ],
   "facilities": null,
@@ -79,151 +79,7 @@
     "province": null
   },
   "openingHours": {
-    "isOpen247": false,
-    "regularHours": [
-      {
-        "weekday": 7,
-        "periodBegin": {
-          "hour": 0,
-          "minute": 0
-        },
-        "periodEnd": {
-          "hour": 23,
-          "minute": 59
-        }
-      },
-      {
-        "weekday": 6,
-        "periodBegin": {
-          "hour": 12,
-          "minute": 0
-        },
-        "periodEnd": {
-          "hour": 23,
-          "minute": 59
-        }
-      },
-      {
-        "weekday": 6,
-        "periodBegin": {
-          "hour": 0,
-          "minute": 0
-        },
-        "periodEnd": {
-          "hour": 6,
-          "minute": 59
-        }
-      },
-      {
-        "weekday": 5,
-        "periodBegin": {
-          "hour": 18,
-          "minute": 0
-        },
-        "periodEnd": {
-          "hour": 23,
-          "minute": 59
-        }
-      },
-      {
-        "weekday": 5,
-        "periodBegin": {
-          "hour": 0,
-          "minute": 0
-        },
-        "periodEnd": {
-          "hour": 6,
-          "minute": 59
-        }
-      },
-      {
-        "weekday": 4,
-        "periodBegin": {
-          "hour": 18,
-          "minute": 0
-        },
-        "periodEnd": {
-          "hour": 23,
-          "minute": 59
-        }
-      },
-      {
-        "weekday": 4,
-        "periodBegin": {
-          "hour": 0,
-          "minute": 0
-        },
-        "periodEnd": {
-          "hour": 6,
-          "minute": 59
-        }
-      },
-      {
-        "weekday": 3,
-        "periodBegin": {
-          "hour": 18,
-          "minute": 0
-        },
-        "periodEnd": {
-          "hour": 23,
-          "minute": 59
-        }
-      },
-      {
-        "weekday": 3,
-        "periodBegin": {
-          "hour": 0,
-          "minute": 0
-        },
-        "periodEnd": {
-          "hour": 6,
-          "minute": 59
-        }
-      },
-      {
-        "weekday": 2,
-        "periodBegin": {
-          "hour": 18,
-          "minute": 0
-        },
-        "periodEnd": {
-          "hour": 23,
-          "minute": 59
-        }
-      },
-      {
-        "weekday": 2,
-        "periodBegin": {
-          "hour": 0,
-          "minute": 0
-        },
-        "periodEnd": {
-          "hour": 6,
-          "minute": 59
-        }
-      },
-      {
-        "weekday": 1,
-        "periodBegin": {
-          "hour": 18,
-          "minute": 0
-        },
-        "periodEnd": {
-          "hour": 23,
-          "minute": 59
-        }
-      },
-      {
-        "weekday": 1,
-        "periodBegin": {
-          "hour": 0,
-          "minute": 0
-        },
-        "periodEnd": {
-          "hour": 6,
-          "minute": 59
-        }
-      }
-    ]
+    "isOpen247": true,
+    "regularHours": null
   }
 }

@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*PWA",
+  "geohash": "0GP6RLSl",
+  "name": "Pfalzwerke Ladestation (HORNBACH)",
+  "evses": [
+    {
+      "id": "DEPWAEALP22267X0048002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPWAEALP22267X0048001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Gütersloh",
+    "street": "Hans-Böckler-Straße",
+    "houseNumber": null,
+    "postcode": "33334",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

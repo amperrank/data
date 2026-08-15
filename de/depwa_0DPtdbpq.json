@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*PWA",
+  "geohash": "0DPtdbpq",
+  "name": "Pfalzwerke Ladestation (DM Markt)",
+  "evses": [
+    {
+      "id": "DEPWAEALP22267X0115201",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPWAEALP22267X0115202",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Wörth am Rhein",
+    "street": "Am Kühgrunddamm",
+    "houseNumber": null,
+    "postcode": "76744",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

@@ -4,17 +4,6 @@
   "name": "Stadtwerke Bochum, Lohrheidestadion",
   "evses": [
     {
-      "id": "DEBOXEAC0138",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEBOXEAC0136",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DEBOXEAC0139",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBOXEAC0138",
       "connectors": [
         {
           "type": "type2",

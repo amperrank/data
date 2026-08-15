@@ -4,6 +4,17 @@
   "name": "IONITY GmbH IONITY Bornheim",
   "evses": [
     {
+      "id": "DEIOYE220001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEIOYE220005",
       "connectors": [
         {
@@ -37,17 +48,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE220004",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEIOYE220003",
       "connectors": [
         {
@@ -59,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE220001",
+      "id": "DEIOYE220004",
       "connectors": [
         {
           "type": "ccs",

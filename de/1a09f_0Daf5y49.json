@@ -1,0 +1,63 @@
+{
+  "operatorId": "1A*09F",
+  "geohash": "0Daf5y49",
+  "name": "Pfalzwerke Ladestation (REWE)",
+  "evses": [
+    {
+      "id": "1A09FED526A39A35F25BE4E562CF0EC4",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPWAEABB22552X0061701",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPWAEABB22552X0061702",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPWAEABB22552X0061703",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Eisenberg",
+    "street": "Hermann-Graf-Straße",
+    "houseNumber": null,
+    "postcode": "67304",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

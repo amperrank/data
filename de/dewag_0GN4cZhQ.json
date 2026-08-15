@@ -4,17 +4,6 @@
   "name": "Westfalen Ladestation Westfalen AG - Münster Kopenhagener",
   "evses": [
     {
-      "id": "DEWAGEE0214",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEWAGEE2040",
       "connectors": [
         {
@@ -26,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEWAGEE0213",
+      "id": "DEWAGEE1040",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEWAGEE0214",
       "connectors": [
         {
           "type": "ccs",
@@ -37,11 +37,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEWAGEE1040",
+      "id": "DEWAGEE0213",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 300.0
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,

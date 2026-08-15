@@ -4,6 +4,17 @@
   "name": "Allego - REWE Rastede",
   "evses": [
     {
+      "id": "DEALLEGO0035352",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEALLEGO0035412",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEALLEGO0035411",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEALLEGO0035352",
       "connectors": [
         {
           "type": "ccs",

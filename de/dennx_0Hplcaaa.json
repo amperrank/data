@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*NNX",
+  "geohash": "0Hplcaaa",
+  "name": " NORDENERGIE Ladestation",
+  "evses": [
+    {
+      "id": "DENNXER30020302",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DENNXER30020301",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Wahlstedt",
+    "street": "Kieler Straße",
+    "houseNumber": null,
+    "postcode": "23812",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

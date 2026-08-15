@@ -4,10 +4,10 @@
   "name": "Lidl Filiale Oer-Erkenschwick",
   "evses": [
     {
-      "id": "DELDLE00004221",
+      "id": "DELDLE00004220",
       "connectors": [
         {
-          "type": "chademo",
+          "type": "ccs",
           "maxPowerKw": 50.0
         }
       ],
@@ -26,10 +26,10 @@
       "paymentMethods": null
     },
     {
-      "id": "DELDLE00004220",
+      "id": "DELDLE00004221",
       "connectors": [
         {
-          "type": "ccs",
+          "type": "chademo",
           "maxPowerKw": 50.0
         }
       ],

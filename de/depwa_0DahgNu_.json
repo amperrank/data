@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*PWA",
+  "geohash": "0DahgNu_",
+  "name": "Pfalzwerke Ladestation (EDEKA)",
+  "evses": [
+    {
+      "id": "DEPWAEABB22551X0060903",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPWAEABB22551X0060901",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPWAEABB22551X0060902",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Edesheim",
+    "street": "Staatsstraße",
+    "houseNumber": null,
+    "postcode": "67483",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

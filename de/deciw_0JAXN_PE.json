@@ -4,7 +4,18 @@
   "name": "CITYWATT Germering #01 - 300kW",
   "evses": [
     {
-      "id": "DECIWE000311",
+      "id": "DECIWE000314",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECIWE000305",
       "connectors": [
         {
           "type": "ccs",
@@ -26,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECIWE000309",
+      "id": "DECIWE000310",
       "connectors": [
         {
           "type": "ccs",
@@ -42,6 +53,17 @@
         {
           "type": "type2",
           "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECIWE000303",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
@@ -70,7 +92,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECIWE000303",
+      "id": "DECIWE000308",
       "connectors": [
         {
           "type": "ccs",
@@ -81,18 +103,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECIWE000314",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECIWE000305",
+      "id": "DECIWE000309",
       "connectors": [
         {
           "type": "ccs",
@@ -114,18 +125,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECIWE000308",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECIWE000310",
+      "id": "DECIWE000311",
       "connectors": [
         {
           "type": "ccs",

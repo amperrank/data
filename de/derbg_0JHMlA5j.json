@@ -1,0 +1,63 @@
+{
+  "operatorId": "DE*RBG",
+  "geohash": "0JHMlA5j",
+  "name": "DC-Charger Mc Donald's Obertraubling",
+  "evses": [
+    {
+      "id": "DERBGE0607",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DERBGE0610",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DERBGE0608",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DERBGE0609",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Obertraubling",
+    "street": "Am Schwindgraben",
+    "houseNumber": null,
+    "postcode": "93083",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

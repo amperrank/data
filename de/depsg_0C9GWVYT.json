@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*PSG",
+  "geohash": "0C9GWVYT",
+  "name": "Ö_Simmerberg_Dorfplatz",
+  "evses": [
+    {
+      "id": "DEPSGE00026001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPSGE00026002",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Weiler-Simmerberg",
+    "street": "Alte Salzstraße",
+    "houseNumber": "30",
+    "postcode": "88171",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

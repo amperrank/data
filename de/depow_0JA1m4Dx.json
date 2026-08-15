@@ -1,19 +1,8 @@
 {
   "operatorId": "DE*POW",
   "geohash": "0JA1m4Dx",
-  "name": "DE_VGRD_M_Sk_Schatzbogen_81829_KP04_öffentlich",
+  "name": "DE_VGRD_M_Sk_Schatzbogen_81829_KP05_ERK_öffentlich (221020945)",
   "evses": [
-    {
-      "id": "DEPOWE01586",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 11.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DEPOWE01918",
       "connectors": [
@@ -31,6 +20,17 @@
         {
           "type": "ccs",
           "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE01586",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
         }
       ],
       "authMethods": null,

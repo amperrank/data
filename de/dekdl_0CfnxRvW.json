@@ -4,11 +4,11 @@
   "name": "Kaufland Waldshut-Tiengen",
   "evses": [
     {
-      "id": "DEKDLE00000346",
+      "id": "DEKDLE00000344",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -26,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00000344",
+      "id": "DEKDLE00000346",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

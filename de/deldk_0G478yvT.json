@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*LDK",
+  "geohash": "0G478yvT",
+  "name": "BS|ENERGY Burgundenplatz",
+  "evses": [
+    {
+      "id": "DELDKE000031",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELDKE000032",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Braunschweig",
+    "street": "Burgundenplatz",
+    "houseNumber": "21",
+    "postcode": "38106",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

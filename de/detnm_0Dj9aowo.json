@@ -4,6 +4,17 @@
   "name": "Shell Recharge OBN 1977 - Shell Rudolf-Diesel-Strasse",
   "evses": [
     {
+      "id": "DETNMEGL49011977012",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DETNMEGL49011977021",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DETNMEGL49011977011",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49011977012",
       "connectors": [
         {
           "type": "ccs",

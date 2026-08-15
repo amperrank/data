@@ -4,17 +4,6 @@
   "name": "Kaufland Ingolstadt-Nordwest",
   "evses": [
     {
-      "id": "DEKDLE00001657",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 60.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEKDLE00001658",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DEKDLE00001659",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEKDLE00001657",
       "connectors": [
         {
           "type": "ccs",

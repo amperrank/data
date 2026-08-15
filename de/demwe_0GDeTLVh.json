@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*MWE",
+  "geohash": "0GDeTLVh",
+  "name": "mw autostrom Ladestation (Stadtwerke Meerbusch) 06",
+  "evses": [
+    {
+      "id": "DEMWEE1836898001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMWEE1836898002",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Meerbusch",
+    "street": "Kranenburger Str.",
+    "houseNumber": "16",
+    "postcode": "40670",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

@@ -1,14 +1,25 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0G1FNG4m",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE1000293",
   "evses": [
     {
       "id": "DE2GOEEWE76851A2",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 49.95
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "D681FEF10F2E310E94ED475285F3C142",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -19,7 +30,7 @@
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 49.95
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -29,10 +40,10 @@
   "facilities": null,
   "address": {
     "city": "Elsfleth",
-    "street": "Steinstraße 20",
+    "street": "Steinstraße",
     "houseNumber": null,
     "postcode": "26931",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

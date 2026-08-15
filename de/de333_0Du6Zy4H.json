@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*333",
+  "geohash": "0Du6Zy4H",
+  "name": "Autohaus an der B13 Neuburg - öffentlicher Ladepunkt",
+  "evses": [
+    {
+      "id": "DE333E00058001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE333E00058002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Neuburg an der Donau",
+    "street": "Heideckstr.",
+    "houseNumber": "8",
+    "postcode": "86633",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

@@ -1,8 +1,19 @@
 {
   "operatorId": "DE*CIW",
   "geohash": "0JOGYcQQ",
-  "name": "TouriSpo GmbH #02",
+  "name": "TouriSpo GmbH #01",
   "evses": [
+    {
+      "id": "DECIWE001191",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DECIWE001193",
       "connectors": [
@@ -16,17 +27,6 @@
     },
     {
       "id": "DECIWE001190",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECIWE001191",
       "connectors": [
         {
           "type": "type2",

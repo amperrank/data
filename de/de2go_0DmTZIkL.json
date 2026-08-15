@@ -1,30 +1,8 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0DmTZIkL",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0434",
   "evses": [
-    {
-      "id": "DE2GOEMCD06441B3",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE2GOEMCD06441B4",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DE2GOEMCD06441A2",
       "connectors": [
@@ -46,15 +24,37 @@
       ],
       "authMethods": null,
       "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD06441B3",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD06441B4",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Stuttgart",
-    "street": "Heiligenwiesen 31",
+    "street": "Heiligenwiesen",
     "houseNumber": null,
     "postcode": "70327",
-    "province": "Baden-Württemberg"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

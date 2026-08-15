@@ -1,0 +1,36 @@
+[
+  {
+    "operatorId": {
+      "countryCode": "DE",
+      "cpo": "2GO"
+    },
+    "currency": "EUR",
+    "validFrom": null,
+    "validTo": null,
+    "updatedAt": "2026-08-15T00:00:00.000",
+    "description": "Flat EWE Go tariff: 0.52 EUR/kWh at EWE Go-operated stations via the free app or charge card, same price for AC and DC, no monthly fee. All prices incl. 19% VAT. Partner-station pricing is roaming and not part of the EWE Go tariff.",
+    "tiers": [
+      {
+        "id": "ewe",
+        "name": "EWE Go App",
+        "role": "standard",
+        "subscriptionFee": null,
+        "requiresMembership": false,
+        "applicableHours": null,
+        "description": null,
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 0.52,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          }
+        ]
+      }
+    ]
+  }
+]

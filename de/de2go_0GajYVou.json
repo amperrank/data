@@ -1,10 +1,21 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0GajYVou",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0283",
   "evses": [
     {
       "id": "DE2GOEMCD15141A2",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD15141A1",
       "connectors": [
         {
           "type": "ccs",
@@ -35,26 +46,15 @@
       ],
       "authMethods": null,
       "paymentMethods": null
-    },
-    {
-      "id": "DE2GOEMCD15141A1",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Dissen am Teutoburger Wald",
-    "street": "Versmolder Straße 10",
+    "street": "Versmolder Straße",
     "houseNumber": null,
     "postcode": "49201",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

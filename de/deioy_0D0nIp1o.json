@@ -4,7 +4,18 @@
   "name": "IONITY GmbH IONITY Weiskirchen Süd",
   "evses": [
     {
-      "id": "DEIOYE205402",
+      "id": "DEIOYE205404",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE205406",
       "connectors": [
         {
           "type": "ccs",
@@ -26,28 +37,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE205404",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE205401",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEIOYE205403",
       "connectors": [
         {
@@ -59,7 +48,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE205406",
+      "id": "DEIOYE205402",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE205401",
       "connectors": [
         {
           "type": "ccs",

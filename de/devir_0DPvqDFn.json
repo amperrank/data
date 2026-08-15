@@ -4,17 +4,6 @@
   "name": "EFA Tankstellen CCS1",
   "evses": [
     {
-      "id": "DEVIRE4771",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 75.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEVIRE4773",
       "connectors": [
         {
@@ -31,6 +20,17 @@
         {
           "type": "type2",
           "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEVIRE4771",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 75.0
         }
       ],
       "authMethods": null,

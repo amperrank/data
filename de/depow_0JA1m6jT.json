@@ -4,6 +4,28 @@
   "name": "DE_VGRD_M_VW_81829_Karl-Schmid-Str.12_LP01",
   "evses": [
     {
+      "id": "DEPOWE01958",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE01323",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 75.2
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEPOWE01324",
       "connectors": [
         {
@@ -31,28 +53,6 @@
         {
           "type": "type2",
           "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEPOWE01958",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEPOWE01323",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 75.2
         }
       ],
       "authMethods": null,

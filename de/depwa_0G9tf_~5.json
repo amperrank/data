@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*PWA",
+  "geohash": "0G9tf_~5",
+  "name": "Pfalzwerke Ladestation (HORNBACH)",
+  "evses": [
+    {
+      "id": "DEPWAEABB22552X0043201",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 43.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPWAEABB22552X0043202",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPWAEABB22552X0043203",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Lüneburg",
+    "street": "Bei der Keulahütte",
+    "houseNumber": null,
+    "postcode": "21339",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

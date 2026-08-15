@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*ENY",
+  "geohash": "0HoHEPXL",
+  "name": "enercity - Langenfelder Damm/Vehrenkampstr - A01",
+  "evses": [
+    {
+      "id": "DEENYE00001278A01A",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEENYE00001278A01B",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Hamburg",
+    "street": "Langenfelder Damm",
+    "houseNumber": null,
+    "postcode": "22525",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

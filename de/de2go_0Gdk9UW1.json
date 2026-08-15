@@ -1,10 +1,21 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0Gdk9UW1",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE0074",
   "evses": [
     {
       "id": "DE2GOE00742",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "812F6ED0E9363A0DD49565DB35FE0843",
       "connectors": [
         {
           "type": "type2",
@@ -28,11 +39,11 @@
   ],
   "facilities": null,
   "address": {
-    "city": "Leer (Ostfriesland)",
-    "street": "Schleusenweg 16",
+    "city": "Leer",
+    "street": "Schleusenweg",
     "houseNumber": null,
     "postcode": "26789",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

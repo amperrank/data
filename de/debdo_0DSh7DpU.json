@@ -1,8 +1,41 @@
 {
   "operatorId": "DE*BDO",
   "geohash": "0DSh7DpU",
-  "name": "19131422",
+  "name": "19141441",
   "evses": [
+    {
+      "id": "DEBDOE6913203244",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBDOE6913203241",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBDOE6913203242",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 44.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DEBDOE8515314384",
       "connectors": [
@@ -53,39 +86,6 @@
         {
           "type": "type2",
           "maxPowerKw": 11.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBDOE6913203244",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBDOE6913203241",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBDOE6913203242",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 44.0
         }
       ],
       "authMethods": null,

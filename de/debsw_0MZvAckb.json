@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*BSW",
+  "geohash": "0MZvAckb",
+  "name": "Berliner Stadtwerke Spandauer Damm 134 DC/AC",
+  "evses": [
+    {
+      "id": "DEBSWE603002002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBSWE605162162",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Berlin",
+    "street": "Spandauer Damm",
+    "houseNumber": "134",
+    "postcode": "14050",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

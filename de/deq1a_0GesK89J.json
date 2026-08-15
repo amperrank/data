@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*Q1A",
+  "geohash": "0GesK89J",
+  "name": "Autostrom Ladestation",
+  "evses": [
+    {
+      "id": "DEQ1AE3050006138",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEQ1AE3050006139",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEQ1AE3050006140",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Visbek",
+    "street": "Visbeker Damm",
+    "houseNumber": null,
+    "postcode": "49429",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

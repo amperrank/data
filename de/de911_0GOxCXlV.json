@@ -1,8 +1,30 @@
 {
   "operatorId": "DE*911",
   "geohash": "0GOxCXlV",
-  "name": "Porsche Sales & Marketplace Porsche Zentrum Soest Ladesäule I",
+  "name": "Porsche Sales & Marketplace Porsche Zentrum Soest Ladesäule II",
   "evses": [
+    {
+      "id": "DE911EDE00006000000030000001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 475.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE911EDE00006000000040000001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 475.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DE911EDE00076700000010000001",
       "connectors": [
@@ -15,11 +37,33 @@
       "paymentMethods": null
     },
     {
-      "id": "DE911EDE00006000000040000001",
+      "id": "DE911EDE00091100000010000001",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 475.0
+          "type": "type2",
+          "maxPowerKw": 12.8
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE911EDE00090900000010000001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 12.8
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE911EDE00139900000010000001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 12.8
         }
       ],
       "authMethods": null,
@@ -48,55 +92,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DE911EDE00139900000010000001",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 12.8
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE911EDE00090900000010000001",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 12.8
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DE911EDE00139800000010000001",
       "connectors": [
         {
           "type": "type2",
           "maxPowerKw": 12.8
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE911EDE00091100000010000001",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 12.8
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE911EDE00006000000030000001",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 475.0
         }
       ],
       "authMethods": null,
@@ -115,7 +115,7 @@
     "isOpen247": false,
     "regularHours": [
       {
-        "weekday": 1,
+        "weekday": 3,
         "periodBegin": {
           "hour": 8,
           "minute": 0
@@ -126,7 +126,7 @@
         }
       },
       {
-        "weekday": 3,
+        "weekday": 1,
         "periodBegin": {
           "hour": 8,
           "minute": 0

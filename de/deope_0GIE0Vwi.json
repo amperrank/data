@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*OPE",
+  "geohash": "0GIE0Vwi",
+  "name": "Kölnstraße 429 DC50",
+  "evses": [
+    {
+      "id": "DEOPEE0055500L",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEOPEE0055500R",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Bonn",
+    "street": "Kölnstraße",
+    "houseNumber": "429",
+    "postcode": "53117",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*BAR",
+  "geohash": "0GvNyWQH",
+  "name": "PARDE0906S003",
+  "evses": [
+    {
+      "id": "DEBAREPARDE0906S0031",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBAREPARDE0906S0032",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Wernigerode",
+    "street": "Waldhofstraße",
+    "houseNumber": null,
+    "postcode": "38855",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

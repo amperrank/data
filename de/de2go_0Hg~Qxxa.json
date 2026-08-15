@@ -1,10 +1,32 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0Hg~Qxxa",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE1000239",
   "evses": [
     {
-      "id": "DE2GOEEWE76661A2",
+      "id": "DE2GOEEWE76661C6",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "7B726E741C01288F55CBDBB0D2FEB8C2",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEEWE76661C5",
       "connectors": [
         {
           "type": "ccs",
@@ -26,17 +48,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEEWE76661A1",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DE2GOEEWE76661B4",
       "connectors": [
         {
@@ -48,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEEWE76661C6",
+      "id": "DE2GOEEWE76661A1",
       "connectors": [
         {
           "type": "ccs",
@@ -59,7 +70,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEEWE76661C5",
+      "id": "DE2GOEEWE76661A2",
       "connectors": [
         {
           "type": "ccs",
@@ -73,10 +84,10 @@
   "facilities": null,
   "address": {
     "city": "Cadenberge",
-    "street": "Am Markt 3",
+    "street": "Am Markt",
     "houseNumber": null,
     "postcode": "21781",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

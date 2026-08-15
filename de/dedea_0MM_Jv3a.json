@@ -4,6 +4,17 @@
   "name": "uesa GmbH",
   "evses": [
     {
+      "id": "DEDEAE271342050011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 120.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEDEAE271342050012",
       "connectors": [
         {
@@ -31,17 +42,6 @@
         {
           "type": "type2",
           "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEDEAE271342050011",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 120.0
         }
       ],
       "authMethods": null,

@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*1HD",
+  "geohash": "0DwY5hH5",
+  "name": "Krankenhaus Salem",
+  "evses": [
+    {
+      "id": "DE1HDESWH46001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE1HDESWH46002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE1HDESWH46003",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Heidelberg",
+    "street": "Zeppelinstraße",
+    "houseNumber": "11-33",
+    "postcode": "69120",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

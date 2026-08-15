@@ -4,6 +4,17 @@
   "name": "Aral pulse Essener Straße 225",
   "evses": [
     {
+      "id": "DEBPEE0F3610203",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEBPEE0F3610101",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DEBPEE0F3610204",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0F3610203",
       "connectors": [
         {
           "type": "ccs",

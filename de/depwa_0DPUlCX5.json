@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*PWA",
+  "geohash": "0DPUlCX5",
+  "name": "Pfalzwerke Ladestation (EDEKA)",
+  "evses": [
+    {
+      "id": "DEPWAEABB22552X0060203",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPWAEABB22552X0060201",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 43.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPWAEABB22552X0060202",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Dahn",
+    "street": "Weißenburgerstraße",
+    "houseNumber": null,
+    "postcode": "66994",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

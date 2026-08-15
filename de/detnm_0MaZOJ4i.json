@@ -4,21 +4,6 @@
   "name": "Shell Recharge OBN 3300 - Shell Dahmestrasse",
   "evses": [
     {
-      "id": "DETNMEGL4901330004",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 175.0
-        },
-        {
-          "type": "chademo",
-          "maxPowerKw": 70.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGL4901330001",
       "connectors": [
         {
@@ -35,6 +20,21 @@
     },
     {
       "id": "DETNMEGL4901330003",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 175.0
+        },
+        {
+          "type": "chademo",
+          "maxPowerKw": 70.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL4901330004",
       "connectors": [
         {
           "type": "ccs",

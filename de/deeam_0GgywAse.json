@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*EAM",
+  "geohash": "0GgywAse",
+  "name": "420 017S Kirchhain Bahnhof",
+  "evses": [
+    {
+      "id": "DEEAME0869",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEAME0868",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Kirchhain",
+    "street": "Am Bahnhof",
+    "houseNumber": null,
+    "postcode": "35274",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

@@ -4,17 +4,6 @@
   "name": "bayernwerk e-mobil Ladestation",
   "evses": [
     {
-      "id": "DEBEME0010957",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEBEME0010955",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBEME0010954",
+      "id": "DEBEME0010957",
       "connectors": [
         {
           "type": "type2",
@@ -38,6 +27,17 @@
     },
     {
       "id": "DEBEME0010959",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBEME0010954",
       "connectors": [
         {
           "type": "type2",

@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*LVP",
+  "geohash": "0JUGSUpx",
+  "name": "Kasendorf - Marktplatz 8",
+  "evses": [
+    {
+      "id": "DELVPE22329002",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELVPE22329001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Kasendorf",
+    "street": "Marktplatz",
+    "houseNumber": "8",
+    "postcode": "95359",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

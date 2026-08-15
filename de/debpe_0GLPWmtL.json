@@ -4,6 +4,17 @@
   "name": "Aral pulse Kölner Straße 112",
   "evses": [
     {
+      "id": "DEBPEE0FO860101",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEBPEE0FO860102",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEBPEE0FO860204",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0FO860101",
       "connectors": [
         {
           "type": "ccs",

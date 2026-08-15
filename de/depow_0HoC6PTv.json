@@ -4,17 +4,6 @@
   "name": "VW Hamburg Großmoorbogen hypercharger",
   "evses": [
     {
-      "id": "DEPOWE01155",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 75.2
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEPOWE01161",
       "connectors": [
         {
@@ -37,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPOWE01159",
+      "id": "DEPOWE01156",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE01155",
       "connectors": [
         {
           "type": "ccs",
@@ -48,11 +48,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPOWE01156",
+      "id": "DEPOWE01159",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 75.2
         }
       ],
       "authMethods": null,

@@ -4,10 +4,10 @@
   "name": "Stadtwerke_BBZ_50KW_1",
   "evses": [
     {
-      "id": "ATHTBE1004245",
+      "id": "ATHTBE1004247",
       "connectors": [
         {
-          "type": "ccs",
+          "type": "chademo",
           "maxPowerKw": 50.0
         }
       ],
@@ -15,10 +15,10 @@
       "paymentMethods": null
     },
     {
-      "id": "ATHTBE1004247",
+      "id": "ATHTBE1004245",
       "connectors": [
         {
-          "type": "chademo",
+          "type": "ccs",
           "maxPowerKw": 50.0
         }
       ],

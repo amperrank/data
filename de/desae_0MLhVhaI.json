@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*SAE",
+  "geohash": "0MLhVhaI",
+  "name": "Friedrichstadt",
+  "evses": [
+    {
+      "id": "DESAEE605403",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DESAEE605402",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DESAEE605401",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Dresden",
+    "street": "Friedrichstr.",
+    "houseNumber": null,
+    "postcode": "01067",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

@@ -4,17 +4,6 @@
   "name": "enercity AG enercity - Schlägerstraße/Bandelstraße - 001",
   "evses": [
     {
-      "id": "DEENCELA000171001A",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEENCELA000171001B",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEENCELA000235001A",
+      "id": "DEENCELA000235001B",
       "connectors": [
         {
           "type": "type2",
@@ -37,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEENCELA000235001B",
+      "id": "DEENCELA000171001A",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEENCELA000235001A",
       "connectors": [
         {
           "type": "type2",

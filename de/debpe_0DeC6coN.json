@@ -4,22 +4,11 @@
   "name": "Aral pulse Hitchinstraße 44",
   "evses": [
     {
-      "id": "DEBPEE0F0760205",
+      "id": "DEBPEE0F0760102",
       "connectors": [
         {
           "type": "chademo",
           "maxPowerKw": 100.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0F0760101",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
@@ -31,6 +20,17 @@
         {
           "type": "ccs",
           "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0F0760205",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,
@@ -59,11 +59,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0F0760102",
+      "id": "DEBPEE0F0760101",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 100.0
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,

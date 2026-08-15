@@ -1,7 +1,7 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0GDd~~eY",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0424",
   "evses": [
     {
       "id": "DE2GOEMCD03491B4",
@@ -15,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEMCD03491A1",
+      "id": "8F0D8E2D337BC06024ACFAF7FECD8B09",
       "connectors": [
         {
           "type": "ccs",
@@ -46,15 +46,26 @@
       ],
       "authMethods": null,
       "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD03491A1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Krefeld",
-    "street": "Dießemer Bruch 98",
+    "street": "Dießemer Bruch",
     "houseNumber": null,
     "postcode": "47805",
-    "province": "Nordrhein-Westfalen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

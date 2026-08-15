@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*333",
+  "geohash": "0JETQ2WP",
+  "name": "EDEKA Fanderl Gerolfing Stadtwerke Ingolstadt - öffentlicher Ladepunkt",
+  "evses": [
+    {
+      "id": "DE333E00200001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE333E00200002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Gerolfing",
+    "street": "Barthlgasserstraße",
+    "houseNumber": "33",
+    "postcode": "85049",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

@@ -4,7 +4,7 @@
   "name": "Aral pulse Engesserstraße 13",
   "evses": [
     {
-      "id": "DEBPEE0FS230204",
+      "id": "DEBPEE0FS230101",
       "connectors": [
         {
           "type": "ccs",
@@ -15,11 +15,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FS230205",
+      "id": "DEBPEE0FS230103",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 100.0
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
@@ -48,7 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FS230101",
+      "id": "DEBPEE0FS230204",
       "connectors": [
         {
           "type": "ccs",
@@ -59,11 +59,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FS230103",
+      "id": "DEBPEE0FS230205",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 300.0
+          "type": "chademo",
+          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,

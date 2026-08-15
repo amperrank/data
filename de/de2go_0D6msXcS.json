@@ -1,8 +1,19 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0D6msXcS",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE1000186",
   "evses": [
+    {
+      "id": "DE2GOENUV00041C6",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DE2GOENUV00041C5",
       "connectors": [
@@ -15,11 +26,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOENUV00041D8",
+      "id": "DE2GOENUV00041A2",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 49.95
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOENUV00041A1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,
@@ -27,6 +49,17 @@
     },
     {
       "id": "DE2GOENUV00041B4",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "64FBFE1A1604234F79E4F7285153BA8E",
       "connectors": [
         {
           "type": "ccs",
@@ -48,28 +81,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOENUV00041C6",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 49.95
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE2GOENUV00041A1",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DE2GOENUV00041D7",
       "connectors": [
         {
@@ -81,11 +92,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOENUV00041A2",
+      "id": "DE2GOENUV00041D8",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 150.0
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -95,10 +106,10 @@
   "facilities": null,
   "address": {
     "city": "Schwabach",
-    "street": "Am Falbenholzweg 15",
+    "street": "Am Falbenholzweg",
     "houseNumber": null,
     "postcode": "91126",
-    "province": "Bayern"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

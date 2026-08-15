@@ -1,10 +1,21 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0GJbqEt9",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0363",
   "evses": [
     {
       "id": "DE2GOEMCD10041A2",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "B4C27E41D1B7EB05C5B1BC4BBA5C4999",
       "connectors": [
         {
           "type": "ccs",
@@ -29,10 +40,10 @@
   "facilities": null,
   "address": {
     "city": "Radevormwald",
-    "street": "Wasserturmstraße 12",
+    "street": "Wasserturmstraße",
     "houseNumber": null,
     "postcode": "42477",
-    "province": "Nordrhein-Westfalen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

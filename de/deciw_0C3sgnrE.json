@@ -1,19 +1,8 @@
 {
   "operatorId": "DE*CIW",
   "geohash": "0C3sgnrE",
-  "name": "Lindauer SB-Waschpark GmbH #01",
+  "name": "Lindauer SB-Waschpark GmbH #02",
   "evses": [
-    {
-      "id": "DECIWE000806",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DECIWE000805",
       "connectors": [
@@ -27,6 +16,17 @@
     },
     {
       "id": "DECIWE000808",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECIWE000806",
       "connectors": [
         {
           "type": "type2",

@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*PWA",
+  "geohash": "0DaRLXuw",
+  "name": "Pfalzwerke Ladestation (Pfalzgalerie)",
+  "evses": [
+    {
+      "id": "DEPWAEABB22552X0072203",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPWAEABB22552X0072202",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPWAEABB22552X0072201",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Kaiserslautern",
+    "street": "Am Turnerheim",
+    "houseNumber": null,
+    "postcode": "67657",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

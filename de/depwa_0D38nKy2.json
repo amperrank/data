@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*PWA",
+  "geohash": "0D38nKy2",
+  "name": "Pfalzwerke Ladestation (GLOBUS Baumarkt)",
+  "evses": [
+    {
+      "id": "DEPWAEALP22267X0038002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPWAEALP22267X0038001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Petersberg",
+    "street": "Justus-Liebig-Straße",
+    "houseNumber": null,
+    "postcode": "36100",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

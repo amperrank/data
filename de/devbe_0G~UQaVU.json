@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*VBE",
+  "geohash": "0G~UQaVU",
+  "name": "VBE005",
+  "evses": [
+    {
+      "id": "DEVBEEVBE0053",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEVBEEVBE0051",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEVBEEVBE0052",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Lauenburg-Elbe",
+    "street": "Am Schüsselteich",
+    "houseNumber": null,
+    "postcode": "21481",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

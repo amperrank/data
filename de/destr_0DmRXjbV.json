@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*STR",
+  "geohash": "0DmRXjbV",
+  "name": "Schloßstr 112 / LADE / DC",
+  "evses": [
+    {
+      "id": "DESTRE10304001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DESTRE10304002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Stuttgart",
+    "street": "Schloßstr.",
+    "houseNumber": "112",
+    "postcode": "70176",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

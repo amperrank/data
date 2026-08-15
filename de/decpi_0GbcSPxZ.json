@@ -4,6 +4,17 @@
   "name": "REBOTEC LADESTATION 2",
   "evses": [
     {
+      "id": "DECPIE65850552",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DECPIE65856951",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DECPIE65856952",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE65850552",
       "connectors": [
         {
           "type": "type2",

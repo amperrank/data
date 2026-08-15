@@ -4,6 +4,17 @@
   "name": "Shell Recharge OBN 0795 - Shell Koelner Landstrasse",
   "evses": [
     {
+      "id": "DETNMEGL49010795022",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DETNMEGL49010795012",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DETNMEGL49010795021",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49010795022",
       "connectors": [
         {
           "type": "ccs",

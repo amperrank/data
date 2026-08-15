@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*384",
+  "geohash": "0Gz2eK0v",
+  "name": "EDEKA Ladestation",
+  "evses": [
+    {
+      "id": "DE384E166528CS00011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "63EB7E15B95993BB9E9EAEBAA586D73F",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE384E166528CS00012",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Schwarmstedt",
+    "street": "Celler Straße",
+    "houseNumber": null,
+    "postcode": "29690",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

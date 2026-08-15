@@ -1,10 +1,10 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0Gf1gqZr",
-  "name": "EWE Go Ladestation",
+  "name": "EWE_7419_1A",
   "evses": [
     {
-      "id": "DE2GOEEWE74191A1",
+      "id": "DE2GOEEWE74191A2",
       "connectors": [
         {
           "type": "ccs",
@@ -15,11 +15,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEEWE74191A2",
+      "id": "4999CEE61E008F8B2C47A46953ABFD6A",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 49.95
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEEWE74191A1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -29,10 +40,10 @@
   "facilities": null,
   "address": {
     "city": "Varel",
-    "street": "Am Pfarrgarten 4",
+    "street": "Am Pfarrgarten",
     "houseNumber": null,
     "postcode": "26316",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

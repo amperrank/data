@@ -4,7 +4,18 @@
   "name": "Flensburg, Werk BB",
   "evses": [
     {
-      "id": "DEVIRE298346",
+      "id": "DEVIRE239777",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEVIRE239778",
       "connectors": [
         {
           "type": "type2",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEVIRE239777",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEVIRE239778",
+      "id": "DEVIRE298346",
       "connectors": [
         {
           "type": "type2",

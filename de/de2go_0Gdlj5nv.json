@@ -1,36 +1,25 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0Gdlj5nv",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE1000259",
   "evses": [
-    {
-      "id": "DE2GOEEWE80871A2",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 49.95
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DE2GOEEWE80871A1",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 49.95
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEEWE80871B4",
+      "id": "DE2GOEEWE80871A2",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 49.95
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -41,7 +30,7 @@
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 49.95
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -52,18 +41,7 @@
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 49.95
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE2GOEEWE80871B3",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 49.95
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -72,11 +50,11 @@
   ],
   "facilities": null,
   "address": {
-    "city": "Leer (Ostfriesland)",
-    "street": "Große Bleiche 2",
+    "city": "Leer",
+    "street": "Große Bleiche",
     "houseNumber": null,
     "postcode": "26789",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

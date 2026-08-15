@@ -1,14 +1,14 @@
 {
   "operatorId": "AT*HTB",
   "geohash": "0DP1YJWr",
-  "name": "Energie_Suedwest_118",
+  "name": "Energie_Suedwest_68",
   "evses": [
     {
-      "id": "ATHTBE1013217",
+      "id": "ATHTBE1016651",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -37,18 +37,18 @@
       "paymentMethods": null
     },
     {
-      "id": "ATHTBE1013215",
+      "id": "ATHTBE1013217",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "ATHTBE1016651",
+      "id": "ATHTBE1013215",
       "connectors": [
         {
           "type": "ccs",

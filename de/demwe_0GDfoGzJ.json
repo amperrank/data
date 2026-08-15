@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*MWE",
+  "geohash": "0GDfoGzJ",
+  "name": "mw autostrom Ladestation (Stadtwerke Meerbusch) 19",
+  "evses": [
+    {
+      "id": "DEMWEE1838509001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMWEE1838509002",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Meerbusch",
+    "street": "Helen-Keller-Straße",
+    "houseNumber": "10",
+    "postcode": "40670",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

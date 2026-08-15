@@ -4,7 +4,29 @@
   "name": "Mer Germany GmbH Bürgersolar-Eltville GmbH & Co. KG - Hattenheim - Parkplatz Rheinallee #2",
   "evses": [
     {
-      "id": "DEMERE00584801",
+      "id": "DEMERE00415902",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00584902",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00584802",
       "connectors": [
         {
           "type": "ccs",
@@ -26,18 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMERE00584802",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE00584902",
+      "id": "DEMERE00584801",
       "connectors": [
         {
           "type": "ccs",
@@ -53,17 +64,6 @@
         {
           "type": "ccs",
           "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE00415902",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

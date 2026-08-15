@@ -4,17 +4,6 @@
   "name": "BRAWO GE Solution LIS GmbH Brawo Braunschweig Schlosscarree",
   "evses": [
     {
-      "id": "DEEDGE43042",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEEDGE43041",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DEEDGE2",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEDGE43042",
       "connectors": [
         {
           "type": "type2",

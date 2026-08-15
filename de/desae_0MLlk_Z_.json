@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*SAE",
+  "geohash": "0MLlk_Z_",
+  "name": "Flughafen Dresden",
+  "evses": [
+    {
+      "id": "DESAEE600902",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DESAEE600901",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 44.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Dresden",
+    "street": "Wilhelmine-Reichard-Ring",
+    "houseNumber": null,
+    "postcode": "01109",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

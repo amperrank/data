@@ -1,25 +1,14 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0G0dDGJR",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE1000009",
   "evses": [
-    {
-      "id": "DE2GOE10000091A1",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DE2GOE10000091A4",
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 7.36
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -30,18 +19,7 @@
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE2GOE10000091A3",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -52,7 +30,29 @@
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 7.36
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOE10000091A3",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOE10000091A1",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -62,10 +62,10 @@
   "facilities": null,
   "address": {
     "city": "Delmenhorst",
-    "street": "Am Stadtwall 10",
+    "street": "Am Stadtwall",
     "houseNumber": null,
     "postcode": "27749",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

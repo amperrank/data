@@ -1,21 +1,10 @@
 {
   "operatorId": "DE*BOX",
   "geohash": "0GMNTvZX",
-  "name": "Stadtwerke Bochum, Klinikstraße 52, Parkhaus, Station 1",
+  "name": "Stadtwerke Bochum, Klinikstr. 52, Parkhaus Uniklinikum Bochum",
   "evses": [
     {
-      "id": "DEBOXEAC0943",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBOXEAC0941",
+      "id": "DEBOXEAC0942",
       "connectors": [
         {
           "type": "type2",
@@ -37,7 +26,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBOXEAC0942",
+      "id": "DEBOXEAC0940",
       "connectors": [
         {
           "type": "type2",
@@ -59,7 +48,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBOXEAC0940",
+      "id": "DEBOXEAC0941",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBOXEAC0943",
       "connectors": [
         {
           "type": "type2",
@@ -73,7 +73,7 @@
   "facilities": null,
   "address": {
     "city": "Bochum",
-    "street": "Klinikstraße",
+    "street": "Klinikstr.",
     "houseNumber": "52",
     "postcode": "44791",
     "province": null

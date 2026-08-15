@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*LVP",
+  "geohash": "0DvF10a7",
+  "name": "Wassertrüdingen - Poststraße",
+  "evses": [
+    {
+      "id": "DELVPE22321002",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELVPE22321001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Wassertrüdingen",
+    "street": "Poststraße -",
+    "houseNumber": null,
+    "postcode": "91717",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

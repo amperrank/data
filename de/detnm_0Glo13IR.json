@@ -4,7 +4,18 @@
   "name": "Shell Recharge OBN 0588 - Shell Dringenberger Strasse",
   "evses": [
     {
-      "id": "DETNMEGL49010588021",
+      "id": "DETNMEGL49010588022",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49010588012",
       "connectors": [
         {
           "type": "ccs",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49010588022",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49010588012",
+      "id": "DETNMEGL49010588021",
       "connectors": [
         {
           "type": "ccs",

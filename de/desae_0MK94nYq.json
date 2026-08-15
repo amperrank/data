@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*SAE",
+  "geohash": "0MK94nYq",
+  "name": "Kaufland Pirna-Sonnenstein",
+  "evses": [
+    {
+      "id": "DESAEE703703",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DESAEE703702",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DESAEE703701",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Pirna",
+    "street": "Struppener Straße",
+    "houseNumber": null,
+    "postcode": "01796",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

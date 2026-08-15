@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*384",
+  "geohash": "0NLx3Rt0",
+  "name": "EDEKA Ladestation",
+  "evses": [
+    {
+      "id": "DE384E163135CS00013",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE384E163135CS00011",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE384E163135CS00012",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Wolgast",
+    "street": "Chausseestraße",
+    "houseNumber": null,
+    "postcode": "17438",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

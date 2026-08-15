@@ -4,22 +4,22 @@
   "name": "DE Leipzig 04277 Richard-Lehmann-Straße 118 VGRD VW PP02 Öffentlich (Time)",
   "evses": [
     {
-      "id": "DEPOWE02404",
+      "id": "DEPOWE02403",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 75.2
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEPOWE02403",
+      "id": "DEPOWE02404",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 75.2
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

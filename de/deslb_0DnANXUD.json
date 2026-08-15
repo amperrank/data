@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*SLB",
+  "geohash": "0DnANXUD",
+  "name": "LB Karl-Haußmann Straße 16_Öffentlich",
+  "evses": [
+    {
+      "id": "DESLBE219L20090001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DESLBE219L20090002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DESLBE219L20090003",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Ludwigsburg",
+    "street": "Karl Haußmann-Straße",
+    "houseNumber": "16",
+    "postcode": "71636",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

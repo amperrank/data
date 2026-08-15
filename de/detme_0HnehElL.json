@@ -1,21 +1,10 @@
 {
   "operatorId": "DE*TME",
   "geohash": "0HnehElL",
-  "name": "Flensburg, Marie-Curie-Ring 45 LIS 3",
+  "name": "Flensburg, Marie-Curie-Ring 45 LIS 1",
   "evses": [
     {
-      "id": "DETMEE30004",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETMEE30000",
+      "id": "DETMEE30001",
       "connectors": [
         {
           "type": "ccs",
@@ -48,7 +37,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DETMEE30001",
+      "id": "DETMEE30000",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETMEE30004",
       "connectors": [
         {
           "type": "ccs",

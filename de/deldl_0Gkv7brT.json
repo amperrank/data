@@ -4,22 +4,22 @@
   "name": "Lidl Warburg",
   "evses": [
     {
-      "id": "DELDLE00007619",
+      "id": "DELDLE00007618",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 11.0
+          "type": "ccs",
+          "maxPowerKw": 60.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DELDLE00007618",
+      "id": "DELDLE00007619",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 60.0
+          "type": "type2",
+          "maxPowerKw": 11.0
         }
       ],
       "authMethods": null,

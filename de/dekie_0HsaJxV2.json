@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*KIE",
+  "geohash": "0HsaJxV2",
+  "name": "Kiel_Förde Sparkasse",
+  "evses": [
+    {
+      "id": "DEKIEE50013001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEKIEE50013002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Kiel",
+    "street": "Lorentzendamm",
+    "houseNumber": "28 - 30",
+    "postcode": "24103",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

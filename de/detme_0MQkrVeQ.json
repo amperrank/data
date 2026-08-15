@@ -4,17 +4,6 @@
   "name": "Magdeburg, Berliner Chaussee 98 - 100 LIS 2",
   "evses": [
     {
-      "id": "DETMEE30141",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETMEE30231",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETMEE30140",
+      "id": "DETMEE30141",
       "connectors": [
         {
           "type": "ccs",
@@ -38,6 +27,17 @@
     },
     {
       "id": "DETMEE30139",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETMEE30140",
       "connectors": [
         {
           "type": "ccs",

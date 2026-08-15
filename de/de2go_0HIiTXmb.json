@@ -1,10 +1,21 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0HIiTXmb",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE7142",
   "evses": [
     {
       "id": "DE2GOEEWE71501A1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 140.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEEWE71501A2",
       "connectors": [
         {
           "type": "ccs",
@@ -35,32 +46,65 @@
       ],
       "authMethods": null,
       "paymentMethods": null
-    },
-    {
-      "id": "DE2GOEEWE71501A2",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 140.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Aurich",
-    "street": "Marktplatz 11-15",
+    "street": "Marktplatz",
     "houseNumber": null,
     "postcode": "26603",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": false,
     "regularHours": [
       {
         "weekday": 1,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 22,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 2,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 22,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 3,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 22,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 4,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 22,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 5,
         "periodBegin": {
           "hour": 6,
           "minute": 0

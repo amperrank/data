@@ -4,22 +4,22 @@
   "name": "Lidl Filiale Stuttgart-Feuerbach",
   "evses": [
     {
-      "id": "DELDLE00004952",
+      "id": "DELDLE00004951",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 60.0
+          "type": "type2",
+          "maxPowerKw": 11.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DELDLE00004951",
+      "id": "DELDLE00004952",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 11.0
+          "type": "ccs",
+          "maxPowerKw": 60.0
         }
       ],
       "authMethods": null,

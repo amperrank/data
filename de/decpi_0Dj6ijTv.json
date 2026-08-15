@@ -4,18 +4,7 @@
   "name": "BERTSCH ENERGIE DC STATION_Ö",
   "evses": [
     {
-      "id": "DECPIE67787852",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE66209751",
+      "id": "DECPIE66209752",
       "connectors": [
         {
           "type": "type2",
@@ -37,11 +26,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE66209752",
+      "id": "DECPIE66209751",
       "connectors": [
         {
           "type": "type2",
           "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE67787852",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,

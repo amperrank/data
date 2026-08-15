@@ -1,10 +1,21 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0GfNWvuH",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0008",
   "evses": [
     {
       "id": "DE2GOEMCD08621A1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "7015CEA7AE9D70364C8D8D5CA188E970",
       "connectors": [
         {
           "type": "ccs",
@@ -29,10 +40,10 @@
   "facilities": null,
   "address": {
     "city": "Westerstede",
-    "street": "Ammerlandallee 16",
+    "street": "Ammerlandallee",
     "houseNumber": null,
     "postcode": "26655",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

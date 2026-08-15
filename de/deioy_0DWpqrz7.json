@@ -4,7 +4,18 @@
   "name": "IONITY GmbH IONITY Wittlich",
   "evses": [
     {
-      "id": "DEIOYE220405",
+      "id": "DEIOYE220403",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE220404",
       "connectors": [
         {
           "type": "ccs",
@@ -48,18 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE220403",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE220404",
+      "id": "DEIOYE220405",
       "connectors": [
         {
           "type": "ccs",

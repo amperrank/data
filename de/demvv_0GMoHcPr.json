@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*MVV",
+  "geohash": "0GMoHcPr",
+  "name": "Thyssenkrupp Hohenlimburg",
+  "evses": [
+    {
+      "id": "DEMVVE00060R1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMVVE00067R1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMVVE00088L1",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Hagen",
+    "street": "Bahnstraße",
+    "houseNumber": "13",
+    "postcode": "58119",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

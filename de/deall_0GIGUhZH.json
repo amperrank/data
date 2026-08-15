@@ -4,17 +4,6 @@
   "name": "Allego - ATU Bonn Clemensstr. 96",
   "evses": [
     {
-      "id": "DEALLEGO0035781",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEALLEGO0035782",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DEALLEGO0035772",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEALLEGO0035781",
       "connectors": [
         {
           "type": "ccs",

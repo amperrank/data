@@ -15,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETMEE30099",
+      "id": "DETMEE30100",
       "connectors": [
         {
           "type": "ccs",
@@ -26,18 +26,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETMEE30232",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 100.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETMEE30100",
+      "id": "DETMEE30099",
       "connectors": [
         {
           "type": "ccs",
@@ -53,6 +42,17 @@
         {
           "type": "ccs",
           "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETMEE30232",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,

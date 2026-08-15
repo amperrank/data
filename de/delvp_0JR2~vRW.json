@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*LVP",
+  "geohash": "0JR2~vRW",
+  "name": "Speichersdorf - Schulstraße 8",
+  "evses": [
+    {
+      "id": "DELVPE21825002",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELVPE21825001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Speichersdorf",
+    "street": "Schulstraße",
+    "houseNumber": "8",
+    "postcode": "95469",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

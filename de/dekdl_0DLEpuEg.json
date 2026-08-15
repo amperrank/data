@@ -4,11 +4,11 @@
   "name": "Kaufland Ettenheim",
   "evses": [
     {
-      "id": "DEKDLE00004194",
+      "id": "DEKDLE00004193",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 60.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -26,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00004193",
+      "id": "DEKDLE00004194",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 60.0
         }
       ],
       "authMethods": null,

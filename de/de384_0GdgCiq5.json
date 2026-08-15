@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*384",
+  "geohash": "0GdgCiq5",
+  "name": "EDEKA Ladestation",
+  "evses": [
+    {
+      "id": "DE384E167006CS00012",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE384E167006CS00011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Papenburg",
+    "street": "Kirchstraße",
+    "houseNumber": null,
+    "postcode": "26871",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

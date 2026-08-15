@@ -1,21 +1,10 @@
 {
   "operatorId": "DE*TMO",
   "geohash": "0MATBe35",
-  "name": "TMO LP1/2 ALDI",
+  "name": "TMO LP3/4 ALDI",
   "evses": [
     {
       "id": "DETMOE11315003",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETMOE11315004",
       "connectors": [
         {
           "type": "ccs",
@@ -38,6 +27,17 @@
     },
     {
       "id": "DETMOE11315001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETMOE11315004",
       "connectors": [
         {
           "type": "ccs",

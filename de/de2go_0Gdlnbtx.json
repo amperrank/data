@@ -1,25 +1,36 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0Gdlnbtx",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE0371",
   "evses": [
     {
-      "id": "DE2GOE03711",
+      "id": "DE2GOE03712",
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 7.36
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DE2GOE03712",
+      "id": "7ECB4E7E6772A5940BB8EB2C4B83B264",
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 7.36
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOE03711",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -28,11 +39,11 @@
   ],
   "facilities": null,
   "address": {
-    "city": "Leer (Ostfriesland)",
-    "street": "Burfehner Weg 98",
+    "city": "Leer",
+    "street": "Burfehner Weg",
     "houseNumber": null,
     "postcode": "26789",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

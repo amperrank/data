@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*OPE",
+  "geohash": "0GIBcY4A",
+  "name": "Josef-Wirmer-Straße 3 DC",
+  "evses": [
+    {
+      "id": "DEOPEE0033800L",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEOPEE0033800R",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEOPEE0033900L",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Bonn",
+    "street": "Josef-Wirmer-Straße",
+    "houseNumber": "3",
+    "postcode": "53123",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

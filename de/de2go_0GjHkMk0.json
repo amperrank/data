@@ -1,32 +1,10 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0GjHkMk0",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0844",
   "evses": [
     {
-      "id": "DE2GOEMCD08671A1",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DE2GOEMCD08671B3",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE2GOEMCD08671A2",
       "connectors": [
         {
           "type": "ccs",
@@ -46,15 +24,37 @@
       ],
       "authMethods": null,
       "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD08671A1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD08671A2",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Fritzlar",
-    "street": "Alte Wildunger Straße 6",
+    "street": "Alte Wildunger Straße",
     "houseNumber": null,
     "postcode": "34560",
-    "province": "Hessen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

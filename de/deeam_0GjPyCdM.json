@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*EAM",
+  "geohash": "0GjPyCdM",
+  "name": "340 037S Felsberg Burghotel Heiligenberg",
+  "evses": [
+    {
+      "id": "DEEAME0842",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEAME0843",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Felsberg",
+    "street": "Am Heiligenberg",
+    "houseNumber": null,
+    "postcode": "34587",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

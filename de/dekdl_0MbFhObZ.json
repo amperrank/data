@@ -4,11 +4,11 @@
   "name": "Kaufland Berlin",
   "evses": [
     {
-      "id": "DEKDLE00002635",
+      "id": "DEKDLE00002634",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -26,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00002634",
+      "id": "DEKDLE00002635",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "chademo",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

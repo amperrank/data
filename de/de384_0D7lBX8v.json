@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*384",
+  "geohash": "0D7lBX8v",
+  "name": "EDEKA Ladestation",
+  "evses": [
+    {
+      "id": "DE384E155862CS00011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE384E155862CS00012",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Adelsdorf",
+    "street": "Am Sportplatz",
+    "houseNumber": null,
+    "postcode": "91325",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

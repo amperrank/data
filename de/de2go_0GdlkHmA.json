@@ -1,32 +1,10 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0GdlkHmA",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE1000169",
   "evses": [
     {
-      "id": "DE2GOEEWE80341C6",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DE2GOEEWE80341A2",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE2GOEEWE80341C5",
       "connectors": [
         {
           "type": "ccs",
@@ -48,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEEWE80341B3",
+      "id": "DE2GOEEWE80341C6",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEEWE80341C5",
       "connectors": [
         {
           "type": "ccs",
@@ -68,15 +57,26 @@
       ],
       "authMethods": null,
       "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEEWE80341B3",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
-    "city": "Leer (Ostfriesland)",
-    "street": "Konrad-Zuse-Straße 1",
+    "city": "Leer",
+    "street": "Konrad-Zuse-Straße",
     "houseNumber": null,
     "postcode": "26789",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

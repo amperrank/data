@@ -4,6 +4,17 @@
   "name": "BURGER SCHLOZ VPP 2",
   "evses": [
     {
+      "id": "DECPIE69683952",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.08
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DECPIE68690452",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DECPIE68690451",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.08
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE69683952",
       "connectors": [
         {
           "type": "type2",

@@ -4,18 +4,7 @@
   "name": "Allego - Freie Tankstelle Greil Iffeldorf",
   "evses": [
     {
-      "id": "DEALLEGO0026981",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEALLEGO0026971",
+      "id": "DEALLEGO0026982",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +26,29 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0026982",
+      "id": "DEALLEGO0026981",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEALLEGO0016272",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEALLEGO0026971",
       "connectors": [
         {
           "type": "ccs",
@@ -49,17 +60,6 @@
     },
     {
       "id": "DEALLEGO0016271",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEALLEGO0016272",
       "connectors": [
         {
           "type": "type2",

@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*MNV",
+  "geohash": "0D0cId34",
+  "name": "Mainova DC FFM Rewe Lange Meile",
+  "evses": [
+    {
+      "id": "DEMNVE30002002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMNVE30002001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Frankfurt am Main",
+    "street": "Lange Meile",
+    "houseNumber": "33",
+    "postcode": "60437",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

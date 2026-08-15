@@ -4,7 +4,7 @@
   "name": "Fastned Melle-West",
   "evses": [
     {
-      "id": "DEFASE4903601",
+      "id": "DEFASE4903604",
       "connectors": [
         {
           "type": "ccs",
@@ -34,8 +34,12 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFASE4903604",
+      "id": "DEFASE4903603",
       "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        },
         {
           "type": "ccs",
           "maxPowerKw": 300.0
@@ -45,12 +49,8 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFASE4903603",
+      "id": "DEFASE4903601",
       "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 50.0
-        },
         {
           "type": "ccs",
           "maxPowerKw": 300.0

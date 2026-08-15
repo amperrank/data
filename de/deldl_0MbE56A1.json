@@ -4,11 +4,11 @@
   "name": "Lidl Filiale Berlin-Friedrichshain-Kreuzberg",
   "evses": [
     {
-      "id": "DELDLE00002985",
+      "id": "DELDLE00002987",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "chademo",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -26,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DELDLE00002987",
+      "id": "DELDLE00002985",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

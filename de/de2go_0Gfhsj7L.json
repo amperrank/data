@@ -1,8 +1,19 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0Gfhsj7L",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE1000339",
   "evses": [
+    {
+      "id": "DE2GOEEWE71571A2",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DE2GOEEWE71571A1",
       "connectors": [
@@ -16,17 +27,6 @@
     },
     {
       "id": "DE2GOEEWE71571B4",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE2GOEEWE71571A2",
       "connectors": [
         {
           "type": "ccs",
@@ -51,10 +51,10 @@
   "facilities": null,
   "address": {
     "city": "Oldenburg",
-    "street": "Bloherfelder Straße 190",
+    "street": "Bloherfelder Straße",
     "houseNumber": null,
     "postcode": "26129",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

@@ -1,8 +1,30 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0G939Lla",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0702",
   "evses": [
+    {
+      "id": "DE2GOEMCD11901B4",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "00811E2376F6CC4C178FFE1E24D03F63",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DE2GOEMCD11901B3",
       "connectors": [
@@ -35,26 +57,15 @@
       ],
       "authMethods": null,
       "paymentMethods": null
-    },
-    {
-      "id": "DE2GOEMCD11901B4",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Geesthacht",
-    "street": "Düneberger Straße 119",
+    "street": "Düneberger Straße",
     "houseNumber": null,
     "postcode": "21502",
-    "province": "Schleswig-Holstein"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

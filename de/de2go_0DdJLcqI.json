@@ -1,21 +1,21 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0DdJLcqI",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0505",
   "evses": [
     {
-      "id": "DE2GOEMCD03791B3",
+      "id": "DE2GOEMCD03791A1",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 300.0
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEMCD03791A1",
+      "id": "DE2GOEMCD03791A2",
       "connectors": [
         {
           "type": "ccs",
@@ -37,11 +37,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEMCD03791A2",
+      "id": "DE2GOEMCD03791B3",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 150.0
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
@@ -51,10 +51,10 @@
   "facilities": null,
   "address": {
     "city": "Mayen",
-    "street": "Koblenzer Straße 160",
+    "street": "Koblenzer Straße",
     "houseNumber": null,
     "postcode": "56727",
-    "province": "Rheinland-Pfalz"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

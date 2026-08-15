@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*384",
+  "geohash": "0MbcDVk6",
+  "name": "EDEKA Ladestation",
+  "evses": [
+    {
+      "id": "DE384E156359CS00022",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "A6C9DE48BF08364B1E5DC33CF9545A6A",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE384E156359CS00021",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Panketal",
+    "street": "Bernauer Straße",
+    "houseNumber": null,
+    "postcode": "16341",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

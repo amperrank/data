@@ -1,10 +1,10 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0JVqmZBx",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0231",
   "evses": [
     {
-      "id": "DE2GOEMCD18201B4",
+      "id": "DE2GOEMCD18201A2",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEMCD18201A2",
+      "id": "F1118E9E395481B7B73AF56FAAAECD0F",
       "connectors": [
         {
           "type": "ccs",
@@ -46,15 +46,26 @@
       ],
       "authMethods": null,
       "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD18201B4",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Hof",
-    "street": "Wunsiedler Straße 72",
+    "street": "Wunsiedler Straße",
     "houseNumber": null,
     "postcode": "95032",
-    "province": "Bayern"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

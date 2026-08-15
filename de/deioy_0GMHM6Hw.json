@@ -4,17 +4,6 @@
   "name": "IONITY GmbH IONITY Bochum",
   "evses": [
     {
-      "id": "DEIOYE217202",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEIOYE217201",
       "connectors": [
         {
@@ -60,6 +49,17 @@
     },
     {
       "id": "DEIOYE217206",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE217202",
       "connectors": [
         {
           "type": "ccs",

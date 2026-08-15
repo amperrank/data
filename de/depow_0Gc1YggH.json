@@ -4,6 +4,17 @@
   "name": "DE Papenburg 26871 Lehrer-Köhne-Straße 9-13 AH Gebr.Schwarte GmbH & Co.KG (230222399 LP2) öffentlich",
   "evses": [
     {
+      "id": "DEPOWE03299",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEPOWE03300",
       "connectors": [
         {
@@ -20,17 +31,6 @@
         {
           "type": "type2",
           "maxPowerKw": 11.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEPOWE03299",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

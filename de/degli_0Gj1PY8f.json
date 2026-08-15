@@ -15,17 +15,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DEGLIE100100334",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEGLIE100100337",
       "connectors": [
         {
@@ -48,11 +37,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEGLIE100100236",
+      "id": "DEGLIE100100334",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -70,11 +59,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEGLIE100100234",
+      "id": "DEGLIE100100236",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -86,6 +75,17 @@
         {
           "type": "chademo",
           "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGLIE100100234",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

@@ -4,17 +4,6 @@
   "name": "Eni Station - Seeonerstrasse 1",
   "evses": [
     {
-      "id": "DEPLNEH0016451",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEPLNEH0016452",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DEPLNEH0016453",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPLNEH0016451",
       "connectors": [
         {
           "type": "ccs",

@@ -1,10 +1,43 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0MY_OtCs",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0438",
   "evses": [
     {
+      "id": "DE2GOEMCD05991A2",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD05991A1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DE2GOEMCD05991C6",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD05991C5",
       "connectors": [
         {
           "type": "ccs",
@@ -35,48 +68,15 @@
       ],
       "authMethods": null,
       "paymentMethods": null
-    },
-    {
-      "id": "DE2GOEMCD05991A2",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE2GOEMCD05991C5",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE2GOEMCD05991A1",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
-    "city": "Ludwigsfelde",
-    "street": "Parkallee 2",
+    "city": "Genshagen",
+    "street": "Parkallee",
     "houseNumber": null,
     "postcode": "14974",
-    "province": "Brandenburg"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

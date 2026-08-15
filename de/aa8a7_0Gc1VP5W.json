@@ -1,0 +1,52 @@
+{
+  "operatorId": "AA*8A7",
+  "geohash": "0Gc1VP5W",
+  "name": "EDEKA Ladestation",
+  "evses": [
+    {
+      "id": "AA8A7E94B4679AB76B3B259E1730B73E",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE384E156327CS00011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE384E156327CS00012",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Papenburg",
+    "street": "Am Emscenter",
+    "houseNumber": null,
+    "postcode": "26871",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

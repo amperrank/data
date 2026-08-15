@@ -1,0 +1,50 @@
+[
+  {
+    "operatorId": {
+      "countryCode": "DE",
+      "cpo": "MNV"
+    },
+    "currency": "EUR",
+    "validFrom": null,
+    "validTo": null,
+    "updatedAt": "2026-08-14T16:07:00.500Z",
+    "description": "Variable energy prices, split by AC (≤ 22 kW) and HDC (DC ≥ 150 kW), derived from 662 per-kWh prices across 338 DE*MNV stations in the Mobilithek chargecloud stat feed (min–median–max per type). Prices are flat network-wide incl. 19% VAT. Time-based blocking/parking fees (pricePerMinute) apply at larger stations and are not included in the energy price. Ad-hoc payment (ratePolicy adHoc); price shown in-app before charging.",
+    "tiers": [
+      {
+        "id": "standard",
+        "role": "standard",
+        "name": "Standard",
+        "subscriptionFee": null,
+        "requiresMembership": false,
+        "applicableHours": null,
+        "description": null,
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 0.76,
+            "minPricePerUnit": 0.76,
+            "maxPricePerUnit": 0.76,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 0.91,
+            "minPricePerUnit": 0.91,
+            "maxPricePerUnit": 0.91,
+            "unit": "kWh",
+            "minPowerKw": 150,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          }
+        ]
+      }
+    ]
+  }
+]

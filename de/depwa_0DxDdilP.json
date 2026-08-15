@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*PWA",
+  "geohash": "0DxDdilP",
+  "name": "Pfalzwerke Ladestation (REWE)",
+  "evses": [
+    {
+      "id": "DEPWAEABB22552X0037903",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPWAEABB22552X0037902",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPWAEABB22552X0037901",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Lorsch",
+    "street": "Nibelungenstraße",
+    "houseNumber": null,
+    "postcode": "64653",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

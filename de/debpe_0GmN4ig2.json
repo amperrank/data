@@ -4,7 +4,7 @@
   "name": "Aral pulse Grebensteiner Str. 23",
   "evses": [
     {
-      "id": "DEBPEE0FR980308",
+      "id": "DEBPEE0FR980411",
       "connectors": [
         {
           "type": "chademo",
@@ -15,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FR980307",
+      "id": "DEBPEE0FR980103",
       "connectors": [
         {
           "type": "ccs",
@@ -26,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FR980411",
+      "id": "DEBPEE0FR980410",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 100.0
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
@@ -59,18 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FR980410",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0FR980205",
+      "id": "DEBPEE0FR980308",
       "connectors": [
         {
           "type": "chademo",
@@ -81,7 +70,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FR980103",
+      "id": "DEBPEE0FR980204",
       "connectors": [
         {
           "type": "ccs",
@@ -92,7 +81,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FR980204",
+      "id": "DEBPEE0FR980307",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0FR980309",
       "connectors": [
         {
           "type": "ccs",
@@ -114,11 +114,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FR980309",
+      "id": "DEBPEE0FR980205",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 300.0
+          "type": "chademo",
+          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,

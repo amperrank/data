@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*HEO",
+  "geohash": "0MIaA1ae",
+  "name": "Werkzeug-Eylert",
+  "evses": [
+    {
+      "id": "DEHEOE10027001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEHEOE10027002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEHEOE10027003",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Chemnitz",
+    "street": "F.-O.-Schimmel-Str.",
+    "houseNumber": "3",
+    "postcode": "09120",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

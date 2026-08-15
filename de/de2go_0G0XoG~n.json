@@ -1,25 +1,14 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0G0XoG~n",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE1000008",
   "evses": [
     {
       "id": "DE2GOE10000081A5",
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE2GOE10000081A1",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -30,7 +19,7 @@
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 7.36
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -41,7 +30,18 @@
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 7.36
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOE10000081A1",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -52,7 +52,7 @@
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 7.36
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -62,10 +62,10 @@
   "facilities": null,
   "address": {
     "city": "Delmenhorst",
-    "street": "Wildeshauser Straße 92",
+    "street": "Wildeshauser Straße",
     "houseNumber": null,
     "postcode": "27753",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

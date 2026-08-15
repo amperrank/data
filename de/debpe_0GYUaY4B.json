@@ -4,29 +4,18 @@
   "name": "Aral pulse Athener Straße 1",
   "evses": [
     {
-      "id": "DEBPEE0FV170309",
+      "id": "DEBPEE0FV170308",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 300.0
+          "type": "chademo",
+          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FV170204",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0FV170103",
+      "id": "DEBPEE0FV170307",
       "connectors": [
         {
           "type": "ccs",
@@ -48,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FV170101",
+      "id": "DEBPEE0FV170103",
       "connectors": [
         {
           "type": "ccs",
@@ -81,7 +70,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FV170307",
+      "id": "DEBPEE0FV170101",
       "connectors": [
         {
           "type": "ccs",
@@ -92,11 +81,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FV170308",
+      "id": "DEBPEE0FV170204",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 100.0
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0FV170309",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,

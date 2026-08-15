@@ -1,14 +1,14 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0GfmjId~",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE0672",
   "evses": [
     {
       "id": "DE2GOE06722",
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 7.36
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -19,7 +19,7 @@
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 7.36
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -29,16 +29,71 @@
   "facilities": null,
   "address": {
     "city": "Oldenburg",
-    "street": "Haseler Weg 1",
+    "street": "Haseler Weg",
     "houseNumber": null,
     "postcode": "26125",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": false,
     "regularHours": [
       {
+        "weekday": 3,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 30
+        },
+        "periodEnd": {
+          "hour": 22,
+          "minute": 0
+        }
+      },
+      {
         "weekday": 1,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 30
+        },
+        "periodEnd": {
+          "hour": 22,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 5,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 30
+        },
+        "periodEnd": {
+          "hour": 22,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 2,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 30
+        },
+        "periodEnd": {
+          "hour": 22,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 4,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 30
+        },
+        "periodEnd": {
+          "hour": 22,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 6,
         "periodBegin": {
           "hour": 7,
           "minute": 30

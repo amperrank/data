@@ -1,36 +1,14 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0GcuTCFr",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE1000445",
   "evses": [
     {
       "id": "DE2GOEEWE72571B3",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE2GOEEWE72571A1",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE2GOEEWE72571A2",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
+          "maxPowerKw": 200.0
         }
       ],
       "authMethods": null,
@@ -41,7 +19,29 @@
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 400.0
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEEWE72571A1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEEWE72571A2",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
         }
       ],
       "authMethods": null,
@@ -51,10 +51,10 @@
   "facilities": null,
   "address": {
     "city": "Werlte",
-    "street": "Bergstraße 1",
+    "street": "Bergstraße",
     "houseNumber": null,
     "postcode": "49757",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

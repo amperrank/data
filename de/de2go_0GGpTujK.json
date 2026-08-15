@@ -1,10 +1,10 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0GGpTujK",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0278",
   "evses": [
     {
-      "id": "DE2GOEMCD03391A1",
+      "id": "DE2GOEMCD03391A2",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEMCD03391A2",
+      "id": "71611EFFCA2284ED86D327CA6D163F93",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD03391A1",
       "connectors": [
         {
           "type": "ccs",
@@ -29,10 +40,10 @@
   "facilities": null,
   "address": {
     "city": "Mülheim an der Ruhr",
-    "street": "Kölner Straße 36",
+    "street": "Kölner Straße",
     "houseNumber": null,
     "postcode": "45481",
-    "province": "Nordrhein-Westfalen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

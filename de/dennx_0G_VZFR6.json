@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*NNX",
+  "geohash": "0G_VZFR6",
+  "name": "NORDENERGIE Ladestation",
+  "evses": [
+    {
+      "id": "DENNXER30010301",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DENNXER30010402",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DENNXER30010302",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Bad Bevensen",
+    "street": "Ludwig-Ehlers-Straße",
+    "houseNumber": null,
+    "postcode": "29549",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

@@ -4,6 +4,17 @@
   "name": "Ladepark Bürgerhaus Kippenheim",
   "evses": [
     {
+      "id": "DEEWME0000135",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEEWME0000137",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEEWME0000136",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 11.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEWME0000135",
       "connectors": [
         {
           "type": "type2",

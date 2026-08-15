@@ -1,8 +1,19 @@
 {
   "operatorId": "DE*FKU",
   "geohash": "0JHH7uJy",
-  "name": "FS_50672_MENNEKES_P90031",
+  "name": "FS_50672_KEBA_P90020",
   "evses": [
+    {
+      "id": "DEFKUEFS90031",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DEFKUEFS90019",
       "connectors": [
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEFKUEFS90020",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEFKUEFS90031",
       "connectors": [
         {
           "type": "type2",

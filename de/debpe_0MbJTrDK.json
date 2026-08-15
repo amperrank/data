@@ -4,7 +4,18 @@
   "name": "Aral pulse An Der Wuhlheide 240-242",
   "evses": [
     {
-      "id": "DEBPEE0FL480102",
+      "id": "DEBPEE0FL480306",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0FL480305",
       "connectors": [
         {
           "type": "ccs",
@@ -37,29 +48,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FL480305",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0FL480306",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEBPEE0FL480101",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0FL480102",
       "connectors": [
         {
           "type": "ccs",

@@ -1,21 +1,10 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0GinF2UY",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0802",
   "evses": [
     {
-      "id": "DE2GOEMCD18581A1",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE2GOEMCD18581A2",
+      "id": "DE2GOEMCD18581B4",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEMCD18581B4",
+      "id": "DE2GOEMCD18581A2",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD18581A1",
       "connectors": [
         {
           "type": "ccs",
@@ -51,10 +51,10 @@
   "facilities": null,
   "address": {
     "city": "Niederaula",
-    "street": "Jossastraße 65",
+    "street": "Jossastraße",
     "houseNumber": null,
     "postcode": "36272",
-    "province": "Hessen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*AUW",
+  "geohash": "0C9yEr9q",
+  "name": "AÜW Allgäublick Waltenhofen- Herzmanns",
+  "evses": [
+    {
+      "id": "DEAUWE0033001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 43.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEAUWE0033002",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEAUWE0033003",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Waltenhofen",
+    "street": "Herzmanns",
+    "houseNumber": "1",
+    "postcode": "87448",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

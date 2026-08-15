@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*OPE",
+  "geohash": "0GIExGNh",
+  "name": "SVG Tankstelle Bonn DC",
+  "evses": [
+    {
+      "id": "DEOPEE0065800L",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEOPEE0065800R",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Bonn",
+    "street": "Potsdamer Platz",
+    "houseNumber": "7",
+    "postcode": "53119",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

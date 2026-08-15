@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*ECH",
+  "geohash": "0MZ8SGBd",
+  "name": "ECH1001",
+  "evses": [
+    {
+      "id": "DEECHE100102",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEECHE100101",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Velten",
+    "street": "Berliner Straße",
+    "houseNumber": null,
+    "postcode": "16727",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

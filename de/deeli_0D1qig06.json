@@ -4,7 +4,18 @@
   "name": "eliso - Eichhorn - Büdingen",
   "evses": [
     {
-      "id": "DEELIE3585511",
+      "id": "DEELIE3585522",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEELIE3585517",
       "connectors": [
         {
           "type": "ccs",
@@ -26,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEELIE3585522",
+      "id": "DEELIE3585525",
       "connectors": [
         {
           "type": "ccs",
@@ -48,18 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEELIE3585525",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 200.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEELIE3585517",
+      "id": "DEELIE3585511",
       "connectors": [
         {
           "type": "ccs",

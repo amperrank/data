@@ -1,10 +1,21 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0Dy_EmGw",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0861",
   "evses": [
     {
       "id": "DE2GOEMCD09122A3",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD09122A4",
       "connectors": [
         {
           "type": "ccs",
@@ -35,26 +46,15 @@
       ],
       "authMethods": null,
       "paymentMethods": null
-    },
-    {
-      "id": "DE2GOEMCD09122A4",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Bad Mergentheim",
-    "street": "Max-Eyth-Straße 14",
+    "street": "Max-Eyth-Straße",
     "houseNumber": null,
     "postcode": "97980",
-    "province": "Baden-Württemberg"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

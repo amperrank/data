@@ -4,11 +4,22 @@
   "name": "Shell Recharge OBN 3144 - Redevco Hoeseler Strasse",
   "evses": [
     {
-      "id": "DETNMEGL49023144011",
+      "id": "DETNMEGL49023144021",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49023144031",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
@@ -26,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49023144021",
+      "id": "DETNMEGL49023144011",
       "connectors": [
         {
           "type": "ccs",
@@ -38,17 +49,6 @@
     },
     {
       "id": "DETNMEGL49023144032",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49023144031",
       "connectors": [
         {
           "type": "ccs",

@@ -4,6 +4,17 @@
   "name": "Shell Recharge OBN 0040 - Shell Friedrich-Ebert-Damm",
   "evses": [
     {
+      "id": "DETNMEGL49010040032",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 360.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DETNMEGL4901004001",
       "connectors": [
         {
@@ -35,17 +46,6 @@
     },
     {
       "id": "DETNMEGL49010040031",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 360.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49010040032",
       "connectors": [
         {
           "type": "ccs",

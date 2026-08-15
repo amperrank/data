@@ -1,0 +1,63 @@
+{
+  "operatorId": "DE*BSW",
+  "geohash": "0MZtYQdk",
+  "name": "Berliner Stadtwerke Brauhaus Spandau Am Juliusturm 188 HPC/AC",
+  "evses": [
+    {
+      "id": "DEBSWE604709709",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBSWE604710710",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBSWE604707707",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBSWE604708708",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Berlin",
+    "street": "Am Juliusturm",
+    "houseNumber": "188",
+    "postcode": "13597",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

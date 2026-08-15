@@ -1,21 +1,10 @@
 {
   "operatorId": "DE*VAT",
   "geohash": "0MbHK1_O",
-  "name": "DE*VAT*ET184*IT1*2223*004*1",
+  "name": "DE*VAT*ET184*IT1*2223*004*2",
   "evses": [
     {
       "id": "DEVATET184IT122230042",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 180.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEVATET184IT121230651",
       "connectors": [
         {
           "type": "ccs",
@@ -38,6 +27,17 @@
     },
     {
       "id": "DEVATET184IT121230652",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 180.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEVATET184IT121230651",
       "connectors": [
         {
           "type": "ccs",

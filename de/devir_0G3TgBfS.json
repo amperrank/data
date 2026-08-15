@@ -4,11 +4,11 @@
   "name": "Wilhelm Hoyer B.V. & Co. KG Hoyer BauXpert Zeven",
   "evses": [
     {
-      "id": "DEVIRE303284",
+      "id": "DEVIRE303275",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 7.36
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,
@@ -26,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEVIRE303275",
+      "id": "DEVIRE303284",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 150.0
+          "type": "type2",
+          "maxPowerKw": 7.36
         }
       ],
       "authMethods": null,

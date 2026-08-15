@@ -4,11 +4,11 @@
   "name": "Autohaus Seitz Leutkirch HYC49,9 öffentlich",
   "evses": [
     {
-      "id": "DEPOWE3599",
+      "id": "DEPOWE03444",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 49.9
+          "type": "type2",
+          "maxPowerKw": 11.0
         }
       ],
       "authMethods": null,
@@ -26,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPOWE03444",
+      "id": "DEPOWE3599",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 11.0
+          "type": "ccs",
+          "maxPowerKw": 49.9
         }
       ],
       "authMethods": null,

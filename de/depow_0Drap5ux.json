@@ -4,7 +4,7 @@
   "name": "DE VGRD AZ Augsburg 86199 Schwaba Eichleitnerstr. 11 PP02 24BZ4007C öffentlich KKT",
   "evses": [
     {
-      "id": "DEPOWE02427",
+      "id": "DEPOWE02428",
       "connectors": [
         {
           "type": "ccs",
@@ -26,22 +26,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPOWE02428",
+      "id": "DEPOWE02510",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 200.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEPOWE02510",
+      "id": "DEPOWE02427",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 200.0
         }
       ],
       "authMethods": null,

@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*LMS",
+  "geohash": "0C~HkfRq",
+  "name": "Hymes Energy GmbH Biohotel Eggensberger",
+  "evses": [
+    {
+      "id": "DELMSE10000004863",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELMSE10000004861",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 14.49
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELMSE10000004862",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Füssen",
+    "street": "Enzensbergstr.",
+    "houseNumber": "5",
+    "postcode": "87629",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

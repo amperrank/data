@@ -4,7 +4,7 @@
   "name": "AIRPORT NUE MSC EBENE 0",
   "evses": [
     {
-      "id": "DECPIE67377051",
+      "id": "DECPIE67377351",
       "connectors": [
         {
           "type": "type2",
@@ -15,7 +15,29 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE67377351",
+      "id": "DECPIE67377352",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE67377052",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE67377051",
       "connectors": [
         {
           "type": "type2",
@@ -42,28 +64,6 @@
         {
           "type": "ccs",
           "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE67377052",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE67377352",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

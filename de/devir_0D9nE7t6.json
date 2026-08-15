@@ -15,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEVIRE157971",
+      "id": "DEVIRE148589",
       "connectors": [
         {
           "type": "type2",
@@ -37,7 +37,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEVIRE148589",
+      "id": "DEVIRE269879",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEVIRE157971",
       "connectors": [
         {
           "type": "type2",
@@ -49,17 +60,6 @@
     },
     {
       "id": "DEVIRE269880",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEVIRE269879",
       "connectors": [
         {
           "type": "ccs",

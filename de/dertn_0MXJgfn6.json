@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*RTN",
+  "geohash": "0MXJgfn6",
+  "name": "Raiffeisen Tanknetz eG Raiffeisen Tankstelle Pritzwalk",
+  "evses": [
+    {
+      "id": "DERTNE12349333011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 64.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DERTNE12349333012",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 64.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Pritzwalk",
+    "street": "Hermann-Graebke-Straße",
+    "houseNumber": "1",
+    "postcode": "16928",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

@@ -4,17 +4,6 @@
   "name": "enercity AG enercity - Kestnerstraße/Marienstraße - B01",
   "evses": [
     {
-      "id": "DEENCELA000855A01B",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEENCELA000855B01A",
       "connectors": [
         {
@@ -26,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEENCELA000855A01A",
+      "id": "DEENCELA000855B01B",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEENCELA000855A01B",
       "connectors": [
         {
           "type": "ccs",
@@ -37,11 +37,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEENCELA000855B01B",
+      "id": "DEENCELA000855A01A",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 7.36
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,

@@ -4,7 +4,18 @@
   "name": "Eviny Germany Grafenau",
   "evses": [
     {
-      "id": "DEEVYEGRA2B",
+      "id": "DEEVYEGRA1A",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEVYEGRA2A",
       "connectors": [
         {
           "type": "ccs",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEVYEGRA1A",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEVYEGRA2A",
+      "id": "DEEVYEGRA2B",
       "connectors": [
         {
           "type": "ccs",

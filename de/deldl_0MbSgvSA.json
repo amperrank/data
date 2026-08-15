@@ -4,22 +4,22 @@
   "name": "Lidl Filiale Berlin-Lichtenberg",
   "evses": [
     {
-      "id": "DELDLE00011496",
+      "id": "DELDLE00011495",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 11.0
+          "type": "ccs",
+          "maxPowerKw": 60.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DELDLE00011495",
+      "id": "DELDLE00011496",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 60.0
+          "type": "type2",
+          "maxPowerKw": 11.0
         }
       ],
       "authMethods": null,

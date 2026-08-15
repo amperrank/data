@@ -1,8 +1,19 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0D2BIoso",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0435",
   "evses": [
+    {
+      "id": "DE2GOEMCD02471A1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DE2GOEMCD02471A2",
       "connectors": [
@@ -16,17 +27,6 @@
     },
     {
       "id": "DE2GOEMCD02471B3",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE2GOEMCD02471A1",
       "connectors": [
         {
           "type": "ccs",
@@ -51,10 +51,10 @@
   "facilities": null,
   "address": {
     "city": "Aschaffenburg",
-    "street": "Berliner Allee 1",
+    "street": "Berliner Allee",
     "houseNumber": null,
     "postcode": "63739",
-    "province": "Bayern"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

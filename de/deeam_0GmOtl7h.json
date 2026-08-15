@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*EAM",
+  "geohash": "0GmOtl7h",
+  "name": "300 534S Immenhausen, Parkplatz Freibad",
+  "evses": [
+    {
+      "id": "DEEAME0414",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEAME0413",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Immenhausen",
+    "street": "Bernhardt-Vocke-Straße",
+    "houseNumber": null,
+    "postcode": "34376",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

@@ -4,6 +4,17 @@
   "name": "Mer Germany Business Charging Energiegenossenschaft Leutkirch eG - Leutkirch im Allgäu - Syrlinstrasse 2",
   "evses": [
     {
+      "id": "DEMERE01796402",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEMERE01796403",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEMERE01796401",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE01796402",
       "connectors": [
         {
           "type": "type2",

@@ -4,22 +4,22 @@
   "name": "Gettorf, Hasselrott 11 LIS 1",
   "evses": [
     {
-      "id": "DETMEE30107",
+      "id": "DETMEE30233",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 300.0
+          "type": "chademo",
+          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DETMEE30233",
+      "id": "DETMEE30107",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 100.0
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,

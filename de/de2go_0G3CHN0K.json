@@ -1,25 +1,36 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0G3CHN0K",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE0602",
   "evses": [
     {
-      "id": "DE2GOE06021",
+      "id": "DE2GOE06022",
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 7.36
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DE2GOE06022",
+      "id": "893E6E153930EC63066338D22FB11A57",
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 7.36
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOE06021",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -29,10 +40,10 @@
   "facilities": null,
   "address": {
     "city": "Sottrum",
-    "street": "Schillerstraße 11",
+    "street": "Schillerstraße",
     "houseNumber": null,
     "postcode": "27367",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

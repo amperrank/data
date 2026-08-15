@@ -4,6 +4,17 @@
   "name": "AH EBE ABB DC",
   "evses": [
     {
+      "id": "DECPIE69412051",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DECPIE69412052",
       "connectors": [
         {
@@ -19,18 +30,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE69412051",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE69205951",
+      "id": "DECPIE69205952",
       "connectors": [
         {
           "type": "ccs",
@@ -63,7 +63,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE69205952",
+      "id": "DECPIE69205951",
       "connectors": [
         {
           "type": "ccs",

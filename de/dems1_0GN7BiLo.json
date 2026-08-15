@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*MS1",
+  "geohash": "0GN7BiLo",
+  "name": "032 - Bahnhof Hiltrup",
+  "evses": [
+    {
+      "id": "DEMS1EMS0320101",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMS1EMS0320102",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Münster",
+    "street": "Bergiusstr. Bahnhof",
+    "houseNumber": null,
+    "postcode": "48165",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

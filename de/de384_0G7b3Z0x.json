@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*384",
+  "geohash": "0G7b3Z0x",
+  "name": "EDEKA Ladestation",
+  "evses": [
+    {
+      "id": "DE384E156530CS00012",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE384E156530CS00011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Wittingen",
+    "street": "Benitzer Str.",
+    "houseNumber": null,
+    "postcode": "29378",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

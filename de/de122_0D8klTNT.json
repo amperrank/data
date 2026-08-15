@@ -4,7 +4,18 @@
   "name": "BayWa AG Baustoffe Schweinfurt",
   "evses": [
     {
-      "id": "DE122E0000541",
+      "id": "DE122E0000538",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE122E0000540",
       "connectors": [
         {
           "type": "type2",
@@ -37,29 +48,18 @@
       "paymentMethods": null
     },
     {
+      "id": "DE122E0000541",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DE122E0000539",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE122E0000538",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE122E0000540",
       "connectors": [
         {
           "type": "type2",

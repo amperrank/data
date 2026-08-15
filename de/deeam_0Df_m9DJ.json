@@ -1,0 +1,45 @@
+{
+  "operatorId": "DE*EAM",
+  "geohash": "0Df_m9DJ",
+  "name": "460 002S Solms-Oberbiel, Backstube",
+  "evses": [
+    {
+      "id": "DEEAME0073",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEAME0074",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 22.0
+        },
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Solms",
+    "street": "Wetzlarer Straße",
+    "houseNumber": null,
+    "postcode": "35606",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

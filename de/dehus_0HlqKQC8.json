@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*HUS",
+  "geohash": "0HlqKQC8",
+  "name": "HU024",
+  "evses": [
+    {
+      "id": "DEHUSEHU02403",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEHUSEHU02402",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEHUSEHU02401",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Husum",
+    "street": "Robert-Koch-Str.",
+    "houseNumber": null,
+    "postcode": "25813",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

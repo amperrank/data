@@ -4,6 +4,17 @@
   "name": "Kaufland Heilbronn",
   "evses": [
     {
+      "id": "DEKDLE00002010",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEKDLE00002067",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEKDLE00002008",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 60.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEKDLE00002010",
       "connectors": [
         {
           "type": "ccs",

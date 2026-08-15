@@ -1,0 +1,63 @@
+{
+  "operatorId": "DE*PWA",
+  "geohash": "0DYfznrL",
+  "name": "Pfalzwerke Ladestation (Burg Lichtenberg)",
+  "evses": [
+    {
+      "id": "DEPWAEABB24506X0111003",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPWAEABB24506X0111002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "4B8E0E3148AED1AEE20D29AF7072A6A4",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPWAEABB24506X0111001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Thallichtenberg",
+    "street": "Burgstraße",
+    "houseNumber": null,
+    "postcode": "66871",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

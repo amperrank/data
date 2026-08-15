@@ -1,8 +1,19 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0Mw3S_Il",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE7156",
   "evses": [
+    {
+      "id": "DE2GOEMCD18631A1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DE2GOEMCD18631A2",
       "connectors": [
@@ -26,17 +37,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEMCD18631A1",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DE2GOEMCD18631B3",
       "connectors": [
         {
@@ -51,10 +51,10 @@
   "facilities": null,
   "address": {
     "city": "Frankfurt",
-    "street": "Berliner Chaussee 21",
+    "street": "Berliner Chaussee",
     "houseNumber": null,
     "postcode": "15234",
-    "province": "Brandenburg"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

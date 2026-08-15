@@ -1,10 +1,10 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0GzLCB0H",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0076",
   "evses": [
     {
-      "id": "DE2GOEMCD09861A1",
+      "id": "DE2GOEMCD09861A2",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEMCD09861A2",
+      "id": "2B008E262C0E69DFC8EAA0BA69B30256",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD09861A1",
       "connectors": [
         {
           "type": "ccs",
@@ -29,10 +40,10 @@
   "facilities": null,
   "address": {
     "city": "Wunstorf",
-    "street": "An der Nonnenwiese 1A",
+    "street": "An der Nonnenwiese",
     "houseNumber": null,
     "postcode": "31515",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

@@ -4,6 +4,17 @@
   "name": "Shell Recharge OBN 2802 - Rewe Raiffeisenstrasse",
   "evses": [
     {
+      "id": "DETNMEGL49022802021",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DETNMEGL49022802011",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DETNMEGL49022802022",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49022802021",
       "connectors": [
         {
           "type": "ccs",

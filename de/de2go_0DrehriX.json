@@ -1,30 +1,8 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0DrehriX",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0879",
   "evses": [
-    {
-      "id": "DE2GOEMCD18611A2",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE2GOEMCD18611A1",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DE2GOEMCD18612A3",
       "connectors": [
@@ -46,15 +24,37 @@
       ],
       "authMethods": null,
       "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD18611A2",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD18611A1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Gersthofen",
-    "street": "Dieselstraße 38",
+    "street": "Dieselstraße",
     "houseNumber": null,
     "postcode": "86368",
-    "province": "Bayern"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

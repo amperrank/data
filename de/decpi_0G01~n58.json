@@ -4,7 +4,18 @@
   "name": "DPE CP ENERGIE",
   "evses": [
     {
-      "id": "DECPIE65317051",
+      "id": "DECPIE65451251",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE65451252",
       "connectors": [
         {
           "type": "type2",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE65451251",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE65451252",
+      "id": "DECPIE65317051",
       "connectors": [
         {
           "type": "type2",

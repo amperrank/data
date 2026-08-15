@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*384",
+  "geohash": "0G6D0E7w",
+  "name": "EDEKA Ladestation",
+  "evses": [
+    {
+      "id": "DE384E164299CS00011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE384E164299CS00012",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Remlingen-Semmenstedt",
+    "street": "Parkstraße",
+    "houseNumber": null,
+    "postcode": "38319",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

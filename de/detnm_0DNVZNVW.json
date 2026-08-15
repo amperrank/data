@@ -4,6 +4,17 @@
   "name": "Shell Recharge OBN 0945 - Shell Provinzialstrasse",
   "evses": [
     {
+      "id": "DETNMEGLELLI01361",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DETNMEGLELLI01371",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DETNMEGLELLI01372",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGLELLI01361",
       "connectors": [
         {
           "type": "ccs",

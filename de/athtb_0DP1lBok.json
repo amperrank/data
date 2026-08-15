@@ -4,22 +4,11 @@
   "name": "Energie_Suedwest_102",
   "evses": [
     {
-      "id": "ATHTBE1013295",
+      "id": "ATHTBE1016623",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "ATHTBE1004249",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -59,11 +48,22 @@
       "paymentMethods": null
     },
     {
-      "id": "ATHTBE1016623",
+      "id": "ATHTBE1013295",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "ATHTBE1004249",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,

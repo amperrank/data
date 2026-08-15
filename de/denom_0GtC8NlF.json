@@ -1,0 +1,49 @@
+{
+  "operatorId": "DE*NOM",
+  "geohash": "0GtC8NlF",
+  "name": "NOM_Scharnhorstplatz 2",
+  "evses": [
+    {
+      "id": "DENOME20002001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        },
+        {
+          "type": "unknown",
+          "maxPowerKw": 3.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DENOME20002002",
+      "connectors": [
+        {
+          "type": "unknown",
+          "maxPowerKw": 3.0
+        },
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Northeim",
+    "street": "Scharnhorstplatz",
+    "houseNumber": "2",
+    "postcode": "37154",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

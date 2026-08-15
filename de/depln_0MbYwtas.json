@@ -4,18 +4,7 @@
   "name": "Eni Station - BLUMBERGER CHAUSSEE",
   "evses": [
     {
-      "id": "DEPLNEH0006683",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 12.8
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEPLNEH0007231",
+      "id": "DEPLNEH0006681",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +26,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPLNEH0006681",
+      "id": "DEPLNEH0007222",
       "connectors": [
         {
           "type": "ccs",
@@ -59,6 +48,28 @@
       "paymentMethods": null
     },
     {
+      "id": "DEPLNEH0007232",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPLNEH0007231",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEPLNEH0007221",
       "connectors": [
         {
@@ -70,22 +81,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPLNEH0007232",
+      "id": "DEPLNEH0006683",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEPLNEH0007222",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
+          "type": "type2",
+          "maxPowerKw": 12.8
         }
       ],
       "authMethods": null,

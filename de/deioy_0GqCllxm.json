@@ -4,6 +4,17 @@
   "name": "IONITY GmbH IONITY Zella-Mehlis",
   "evses": [
     {
+      "id": "DEIOYE224810",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEIOYE224809",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEIOYE224807",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE224810",
       "connectors": [
         {
           "type": "ccs",

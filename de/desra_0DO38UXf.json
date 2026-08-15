@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*SRA",
+  "geohash": "0DO38UXf",
+  "name": "Total Tankstelle - Untere Wiesen 2",
+  "evses": [
+    {
+      "id": "DESRAE00005001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DESRAE00005002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DESRAE00004002",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Rastatt",
+    "street": "Untere Wiesen",
+    "houseNumber": "2",
+    "postcode": "76437",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

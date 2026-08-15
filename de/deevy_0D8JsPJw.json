@@ -4,17 +4,6 @@
   "name": "Eviny Germany Werneck",
   "evses": [
     {
-      "id": "DEEVYEWER1A",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEEVYEWER2A",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DEEVYEWER1B",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEVYEWER1A",
       "connectors": [
         {
           "type": "ccs",

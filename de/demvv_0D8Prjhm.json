@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*MVV",
+  "geohash": "0D8Prjhm",
+  "name": "MaLIS_Mueller_Schweinfurt",
+  "evses": [
+    {
+      "id": "DEMVVE00689L1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMVVE00689R1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Schweinfurt",
+    "street": "Gretel-Baumbach-Straße",
+    "houseNumber": "10",
+    "postcode": "97424",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

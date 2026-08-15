@@ -4,17 +4,6 @@
   "name": "Muenchen.ArnulfStrasse15.Public1",
   "evses": [
     {
-      "id": "DESMCE0000023",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DESMCE0000359",
       "connectors": [
         {
@@ -26,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DESMCE0000171",
+      "id": "DESMCE0000360",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DESMCE0000023",
       "connectors": [
         {
           "type": "type2",
@@ -48,11 +48,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DESMCE0000360",
+      "id": "DESMCE0000171",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

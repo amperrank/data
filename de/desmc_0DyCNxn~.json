@@ -4,6 +4,17 @@
   "name": "Oedheim.Ratsstraße6.Public",
   "evses": [
     {
+      "id": "DESMCE0000440",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DESMCE0000439",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DESMCE0000445",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DESMCE0000440",
       "connectors": [
         {
           "type": "type2",

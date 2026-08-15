@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*SLB",
+  "geohash": "0DmVx3bZ",
+  "name": "KW Rosensteinstraße 34",
+  "evses": [
+    {
+      "id": "DESLBE041K20015001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DESLBE041K20015002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DESLBE041K20015003",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Kornwestheim",
+    "street": "Rosensteinstraße",
+    "houseNumber": "34",
+    "postcode": "70806",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

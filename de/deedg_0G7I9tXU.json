@@ -4,17 +4,6 @@
   "name": "BRAWO GE Solution LIS GmbH Brawo Mühlengraben",
   "evses": [
     {
-      "id": "DEEDGE2",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEEDGE1",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DEEDGE12362",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEDGE2",
       "connectors": [
         {
           "type": "type2",

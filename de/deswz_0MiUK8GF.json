@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*SWZ",
+  "geohash": "0MiUK8GF",
+  "name": "Hochschule Zittau/Görlitz",
+  "evses": [
+    {
+      "id": "DESWZE704201",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 24.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DESWZE704202",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 24.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DESWZE704203",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Zittau",
+    "street": "Theodor-Körner-Allee",
+    "houseNumber": null,
+    "postcode": "02763",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

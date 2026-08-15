@@ -4,6 +4,17 @@
   "name": "Städtische Betriebe Kaltenkirchen GmbH - Kaltenkirchen - Eichrecht AC - DE*DES*E*0274",
   "evses": [
     {
+      "id": "DEDESE10020172",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEDESE02742",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DEDESE10020171",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEDESE10020172",
       "connectors": [
         {
           "type": "type2",

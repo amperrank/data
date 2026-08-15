@@ -4,7 +4,18 @@
   "name": "Mer Germany GmbH Mer Germany (IKEA) - Stuhr - Henleinstraße 11 #1",
   "evses": [
     {
-      "id": "DEMERE01786801",
+      "id": "DEMERE01786802",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE01787001",
       "connectors": [
         {
           "type": "ccs",
@@ -16,6 +27,17 @@
     },
     {
       "id": "DEMERE01787202",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE01787102",
       "connectors": [
         {
           "type": "ccs",
@@ -48,40 +70,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMERE01787101",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE01786802",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE01787102",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEMERE01786902",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE01786801",
       "connectors": [
         {
           "type": "ccs",
@@ -103,7 +103,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMERE01787001",
+      "id": "DEMERE01787101",
       "connectors": [
         {
           "type": "ccs",

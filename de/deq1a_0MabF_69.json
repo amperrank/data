@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*Q1A",
+  "geohash": "0MabF_69",
+  "name": "Q1 Autostrom Ladestation",
+  "evses": [
+    {
+      "id": "DEQ1AE48140030",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEQ1AE48140029",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Königs Wusterhausen",
+    "street": "Karl-Liebknecht-Straße",
+    "houseNumber": null,
+    "postcode": "15711",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

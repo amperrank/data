@@ -4,17 +4,6 @@
   "name": "DE Arnstadt 99310 Am Lützer Feld 8 Skoda Autohaus Liebe Keba Master (mit 2 Slaves) (öffentlich / hidden)",
   "evses": [
     {
-      "id": "DEPOWE02765",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEPOWE02766",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DEPOWE02767",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE02765",
       "connectors": [
         {
           "type": "type2",

@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*MVV",
+  "geohash": "0GA65rqW",
+  "name": "Pfennings - Eschweiler - Hauptstraße",
+  "evses": [
+    {
+      "id": "DEMVVE13864L1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMVVE13864R1",
+      "connectors": [
+        {
+          "type": "type1",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Eschweiler",
+    "street": "Hauptstraße",
+    "houseNumber": "7-15",
+    "postcode": "52249",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

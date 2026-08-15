@@ -4,17 +4,6 @@
   "name": "EWM_0198_Schnellladesäule Marktscheune Berghaupten (rechte Ladesäule)",
   "evses": [
     {
-      "id": "DEEWME0000699",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEEWME0000698",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEWME0000443",
+      "id": "DEEWME0000699",
       "connectors": [
         {
           "type": "ccs",
@@ -42,6 +31,17 @@
         {
           "type": "type2",
           "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEWME0000443",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,

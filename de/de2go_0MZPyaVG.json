@@ -1,32 +1,10 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0MZPyaVG",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD1027",
   "evses": [
     {
-      "id": "DE2GOEMCD07851A1",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DE2GOEMCD07851B4",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE2GOEMCD07851A2",
       "connectors": [
         {
           "type": "ccs",
@@ -46,15 +24,37 @@
       ],
       "authMethods": null,
       "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD07851A1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD07851A2",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Wustermark",
-    "street": "Alter Spandauer Weg 5a",
+    "street": "Alter Spandauer Weg",
     "houseNumber": null,
     "postcode": "14641",
-    "province": "Brandenburg"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

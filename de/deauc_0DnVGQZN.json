@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*AUC",
+  "geohash": "0DnVGQZN",
+  "name": "Audi Heilbronn-Biberach Service Training Center (HN)",
+  "evses": [
+    {
+      "id": "DEAUCETRON90003",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEAUCETRON90004",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Heilbronn",
+    "street": "Felix-Wankel-Straße",
+    "houseNumber": "9",
+    "postcode": "74078",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

@@ -4,17 +4,6 @@
   "name": "VW ZENTRUM STATION03",
   "evses": [
     {
-      "id": "DECPIE68390552",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.08
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DECPIE68390551",
       "connectors": [
         {
@@ -35,6 +24,17 @@
         {
           "type": "chademo",
           "maxPowerKw": 62.5
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE68390552",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.08
         }
       ],
       "authMethods": null,

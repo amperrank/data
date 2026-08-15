@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*SPF",
+  "geohash": "0Dkd_rpu",
+  "name": "EDEKA_Berger_Huchenfeld",
+  "evses": [
+    {
+      "id": "DESPFE10073001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DESPFE10073002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Pforzheim",
+    "street": "Industriestraße",
+    "houseNumber": "58",
+    "postcode": "75181",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

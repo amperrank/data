@@ -4,6 +4,17 @@
   "name": "Waldhotel Rainau",
   "evses": [
     {
+      "id": "DEODRE10000867",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEODRE10000869",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DEODRE10000870",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEODRE10000867",
       "connectors": [
         {
           "type": "type2",

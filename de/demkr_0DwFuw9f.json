@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*MKR",
+  "geohash": "0DwFuw9f",
+  "name": "Minera Kraftstoffe - Mineraloelwerk Rempel GmbH, Im Bruch 3, 68775 Ketsch",
+  "evses": [
+    {
+      "id": "DEMKRE000012001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMKRE000012002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMKRE000012003",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Ketsch",
+    "street": "Im Bruch",
+    "houseNumber": "3",
+    "postcode": "68775",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

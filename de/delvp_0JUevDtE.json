@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*LVP",
+  "geohash": "0JUevDtE",
+  "name": "Grafengehaig - Hauptstraße 19",
+  "evses": [
+    {
+      "id": "DELVPE21026002",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELVPE21026001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 24.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Grafengehaig",
+    "street": "Hauptstraße",
+    "houseNumber": "19",
+    "postcode": "95356",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

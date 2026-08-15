@@ -4,7 +4,18 @@
   "name": "TMO LP1/2 K+B Expert",
   "evses": [
     {
-      "id": "DETMOE11021002",
+      "id": "DETMOE11021004",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETMOE11021001",
       "connectors": [
         {
           "type": "ccs",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETMOE11021004",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETMOE11021001",
+      "id": "DETMOE11021002",
       "connectors": [
         {
           "type": "ccs",

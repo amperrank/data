@@ -4,6 +4,17 @@
   "name": "V-Baumarkt Marktoberdorf",
   "evses": [
     {
+      "id": "DEVIRE154442",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEVIRE154422",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DEVIRE154426",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEVIRE154442",
       "connectors": [
         {
           "type": "type2",

@@ -1,7 +1,7 @@
 {
   "operatorId": "DE*CIW",
   "geohash": "0DdnZV7m",
-  "name": "CITYWATT Neuwied #02 - 300kW",
+  "name": "CITYWATT Neuwied #01 - 300kW",
   "evses": [
     {
       "id": "DECIWE001166",
@@ -37,6 +37,17 @@
       "paymentMethods": null
     },
     {
+      "id": "DECIWE001540",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DECIWE001163",
       "connectors": [
         {
@@ -49,17 +60,6 @@
     },
     {
       "id": "DECIWE001541",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECIWE001540",
       "connectors": [
         {
           "type": "ccs",

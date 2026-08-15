@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*LA1",
+  "geohash": "0GnPNuVm",
+  "name": "IOD WELLER Höxter",
+  "evses": [
+    {
+      "id": "DELA1E000178001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELA1E000178002",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Höxter",
+    "street": "Holzmindener Str.",
+    "houseNumber": "30",
+    "postcode": "37671",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

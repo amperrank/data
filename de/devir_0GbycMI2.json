@@ -4,7 +4,18 @@
   "name": "Steinfeld Verwaltung",
   "evses": [
     {
-      "id": "DEVIRE303991",
+      "id": "DEVIRE238948",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEVIRE221408",
       "connectors": [
         {
           "type": "type2",
@@ -26,29 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEVIRE282942",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEVIRE282943",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEVIRE221407",
+      "id": "DEVIRE303991",
       "connectors": [
         {
           "type": "type2",
@@ -70,7 +59,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEVIRE282951",
+      "id": "DEVIRE282943",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEVIRE282942",
       "connectors": [
         {
           "type": "type2",
@@ -92,7 +92,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEVIRE221408",
+      "id": "DEVIRE221407",
       "connectors": [
         {
           "type": "type2",
@@ -103,11 +103,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEVIRE238948",
+      "id": "DEVIRE282951",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 7.36
         }
       ],
       "authMethods": null,

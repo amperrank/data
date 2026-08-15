@@ -4,7 +4,18 @@
   "name": "Shell Recharge OBN 7750 - Shell Esslinger Strasse",
   "evses": [
     {
-      "id": "DETNMEGL49017750021",
+      "id": "DETNMEGL49017750012",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 360.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49017750011",
       "connectors": [
         {
           "type": "ccs",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49017750012",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 360.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49017750011",
+      "id": "DETNMEGL49017750021",
       "connectors": [
         {
           "type": "ccs",

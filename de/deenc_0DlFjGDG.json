@@ -4,7 +4,7 @@
   "name": "enercity AG enercity - P+R Grötzingen - A03",
   "evses": [
     {
-      "id": "DEENCELA001204A02B",
+      "id": "DEENCELA001204A03A",
       "connectors": [
         {
           "type": "ccs",
@@ -16,6 +16,28 @@
     },
     {
       "id": "DEENCELA001204A02A",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEENCELA001204A03B",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEENCELA001204A02B",
       "connectors": [
         {
           "type": "ccs",
@@ -38,28 +60,6 @@
     },
     {
       "id": "DEENCELA001204A01A",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 200.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEENCELA001204A03B",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 200.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEENCELA001204A03A",
       "connectors": [
         {
           "type": "ccs",

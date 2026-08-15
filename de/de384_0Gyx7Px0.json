@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*384",
+  "geohash": "0Gyx7Px0",
+  "name": "NETTO Ladestation",
+  "evses": [
+    {
+      "id": "DE384E168612CS00012",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE384E168612CS00011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Wennigsen",
+    "street": "Degerser Straße",
+    "houseNumber": null,
+    "postcode": "30974",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

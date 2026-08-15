@@ -1,32 +1,10 @@
 {
   "operatorId": "DE*CIW",
   "geohash": "0JNccdSO",
-  "name": "Mittelbayerisches Rehabilitationszentrum - AC 01",
+  "name": "Mittelbayerisches Rehabilitationszentrum - DC 50kW",
   "evses": [
     {
-      "id": "DECIWE000822",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DECIWE000819",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECIWE000820",
       "connectors": [
         {
           "type": "type2",
@@ -42,6 +20,28 @@
         {
           "type": "ccs",
           "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECIWE000822",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECIWE000820",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

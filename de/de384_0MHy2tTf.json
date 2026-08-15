@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*384",
+  "geohash": "0MHy2tTf",
+  "name": "EDEKA Ladestation",
+  "evses": [
+    {
+      "id": "DE384E175098CS00012",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE384E175098CS00011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Coswig",
+    "street": "Schwarzer Weg",
+    "houseNumber": null,
+    "postcode": "06869",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

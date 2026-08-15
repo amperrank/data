@@ -1,10 +1,21 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0Gey_yJY",
-  "name": "EWE Go Ladestation",
+  "name": "EWE_4493_1A",
   "evses": [
     {
       "id": "DE2GOEEWE44931A3",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "CB3B2E9D6FE4D77F5829C40A5131D61E",
       "connectors": [
         {
           "type": "type2",
@@ -51,10 +62,10 @@
   "facilities": null,
   "address": {
     "city": "Großenkneten",
-    "street": "Hauptstraße 61",
+    "street": "Hauptstraße",
     "houseNumber": null,
     "postcode": "26197",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

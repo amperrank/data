@@ -4,6 +4,17 @@
   "name": "Lotter Waldäcker Ladesäule",
   "evses": [
     {
+      "id": "ATHTBE1002774",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "ATHTBE1002775",
       "connectors": [
         {
@@ -19,17 +30,6 @@
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "ATHTBE1002774",
-      "connectors": [
-        {
-          "type": "ccs",
           "maxPowerKw": 22.0
         }
       ],

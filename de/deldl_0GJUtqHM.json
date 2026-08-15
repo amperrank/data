@@ -4,17 +4,6 @@
   "name": "Lidl Filiale Wuppertal",
   "evses": [
     {
-      "id": "DELDLE00004212",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 43.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DELDLE00004213",
       "connectors": [
         {
@@ -31,6 +20,17 @@
         {
           "type": "chademo",
           "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELDLE00004212",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 43.0
         }
       ],
       "authMethods": null,

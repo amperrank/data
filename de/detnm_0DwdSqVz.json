@@ -4,17 +4,6 @@
   "name": "Shell Recharge OBN 3004 - Penny Freiburger Strasse",
   "evses": [
     {
-      "id": "DETNMEGL49023004042",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGL49023004041",
       "connectors": [
         {
@@ -37,17 +26,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49023004021",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGL49023004022",
       "connectors": [
         {
@@ -59,7 +37,29 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49023004012",
+      "id": "DETNMEGL49023004021",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49023004042",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49023004031",
       "connectors": [
         {
           "type": "ccs",
@@ -81,7 +81,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49023004031",
+      "id": "DETNMEGL49023004012",
       "connectors": [
         {
           "type": "ccs",

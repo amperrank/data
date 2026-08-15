@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*PWA",
+  "geohash": "0DP6L_w8",
+  "name": "Pfalzwerke Ladestation (REWE)",
+  "evses": [
+    {
+      "id": "DEPWAEALP22267X0007602",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 125.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPWAEALP22267X0007601",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 125.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Karlsruhe",
+    "street": "Hermann-Höpker-Aschoff-Straße",
+    "houseNumber": null,
+    "postcode": "76149",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*Q1A",
+  "geohash": "0GYMSXK1",
+  "name": "Q1 Autostrom Ladestation",
+  "evses": [
+    {
+      "id": "DEQ1AE3050013011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEQ1AE3050013012",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEQ1AE3050013013",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Metelen",
+    "street": "Wettringener Straße",
+    "houseNumber": null,
+    "postcode": "48629",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

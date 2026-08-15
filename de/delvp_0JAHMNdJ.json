@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*LVP",
+  "geohash": "0JAHMNdJ",
+  "name": "Berg - Parkplatz am Schulplatz",
+  "evses": [
+    {
+      "id": "DELVPE21013002",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELVPE21013001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Berg",
+    "street": "Schulplatz",
+    "houseNumber": "1",
+    "postcode": "82335",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

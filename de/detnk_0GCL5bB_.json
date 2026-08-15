@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*TNK",
+  "geohash": "0GCL5bB_",
+  "name": "Autohaus Gotzen",
+  "evses": [
+    {
+      "id": "DETNKE20009801",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNKE20009802",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Zülpich",
+    "street": "Industriestr.",
+    "houseNumber": "1",
+    "postcode": "53909",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

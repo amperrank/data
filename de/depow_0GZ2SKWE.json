@@ -1,25 +1,25 @@
 {
   "operatorId": "DE*POW",
   "geohash": "0GZ2SKWE",
-  "name": "DE Haselünne 49740 Lingener Straße 1A AH Gebr.Schwarte GmbH & Co.KG (230222403 LP2) öffentlich",
+  "name": "DE Haselünne 49740 Lingener Straße 1A AH Gebr.Schwarte GmbH & Co.KG (DC Station 1) öffentlich",
   "evses": [
-    {
-      "id": "DEPOWE03312",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DEPOWE03310",
       "connectors": [
         {
           "type": "type2",
           "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE03312",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

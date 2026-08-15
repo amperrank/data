@@ -1,0 +1,279 @@
+[
+  {
+    "operatorId": {
+      "countryCode": "DE",
+      "cpo": "RBG"
+    },
+    "currency": "EUR",
+    "validFrom": null,
+    "validTo": null,
+    "updatedAt": "2026-08-15T00:00:00.000",
+    "description": "REWAG Ladestrom-Tarif (rewario.strom.mobil) through the r.charge app, and Direktzahlung via PayPal for ad-hoc charging. Fixed energy prices for AC (up to 49 kW) and DC (from 50 kW), each with a blocking fee (Blockadegebühr) in EUR/Min. Prices incl. VAT.",
+    "tiers": [
+      {
+        "id": "rewario-strom-mobil",
+        "name": "REWAG App",
+        "role": "standard",
+        "subscriptionFee": null,
+        "requiresMembership": true,
+        "applicableHours": null,
+        "description": null,
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 0.3999,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": 49,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.02,
+            "unit": "min",
+            "minPowerKw": null,
+            "maxPowerKw": 49,
+            "gracePeriodMinutes": 120,
+            "condition": "from the 121st minute of standstill",
+            "applicableHours": {
+              "isOpen247": false,
+              "regularHours": [
+                {
+                  "weekday": 1,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 19,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 2,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 19,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 3,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 19,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 4,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 19,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 5,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 19,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 6,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 19,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 7,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 19,
+                    "minute": 0
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 0.45,
+            "unit": "kWh",
+            "minPowerKw": 50,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.05,
+            "unit": "min",
+            "minPowerKw": 50,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": 60,
+            "condition": "from the 61st minute of standstill",
+            "applicableHours": null
+          }
+        ]
+      },
+      {
+        "id": "direktzahlung",
+        "name": "Direktzahlung via PayPal",
+        "role": "standard",
+        "subscriptionFee": null,
+        "requiresMembership": false,
+        "applicableHours": null,
+        "description": null,
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 0.5,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": 49,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.02,
+            "unit": "min",
+            "minPowerKw": null,
+            "maxPowerKw": 49,
+            "gracePeriodMinutes": 120,
+            "condition": "from the 121st minute of standstill",
+            "applicableHours": {
+              "isOpen247": false,
+              "regularHours": [
+                {
+                  "weekday": 1,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 19,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 2,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 19,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 3,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 19,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 4,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 19,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 5,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 19,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 6,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 19,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 7,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 19,
+                    "minute": 0
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 0.55,
+            "unit": "kWh",
+            "minPowerKw": 50,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.1,
+            "unit": "min",
+            "minPowerKw": 50,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": 60,
+            "condition": "from the 61st minute of standstill",
+            "applicableHours": null
+          }
+        ]
+      }
+    ]
+  }
+]

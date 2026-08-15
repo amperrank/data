@@ -4,17 +4,6 @@
   "name": "AGK POWER DECPIE6674925",
   "evses": [
     {
-      "id": "DECPIE66749252",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DECPIE66749251",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DECPIE66761152",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE66761151",
       "connectors": [
         {
           "type": "ccs",
@@ -59,11 +59,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE66761151",
+      "id": "DECPIE66749252",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 150.0
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,

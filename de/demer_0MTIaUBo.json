@@ -4,17 +4,6 @@
   "name": "Mer Germany GmbH Mer Germany (DNetz) - Genthin - Geschwister-Scholl-Straße 32 #1",
   "evses": [
     {
-      "id": "DEMERE01451401",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEMERE01451402",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DEMERE01445402",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE01451401",
       "connectors": [
         {
           "type": "ccs",

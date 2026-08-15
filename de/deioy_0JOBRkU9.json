@@ -4,17 +4,6 @@
   "name": "IONITY GmbH IONITY Donautal West",
   "evses": [
     {
-      "id": "DEIOYE201306",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEIOYE201303",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DEIOYE201302",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE201306",
       "connectors": [
         {
           "type": "ccs",

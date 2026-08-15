@@ -4,17 +4,6 @@
   "name": "TMO LP4/5 Globus Linderbach",
   "evses": [
     {
-      "id": "DETMOE11003002",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETMOE11003004",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DETMOE11003001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETMOE11003002",
       "connectors": [
         {
           "type": "ccs",

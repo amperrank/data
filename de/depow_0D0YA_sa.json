@@ -4,22 +4,22 @@
   "name": "DE_VGRD_F_VW_Mainzer_NW01_öffentlich",
   "evses": [
     {
-      "id": "DEPOWE01141",
+      "id": "DEPOWE01140",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 75.2
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEPOWE01140",
+      "id": "DEPOWE01141",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 75.2
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

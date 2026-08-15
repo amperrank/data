@@ -4,17 +4,6 @@
   "name": "Shell Recharge OBN 2866 - KFC Laubanger",
   "evses": [
     {
-      "id": "DETNMEGL49022866011",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGL49022866021",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49022866032",
+      "id": "DETNMEGL49022866031",
       "connectors": [
         {
           "type": "ccs",
@@ -59,7 +48,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49022866031",
+      "id": "DETNMEGL49022866032",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49022866011",
       "connectors": [
         {
           "type": "ccs",

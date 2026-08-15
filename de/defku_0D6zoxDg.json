@@ -4,7 +4,7 @@
   "name": "Schuster & Walther GmbH & Co. KG Loh Beteiligungs UG & Co. KG",
   "evses": [
     {
-      "id": "DEFKUEFS10398",
+      "id": "DEFKUEFS10401",
       "connectors": [
         {
           "type": "type2",
@@ -15,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFKUEFS10397",
+      "id": "DEFKUEFS10396",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEFKUEFS10398",
       "connectors": [
         {
           "type": "type2",
@@ -48,18 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFKUEFS10396",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEFKUEFS10401",
+      "id": "DEFKUEFS10397",
       "connectors": [
         {
           "type": "type2",
@@ -73,7 +73,7 @@
   "facilities": null,
   "address": {
     "city": "Nürnberg",
-    "street": "Schwabacher Straße",
+    "street": "Schwabacher Str.",
     "houseNumber": "3",
     "postcode": "90439",
     "province": null

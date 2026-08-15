@@ -1,0 +1,49 @@
+{
+  "operatorId": "DE*MS1",
+  "geohash": "0GN8tnLh",
+  "name": "006 - Parkhaus Alter Steinweg",
+  "evses": [
+    {
+      "id": "DEMS1EMS0060101",
+      "connectors": [
+        {
+          "type": "unknown",
+          "maxPowerKw": 3.0
+        },
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMS1EMS0060102",
+      "connectors": [
+        {
+          "type": "unknown",
+          "maxPowerKw": 3.0
+        },
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Münster",
+    "street": "Alter Steinweg",
+    "houseNumber": "21",
+    "postcode": "48143",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

@@ -1,10 +1,32 @@
 {
   "operatorId": "CH*ECU",
   "geohash": "0G7JijeH",
-  "name": "Schlossterstraße 6a",
+  "name": "Schlosserstrasse 6a_27447783",
   "evses": [
     {
-      "id": "CHECUE7GCEXF34WVBVBG2EA5JGQPZM3W",
+      "id": "CHECUEAYL6J88AM4KAYZZKDQBNWGL7UZ",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 12.8
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "CHECUEJ2WX4PPWRETBPYN3YD8HNV3L5Q",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 12.8
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "CHECUEGV3FU5C6AJZ8WKZ9BAZ3F7BZY3",
       "connectors": [
         {
           "type": "type2",
@@ -18,8 +40,8 @@
   "facilities": null,
   "address": {
     "city": "Wolfsburg",
-    "street": "L321",
-    "houseNumber": "63",
+    "street": "Schlosserstraße",
+    "houseNumber": "4",
     "postcode": "38440",
     "province": null
   },

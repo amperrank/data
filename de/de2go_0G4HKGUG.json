@@ -1,10 +1,10 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0G4HKGUG",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0439",
   "evses": [
     {
-      "id": "DE2GOEMCD03921A1",
+      "id": "DE2GOEMCD03921A2",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEMCD03921A2",
+      "id": "B2BFEEA9D0B43425723D2FD6B68ECCE2",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD03921A1",
       "connectors": [
         {
           "type": "ccs",
@@ -29,10 +40,10 @@
   "facilities": null,
   "address": {
     "city": "Hildesheim",
-    "street": "Bavenstedter Straße 48",
+    "street": "Bavenstedter Straße",
     "houseNumber": null,
     "postcode": "31135",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

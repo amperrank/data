@@ -1,7 +1,7 @@
 {
   "operatorId": "DE*VAT",
   "geohash": "0Gb2n1kZ",
-  "name": "DE*VAT*ET184*IT1*0224*005*1",
+  "name": "DE*VAT*ET184*IT1*0224*005*2",
   "evses": [
     {
       "id": "DEVATEALF00673061",
@@ -15,22 +15,22 @@
       "paymentMethods": null
     },
     {
-      "id": "EF629EFD4B3CE3AC0947A76FDF8E046C",
+      "id": "DEVATET184IT102240022",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 11.04
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEVATEALF00673062",
+      "id": "DEVATET184IT102240051",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 11.04
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,
@@ -59,22 +59,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEVATET184IT102240051",
+      "id": "EF629EFD4B3CE3AC0947A76FDF8E046C",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 150.0
+          "type": "type2",
+          "maxPowerKw": 11.04
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEVATET184IT102240022",
+      "id": "DEVATEALF00673062",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 150.0
+          "type": "type2",
+          "maxPowerKw": 11.04
         }
       ],
       "authMethods": null,

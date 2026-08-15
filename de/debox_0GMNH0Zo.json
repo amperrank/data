@@ -1,19 +1,8 @@
 {
   "operatorId": "DE*BOX",
   "geohash": "0GMNH0Zo",
-  "name": "Stadtwerke Bochum / Innenstadt HPC",
+  "name": "Stadtwerke Bochum, Ostring 28",
   "evses": [
-    {
-      "id": "DEBOXEAC0055",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DEBOXEAC0701",
       "connectors": [
@@ -31,6 +20,17 @@
         {
           "type": "ccs",
           "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBOXEAC0055",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

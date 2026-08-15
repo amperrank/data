@@ -4,22 +4,22 @@
   "name": "DE Sulingen 27232 Bassumer Straße 81 Autohaus Südring 23BZ8991A (öffentlich KKT)",
   "evses": [
     {
-      "id": "DEPOWE03388",
+      "id": "DEPOWE03387",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEPOWE03387",
+      "id": "DEPOWE03388",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

@@ -1,0 +1,41 @@
+{
+  "operatorId": "NL*LMS",
+  "geohash": "0GD0_54s",
+  "name": "Flughafen Düsseldorf P12 - Kurzzeitparkplatz",
+  "evses": [
+    {
+      "id": "NLLMSE12348871112",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 80.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "NLLMSE12348871111",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 80.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Düsseldorf",
+    "street": "Flughafenstraße",
+    "houseNumber": null,
+    "postcode": "40474",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

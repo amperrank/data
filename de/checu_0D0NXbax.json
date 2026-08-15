@@ -4,17 +4,6 @@
   "name": "Telehouse 1 HYC_50_100137087",
   "evses": [
     {
-      "id": "CHECUESMWNNR6KMBX2ZZ9FFVVANC294A",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 200.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "CHECUE5YPBQU9TFJCSARA7EMR4PD7QA2",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "CHECUEUL3RTAY4DRCJW2LULNF65MQBJZ",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "CHECUESMWNNR6KMBX2ZZ9FFVVANC294A",
       "connectors": [
         {
           "type": "ccs",

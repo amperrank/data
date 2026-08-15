@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*NMS",
+  "geohash": "0GvN0xid",
+  "name": "WR_Trafostation Wetterwarte",
+  "evses": [
+    {
+      "id": "DENMSE510453002",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DENMSE510453001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Wernigerode",
+    "street": "An den Sieben Teichen ggü.",
+    "houseNumber": "17",
+    "postcode": "38855",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

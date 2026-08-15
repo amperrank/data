@@ -1,0 +1,63 @@
+{
+  "operatorId": "DE*Q1A",
+  "geohash": "0Mcpd94~",
+  "name": "Q1 Autostrom Ladestation",
+  "evses": [
+    {
+      "id": "DEQ1AE48146132",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEQ1AE48142252",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEQ1AE48142251",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEQ1AE48142250",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Löwenberger Land",
+    "street": "Alte Grüneberger Landstraße",
+    "houseNumber": null,
+    "postcode": "16775",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

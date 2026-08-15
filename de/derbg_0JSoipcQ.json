@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*RBG",
+  "geohash": "0JSoipcQ",
+  "name": "ABB DC Charger - Roding - Wetterfeld Thierlsteinerstraße 1",
+  "evses": [
+    {
+      "id": "DEGUCERWG1073",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGUCERWG1071",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGUCERWG1072",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Roding",
+    "street": "Thierlsteinerstraße",
+    "houseNumber": null,
+    "postcode": "93426",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

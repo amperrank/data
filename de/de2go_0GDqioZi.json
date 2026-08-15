@@ -1,10 +1,10 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0GDqioZi",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD1038",
   "evses": [
     {
-      "id": "DE2GOEMCD09641A2",
+      "id": "DE2GOEMCD09641A1",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEMCD09641A1",
+      "id": "03680E3138F38BA6F091CDB4BC1ECD41",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD09641A2",
       "connectors": [
         {
           "type": "ccs",
@@ -29,10 +40,10 @@
   "facilities": null,
   "address": {
     "city": "Köln",
-    "street": "Mülheimer Zubringer 142",
+    "street": "Mülheimer Zubringer",
     "houseNumber": null,
     "postcode": "51063",
-    "province": "Nordrhein-Westfalen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

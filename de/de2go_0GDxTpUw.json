@@ -1,32 +1,21 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0GDxTpUw",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0836",
   "evses": [
     {
-      "id": "DE2GOEMCD10491A2",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE2GOEMCD10491B4",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DE2GOEMCD10491A1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD10491A2",
       "connectors": [
         {
           "type": "ccs",
@@ -46,15 +35,26 @@
       ],
       "authMethods": null,
       "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD10491B4",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Düsseldorf",
-    "street": "Burgunderstraße 51-53",
+    "street": "Burgunderstraße",
     "houseNumber": null,
     "postcode": "40549",
-    "province": "Nordrhein-Westfalen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

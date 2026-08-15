@@ -4,6 +4,17 @@
   "name": "Shell Recharge OBN 7550 - Shell Linxweiler Strasse",
   "evses": [
     {
+      "id": "DETNMEGL49017550011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DETNMEGL49017550021",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DETNMEGL49017550022",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49017550011",
       "connectors": [
         {
           "type": "ccs",

@@ -1,10 +1,32 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0JFSAKis",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0455",
   "evses": [
     {
-      "id": "DE2GOEMCD02672A3",
+      "id": "DE2GOEMCD02671A2",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "E98C2ECA20D06178E0E5A47C4CFFF96B",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD02671A1",
       "connectors": [
         {
           "type": "ccs",
@@ -26,17 +48,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEMCD02671A2",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DE2GOEMCD02671B3",
       "connectors": [
         {
@@ -48,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEMCD02671A1",
+      "id": "DE2GOEMCD02672A3",
       "connectors": [
         {
           "type": "ccs",
@@ -73,10 +84,10 @@
   "facilities": null,
   "address": {
     "city": "Greding",
-    "street": "An der Autobahn 4",
+    "street": "An der Autobahn",
     "houseNumber": null,
     "postcode": "91171",
-    "province": "Bayern"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

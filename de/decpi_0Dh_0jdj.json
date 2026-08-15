@@ -4,7 +4,18 @@
   "name": "RAIFFEISENSTR: RAIFFEISEN LINK",
   "evses": [
     {
-      "id": "DECPIE69904752",
+      "id": "DECPIE69904751",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE69904952",
       "connectors": [
         {
           "type": "type2",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE69904751",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE69904952",
+      "id": "DECPIE69904752",
       "connectors": [
         {
           "type": "type2",

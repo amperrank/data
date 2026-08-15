@@ -4,17 +4,6 @@
   "name": "BURGER SCHLOZ AC 9",
   "evses": [
     {
-      "id": "DECPIE69763652",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.08
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DECPIE69763651",
       "connectors": [
         {
@@ -48,18 +37,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE65588751",
+      "id": "DECPIE69763652",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 150.0
+          "type": "type2",
+          "maxPowerKw": 22.08
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DECPIE65055751",
+      "id": "DECPIE65055752",
       "connectors": [
         {
           "type": "type2",
@@ -81,11 +70,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE65055752",
+      "id": "DECPIE65055751",
       "connectors": [
         {
           "type": "type2",
           "maxPowerKw": 22.08
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE65588751",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,

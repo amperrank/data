@@ -1,7 +1,7 @@
 {
   "operatorId": "DE*DES",
   "geohash": "0GG~OdzP",
-  "name": "AHAG Münsterland GmbH - DE*DES*E1004564",
+  "name": "AHAG Münsterland GmbH - DE*DES*EBMW*0627",
   "evses": [
     {
       "id": "DEDESE10045641",
@@ -26,22 +26,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEDESEBMW06271",
+      "id": "DEDESE10045642",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEDESE10045642",
+      "id": "DEDESEBMW06271",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

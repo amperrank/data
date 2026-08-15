@@ -1,8 +1,19 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0DwCq3xr",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0555",
   "evses": [
+    {
+      "id": "DE2GOEMCD18501B3",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DE2GOEMCD18501B4",
       "connectors": [
@@ -35,26 +46,15 @@
       ],
       "authMethods": null,
       "paymentMethods": null
-    },
-    {
-      "id": "DE2GOEMCD18501B3",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Kronau",
-    "street": "Am Autobahnzubringer 3",
+    "street": "Am Autobahnzubringer",
     "houseNumber": null,
     "postcode": "76709",
-    "province": "Baden-Württemberg"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

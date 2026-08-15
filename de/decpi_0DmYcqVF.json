@@ -4,26 +4,26 @@
   "name": "HAHN AUTOMOBILE VK ES ABB AU 57",
   "evses": [
     {
-      "id": "DECPIE65998352",
+      "id": "DECPIE65998351",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        },
-        {
-          "type": "chademo",
-          "maxPowerKw": 44.0
+          "type": "type2",
+          "maxPowerKw": 43.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DECPIE65998351",
+      "id": "DECPIE65998352",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 43.0
+          "type": "chademo",
+          "maxPowerKw": 44.0
+        },
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

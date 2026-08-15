@@ -4,17 +4,6 @@
   "name": "Electra Oldenburg - Netto Alter Postweg",
   "evses": [
     {
-      "id": "DEELDEBTL8",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEELDEHDFW",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DEELDEFM3K",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEELDEBTL8",
       "connectors": [
         {
           "type": "ccs",

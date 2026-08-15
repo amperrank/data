@@ -4,22 +4,22 @@
   "name": "DE Rodewisch 08228 Alte Lengenfelder Str. 2b HYC_49,9 (100142648) öffentlich (30 kW Grid)",
   "evses": [
     {
-      "id": "DEPOWE03461",
+      "id": "DEPOWE03462",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 49.9
+          "type": "type2",
+          "maxPowerKw": 11.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEPOWE03462",
+      "id": "DEPOWE03461",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 11.0
+          "type": "ccs",
+          "maxPowerKw": 49.9
         }
       ],
       "authMethods": null,

@@ -1,0 +1,52 @@
+{
+  "operatorId": "D5*EED",
+  "geohash": "0DvqOZ46",
+  "name": "EDEKA Ladestation",
+  "evses": [
+    {
+      "id": "D5EEDE882045060AB40F3981AF440E19",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE384E005829CS00012",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE384E005829CS00011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Eichstätt",
+    "street": "Industriestraße",
+    "houseNumber": null,
+    "postcode": "85072",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

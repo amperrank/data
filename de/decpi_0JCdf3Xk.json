@@ -4,6 +4,17 @@
   "name": "AH EBE DC HAAG",
   "evses": [
     {
+      "id": "DECPIE69314351",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DECPIE69314352",
       "connectors": [
         {
@@ -13,17 +24,6 @@
         {
           "type": "ccs",
           "maxPowerKw": 20.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE69314351",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

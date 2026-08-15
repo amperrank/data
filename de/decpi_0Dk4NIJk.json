@@ -4,17 +4,6 @@
   "name": "HAHN AUTOMOBILE VK VWSIFI AC 11",
   "evses": [
     {
-      "id": "DECPIE65142052",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DECPIE65142051",
       "connectors": [
         {
@@ -26,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE67449052",
+      "id": "DECPIE65142052",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE67449051",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE67449051",
+      "id": "DECPIE67449052",
       "connectors": [
         {
           "type": "ccs",

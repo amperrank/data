@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*LDK",
+  "geohash": "0G46t91~",
+  "name": "BS|ENERGY Thüringenplatz",
+  "evses": [
+    {
+      "id": "DELDKE00057",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELDKE00058",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELDKE00059",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Braunschweig",
+    "street": "Thüringenplatz",
+    "houseNumber": "9",
+    "postcode": "38124",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

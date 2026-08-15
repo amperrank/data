@@ -4,17 +4,6 @@
   "name": "DC-00816-03",
   "evses": [
     {
-      "id": "DEODEEDC008160203",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEODEEDC008160306",
       "connectors": [
         {
@@ -26,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEODEEDC008160204",
+      "id": "DEODEEDC008160203",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEODEEDC008160305",
       "connectors": [
         {
           "type": "ccs",
@@ -48,7 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEODEEDC008160305",
+      "id": "DEODEEDC008160204",
       "connectors": [
         {
           "type": "ccs",

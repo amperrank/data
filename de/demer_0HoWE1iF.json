@@ -4,44 +4,11 @@
   "name": "Mer Germany GmbH Mer Germany (TuR) - Quickborn - Holmmoor West #1",
   "evses": [
     {
-      "id": "DEMERE00112401",
+      "id": "DEMERE00112502",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 75.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE00112404",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE00112402",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE00112403",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 75.0
+          "maxPowerKw": 120.0
         }
       ],
       "authMethods": null,
@@ -59,11 +26,44 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMERE00112502",
+      "id": "DEMERE00112402",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00112404",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00112401",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 120.0
+          "maxPowerKw": 75.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00112403",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 75.0
         }
       ],
       "authMethods": null,

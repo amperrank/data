@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*PDN",
+  "geohash": "0DP1cPmi",
+  "name": "Pfalzwerke Ladestation (Deutschlandnetz)",
+  "evses": [
+    {
+      "id": "DEPDNEALP22541X0151001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPDNEALP22541X0151002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Landau in der Pfalz",
+    "street": "Lotschstraße",
+    "houseNumber": null,
+    "postcode": "76829",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

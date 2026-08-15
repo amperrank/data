@@ -4,7 +4,18 @@
   "name": "Ubitricity Beimoorstraße 2-4",
   "evses": [
     {
-      "id": "DEUBIE10039406",
+      "id": "DEUBIE10051445",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEUBIE10002229",
       "connectors": [
         {
           "type": "type2",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEUBIE10051445",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEUBIE10002229",
+      "id": "DEUBIE10039406",
       "connectors": [
         {
           "type": "type2",

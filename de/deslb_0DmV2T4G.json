@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*SLB",
+  "geohash": "0DmV2T4G",
+  "name": "KOR Theodor-Heuss-Straße 4",
+  "evses": [
+    {
+      "id": "DESLBE042K20016001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DESLBE042K20016002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DESLBE042K20016003",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Kornwestheim",
+    "street": "Theodor-Heuss-Straße",
+    "houseNumber": "4",
+    "postcode": "70806",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

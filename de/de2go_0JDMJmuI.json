@@ -1,8 +1,19 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0JDMJmuI",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD1040",
   "evses": [
+    {
+      "id": "DE2GOEMCD18781A1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DE2GOEMCD18781A2",
       "connectors": [
@@ -16,17 +27,6 @@
     },
     {
       "id": "DE2GOEMCD18782A3",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE2GOEMCD18781A1",
       "connectors": [
         {
           "type": "ccs",
@@ -51,10 +51,10 @@
   "facilities": null,
   "address": {
     "city": "Dorfen",
-    "street": "Zieglhaus 2",
+    "street": "Zieglhaus",
     "houseNumber": null,
     "postcode": "84405",
-    "province": "Bayern"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

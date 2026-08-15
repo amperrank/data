@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*384",
+  "geohash": "0MI_mWuQ",
+  "name": "EDEKA Ladestation",
+  "evses": [
+    {
+      "id": "DE384E031801CS00011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE384E031801CS00012",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Freiberg",
+    "street": "Forstweg",
+    "houseNumber": null,
+    "postcode": "09599",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

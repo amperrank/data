@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*BSW",
+  "geohash": "0MbErZym",
+  "name": "Berliner Stadtwerke Donaustr. 89 DC/AC",
+  "evses": [
+    {
+      "id": "DEBSWE604163163",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBSWE604759759",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Berlin",
+    "street": "Donaustr.",
+    "houseNumber": "89",
+    "postcode": "12043",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

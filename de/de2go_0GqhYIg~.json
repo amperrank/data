@@ -1,10 +1,10 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0GqhYIg~",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0432",
   "evses": [
     {
-      "id": "DE2GOEMCD05291A1",
+      "id": "DE2GOEMCD05291A2",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEMCD05291A2",
+      "id": "911A5E852BCB071318E21113639A051E",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD05291A1",
       "connectors": [
         {
           "type": "ccs",
@@ -29,10 +40,10 @@
   "facilities": null,
   "address": {
     "city": "Ilmenau",
-    "street": "Auf dem Mittelfeld 8",
+    "street": "Auf dem Mittelfeld",
     "houseNumber": null,
     "postcode": "98693",
-    "province": "Thüringen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

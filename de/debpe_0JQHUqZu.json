@@ -4,7 +4,18 @@
   "name": "Aral pulse Nürnberger Straße 25",
   "evses": [
     {
-      "id": "DEBPEE0FB780206",
+      "id": "DEBPEE0FB780205",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0FB780101",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +26,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FB780101",
+      "id": "DEBPEE0FB780206",
       "connectors": [
         {
           "type": "ccs",
@@ -37,33 +48,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FB780102",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 100.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0FB780205",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 100.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEBPEE0FB780103",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0FB780102",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,

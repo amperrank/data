@@ -1,10 +1,21 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0GfnYdZj",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE1000224",
   "evses": [
     {
-      "id": "DE2GOEEWE74122A3",
+      "id": "DE2GOEEWE74121A2",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "C044DEC120E8515091B083DB17E5D40E",
       "connectors": [
         {
           "type": "ccs",
@@ -26,22 +37,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEEWE74122A4",
+      "id": "DE2GOEEWE74122A3",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 49.95
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEEWE74121A2",
+      "id": "DE2GOEEWE74122A4",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 49.95
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -51,10 +62,10 @@
   "facilities": null,
   "address": {
     "city": "Rastede",
-    "street": "Oldenburger Straße 218",
+    "street": "Oldenburger Straße",
     "houseNumber": null,
     "postcode": "26180",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

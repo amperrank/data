@@ -4,17 +4,6 @@
   "name": "BMW - AHAG GmbH & Co. KG",
   "evses": [
     {
-      "id": "DEDESEBMW04392",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEDESEBMW04391",
       "connectors": [
         {
@@ -26,11 +15,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEDESE10034093",
+      "id": "DEDESEBMW04392",
       "connectors": [
         {
           "type": "type2",
           "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEDESE10034091",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 75.2
         }
       ],
       "authMethods": null,
@@ -48,11 +48,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEDESE10034091",
+      "id": "DEDESE10034093",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 75.2
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

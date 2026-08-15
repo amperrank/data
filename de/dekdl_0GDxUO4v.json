@@ -4,22 +4,11 @@
   "name": "Kaufland Neuss",
   "evses": [
     {
-      "id": "DEKDLE00000018",
+      "id": "DEKDLE00000016",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEKDLE00004199",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 43.0
         }
       ],
       "authMethods": null,
@@ -37,22 +26,33 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00000016",
+      "id": "DEKDLE00004198",
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 43.0
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00004198",
+      "id": "DEKDLE00004199",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEKDLE00000018",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

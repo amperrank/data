@@ -4,7 +4,18 @@
   "name": "Shell Recharge OBN 2630 - Rewe Kuemmelsberg",
   "evses": [
     {
-      "id": "DETNMEGL49022630011",
+      "id": "DETNMEGL49022630022",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49022630012",
       "connectors": [
         {
           "type": "ccs",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49022630022",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49022630012",
+      "id": "DETNMEGL49022630011",
       "connectors": [
         {
           "type": "ccs",

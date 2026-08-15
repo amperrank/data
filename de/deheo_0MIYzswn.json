@@ -1,0 +1,82 @@
+{
+  "operatorId": "DE*HEO",
+  "geohash": "0MIYzswn",
+  "name": "CSG Schnellladen",
+  "evses": [
+    {
+      "id": "DEHEOE10006001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 43.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEHEOE10006002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEHEOE10006003",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEHEOE10001001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        },
+        {
+          "type": "unknown",
+          "maxPowerKw": 3.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEHEOE10001002",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        },
+        {
+          "type": "unknown",
+          "maxPowerKw": 3.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Chemnitz",
+    "street": "Hoffmanstraße",
+    "houseNumber": "47",
+    "postcode": "09112",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

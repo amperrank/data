@@ -4,6 +4,17 @@
   "name": "Kaufland Bottrop",
   "evses": [
     {
+      "id": "DEKDLE00000182",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEKDLE00000184",
       "connectors": [
         {
@@ -26,11 +37,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00000182",
+      "id": "DEKDLE00000616",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "chademo",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -41,17 +52,6 @@
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEKDLE00000616",
-      "connectors": [
-        {
-          "type": "chademo",
           "maxPowerKw": 50.0
         }
       ],

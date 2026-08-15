@@ -4,17 +4,6 @@
   "name": "Fastned Wittenburg",
   "evses": [
     {
-      "id": "DEFASE4903301",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEFASE4903302",
       "connectors": [
         {
@@ -30,15 +19,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFASE4903304",
+      "id": "DEFASE4903301",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 300.0
-        },
-        {
-          "type": "chademo",
-          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -50,6 +35,21 @@
         {
           "type": "ccs",
           "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEFASE4903304",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        },
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

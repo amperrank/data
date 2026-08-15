@@ -1,10 +1,10 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0GA25x41",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0511",
   "evses": [
     {
-      "id": "DE2GOEMCD09311A1",
+      "id": "DE2GOEMCD09311A2",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEMCD09311A2",
+      "id": "70597E46B6CF92E2E6C57581C342C5AC",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD09311A1",
       "connectors": [
         {
           "type": "ccs",
@@ -29,10 +40,10 @@
   "facilities": null,
   "address": {
     "city": "Übach-Palenberg",
-    "street": "Friedrich-Wilhelm-Raiffeisen Straße 30",
+    "street": "Friedrich-Wilhelm-Raiffeisen Straße",
     "houseNumber": null,
     "postcode": "52531",
-    "province": "Nordrhein-Westfalen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

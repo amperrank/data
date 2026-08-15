@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*RBG",
+  "geohash": "0JHHMhPQ",
+  "name": "DC-Charger Kirchmeierstraße",
+  "evses": [
+    {
+      "id": "DERBGE0602",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DERBGE0601",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DERBGE0603",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Regensburg",
+    "street": "Kirchmeierstraße",
+    "houseNumber": null,
+    "postcode": "93051",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

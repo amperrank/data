@@ -4,17 +4,6 @@
   "name": "Shell Recharge OBN 3353 - Shell Britzer Strasse",
   "evses": [
     {
-      "id": "DETNMEGL49013353022",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGL49013353021",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DETNMEGL49013353011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49013353022",
       "connectors": [
         {
           "type": "ccs",

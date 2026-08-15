@@ -4,17 +4,6 @@
   "name": "SCHULE WOH STATION_2",
   "evses": [
     {
-      "id": "DECPIE66731951",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DECPIE66733551",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DECPIE66731952",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE66731951",
       "connectors": [
         {
           "type": "ccs",

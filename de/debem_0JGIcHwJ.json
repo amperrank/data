@@ -4,22 +4,11 @@
   "name": "Ladestation Mundigl",
   "evses": [
     {
-      "id": "DEBEME0010755",
+      "id": "DEBEME0010985",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBEME0010414",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,
@@ -37,11 +26,33 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBEME0010985",
+      "id": "DEBEME0010984",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBEME0010414",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBEME0010755",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -53,17 +64,6 @@
         {
           "type": "type2",
           "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBEME0010984",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,

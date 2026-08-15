@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*CM2",
+  "geohash": "0D0s5bt1",
+  "name": "1248_ÖLIS_EMS_Hahnenkammstr_Karlstein-Dettingen",
+  "evses": [
+    {
+      "id": "DECM2E4100003AC001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECM2E4100003DC001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 24.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Karlstein-Dettingen",
+    "street": "Hahnenkammstraße",
+    "houseNumber": "19",
+    "postcode": "63791",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

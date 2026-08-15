@@ -1,21 +1,10 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0JWKE0gD",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0419",
   "evses": [
     {
-      "id": "DE2GOEMCD08871C6",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE2GOEMCD08871C5",
+      "id": "DE2GOEMCD08871A1",
       "connectors": [
         {
           "type": "ccs",
@@ -48,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEMCD08871A1",
+      "id": "DE2GOEMCD08871B3",
       "connectors": [
         {
           "type": "ccs",
@@ -59,7 +48,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEMCD08871B3",
+      "id": "DE2GOEMCD08871C5",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD08871C6",
       "connectors": [
         {
           "type": "ccs",
@@ -73,10 +73,10 @@
   "facilities": null,
   "address": {
     "city": "Mitterteich",
-    "street": "Ludwig-Erhard-Straße 9",
+    "street": "Ludwig-Erhard-Straße",
     "houseNumber": null,
     "postcode": "95666",
-    "province": "Bayern"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

@@ -1,0 +1,130 @@
+{
+  "operatorId": "DE*PWA",
+  "geohash": "0DxG6ExE",
+  "name": "Pfalzwerke Ladestation (OBI)",
+  "evses": [
+    {
+      "id": "DEPWAEALP22270X0136902",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPWAEALP22270X0136901",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPWAEALP22537X0137201",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPWAEALP22537X0137202",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Bensheim",
+    "street": "Berliner Ring",
+    "houseNumber": null,
+    "postcode": "64625",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": false,
+    "regularHours": [
+      {
+        "weekday": 1,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 45
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 20
+        }
+      },
+      {
+        "weekday": 3,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 45
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 20
+        }
+      },
+      {
+        "weekday": 4,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 45
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 20
+        }
+      },
+      {
+        "weekday": 5,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 45
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 20
+        }
+      },
+      {
+        "weekday": 2,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 45
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 20
+        }
+      },
+      {
+        "weekday": 6,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 45
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 20
+        }
+      }
+    ]
+  }
+}

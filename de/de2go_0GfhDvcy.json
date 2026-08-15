@@ -1,10 +1,10 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0GfhDvcy",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE1000664",
   "evses": [
     {
-      "id": "DE2GOEEWE71871A2",
+      "id": "DE2GOEEWE71871A1",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEEWE71871A1",
+      "id": "F1991EC79F80C8B91E962A3A6A21EFA0",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEEWE71871A2",
       "connectors": [
         {
           "type": "ccs",
@@ -29,10 +40,10 @@
   "facilities": null,
   "address": {
     "city": "Bad Zwischenahn",
-    "street": "Brüderstraße 70",
+    "street": "Brüderstraße",
     "houseNumber": null,
     "postcode": "26160",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

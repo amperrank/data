@@ -4,17 +4,6 @@
   "name": "Shell Recharge OBN 7733 - Shell Trossinger Strasse",
   "evses": [
     {
-      "id": "DETNMEGL49017733011",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGL49017733021",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49017733022",
+      "id": "DETNMEGL49017733012",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49017733012",
+      "id": "DETNMEGL49017733011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49017733022",
       "connectors": [
         {
           "type": "ccs",

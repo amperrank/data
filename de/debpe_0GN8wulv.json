@@ -4,11 +4,22 @@
   "name": "Aral pulse Steinfurter Straße 1-3",
   "evses": [
     {
-      "id": "DEBPEE0FB100103",
+      "id": "DEBPEE0FB100309",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0FB100205",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,
@@ -26,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FB100309",
+      "id": "DEBPEE0FB100103",
       "connectors": [
         {
           "type": "ccs",
@@ -48,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FB100101",
+      "id": "DEBPEE0FB100204",
       "connectors": [
         {
           "type": "ccs",
@@ -59,7 +70,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FB100204",
+      "id": "DEBPEE0FB100101",
       "connectors": [
         {
           "type": "ccs",
@@ -75,17 +86,6 @@
         {
           "type": "ccs",
           "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0FB100205",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,

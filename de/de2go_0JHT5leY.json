@@ -1,25 +1,14 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0JHT5leY",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0875",
   "evses": [
-    {
-      "id": "DE2GOEMCD15861A2",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DE2GOEMCD15861B3",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 400.0
+          "maxPowerKw": 350.0
         }
       ],
       "authMethods": null,
@@ -30,7 +19,7 @@
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 400.0
+          "maxPowerKw": 350.0
         }
       ],
       "authMethods": null,
@@ -41,7 +30,18 @@
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 400.0
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD15861A2",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
         }
       ],
       "authMethods": null,
@@ -51,10 +51,10 @@
   "facilities": null,
   "address": {
     "city": "Regenstauf",
-    "street": "An der Hasler Zell 4",
+    "street": "An Der Hasler Zell",
     "houseNumber": null,
     "postcode": "93128",
-    "province": "Bayern"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

@@ -4,22 +4,22 @@
   "name": "Kaufland Hamburg",
   "evses": [
     {
-      "id": "DEKDLE00002113",
+      "id": "DEKDLE00002114",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00002114",
+      "id": "DEKDLE00002113",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

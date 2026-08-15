@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*333",
+  "geohash": "0JEZSGnQ",
+  "name": "Saturn-Arena Stadtwerke Ingolstadt - öffentlicher Ladepunkt",
+  "evses": [
+    {
+      "id": "DE333E0016001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE333E0016002",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Ingolstadt",
+    "street": "Bei der Arena",
+    "houseNumber": "1",
+    "postcode": "85053",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

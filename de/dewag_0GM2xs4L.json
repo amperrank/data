@@ -4,11 +4,15 @@
   "name": "Autohaus Schmidt VW - Lünen",
   "evses": [
     {
-      "id": "DEWAGE306649",
+      "id": "DEWAGEE0281",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 7.36
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        },
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -37,6 +41,17 @@
       "paymentMethods": null
     },
     {
+      "id": "DEWAGE306620",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEWAGE306619",
       "connectors": [
         {
@@ -48,22 +63,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEWAGEE0281",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        },
-        {
-          "type": "chademo",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEWAGE306620",
+      "id": "DEWAGE306649",
       "connectors": [
         {
           "type": "type2",

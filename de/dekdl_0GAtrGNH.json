@@ -4,11 +4,33 @@
   "name": "Kaufland Stolberg",
   "evses": [
     {
+      "id": "DEKDLE00000221",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEKDLE00000220",
       "connectors": [
         {
           "type": "chademo",
           "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEKDLE00000606",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 43.0
         }
       ],
       "authMethods": null,
@@ -26,33 +48,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00000221",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEKDLE00000607",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEKDLE00000606",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 43.0
         }
       ],
       "authMethods": null,

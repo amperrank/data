@@ -4,6 +4,17 @@
   "name": "[FL-PUB] Autohaus Zeisler GmbH - AC - DE*DES*E*BMW*0285",
   "evses": [
     {
+      "id": "DEDESE10027972",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEDESE10027971",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DEDESEBMW02851",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEDESE10027972",
       "connectors": [
         {
           "type": "type2",

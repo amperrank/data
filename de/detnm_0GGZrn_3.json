@@ -4,17 +4,6 @@
   "name": "Shell Recharge OBN 1109 - Shell Xantener Strasse",
   "evses": [
     {
-      "id": "DETNMEGL49011109012",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGL49011109021",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DETNMEGL49011109022",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49011109012",
       "connectors": [
         {
           "type": "ccs",

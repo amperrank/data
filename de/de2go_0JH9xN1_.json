@@ -1,32 +1,21 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0JH9xN1_",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE1000496",
   "evses": [
     {
-      "id": "DE2GOEMCD18961A2",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE2GOEMCD18961B4",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DE2GOEMCD18961A1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD18961A2",
       "connectors": [
         {
           "type": "ccs",
@@ -46,15 +35,37 @@
       ],
       "authMethods": null,
       "paymentMethods": null
+    },
+    {
+      "id": "9A046EA33DD9A98C20DBF9AA9BCDFC38",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD18961B4",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Roding",
-    "street": "Kagerstraße 21",
+    "street": "Kagerstraße",
     "houseNumber": null,
     "postcode": "93426",
-    "province": "Bayern"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

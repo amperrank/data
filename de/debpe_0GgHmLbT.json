@@ -4,11 +4,22 @@
   "name": "Aral pulse Kirchbergstraße 4",
   "evses": [
     {
-      "id": "DEBPEE3EF1800103",
+      "id": "DEBPEE3EF1800204",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE3EF1800102",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,
@@ -37,18 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE3EF1800102",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 100.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE3EF1800204",
+      "id": "DEBPEE3EF1800103",
       "connectors": [
         {
           "type": "ccs",

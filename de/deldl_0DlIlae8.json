@@ -4,17 +4,6 @@
   "name": "Lidl Filiale Pforzheim",
   "evses": [
     {
-      "id": "DELDLE00003922",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DELDLE00003920",
       "connectors": [
         {
@@ -30,6 +19,17 @@
       "connectors": [
         {
           "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELDLE00003922",
+      "connectors": [
+        {
+          "type": "chademo",
           "maxPowerKw": 50.0
         }
       ],

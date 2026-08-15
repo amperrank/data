@@ -4,17 +4,6 @@
   "name": "LZ FREIBURG P03",
   "evses": [
     {
-      "id": "DECPIE69950651",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DECPIE69279151",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DECPIE69279251",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE69950651",
       "connectors": [
         {
           "type": "type2",

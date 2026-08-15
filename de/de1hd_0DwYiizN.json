@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*1HD",
+  "geohash": "0DwYiizN",
+  "name": "Patton Ostloop",
+  "evses": [
+    {
+      "id": "DE1HDESWH10001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE1HDESWH10002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE1HDESWH10003",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Heidelberg",
+    "street": "Kirchheimer Weg",
+    "houseNumber": "4",
+    "postcode": "69124",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

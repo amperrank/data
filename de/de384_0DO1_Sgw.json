@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*384",
+  "geohash": "0DO1_Sgw",
+  "name": "NETTO Ladestation",
+  "evses": [
+    {
+      "id": "DE384E165361CS00011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE384E165361CS00012",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Rastatt-Ottersdorf",
+    "street": "Am Oberwald",
+    "houseNumber": null,
+    "postcode": "76437",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

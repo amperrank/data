@@ -4,21 +4,6 @@
   "name": "Shell Recharge OBN 7721 - Shell Unterschleissheim",
   "evses": [
     {
-      "id": "DETNMEGL4901772103",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 175.0
-        },
-        {
-          "type": "chademo",
-          "maxPowerKw": 70.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGL4901772102",
       "connectors": [
         {
@@ -34,7 +19,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49017721012",
+      "id": "DETNMEGL4901772103",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 175.0
+        },
+        {
+          "type": "chademo",
+          "maxPowerKw": 70.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49017721011",
       "connectors": [
         {
           "type": "ccs",
@@ -45,7 +45,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49017721011",
+      "id": "DETNMEGL49017721012",
       "connectors": [
         {
           "type": "ccs",

@@ -4,7 +4,7 @@
   "name": "Shell Recharge OBN 2530 - Shell Am Ruedersdorfer Wege",
   "evses": [
     {
-      "id": "DETNMEGL4901253002",
+      "id": "DETNMEGL4901253003",
       "connectors": [
         {
           "type": "ccs",
@@ -30,26 +30,26 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49012530011",
+      "id": "DETNMEGL4901253002",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 300.0
+          "maxPowerKw": 175.0
+        },
+        {
+          "type": "chademo",
+          "maxPowerKw": 70.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL4901253003",
+      "id": "DETNMEGL49012530011",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 70.0
-        },
-        {
           "type": "ccs",
-          "maxPowerKw": 175.0
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,

@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*HST",
+  "geohash": "0NMl7ooU",
+  "name": "Stadtwerke Stralsund Greifswalder Chaussee 120 , 18439 Stralsund",
+  "evses": [
+    {
+      "id": "DEHSTE12346422693",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEHSTE12346422692",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEHSTE12346422691",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Stralsund",
+    "street": "Greifswalder Chaussee",
+    "houseNumber": "120",
+    "postcode": "18439",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

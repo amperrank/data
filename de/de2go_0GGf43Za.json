@@ -1,10 +1,10 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0GGf43Za",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0146",
   "evses": [
     {
-      "id": "DE2GOEMCD07871A1",
+      "id": "DE2GOEMCD07871A2",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEMCD07871A2",
+      "id": "26197E93295B9A38BC2D634841DA47BF",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD07871A1",
       "connectors": [
         {
           "type": "ccs",
@@ -29,10 +40,10 @@
   "facilities": null,
   "address": {
     "city": "Wesel",
-    "street": "Schermbecker Landstraße 119",
+    "street": "Schermbecker Landstraße",
     "houseNumber": null,
     "postcode": "46485",
-    "province": "Nordrhein-Westfalen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

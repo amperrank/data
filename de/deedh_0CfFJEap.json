@@ -4,6 +4,17 @@
   "name": "NaturEnergie Community - Landgasthaus-Hotel Maien",
   "evses": [
     {
+      "id": "DEEDHE001328",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEEDHE000910",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEEDHE001327",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEDHE001328",
       "connectors": [
         {
           "type": "type2",

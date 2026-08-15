@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*333",
+  "geohash": "0JEZQRGc",
+  "name": "Donaustraße Stadtwerke Ingolstadt - öffentlicher Ladepunkt",
+  "evses": [
+    {
+      "id": "DE333E0003001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE333E0003002",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Ingolstadt",
+    "street": "Donaustraße",
+    "houseNumber": "10",
+    "postcode": "85049",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

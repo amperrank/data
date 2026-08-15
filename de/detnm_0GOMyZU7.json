@@ -4,17 +4,6 @@
   "name": "Shell Recharge OBN 3612 - Shell Stembergstrasse",
   "evses": [
     {
-      "id": "DETNMEGL49013612012",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGL49013612021",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DETNMEGL49013612022",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49013612012",
       "connectors": [
         {
           "type": "ccs",

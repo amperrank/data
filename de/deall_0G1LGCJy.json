@@ -4,6 +4,17 @@
   "name": "Allego - Gartencenter Wassenaar Bremen A27",
   "evses": [
     {
+      "id": "DEALLEGO0035241",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEALLEGO0035042",
       "connectors": [
         {
@@ -26,17 +37,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0035242",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEALLEGO0017361",
       "connectors": [
         {
@@ -48,7 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0035041",
+      "id": "DEALLEGO0035242",
       "connectors": [
         {
           "type": "ccs",
@@ -59,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0035241",
+      "id": "DEALLEGO0035041",
       "connectors": [
         {
           "type": "ccs",

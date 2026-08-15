@@ -1,25 +1,25 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0HIH6slT",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE0237",
   "evses": [
     {
-      "id": "DE2GOE02371",
+      "id": "DE2GOE02372",
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 7.36
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DE2GOE02372",
+      "id": "DE2GOE02371",
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 7.36
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -29,16 +29,82 @@
   "facilities": null,
   "address": {
     "city": "Norden",
-    "street": "Am Markt 24",
+    "street": "Am Markt",
     "houseNumber": null,
     "postcode": "26506",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": false,
     "regularHours": [
       {
         "weekday": 1,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 22,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 2,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 22,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 3,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 22,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 4,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 22,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 5,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 22,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 6,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 22,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 7,
         "periodBegin": {
           "hour": 6,
           "minute": 0

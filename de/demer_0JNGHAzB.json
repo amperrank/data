@@ -4,17 +4,6 @@
   "name": "Mer Germany GmbH Auto Niedermayer GmbH (HYC) - Neukirchen - Bogener Straße 8 #2",
   "evses": [
     {
-      "id": "DEMERE00605602",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEMERE00560502",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMERE00605601",
+      "id": "DEMERE00605602",
       "connectors": [
         {
           "type": "ccs",
@@ -42,6 +31,17 @@
         {
           "type": "ccs",
           "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00605601",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

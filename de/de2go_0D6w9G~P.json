@@ -1,10 +1,10 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0D6w9G~P",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0186",
   "evses": [
     {
-      "id": "DE2GOEMCD14951A2",
+      "id": "DE2GOEMCD14951A1",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEMCD14951A1",
+      "id": "DEE90E9860F03CD3503ED26471699031",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD14951A2",
       "connectors": [
         {
           "type": "ccs",
@@ -29,10 +40,10 @@
   "facilities": null,
   "address": {
     "city": "Oberasbach",
-    "street": "Rothenburger Straße 72",
+    "street": "Rothenburger Straße",
     "houseNumber": null,
     "postcode": "90522",
-    "province": "Bayern"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

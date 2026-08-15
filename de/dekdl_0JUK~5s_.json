@@ -4,11 +4,11 @@
   "name": "Kaufland Bayreuth",
   "evses": [
     {
-      "id": "DEKDLE00000597",
+      "id": "DEKDLE00000599",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 43.0
+          "type": "chademo",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -26,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00000599",
+      "id": "DEKDLE00000597",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 43.0
         }
       ],
       "authMethods": null,

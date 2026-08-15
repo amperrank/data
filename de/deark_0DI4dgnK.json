@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*ARK",
+  "geohash": "0DI4dgnK",
+  "name": "Stark Energy Ladepark Breisach",
+  "evses": [
+    {
+      "id": "DEARKE10024001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEARKE10024002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Breisach am Rhein",
+    "street": "Neutorplatz",
+    "houseNumber": "11",
+    "postcode": "79206",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

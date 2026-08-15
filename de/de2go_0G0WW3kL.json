@@ -1,10 +1,21 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0G0WW3kL",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE7134",
   "evses": [
     {
       "id": "DE2GOE71361A1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "07675E611E00AAFBDAB1A9CFFF081005",
       "connectors": [
         {
           "type": "ccs",
@@ -29,10 +40,10 @@
   "facilities": null,
   "address": {
     "city": "Ganderkesee",
-    "street": "Raiffeisenstraße 1",
+    "street": "Raiffeisenstraße",
     "houseNumber": null,
     "postcode": "27777",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

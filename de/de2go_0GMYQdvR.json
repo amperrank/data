@@ -1,8 +1,19 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0GMYQdvR",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0711",
   "evses": [
+    {
+      "id": "DE2GOEMCD10911B3",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DE2GOEMCD10911B4",
       "connectors": [
@@ -35,26 +46,15 @@
       ],
       "authMethods": null,
       "paymentMethods": null
-    },
-    {
-      "id": "DE2GOEMCD10911B3",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Herne",
-    "street": "Am Westerfeld 2",
+    "street": "Am Westerfeld",
     "houseNumber": null,
     "postcode": "44625",
-    "province": "Nordrhein-Westfalen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

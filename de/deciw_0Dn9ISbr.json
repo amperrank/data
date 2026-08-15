@@ -4,7 +4,29 @@
   "name": "Metzger Spedition",
   "evses": [
     {
-      "id": "DECIWE001354",
+      "id": "DECIWE001685",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECIWE001686",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECIWE001683",
       "connectors": [
         {
           "type": "ccs",
@@ -37,17 +59,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DECIWE001356",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DECIWE001355",
       "connectors": [
         {
@@ -59,7 +70,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECIWE001685",
+      "id": "DECIWE001354",
       "connectors": [
         {
           "type": "ccs",
@@ -70,18 +81,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECIWE001686",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECIWE001683",
+      "id": "DECIWE001356",
       "connectors": [
         {
           "type": "ccs",

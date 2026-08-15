@@ -4,7 +4,29 @@
   "name": "Shell Recharge OBN 3190 - EV Hub Celle",
   "evses": [
     {
-      "id": "DETNMEGL49033190022",
+      "id": "DETNMEGL49033190031",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49033190012",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49033190011",
       "connectors": [
         {
           "type": "ccs",
@@ -37,29 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49033190031",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49033190011",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49033190012",
+      "id": "DETNMEGL49033190022",
       "connectors": [
         {
           "type": "ccs",

@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*OPE",
+  "geohash": "0GIElMEd",
+  "name": "Verdistraße 10 DC50",
+  "evses": [
+    {
+      "id": "DEOPEE0113000L",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEOPEE0113000R",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Bonn",
+    "street": "Verdistraße",
+    "houseNumber": "10",
+    "postcode": "53117",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

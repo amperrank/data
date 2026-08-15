@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*RBG",
+  "geohash": "0JH9UIk0",
+  "name": "ABB DC Charger - Roding - Buchenstrasse 18",
+  "evses": [
+    {
+      "id": "DEGUCERWG1075",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGUCERWG1076",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGUCERWG1074",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Roding",
+    "street": "Buchenstraße",
+    "houseNumber": null,
+    "postcode": "93426",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

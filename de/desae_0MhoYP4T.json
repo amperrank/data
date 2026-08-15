@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*SAE",
+  "geohash": "0MhoYP4T",
+  "name": "Kaufland Ebersbach-Neugersdorf",
+  "evses": [
+    {
+      "id": "DESAEE701003",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DESAEE701002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DESAEE701001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Ebersbach-Neugersdorf",
+    "street": "Adam-Ries-Str.",
+    "houseNumber": null,
+    "postcode": "02730",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

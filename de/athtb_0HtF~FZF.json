@@ -4,17 +4,6 @@
   "name": "EWillerKappeln",
   "evses": [
     {
-      "id": "ATHTBE1003030",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "ATHTBE1003029",
       "connectors": [
         {
@@ -30,6 +19,17 @@
       "connectors": [
         {
           "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "ATHTBE1003030",
+      "connectors": [
+        {
+          "type": "chademo",
           "maxPowerKw": 50.0
         }
       ],

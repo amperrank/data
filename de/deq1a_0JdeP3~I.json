@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*Q1A",
+  "geohash": "0JdeP3~I",
+  "name": "Q1 Autostrom Ladestation",
+  "evses": [
+    {
+      "id": "DEQ1AE48140049",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEQ1AE48140046",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEQ1AE48140022",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Schlettau",
+    "street": "Buchholzer Straße",
+    "houseNumber": null,
+    "postcode": "09487",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

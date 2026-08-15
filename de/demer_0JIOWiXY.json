@@ -4,28 +4,6 @@
   "name": "Mer Germany GmbH Mer Germany GmbH - Laufen - Freilassinger Str. 71 #1",
   "evses": [
     {
-      "id": "DEMERE00632801",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE00632901",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEMERE00632902",
       "connectors": [
         {
@@ -37,7 +15,29 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMERE00632803",
+      "id": "DEMERE00632801",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00632802",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 62.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00632901",
       "connectors": [
         {
           "type": "ccs",
@@ -59,11 +59,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMERE00632802",
+      "id": "DEMERE00632803",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 62.0
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,

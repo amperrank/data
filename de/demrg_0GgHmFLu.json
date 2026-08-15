@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*MRG",
+  "geohash": "0GgHmFLu",
+  "name": "Gladenbach Sparkasse GCG0026",
+  "evses": [
+    {
+      "id": "DEMRGE002602",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMRGE002601",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Gladenbach",
+    "street": "Marktplatz",
+    "houseNumber": null,
+    "postcode": "35075",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

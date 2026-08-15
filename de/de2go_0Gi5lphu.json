@@ -1,10 +1,10 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0Gi5lphu",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE1000764",
   "evses": [
     {
-      "id": "DE2GOEMCD05241A1",
+      "id": "DE2GOEMCD05241A2",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEMCD05241A2",
+      "id": "3F03AE83E1DC10CD0B9591A96B62A5DB",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD05241A1",
       "connectors": [
         {
           "type": "ccs",
@@ -29,10 +40,10 @@
   "facilities": null,
   "address": {
     "city": "Bad Hersfeld",
-    "street": "An der Haune 1",
+    "street": "An der Haune",
     "houseNumber": null,
     "postcode": "36251",
-    "province": "Hessen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

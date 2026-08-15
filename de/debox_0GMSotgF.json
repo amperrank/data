@@ -4,17 +4,6 @@
   "name": "Stadtwerke Bochum, Hannibal Center Dorstener Straße 400",
   "evses": [
     {
-      "id": "DEBOXEAC0098",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 200.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEBOXEAC0099",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DEBOXEAC0100",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBOXEAC0098",
       "connectors": [
         {
           "type": "ccs",

@@ -1,21 +1,10 @@
 {
   "operatorId": "DE*POW",
   "geohash": "0GdnFjIx",
-  "name": "DE Leer 26789 Hauptstraße 79 AH Gebr.Schwarte GmbH & Co. KG (230222404 LP1) (öffentlich)",
+  "name": "DE Leer 26789 Hauptstraße 79 AH Gebr.Schwarte GmbH & Co. KG (DC Station 1) öffentlich",
   "evses": [
     {
       "id": "DEPOWE02353",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEPOWE02354",
       "connectors": [
         {
           "type": "type2",
@@ -42,6 +31,17 @@
         {
           "type": "ccs",
           "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE02354",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

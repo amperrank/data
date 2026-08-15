@@ -4,6 +4,17 @@
   "name": "Mer Germany GmbH Mer Germany GmbH - Vilshofen - Bahnhofstraße 4 #1",
   "evses": [
     {
+      "id": "DEMERE01779301",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEMERE01779402",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEMERE01779401",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE01779301",
       "connectors": [
         {
           "type": "ccs",

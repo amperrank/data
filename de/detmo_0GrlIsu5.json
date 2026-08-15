@@ -4,11 +4,11 @@
   "name": "TMO LP1/2/3 REWE",
   "evses": [
     {
-      "id": "DETMOE99202001",
+      "id": "DETMOE99202002",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 43.1
+          "type": "chademo",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -26,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DETMOE99202002",
+      "id": "DETMOE99202001",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 43.1
         }
       ],
       "authMethods": null,

@@ -4,17 +4,6 @@
   "name": "Allego - porta (Porta Möbel) Potsdam",
   "evses": [
     {
-      "id": "DEALLEGO0025532",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEALLEGO0025511",
       "connectors": [
         {
@@ -26,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0025521",
+      "id": "DEALLEGO0025531",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEALLEGO0025532",
       "connectors": [
         {
           "type": "ccs",
@@ -48,7 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0025531",
+      "id": "DEALLEGO0025521",
       "connectors": [
         {
           "type": "ccs",

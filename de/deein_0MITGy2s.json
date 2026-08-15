@@ -1,0 +1,60 @@
+{
+  "operatorId": "DE*EIN",
+  "geohash": "0MITGy2s",
+  "name": "Parkplatz \"Hechinger Straße\"",
+  "evses": [
+    {
+      "id": "DEEINE00117001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEINE00102001",
+      "connectors": [
+        {
+          "type": "unknown",
+          "maxPowerKw": 3.0
+        },
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEINE00102002",
+      "connectors": [
+        {
+          "type": "unknown",
+          "maxPowerKw": 3.0
+        },
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Limbach-Oberfrohna",
+    "street": "Hechinger Str.",
+    "houseNumber": "4",
+    "postcode": "09212",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

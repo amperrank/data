@@ -1,14 +1,14 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0GfjLPUw",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE1000002",
   "evses": [
     {
-      "id": "DE2GOE10000021A1",
+      "id": "DE2GOE10000021A4",
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 7.36
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -19,18 +19,7 @@
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE2GOE10000021A4",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -41,7 +30,18 @@
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 7.36
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOE10000021A1",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -51,10 +51,10 @@
   "facilities": null,
   "address": {
     "city": "Oldenburg",
-    "street": "Theaterwall 14",
+    "street": "Theaterwall",
     "houseNumber": null,
     "postcode": "26122",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

@@ -4,6 +4,17 @@
   "name": "Mer Germany GmbH Mer Germany (TuR) - Ohrenbach - Ohrenbach Ost #1",
   "evses": [
     {
+      "id": "DEMERE00010903",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 43.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEMERE00010901",
       "connectors": [
         {
@@ -20,17 +31,6 @@
         {
           "type": "ccs",
           "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE00010903",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 43.0
         }
       ],
       "authMethods": null,

@@ -4,22 +4,22 @@
   "name": "DE Autohaus Robert M. Boxhammer GmbH - 83043 Bad Aibling - Altwasserstr. 15 (öffentlich) (KKT)",
   "evses": [
     {
-      "id": "DEPOWE02507",
+      "id": "DEPOWE02508",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 80.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEPOWE02508",
+      "id": "DEPOWE02507",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 80.0
         }
       ],
       "authMethods": null,

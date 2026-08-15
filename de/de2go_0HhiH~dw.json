@@ -1,21 +1,10 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0HhiH~dw",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE1000236",
   "evses": [
     {
       "id": "DE2GOEEWE76631B4",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 49.95
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE2GOEEWE76631A1",
       "connectors": [
         {
           "type": "ccs",
@@ -41,7 +30,29 @@
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 49.95
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "45FE0E27CADCDA29613642A5BCA2D9AE",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEEWE76631A1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -51,10 +62,10 @@
   "facilities": null,
   "address": {
     "city": "Otterndorf",
-    "street": "Goethestraße 12",
+    "street": "Goethestraße",
     "houseNumber": null,
     "postcode": "21762",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

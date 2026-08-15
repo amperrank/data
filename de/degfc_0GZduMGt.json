@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*GFC",
+  "geohash": "0GZduMGt",
+  "name": "Greenflash Charge Timmer Meppen",
+  "evses": [
+    {
+      "id": "DEGFCE10000585682",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 32.5
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGFCE10000585681",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 12.8
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Meppen",
+    "street": "Schützenhof",
+    "houseNumber": "21",
+    "postcode": "49716",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

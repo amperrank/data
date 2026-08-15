@@ -1,10 +1,21 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0Dm_B~aR",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0553",
   "evses": [
     {
       "id": "DE2GOEMCD10021A2",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "7F516E7DDF66F7CE0471408801CF9EF7",
       "connectors": [
         {
           "type": "ccs",
@@ -29,10 +40,10 @@
   "facilities": null,
   "address": {
     "city": "Schwäbisch Gmünd",
-    "street": "Lorcher Straße 183",
+    "street": "Lorcher Straße",
     "houseNumber": null,
     "postcode": "73529",
-    "province": "Baden-Württemberg"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

@@ -4,7 +4,7 @@
   "name": "Shell Recharge OBN 1235 - Shell Kirchheim Hauptstrasse",
   "evses": [
     {
-      "id": "DETNMEGL49011235052",
+      "id": "DETNMEGL49011235061",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49011235081",
+      "id": "DETNMEGL49011235071",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49011235071",
+      "id": "DETNMEGL49011235081",
       "connectors": [
         {
           "type": "ccs",
@@ -74,11 +74,26 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49011235061",
+      "id": "DETNMEGL49011235052",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL4901123501",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 175.0
+        },
+        {
+          "type": "chademo",
+          "maxPowerKw": 70.0
         }
       ],
       "authMethods": null,
@@ -105,21 +120,6 @@
         {
           "type": "ccs",
           "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL4901123501",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 175.0
-        },
-        {
-          "type": "chademo",
-          "maxPowerKw": 70.0
         }
       ],
       "authMethods": null,

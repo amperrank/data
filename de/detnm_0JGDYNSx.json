@@ -4,17 +4,6 @@
   "name": "Shell Recharge OBN 0682 - Shell Lippacher Strasse",
   "evses": [
     {
-      "id": "DETNMEGL49010682021",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGL49010682022",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DETNMEGL49010682011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49010682021",
       "connectors": [
         {
           "type": "ccs",

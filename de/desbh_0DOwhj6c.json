@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*SBH",
+  "geohash": "0DOwhj6c",
+  "name": "Ladesäule Bühler Tor (Parkplatz P4)",
+  "evses": [
+    {
+      "id": "DESBHE020002001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 180.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DESBHE020002002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 180.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Bühl",
+    "street": "Hauptstraße",
+    "houseNumber": "92",
+    "postcode": "77815",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

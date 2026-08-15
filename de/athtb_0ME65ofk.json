@@ -4,17 +4,6 @@
   "name": "GMO_066_Halle_02",
   "evses": [
     {
-      "id": "ATHTBE01001086",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "ATHTBE1026293",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "ATHTBE1026294",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "ATHTBE01001086",
       "connectors": [
         {
           "type": "ccs",

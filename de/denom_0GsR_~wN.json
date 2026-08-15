@@ -1,0 +1,49 @@
+{
+  "operatorId": "DE*NOM",
+  "geohash": "0GsR_~wN",
+  "name": "BOV_Rathausplatz",
+  "evses": [
+    {
+      "id": "DENOME20013001",
+      "connectors": [
+        {
+          "type": "unknown",
+          "maxPowerKw": 3.0
+        },
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DENOME20013002",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        },
+        {
+          "type": "unknown",
+          "maxPowerKw": 3.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Bovenden",
+    "street": "Rathausplatz",
+    "houseNumber": "1",
+    "postcode": "37120",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

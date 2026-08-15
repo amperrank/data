@@ -1,0 +1,88 @@
+[
+  {
+    "operatorId": {
+      "countryCode": "DE",
+      "cpo": "ALL"
+    },
+    "currency": "EUR",
+    "validFrom": null,
+    "validTo": null,
+    "updatedAt": "2026-08-15T00:00:00.000",
+    "description": null,
+    "tiers": [
+      {
+        "id": "direct",
+        "name": "Allego Direct",
+        "role": "standard",
+        "subscriptionFee": null,
+        "requiresMembership": false,
+        "applicableHours": null,
+        "description": null,
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 0.76,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.248,
+            "unit": "min",
+            "minPowerKw": null,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": 45,
+            "condition": null,
+            "applicableHours": null
+          }
+        ]
+      },
+      {
+        "id": "allego_smart",
+        "name": "Allego Smart",
+        "role": "secondary",
+        "subscriptionFee": null,
+        "requiresMembership": true,
+        "applicableHours": null,
+        "description": null,
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 0.59,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          }
+        ]
+      },
+      {
+        "id": "allego_plus",
+        "name": "Allego Plus",
+        "role": "secondary",
+        "subscriptionFee": 9.99,
+        "requiresMembership": true,
+        "applicableHours": null,
+        "description": "2 Monate kostenlos",
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 0.39,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          }
+        ]
+      }
+    ]
+  }
+]

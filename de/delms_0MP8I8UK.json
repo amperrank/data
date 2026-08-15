@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*LMS",
+  "geohash": "0MP8I8UK",
+  "name": "Hymes Energy GmbH Autohaus Liebsch GmbH & Co. KG",
+  "evses": [
+    {
+      "id": "DELMSE10000878651",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELMSE10000878652",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Lübben",
+    "street": "Frankfurter Straße",
+    "houseNumber": "82",
+    "postcode": "15907",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

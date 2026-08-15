@@ -4,28 +4,6 @@
   "name": "Aral pulse Mainzer Straße 140",
   "evses": [
     {
-      "id": "DEBPEE0F1590205",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 100.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0F1590103",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEBPEE0F1590102",
       "connectors": [
         {
@@ -37,11 +15,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0F1590206",
+      "id": "DEBPEE0F1590204",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0F1590205",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,
@@ -59,7 +48,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0F1590204",
+      "id": "DEBPEE0F1590103",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0F1590206",
       "connectors": [
         {
           "type": "ccs",

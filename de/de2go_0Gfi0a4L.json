@@ -1,14 +1,14 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0Gfi0a4L",
-  "name": "EWE Go Ladestation",
+  "name": "EWE_7267_1A",
   "evses": [
     {
-      "id": "DE2GOE1000749",
+      "id": "DE2GOE100074802",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 100.0
+          "maxPowerKw": 400.0
         }
       ],
       "authMethods": null,
@@ -24,26 +24,15 @@
       ],
       "authMethods": null,
       "paymentMethods": null
-    },
-    {
-      "id": "DE2GOE100074802",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Oldenburg",
-    "street": "Schützenhofstraße 103",
+    "street": "Schützenhofstraße",
     "houseNumber": null,
     "postcode": "26133",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

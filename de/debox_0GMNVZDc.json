@@ -15,17 +15,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBOXEAC0404",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEBOXEAC0403",
       "connectors": [
         {
@@ -48,6 +37,17 @@
       "paymentMethods": null
     },
     {
+      "id": "DEBOXEAC0402",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEBOXEAC0405",
       "connectors": [
         {
@@ -59,10 +59,10 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBOXEAC0402",
+      "id": "DEBOXEAC0404",
       "connectors": [
         {
-          "type": "chademo",
+          "type": "ccs",
           "maxPowerKw": 50.0
         }
       ],

@@ -4,17 +4,6 @@
   "name": "Spreewald Energy Burg Zentrum",
   "evses": [
     {
-      "id": "ATHTBE1000535",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "ATHTBE1000536",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "ATHTBE1026471",
+      "id": "ATHTBE1000535",
       "connectors": [
         {
           "type": "type2",
@@ -38,6 +27,17 @@
     },
     {
       "id": "ATHTBE1026473",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "ATHTBE1026471",
       "connectors": [
         {
           "type": "type2",

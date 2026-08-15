@@ -4,11 +4,11 @@
   "name": "Lidl Filiale Neukirchen-Vluyn",
   "evses": [
     {
-      "id": "DELDLE00000362",
+      "id": "DELDLE00000360",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -26,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DELDLE00000360",
+      "id": "DELDLE00000362",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

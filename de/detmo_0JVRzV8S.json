@@ -1,19 +1,8 @@
 {
   "operatorId": "DE*TMO",
   "geohash": "0JVRzV8S",
-  "name": "TMO LP3/4 Quartier Markt",
+  "name": "TMO LP1/2 Quartier Markt",
   "evses": [
-    {
-      "id": "DETMOE11362003",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DETMOE11362004",
       "connectors": [
@@ -27,6 +16,17 @@
     },
     {
       "id": "DETMOE11362001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETMOE11362003",
       "connectors": [
         {
           "type": "type2",

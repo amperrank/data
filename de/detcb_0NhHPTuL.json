@@ -4,6 +4,17 @@
   "name": "221870-DN | Heringsdorf | Lindenstrasse 97",
   "evses": [
     {
+      "id": "DETCBE3D9CS501340012",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DETCBE3D9CS501340021",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DETCBE3D9CS501340011",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETCBE3D9CS501340012",
       "connectors": [
         {
           "type": "ccs",

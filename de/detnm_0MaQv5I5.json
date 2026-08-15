@@ -4,18 +4,7 @@
   "name": "Shell Recharge OBN 6840 - Shell Stubenrauchstrasse",
   "evses": [
     {
-      "id": "DETNMEGL49016840022",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49016840011",
+      "id": "DETNMEGL49016840021",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49016840021",
+      "id": "DETNMEGL49016840011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49016840022",
       "connectors": [
         {
           "type": "ccs",

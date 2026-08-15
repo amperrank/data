@@ -4,17 +4,6 @@
   "name": "Electra Moers - Netto Düsseldorfer Straße",
   "evses": [
     {
-      "id": "DEELDEQ2ZL",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEELDEAKE2",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DEELDEPXLR",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEELDEQ2ZL",
       "connectors": [
         {
           "type": "ccs",

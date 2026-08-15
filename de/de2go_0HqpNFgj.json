@@ -1,7 +1,7 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0HqpNFgj",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0851",
   "evses": [
     {
       "id": "DE2GOEMCD09381A2",
@@ -24,15 +24,37 @@
       ],
       "authMethods": null,
       "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD09382A3",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD09382A4",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Wittenburg",
-    "street": "Rudolf-Diesel-Straße 4",
+    "street": "Rudolf-Diesel-Straße",
     "houseNumber": null,
     "postcode": "19243",
-    "province": "Mecklenburg-Vorpommern"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

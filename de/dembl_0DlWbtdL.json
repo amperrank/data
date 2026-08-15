@@ -4,11 +4,33 @@
   "name": "mblty Bruchsal West",
   "evses": [
     {
+      "id": "DEMBLESO1039DC0012",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEMBLESO1039DC0011",
       "connectors": [
         {
           "type": "type2",
           "maxPowerKw": 43.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMBLESO1039DC0022",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 75.0
         }
       ],
       "authMethods": null,
@@ -31,28 +53,6 @@
         {
           "type": "ccs",
           "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMBLESO1039DC0022",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 75.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMBLESO1039DC0012",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

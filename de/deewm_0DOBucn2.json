@@ -4,7 +4,7 @@
   "name": "EWM_0042_Schnellladesäule Kehl, Parkplatz Am Läger",
   "evses": [
     {
-      "id": "DEEWME0000165",
+      "id": "DEEWME0000167",
       "connectors": [
         {
           "type": "type2",
@@ -26,22 +26,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEWME0000167",
+      "id": "DEEWME0000164",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 75.2
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEEWME0000164",
+      "id": "DEEWME0000165",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 75.2
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

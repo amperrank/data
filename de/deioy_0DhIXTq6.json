@@ -4,6 +4,17 @@
   "name": "IONITY GmbH IONITY Neckarburg Ost",
   "evses": [
     {
+      "id": "DEIOYE200803",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEIOYE200806",
       "connectors": [
         {
@@ -15,7 +26,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE200803",
+      "id": "DEIOYE200802",
       "connectors": [
         {
           "type": "ccs",
@@ -38,17 +49,6 @@
     },
     {
       "id": "DEIOYE200805",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE200802",
       "connectors": [
         {
           "type": "ccs",

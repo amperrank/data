@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*SAE",
+  "geohash": "0MLgvs2c",
+  "name": "Kaufpark Dresden",
+  "evses": [
+    {
+      "id": "DESAEE6001102",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DESAEE6001101",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Dresden",
+    "street": "Michaelisstraße",
+    "houseNumber": null,
+    "postcode": "01239",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

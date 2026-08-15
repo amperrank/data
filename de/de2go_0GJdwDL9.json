@@ -1,10 +1,10 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0GJdwDL9",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0703",
   "evses": [
     {
-      "id": "DE2GOEMCD18411B3",
+      "id": "DE2GOEMCD18411B4",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEMCD18411A2",
+      "id": "DE2GOEMCD18411B3",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +37,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEMCD18411B4",
+      "id": "F87B8EF8B82690748DEAE6EE23A0A52C",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD18411A2",
       "connectors": [
         {
           "type": "ccs",
@@ -51,10 +62,10 @@
   "facilities": null,
   "address": {
     "city": "Wuppertal",
-    "street": "Wittener Straße 326",
+    "street": "Wittener Straße",
     "houseNumber": null,
     "postcode": "42279",
-    "province": "Nordrhein-Westfalen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

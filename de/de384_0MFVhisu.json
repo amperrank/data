@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*384",
+  "geohash": "0MFVhisu",
+  "name": "EDEKA Ladestation",
+  "evses": [
+    {
+      "id": "DE384E166482CS00012",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE384E166482CS00011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Oschersleben/Hadmersleben",
+    "street": "Halberstädter Straße",
+    "houseNumber": null,
+    "postcode": "39387",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

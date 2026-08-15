@@ -1,25 +1,14 @@
 {
   "operatorId": "DE*911",
   "geohash": "0Dm_GLoE",
-  "name": "Porsche Sales & Marketplace Porsche Zentrum Schwäbisch Gmünd AC Wallbox 02",
+  "name": "Porsche Sales & Marketplace Porsche Zentrum Schwäbisch Gmünd HPC Ladesäule 1",
   "evses": [
     {
-      "id": "DE911EDE00172900000010000001",
+      "id": "DE911EDE00013100000020000001",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 12.8
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE911EDE00170400000010000001",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 12.8
+          "type": "ccs",
+          "maxPowerKw": 320.16
         }
       ],
       "authMethods": null,
@@ -37,11 +26,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DE911EDE00013100000020000001",
+      "id": "DE911EDE00170400000010000001",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 320.16
+          "type": "type2",
+          "maxPowerKw": 12.8
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE911EDE00172900000010000001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 12.8
         }
       ],
       "authMethods": null,

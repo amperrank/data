@@ -4,17 +4,6 @@
   "name": "enercity AG HRG Hotels - Mövenpick Hamburg - U02",
   "evses": [
     {
-      "id": "DEENCELA001100E03A",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEENCELA001100U02A",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DEENCELA001100E03B",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEENCELA001100E03A",
       "connectors": [
         {
           "type": "type2",

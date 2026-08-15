@@ -4,7 +4,18 @@
   "name": "CITYWATT Ravensburg #02 - 300 kW",
   "evses": [
     {
-      "id": "DECIWE000522",
+      "id": "DECIWE000521",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECIWE000524",
       "connectors": [
         {
           "type": "ccs",
@@ -37,17 +48,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DECIWE000524",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DECIWE000526",
       "connectors": [
         {
@@ -70,7 +70,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECIWE000521",
+      "id": "DECIWE000522",
       "connectors": [
         {
           "type": "ccs",
@@ -92,18 +92,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECIWE000530",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECIWE000528",
+      "id": "DECIWE000524",
       "connectors": [
         {
           "type": "ccs",
@@ -125,29 +114,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DECIWE000524",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECIWE000521",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DECIWE000522",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECIWE000525",
       "connectors": [
         {
           "type": "ccs",
@@ -180,6 +158,28 @@
       "paymentMethods": null
     },
     {
+      "id": "DECIWE000521",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECIWE000530",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DECIWE000529",
       "connectors": [
         {
@@ -191,7 +191,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECIWE000525",
+      "id": "DECIWE000528",
       "connectors": [
         {
           "type": "ccs",

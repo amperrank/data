@@ -4,11 +4,11 @@
   "name": "Lidl Filiale Barnstorf",
   "evses": [
     {
-      "id": "DELDLE00002879",
+      "id": "DELDLE00002880",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -26,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DELDLE00002880",
+      "id": "DELDLE00002879",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "chademo",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

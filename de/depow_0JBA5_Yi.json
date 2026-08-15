@@ -1,8 +1,19 @@
 {
   "operatorId": "DE*POW",
   "geohash": "0JBA5_Yi",
-  "name": "DE Autohaus Haas HYC 49,9 (SN:100141234) öffentlich",
+  "name": "DE Autohaus Haas LP01 240425441 ERK öffentlich",
   "evses": [
+    {
+      "id": "DEPOWE03116",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 49.9
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DEPOWE03115",
       "connectors": [
@@ -15,11 +26,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPOWE03116",
+      "id": "DEPOWE02525",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 49.9
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE02526",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
         }
       ],
       "authMethods": null,

@@ -4,6 +4,17 @@
   "name": "CITYWATT Wedel #01 - 400 kW",
   "evses": [
     {
+      "id": "DECIWE001652",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DECIWE001653",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DECIWE001651",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECIWE001652",
       "connectors": [
         {
           "type": "ccs",

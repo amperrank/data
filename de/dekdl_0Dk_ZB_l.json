@@ -4,17 +4,6 @@
   "name": "Kaufland Gerlingen",
   "evses": [
     {
-      "id": "DEKDLE00001902",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEKDLE00001908",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00001900",
+      "id": "DEKDLE00001906",
       "connectors": [
         {
           "type": "type2",
@@ -48,10 +37,10 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00001907",
+      "id": "DEKDLE00001902",
       "connectors": [
         {
-          "type": "ccs",
+          "type": "chademo",
           "maxPowerKw": 50.0
         }
       ],
@@ -59,11 +48,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00001906",
+      "id": "DEKDLE00001900",
       "connectors": [
         {
           "type": "type2",
           "maxPowerKw": 43.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEKDLE00001907",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

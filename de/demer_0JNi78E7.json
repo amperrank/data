@@ -4,18 +4,7 @@
   "name": "Mer Germany GmbH Mer Germany GmbH - Kirchberg im Wald - Ahornstraße #1",
   "evses": [
     {
-      "id": "DEMERE00680601",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 37.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE00074102",
+      "id": "DEMERE00074101",
       "connectors": [
         {
           "type": "type2",
@@ -37,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMERE00074101",
+      "id": "DEMERE00680601",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 37.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00074102",
       "connectors": [
         {
           "type": "type2",

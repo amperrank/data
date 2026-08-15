@@ -4,11 +4,11 @@
   "name": "enercity AG enercity - Isernhagener Straße/Voßstraße - A01",
   "evses": [
     {
-      "id": "DEENCELA000953A01B",
+      "id": "DEENCELA000255001A",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 150.0
+          "type": "type2",
+          "maxPowerKw": 7.36
         }
       ],
       "authMethods": null,
@@ -26,18 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEENCELA000255001A",
+      "id": "DEENCELA000953A01A",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 7.36
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEENCELA000953A01A",
+      "id": "DEENCELA000953A01B",
       "connectors": [
         {
           "type": "ccs",

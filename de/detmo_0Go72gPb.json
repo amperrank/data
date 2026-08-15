@@ -4,7 +4,18 @@
   "name": "TMO LP1/2 TABBS",
   "evses": [
     {
-      "id": "DETMOE11422001",
+      "id": "DETMOE11422004",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETMOE11422007",
       "connectors": [
         {
           "type": "type2",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETMOE11422004",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETMOE11422007",
+      "id": "DETMOE11422006",
       "connectors": [
         {
           "type": "type2",
@@ -70,7 +70,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETMOE11422006",
+      "id": "DETMOE11422002",
       "connectors": [
         {
           "type": "type2",
@@ -81,7 +81,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETMOE11422002",
+      "id": "DETMOE11422001",
       "connectors": [
         {
           "type": "type2",

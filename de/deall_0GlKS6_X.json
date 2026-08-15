@@ -4,29 +4,18 @@
   "name": "Allego - Frankfurter Weg 20B Paderborn",
   "evses": [
     {
+      "id": "DEALLEGO0039702",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEALLEGO0039701",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEALLEGO0039661",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEALLEGO0039721",
       "connectors": [
         {
           "type": "ccs",
@@ -48,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0039722",
+      "id": "DEALLEGO0039721",
       "connectors": [
         {
           "type": "ccs",
@@ -59,7 +48,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0039702",
+      "id": "DEALLEGO0039661",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEALLEGO0039722",
       "connectors": [
         {
           "type": "ccs",

@@ -4,17 +4,6 @@
   "name": "Aral pulse Bahnhofstr. 63",
   "evses": [
     {
-      "id": "DEBPEE3EF2070204",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEBPEE3EF2070203",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DEBPEE3EF2070101",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE3EF2070204",
       "connectors": [
         {
           "type": "ccs",

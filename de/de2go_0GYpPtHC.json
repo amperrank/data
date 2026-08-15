@@ -1,19 +1,8 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0GYpPtHC",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0624",
   "evses": [
-    {
-      "id": "DE2GOEMCD06351A1",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DE2GOEMCD06351A2",
       "connectors": [
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEMCD06351B3",
+      "id": "DE2GOEMCD06351A1",
       "connectors": [
         {
           "type": "ccs",
@@ -46,15 +35,26 @@
       ],
       "authMethods": null,
       "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD06351B3",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Greven",
-    "street": "Alte Bahnhofstraße 9",
+    "street": "Alte Bahnhofstraße",
     "houseNumber": null,
     "postcode": "48268",
-    "province": "Nordrhein-Westfalen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

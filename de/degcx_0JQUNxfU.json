@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*GCX",
+  "geohash": "0JQUNxfU",
+  "name": "PARDE0679S001",
+  "evses": [
+    {
+      "id": "DEGCXEPARDE0679S0012",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGCXEPARDE0679S0011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Lauf an der Pegnitz",
+    "street": "Röthenbacher Straße",
+    "houseNumber": null,
+    "postcode": "91207",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

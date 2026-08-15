@@ -4,18 +4,7 @@
   "name": "enercity AG enercity - P+R Haltenhoffstraße - A01",
   "evses": [
     {
-      "id": "DEENCELA000053A01B",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEENCELA000053001B",
+      "id": "DEENCELA000053001A",
       "connectors": [
         {
           "type": "type2",
@@ -37,11 +26,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEENCELA000053001A",
+      "id": "DEENCELA000053001B",
       "connectors": [
         {
           "type": "type2",
           "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEENCELA000053A01B",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,

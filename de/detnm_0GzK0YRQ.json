@@ -4,17 +4,6 @@
   "name": "Shell Recharge OBN 3164 - Redevco Industriestrasse",
   "evses": [
     {
-      "id": "DETNMEGL49023164021",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGL49023164011",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DETNMEGL49023164012",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49023164021",
       "connectors": [
         {
           "type": "ccs",

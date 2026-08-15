@@ -1,25 +1,25 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0G0dAz07",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE0358",
   "evses": [
     {
-      "id": "DE2GOE03581",
+      "id": "DE2GOE03582",
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 7.36
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DE2GOE03582",
+      "id": "DE2GOE03581",
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 7.36
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -29,16 +29,82 @@
   "facilities": null,
   "address": {
     "city": "Delmenhorst",
-    "street": "Am Stadtbad 2",
+    "street": "Am Stadtbad",
     "houseNumber": null,
     "postcode": "27753",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": false,
     "regularHours": [
       {
         "weekday": 1,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 30
+        },
+        "periodEnd": {
+          "hour": 22,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 2,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 30
+        },
+        "periodEnd": {
+          "hour": 22,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 3,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 30
+        },
+        "periodEnd": {
+          "hour": 22,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 4,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 30
+        },
+        "periodEnd": {
+          "hour": 22,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 5,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 30
+        },
+        "periodEnd": {
+          "hour": 22,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 6,
+        "periodBegin": {
+          "hour": 10,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 23,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 7,
         "periodBegin": {
           "hour": 10,
           "minute": 0

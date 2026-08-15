@@ -4,7 +4,18 @@
   "name": "V-Markt Mainburg",
   "evses": [
     {
-      "id": "DEVIRE148564",
+      "id": "DEVIRE148580",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEVIRE148548",
       "connectors": [
         {
           "type": "type2",
@@ -26,17 +37,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DEVIRE148580",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEVIRE148534",
       "connectors": [
         {
@@ -48,7 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEVIRE148570",
+      "id": "DEVIRE148564",
       "connectors": [
         {
           "type": "type2",
@@ -59,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEVIRE148548",
+      "id": "DEVIRE148570",
       "connectors": [
         {
           "type": "type2",

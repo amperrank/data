@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*AUW",
+  "geohash": "0C93x5ek",
+  "name": "Allgäu Batterie DC-Schnellladestation",
+  "evses": [
+    {
+      "id": "DEAUWE0305001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEAUWE0305002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Haldenwang",
+    "street": "Hoyen",
+    "houseNumber": "21",
+    "postcode": "87490",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

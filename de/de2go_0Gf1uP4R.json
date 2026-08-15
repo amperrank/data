@@ -1,25 +1,36 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0Gf1uP4R",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE0635",
   "evses": [
     {
-      "id": "DE2GOE06351",
+      "id": "DE2GOE06352",
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 7.36
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DE2GOE06352",
+      "id": "EC1FDE573E5BE46322FA0AB0F8B7AA85",
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 7.36
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOE06351",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -29,10 +40,10 @@
   "facilities": null,
   "address": {
     "city": "Varel",
-    "street": "Am Hafen 8",
+    "street": "Am Hafen",
     "houseNumber": null,
     "postcode": "26316",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

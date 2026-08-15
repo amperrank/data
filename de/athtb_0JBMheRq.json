@@ -4,7 +4,7 @@
   "name": "DAH_Fraunhoferstr.5_AC01",
   "evses": [
     {
-      "id": "ATHTBE1026884",
+      "id": "ATHTBE10268883",
       "connectors": [
         {
           "type": "ccs",
@@ -15,22 +15,11 @@
       "paymentMethods": null
     },
     {
-      "id": "ATHTBE1013548",
+      "id": "ATHTBE1026884",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "ATHTBE1021873",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,
@@ -59,11 +48,22 @@
       "paymentMethods": null
     },
     {
-      "id": "ATHTBE10268883",
+      "id": "ATHTBE1013548",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 150.0
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "ATHTBE1021873",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

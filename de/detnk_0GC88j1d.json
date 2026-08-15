@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*TNK",
+  "geohash": "0GC88j1d",
+  "name": "[LIS-K] Nikolausstraße 55a",
+  "evses": [
+    {
+      "id": "DETNKE0023402",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNKE0023401",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Köln",
+    "street": "Nikolausstraße",
+    "houseNumber": "55a",
+    "postcode": "50937",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

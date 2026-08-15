@@ -4,28 +4,6 @@
   "name": "Mer Germany GmbH Mer Germany (TuR) - Kalbach - Uttrichshausen Ost #1",
   "evses": [
     {
-      "id": "DEMERE00103501",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE00103504",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEMERE00103601",
       "connectors": [
         {
@@ -59,11 +37,33 @@
       "paymentMethods": null
     },
     {
+      "id": "DEMERE00103504",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEMERE00103502",
       "connectors": [
         {
           "type": "chademo",
           "maxPowerKw": 62.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00103501",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,

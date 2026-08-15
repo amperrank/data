@@ -4,40 +4,7 @@
   "name": "SLK GMBH STATION 2",
   "evses": [
     {
-      "id": "DECPIE65163252",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE28327352",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DECPIE64991251",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE65163251",
       "connectors": [
         {
           "type": "type2",
@@ -59,7 +26,40 @@
       "paymentMethods": null
     },
     {
+      "id": "DECPIE28327352",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE65163251",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DECPIE64991252",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE65163252",
       "connectors": [
         {
           "type": "type2",
@@ -79,74 +79,7 @@
     "province": null
   },
   "openingHours": {
-    "isOpen247": false,
-    "regularHours": [
-      {
-        "weekday": 1,
-        "periodBegin": {
-          "hour": 6,
-          "minute": 0
-        },
-        "periodEnd": {
-          "hour": 17,
-          "minute": 0
-        }
-      },
-      {
-        "weekday": 2,
-        "periodBegin": {
-          "hour": 6,
-          "minute": 0
-        },
-        "periodEnd": {
-          "hour": 17,
-          "minute": 0
-        }
-      },
-      {
-        "weekday": 3,
-        "periodBegin": {
-          "hour": 6,
-          "minute": 0
-        },
-        "periodEnd": {
-          "hour": 17,
-          "minute": 0
-        }
-      },
-      {
-        "weekday": 4,
-        "periodBegin": {
-          "hour": 6,
-          "minute": 0
-        },
-        "periodEnd": {
-          "hour": 17,
-          "minute": 0
-        }
-      },
-      {
-        "weekday": 5,
-        "periodBegin": {
-          "hour": 6,
-          "minute": 0
-        },
-        "periodEnd": {
-          "hour": 17,
-          "minute": 0
-        }
-      },
-      {
-        "weekday": 6,
-        "periodBegin": {
-          "hour": 7,
-          "minute": 0
-        },
-        "periodEnd": {
-          "hour": 13,
-          "minute": 0
-        }
-      }
-    ]
+    "isOpen247": true,
+    "regularHours": null
   }
 }

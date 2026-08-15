@@ -1,36 +1,25 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0MlMuKxA",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0608",
   "evses": [
-    {
-      "id": "DE2GOEMCD07911B3",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DE2GOEMCD07911B4",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 300.0
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEMCD07911A2",
+      "id": "DE2GOEMCD07911B3",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 300.0
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,
@@ -41,7 +30,29 @@
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 300.0
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "7A13BE289F8FB1BE813CD7BF72EC948E",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD07911A2",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,
@@ -51,10 +62,10 @@
   "facilities": null,
   "address": {
     "city": "Cottbus",
-    "street": "Heinrich-Hertz-Straße 1",
+    "street": "Heinrich-Hertz-Straße",
     "houseNumber": null,
     "postcode": "03044",
-    "province": "Brandenburg"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

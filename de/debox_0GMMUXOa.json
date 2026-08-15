@@ -4,7 +4,7 @@
   "name": "Stadtwerke Bochum, Springorumallee 10",
   "evses": [
     {
-      "id": "DEBOXEAC0805",
+      "id": "DEBOXEAC0044",
       "connectors": [
         {
           "type": "type2",
@@ -26,10 +26,10 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBOXEAC0044",
+      "id": "DEBOXEAC0804",
       "connectors": [
         {
-          "type": "type2",
+          "type": "ccs",
           "maxPowerKw": 22.0
         }
       ],
@@ -37,10 +37,10 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBOXEAC0804",
+      "id": "DEBOXEAC0805",
       "connectors": [
         {
-          "type": "ccs",
+          "type": "type2",
           "maxPowerKw": 22.0
         }
       ],

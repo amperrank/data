@@ -4,7 +4,7 @@
   "name": "Ladestation Geitner GmbH",
   "evses": [
     {
-      "id": "DEBEME0010673",
+      "id": "DEBEME0010674",
       "connectors": [
         {
           "type": "type2",
@@ -15,11 +15,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBEME0010675",
+      "id": "DEBEME0010673",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 150.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -37,11 +37,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBEME0010674",
+      "id": "DEBEME0010675",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,

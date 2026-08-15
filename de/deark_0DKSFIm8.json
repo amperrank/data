@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*ARK",
+  "geohash": "0DKSFIm8",
+  "name": "Stark Energy Lehener Straße",
+  "evses": [
+    {
+      "id": "DEARKE10011001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEARKE10011002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Freiburg im Breisgau",
+    "street": "Lehener Straße",
+    "houseNumber": "101",
+    "postcode": "79106",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

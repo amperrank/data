@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*NMS",
+  "geohash": "0Hl7xidj",
+  "name": "James Farm GmbH & Co. KG_Nordhackstedter Str. 8",
+  "evses": [
+    {
+      "id": "DENMSE500029001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 180.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DENMSE500029002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 180.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DENMSE500030001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Hörup",
+    "street": "Nordhackstedter Straße",
+    "houseNumber": "2a",
+    "postcode": "24980",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

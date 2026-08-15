@@ -4,17 +4,6 @@
   "name": "TRANSITCENTER STATION_6K",
   "evses": [
     {
-      "id": "DECPIE68181952",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 11.04
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DECPIE68181951",
       "connectors": [
         {
@@ -26,22 +15,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE68248751",
+      "id": "DECPIE68181952",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE68249452",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 11.04
         }
       ],
       "authMethods": null,
@@ -59,7 +37,29 @@
       "paymentMethods": null
     },
     {
+      "id": "DECPIE68248751",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DECPIE68249451",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE68249452",
       "connectors": [
         {
           "type": "ccs",

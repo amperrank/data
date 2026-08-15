@@ -4,11 +4,11 @@
   "name": "Kaufland Neunkirchen",
   "evses": [
     {
-      "id": "DEKDLE00000687",
+      "id": "DEKDLE00000688",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 60.0
+          "type": "type2",
+          "maxPowerKw": 11.0
         }
       ],
       "authMethods": null,
@@ -26,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00000688",
+      "id": "DEKDLE00000687",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 11.0
+          "type": "ccs",
+          "maxPowerKw": 60.0
         }
       ],
       "authMethods": null,

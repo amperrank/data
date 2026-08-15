@@ -4,7 +4,18 @@
   "name": "Aral pulse Neusser Straße 45",
   "evses": [
     {
-      "id": "DEBPEE0F9290103",
+      "id": "DEBPEE0F9290205",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0F9290204",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +26,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0F9290204",
+      "id": "DEBPEE0F9290103",
       "connectors": [
         {
           "type": "ccs",
@@ -42,17 +53,6 @@
         {
           "type": "ccs",
           "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0F9290205",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,

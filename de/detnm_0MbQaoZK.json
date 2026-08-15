@@ -4,11 +4,11 @@
   "name": "Shell Recharge OBN 2778 - Rewe Hermann-Hesse-Strasse",
   "evses": [
     {
-      "id": "DETNMEGL49022778021",
+      "id": "DETNMEGL49022778012",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 150.0
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
@@ -26,17 +26,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49022778031",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGL49022778022",
       "connectors": [
         {
@@ -48,11 +37,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49022778012",
+      "id": "DETNMEGL49022778021",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 300.0
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49022778031",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,

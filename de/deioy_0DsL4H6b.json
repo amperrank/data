@@ -4,17 +4,6 @@
   "name": "IONITY GmbH IONITY Lonetal West",
   "evses": [
     {
-      "id": "DEIOYE200503",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEIOYE200501",
       "connectors": [
         {
@@ -26,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE200505",
+      "id": "DEIOYE200503",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE200506",
       "connectors": [
         {
           "type": "ccs",
@@ -59,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE200506",
+      "id": "DEIOYE200505",
       "connectors": [
         {
           "type": "ccs",

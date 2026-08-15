@@ -4,6 +4,17 @@
   "name": "Shell Recharge OBN 9436 - Shell An Der Lauchstaedter Strasse",
   "evses": [
     {
+      "id": "DETNMEGL49019436011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DETNMEGL49019436012",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DETNMEGL49019436021",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49019436011",
       "connectors": [
         {
           "type": "ccs",

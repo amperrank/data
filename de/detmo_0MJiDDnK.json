@@ -1,10 +1,10 @@
 {
   "operatorId": "DE*TMO",
   "geohash": "0MJiDDnK",
-  "name": "TMO LP3/4 Kastanienring",
+  "name": "TMO LP5/6 Kastanienring",
   "evses": [
     {
-      "id": "DETMOE11157002",
+      "id": "DETMOE11157004",
       "connectors": [
         {
           "type": "ccs",
@@ -26,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DETMOE11157001",
+      "id": "DETMOE11157002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETMOE11157003",
       "connectors": [
         {
           "type": "ccs",
@@ -48,18 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETMOE11157004",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETMOE11157003",
+      "id": "DETMOE11157001",
       "connectors": [
         {
           "type": "ccs",
@@ -74,7 +74,7 @@
   "address": {
     "city": "Hainichen",
     "street": "Kastanienring",
-    "houseNumber": null,
+    "houseNumber": "2",
     "postcode": "09661",
     "province": null
   },

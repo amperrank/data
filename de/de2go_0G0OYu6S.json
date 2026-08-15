@@ -1,10 +1,10 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0G0OYu6S",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE7166",
   "evses": [
     {
-      "id": "DE2GOEEWE71491A1",
+      "id": "DE2GOEEWE71491A2",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEEWE71491A2",
+      "id": "D1D48EEE0FC6668AAF0EAE2872261029",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEEWE71491A1",
       "connectors": [
         {
           "type": "ccs",
@@ -29,10 +40,10 @@
   "facilities": null,
   "address": {
     "city": "Bassum",
-    "street": "Bahnhofstraße 13",
+    "street": "Bahnhofstraße",
     "houseNumber": null,
     "postcode": "27211",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

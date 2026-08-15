@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*LVP",
+  "geohash": "0D6zZCqz",
+  "name": "Fürth - Nürnberger Straße",
+  "evses": [
+    {
+      "id": "DELVPE22130001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELVPE30005002",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 43.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELVPE30005001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Fürth",
+    "street": "Nürnberger Straße",
+    "houseNumber": "180",
+    "postcode": "90762",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

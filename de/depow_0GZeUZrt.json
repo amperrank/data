@@ -4,11 +4,22 @@
   "name": "DE Meppen 49716 Lingener Straße 89 AH Gebr.Schwarte GmbH & Co. KG (230222406 LP1) öffentlich",
   "evses": [
     {
-      "id": "DEPOWE03308",
+      "id": "DEPOWE03307",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE03305",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -26,22 +37,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPOWE03307",
+      "id": "DEPOWE03308",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEPOWE03305",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*384",
+  "geohash": "0D_1C8S6",
+  "name": "EDEKA Ladestation",
+  "evses": [
+    {
+      "id": "DE384E155372CS00011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE384E155372CS00012",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Ahorn",
+    "street": "Lindenstraße",
+    "houseNumber": null,
+    "postcode": "96482",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

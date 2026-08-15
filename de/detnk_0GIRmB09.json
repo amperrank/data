@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*TNK",
+  "geohash": "0GIRmB09",
+  "name": "[LIS-K] St. Sebastianunsstraße 3a",
+  "evses": [
+    {
+      "id": "DETNKE0026902",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNKE0026901",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Köln",
+    "street": "St. Sebastianusstraße",
+    "houseNumber": "3a",
+    "postcode": "51147",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*TNK",
+  "geohash": "0GC8ns76",
+  "name": "[LIS-K] Geisbergstraße 4",
+  "evses": [
+    {
+      "id": "DETNKE0021802",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNKE0021801",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Köln",
+    "street": "Geisbergstraße",
+    "houseNumber": "4",
+    "postcode": "50939",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

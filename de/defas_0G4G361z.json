@@ -4,8 +4,12 @@
   "name": "Fastned Hildesheim",
   "evses": [
     {
-      "id": "DEFASE4900701",
+      "id": "DEFASE4900704",
       "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        },
         {
           "type": "ccs",
           "maxPowerKw": 300.0
@@ -15,12 +19,8 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFASE4900704",
+      "id": "DEFASE4900701",
       "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 50.0
-        },
         {
           "type": "ccs",
           "maxPowerKw": 300.0

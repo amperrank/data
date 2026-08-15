@@ -4,6 +4,17 @@
   "name": "BadFriedrichshall.Rathausplatz1.Public2",
   "evses": [
     {
+      "id": "DESMCE0000303",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DESMCE0000480",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DESMCE0000479",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DESMCE0000303",
       "connectors": [
         {
           "type": "type2",

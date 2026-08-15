@@ -1,0 +1,52 @@
+{
+  "operatorId": "07*08B",
+  "geohash": "0IVWxVpt",
+  "name": "EDEKA Ladestation",
+  "evses": [
+    {
+      "id": "0708BE5DC8BE7DF103A9B49140B92BC5",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE384E016521CS00012",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE384E016521CS00011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Penzberg",
+    "street": "Grube",
+    "houseNumber": null,
+    "postcode": "82377",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

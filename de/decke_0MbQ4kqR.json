@@ -4,11 +4,11 @@
   "name": "Circle K I Berlin Am Feuchten Winkel 11",
   "evses": [
     {
-      "id": "DECKEEXD020255011",
+      "id": "DECKEEXD020255012",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 174.8
+          "type": "chademo",
+          "maxPowerKw": 100.28
         }
       ],
       "authMethods": null,
@@ -26,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DECKEEXD020255012",
+      "id": "DECKEEXD020255011",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 100.28
+          "type": "ccs",
+          "maxPowerKw": 174.8
         }
       ],
       "authMethods": null,

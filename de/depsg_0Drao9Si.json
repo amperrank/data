@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*PSG",
+  "geohash": "0Drao9Si",
+  "name": "Ö_TS_Edisonstr_Augsburg",
+  "evses": [
+    {
+      "id": "DEPSGET0001001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPSGET0001002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Augsburg",
+    "street": "Edisonstraße",
+    "houseNumber": "14a",
+    "postcode": "86199",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

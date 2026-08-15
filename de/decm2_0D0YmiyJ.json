@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*CM2",
+  "geohash": "0D0YmiyJ",
+  "name": "749_ÖLIS_UnionInvestment_Schneidwallgasse_FFM",
+  "evses": [
+    {
+      "id": "DECM2E1100233AC001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 43.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECM2E1100234AC001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECM2E1100235AC001",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Frankfurt",
+    "street": "Schneidwallgasse",
+    "houseNumber": "7",
+    "postcode": "60311",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

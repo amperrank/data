@@ -4,6 +4,17 @@
   "name": "Mer Germany GmbH Mer Germany GmbH - Röhrnbach - Rathausstraße #2",
   "evses": [
     {
+      "id": "DEMERE00481002",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEMERE00491001",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DEMERE00491002",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE00481002",
       "connectors": [
         {
           "type": "type2",

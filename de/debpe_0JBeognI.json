@@ -4,7 +4,18 @@
   "name": "Aral pulse Schroßlacher Straße 2",
   "evses": [
     {
-      "id": "DEBPEE0FG300308",
+      "id": "DEBPEE0FG300409",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0FG300307",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +26,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FG300307",
+      "id": "DEBPEE0FG300308",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FG300409",
+      "id": "DEBPEE0FG300206",
       "connectors": [
         {
           "type": "ccs",
@@ -48,11 +59,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FG300205",
+      "id": "DEBPEE0FG300410",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 100.0
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0FG300103",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
@@ -81,33 +103,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FG300103",
+      "id": "DEBPEE0FG300205",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0FG300410",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0FG300206",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
+          "type": "chademo",
+          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,

@@ -1,25 +1,36 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0G1HjHX8",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE0135",
   "evses": [
     {
-      "id": "DE2GOE01351",
+      "id": "DE2GOE01352",
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 7.36
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DE2GOE01352",
+      "id": "EB3B6E54AC8B4450FF189819E6365AFC",
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 7.36
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOE01351",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -29,10 +40,10 @@
   "facilities": null,
   "address": {
     "city": "Schwanewede",
-    "street": "Hannoversche Straße 24",
+    "street": "Hannoversche Straße",
     "houseNumber": null,
     "postcode": "28790",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

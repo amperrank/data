@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*LMS",
+  "geohash": "0D1MqHdh",
+  "name": "Hymes Energy GmbH casa tec GmbH",
+  "evses": [
+    {
+      "id": "DELMSE12346084592",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELMSE12346084591",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Ober Mörlen",
+    "street": "Hasselhecker Str.",
+    "houseNumber": "37",
+    "postcode": "61239",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

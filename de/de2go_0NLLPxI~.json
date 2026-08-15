@@ -1,32 +1,10 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0NLLPxI~",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0281",
   "evses": [
     {
-      "id": "DE2GOEMCD18221A2",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DE2GOEMCD18221B3",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE2GOEMCD18221A1",
       "connectors": [
         {
           "type": "ccs",
@@ -46,15 +24,48 @@
       ],
       "authMethods": null,
       "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD18221A2",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "3C2A4E995B85F7BB774A936D181DF12C",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD18221A1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Anklam",
-    "street": "Demminer Landstraße 3a",
+    "street": "Demminer Landstraße",
     "houseNumber": null,
     "postcode": "17389",
-    "province": "Mecklenburg-Vorpommern"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

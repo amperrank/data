@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*LSP",
+  "geohash": "0MLoixgq",
+  "name": "CITO Kaufland Copitz",
+  "evses": [
+    {
+      "id": "DELSPE01796021",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELSPE01796022",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELSPE01796023",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Pirna",
+    "street": "Lohmener Straße",
+    "houseNumber": "13",
+    "postcode": "01796",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

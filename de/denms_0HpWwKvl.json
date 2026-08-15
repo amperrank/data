@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*NMS",
+  "geohash": "0HpWwKvl",
+  "name": "SWN_Bahnhofstr. bei 11",
+  "evses": [
+    {
+      "id": "DENMSE510413001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DENMSE510413002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Neumünster",
+    "street": "Bahnhofstr.",
+    "houseNumber": "11",
+    "postcode": "24534",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

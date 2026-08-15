@@ -1,8 +1,19 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0GwMpJVd",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE1000441",
   "evses": [
+    {
+      "id": "DE2GOEEWE74151A2",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DE2GOEEWE74151A1",
       "connectors": [
@@ -35,26 +46,15 @@
       ],
       "authMethods": null,
       "paymentMethods": null
-    },
-    {
-      "id": "DE2GOEEWE74151A2",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 200.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Herford",
-    "street": "Waltgeristraße 77",
+    "street": "Waltgeristraße",
     "houseNumber": null,
     "postcode": "32049",
-    "province": "Nordrhein-Westfalen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

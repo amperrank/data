@@ -4,6 +4,17 @@
   "name": "Allego - Kaufland Pegnitz",
   "evses": [
     {
+      "id": "DEALLEGO0031401",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEALLEGO0017491",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEALLEGO0031402",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEALLEGO0031401",
       "connectors": [
         {
           "type": "ccs",

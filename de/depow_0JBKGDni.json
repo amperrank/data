@@ -1,25 +1,25 @@
 {
   "operatorId": "DE*POW",
   "geohash": "0JBKGDni",
-  "name": "DE_VGRD_M_VW_Georg_Brauchle_Ring_80992_PP03_öffentlich",
+  "name": "DE_VGRD_M_VW_Georg_Brauchle_Ring_80992_PP03_öffentlich (Station ist demontiert)",
   "evses": [
-    {
-      "id": "DEPOWE01964",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 75.2
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DEPOWE01963",
       "connectors": [
         {
           "type": "type2",
           "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE01964",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 75.2
         }
       ],
       "authMethods": null,

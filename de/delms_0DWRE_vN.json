@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*LMS",
+  "geohash": "0DWRE_vN",
+  "name": "Hymes Energy GmbH Autohaus Mais-Glandien",
+  "evses": [
+    {
+      "id": "DELMSE10000816031",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELMSE10000816032",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Pronsfeld",
+    "street": "Lünebacher Str.",
+    "houseNumber": null,
+    "postcode": "54597",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

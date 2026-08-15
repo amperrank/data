@@ -1,0 +1,46 @@
+[
+  {
+    "operatorId": {
+      "countryCode": "DE",
+      "cpo": "BEC"
+    },
+    "currency": "EUR",
+    "validFrom": null,
+    "validTo": null,
+    "updatedAt": "2026-08-15T00:00:00.000",
+    "description": "Charge Green OnSite flat tariff. AC 0.52 EUR/kWh, DC 0.64 EUR/kWh (brutto), no base fee and no blocking fee. Prices incl. VAT.",
+    "tiers": [
+      {
+        "id": "charge-green-onsite",
+        "name": "Charge Green OnSite Tarif",
+        "role": "standard",
+        "subscriptionFee": null,
+        "requiresMembership": false,
+        "applicableHours": null,
+        "description": null,
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 0.52,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": 49,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 0.64,
+            "unit": "kWh",
+            "minPowerKw": 50,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          }
+        ]
+      }
+    ]
+  }
+]

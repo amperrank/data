@@ -1,10 +1,21 @@
 {
   "operatorId": "DE*POW",
   "geohash": "0JUSia8X",
-  "name": "DE_Motor-Nuetzel_21596_95326_Skoda_FZV01_öffentlich (inside)",
+  "name": "DE_Motor-Nuetzel_21596_95326_Skoda_LP01_öffentlich",
   "evses": [
     {
-      "id": "DEPOWE01935",
+      "id": "DEPOWE01781",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE01937",
       "connectors": [
         {
           "type": "type2",
@@ -15,7 +26,40 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPOWE01937",
+      "id": "DEPOWE01779",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE01780",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE01778",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE01935",
       "connectors": [
         {
           "type": "type2",

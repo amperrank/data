@@ -4,17 +4,6 @@
   "name": "Shell Recharge OBN 0744 - Shell Konrad-Adenauer Damm",
   "evses": [
     {
-      "id": "DETNMEGL49010744021",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 360.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGL49010744022",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DETNMEGL49010744011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 360.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49010744021",
       "connectors": [
         {
           "type": "ccs",

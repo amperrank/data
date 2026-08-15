@@ -4,17 +4,6 @@
   "name": "Ladestation 3W Energy Solutions Regenstauf",
   "evses": [
     {
-      "id": "DEBEME0010807",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEBEME0010806",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DEBEME0010805",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBEME0010807",
       "connectors": [
         {
           "type": "type2",

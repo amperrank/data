@@ -1,10 +1,10 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0HoPKMnF",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0307",
   "evses": [
     {
-      "id": "DE2GOEMCD09771A1",
+      "id": "DE2GOEMCD09771A2",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEMCD09771A2",
+      "id": "E957FECF88C9AF4DAE5DBDC5B541FA8B",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD09771A1",
       "connectors": [
         {
           "type": "ccs",
@@ -29,10 +40,10 @@
   "facilities": null,
   "address": {
     "city": "Hamburg",
-    "street": "Barsbütteler Straße 45",
+    "street": "Barsbütteler Straße",
     "houseNumber": null,
     "postcode": "22043",
-    "province": "Hamburg"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

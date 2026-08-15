@@ -1,10 +1,21 @@
 {
   "operatorId": "DE*LDL",
   "geohash": "0JODwtaT",
-  "name": "Lidl Passau",
+  "name": "Lidl Filiale Passau-Grubweg",
   "evses": [
     {
-      "id": "DELDLE00005134",
+      "id": "DELDLE00011016",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELDLE00011015",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +26,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DELDLE00011015",
+      "id": "DELDLE00005134",
       "connectors": [
         {
           "type": "ccs",
@@ -37,33 +48,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DELDLE00005136",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 60.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DELDLE00011016",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 11.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DELDLE00005135",
       "connectors": [
         {
           "type": "type2",
           "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELDLE00005136",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
         }
       ],
       "authMethods": null,

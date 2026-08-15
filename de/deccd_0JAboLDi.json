@@ -4,11 +4,11 @@
   "name": "Residia Alpitronic",
   "evses": [
     {
-      "id": "DECCDEAC0134",
+      "id": "DECCDEAC0135",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -26,18 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DECCDEAC0136",
+      "id": "DECCDEAC0134",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DECCDEAC0135",
+      "id": "DECCDEAC0136",
       "connectors": [
         {
           "type": "ccs",

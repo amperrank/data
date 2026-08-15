@@ -4,6 +4,17 @@
   "name": "BMW - Autohaus Walter Mulfinger GmbH",
   "evses": [
     {
+      "id": "DEDESE10032342",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEDESEBMW06551",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEDESEBMW06552",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEDESE10032342",
       "connectors": [
         {
           "type": "type2",

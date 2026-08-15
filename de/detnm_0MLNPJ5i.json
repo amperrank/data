@@ -4,6 +4,17 @@
   "name": "Shell Recharge OBN 7455 - Shell Dresdner Strasse",
   "evses": [
     {
+      "id": "DETNMEGL49017455021",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DETNMEGL49017455012",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DETNMEGL49017455011",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49017455021",
       "connectors": [
         {
           "type": "ccs",

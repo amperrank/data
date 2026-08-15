@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*HST",
+  "geohash": "0NMl~iJK",
+  "name": "Stadtwerke Stralsund SWS Energie - öffentlich",
+  "evses": [
+    {
+      "id": "DEHSTE12346356612",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEHSTE12346356611",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Stralsund",
+    "street": "Frankenwall ggü. Nr.",
+    "houseNumber": "18",
+    "postcode": "18439",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

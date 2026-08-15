@@ -4,17 +4,6 @@
   "name": "Eviny Germany Falkensee",
   "evses": [
     {
-      "id": "DEEVYEFKE1B",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEEVYEFKE2A",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEVYEFKE1A",
+      "id": "DEEVYEFKE1B",
       "connectors": [
         {
           "type": "ccs",
@@ -38,6 +27,17 @@
     },
     {
       "id": "DEEVYEFKE2B",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEVYEFKE1A",
       "connectors": [
         {
           "type": "ccs",

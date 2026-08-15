@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*384",
+  "geohash": "0MHy8xj6",
+  "name": "NETTO Ladestation",
+  "evses": [
+    {
+      "id": "DE384E156915CS00011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE384E156915CS00012",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Coswig-Anhalt",
+    "street": "Berliner Straße",
+    "houseNumber": null,
+    "postcode": "06869",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

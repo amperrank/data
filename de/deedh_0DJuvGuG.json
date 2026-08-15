@@ -4,17 +4,6 @@
   "name": "NaturEnergie Community - Rust altes Rathaus",
   "evses": [
     {
-      "id": "DEEDHE001605",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEEDHE001603",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DEEDHE001604",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEDHE001605",
       "connectors": [
         {
           "type": "type2",

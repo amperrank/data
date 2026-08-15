@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*MWE",
+  "geohash": "0GDe14UQ",
+  "name": "mw autostrom Ladestation (Stadtwerke Meerbusch) 02",
+  "evses": [
+    {
+      "id": "DEMWEE1817612001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMWEE1817612002",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Meerbusch",
+    "street": "Osterather str.",
+    "houseNumber": "77",
+    "postcode": "40667",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

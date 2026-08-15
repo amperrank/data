@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*LDK",
+  "geohash": "0G6QWwPo",
+  "name": "BS|ENERGY Bunsenstraße",
+  "evses": [
+    {
+      "id": "DELDKE000741",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELDKE000742",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Braunschweig",
+    "street": "Bunsenstraße",
+    "houseNumber": "20",
+    "postcode": "38126",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

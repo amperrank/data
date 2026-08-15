@@ -4,11 +4,22 @@
   "name": "Aral pulse (Burger King)",
   "evses": [
     {
-      "id": "DEBPEE3EF2940103",
+      "id": "DEBPEE3EF2940205",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE3EF2940102",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,
@@ -37,18 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE3EF2940102",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 100.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE3EF2940205",
+      "id": "DEBPEE3EF2940103",
       "connectors": [
         {
           "type": "ccs",

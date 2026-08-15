@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*Q1A",
+  "geohash": "0GlTfwQ6",
+  "name": "Bielefeld, Krackser Straße",
+  "evses": [
+    {
+      "id": "DEQ1AE50010786",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEQ1AE50010785",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Bielefeld",
+    "street": "Krackser Straße",
+    "houseNumber": null,
+    "postcode": "33689",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

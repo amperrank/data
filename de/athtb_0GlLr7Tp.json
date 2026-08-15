@@ -4,17 +4,6 @@
   "name": "Motel Dominik 2",
   "evses": [
     {
-      "id": "ATHTBE100011",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "ATHTBE1000010",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "ATHTBE1001100",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "ATHTBE100011",
       "connectors": [
         {
           "type": "type2",

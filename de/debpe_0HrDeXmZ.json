@@ -4,22 +4,33 @@
   "name": "Aral pulse Fackenburger Allee 20",
   "evses": [
     {
-      "id": "DEBPEE0F1910102",
+      "id": "DEBPEE0F1910103",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 100.0
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0F1910103",
+      "id": "DEBPEE0F1910204",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0F1910102",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,
@@ -49,17 +60,6 @@
     },
     {
       "id": "DEBPEE0F1910101",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0F1910204",
       "connectors": [
         {
           "type": "ccs",

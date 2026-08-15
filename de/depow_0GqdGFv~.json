@@ -4,21 +4,10 @@
   "name": "DE Gotha 99867 Weimarer Str. 71–75 AHG GmbH VW Gotha I (0021225) öffentlich",
   "evses": [
     {
-      "id": "DEPOWE03179",
+      "id": "DEPOWE03182",
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 11.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEPOWE03178",
-      "connectors": [
-        {
-          "type": "ccs",
           "maxPowerKw": 22.0
         }
       ],
@@ -37,11 +26,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPOWE03182",
+      "id": "DEPOWE03178",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE03179",
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 22.0
+          "maxPowerKw": 11.0
         }
       ],
       "authMethods": null,

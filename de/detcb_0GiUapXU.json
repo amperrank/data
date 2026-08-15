@@ -4,17 +4,6 @@
   "name": "323140-DN | Schwalmstadt | Walkmühlenweg 3",
   "evses": [
     {
-      "id": "DETCBE3D9CS900500011",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETCBE3D9CS900500021",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DETCBE3D9CS900500022",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETCBE3D9CS900500011",
       "connectors": [
         {
           "type": "ccs",

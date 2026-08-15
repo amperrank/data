@@ -4,17 +4,6 @@
   "name": "enercity AG enercity - Ferdinand-Wilhelm-Fricke-Weg 2A - 001",
   "evses": [
     {
-      "id": "DEENCELA000563002A",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEENCELA000563001B",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DEENCELA000563001A",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEENCELA000563002A",
       "connectors": [
         {
           "type": "type2",

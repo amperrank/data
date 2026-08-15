@@ -4,7 +4,18 @@
   "name": "Allego - FitX Fitnessstudio Essen-Nordviertel",
   "evses": [
     {
-      "id": "DEALLEGO0028362",
+      "id": "DEALLEGO0017092",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEALLEGO0028332",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +26,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0028331",
+      "id": "DEALLEGO0028362",
       "connectors": [
         {
           "type": "ccs",
@@ -37,18 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0017092",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEALLEGO0028361",
+      "id": "DEALLEGO0028331",
       "connectors": [
         {
           "type": "ccs",
@@ -59,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0028332",
+      "id": "DEALLEGO0028361",
       "connectors": [
         {
           "type": "ccs",

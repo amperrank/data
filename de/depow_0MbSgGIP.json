@@ -4,6 +4,17 @@
   "name": "DE Berlin 13051 Hansastraße VGRB VW PP01 (öffentlich) (htb)",
   "evses": [
     {
+      "id": "DEPOWE01508",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEPOWE01509",
       "connectors": [
         {
@@ -37,7 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPOWE01508",
+      "id": "DEPOWE01631",
       "connectors": [
         {
           "type": "type2",
@@ -49,17 +60,6 @@
     },
     {
       "id": "DEPOWE01630",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEPOWE01631",
       "connectors": [
         {
           "type": "type2",

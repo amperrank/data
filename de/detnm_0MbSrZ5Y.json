@@ -4,7 +4,18 @@
   "name": "Shell Recharge OBN 2760 - Rewe Randowstrasse",
   "evses": [
     {
-      "id": "DETNMEGL49022760011",
+      "id": "DETNMEGL49022760021",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49022760022",
       "connectors": [
         {
           "type": "ccs",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49022760021",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49022760022",
+      "id": "DETNMEGL49022760011",
       "connectors": [
         {
           "type": "ccs",

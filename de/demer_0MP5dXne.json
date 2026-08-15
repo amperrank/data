@@ -4,17 +4,6 @@
   "name": "Mer Germany GmbH Mer Germany (DNetz) - Lübben - Frankfurter Str. 101 #1",
   "evses": [
     {
-      "id": "DEMERE01841201",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEMERE01841102",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMERE01841202",
+      "id": "DEMERE01841201",
       "connectors": [
         {
           "type": "ccs",
@@ -38,6 +27,17 @@
     },
     {
       "id": "DEMERE01841101",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE01841202",
       "connectors": [
         {
           "type": "ccs",

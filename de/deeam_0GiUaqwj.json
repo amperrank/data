@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*EAM",
+  "geohash": "0GiUaqwj",
+  "name": "340 501S Schwalmstadt, Schwalm Galerie",
+  "evses": [
+    {
+      "id": "DEEAME0091",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEAME0090",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEAME0089",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Schwalmstadt",
+    "street": "Hexengässchen",
+    "houseNumber": null,
+    "postcode": "34613",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

@@ -4,17 +4,6 @@
   "name": "Shell Recharge OBN 7729 - Shell Oberboihinger Strasse",
   "evses": [
     {
-      "id": "DETNMEGL49017729022",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGL49017729012",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49017729021",
+      "id": "DETNMEGL49017729011",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49017729011",
+      "id": "DETNMEGL49017729022",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49017729021",
       "connectors": [
         {
           "type": "ccs",

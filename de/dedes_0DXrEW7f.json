@@ -4,11 +4,33 @@
   "name": "[FL-PUB] Nürburgring 1927 GmbH & Co. KG - Nürburg - AC - Eichrecht - DE*DES*E1001244",
   "evses": [
     {
-      "id": "DEDESE10012451",
+      "id": "DEDESE10012301",
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 22.0
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEDESE10012291",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEDESE10012441",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
         }
       ],
       "authMethods": null,
@@ -48,33 +70,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEDESE10012441",
+      "id": "DEDESE10012451",
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEDESE10012301",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEDESE10012291",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

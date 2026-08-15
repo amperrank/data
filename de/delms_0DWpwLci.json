@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*LMS",
+  "geohash": "0DWpwLci",
+  "name": "Hymes Energy GmbH Autohaus Kuhlo",
+  "evses": [
+    {
+      "id": "DELMSE12347905832",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELMSE12347905831",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Wittlich",
+    "street": "Friedrichstr.",
+    "houseNumber": "57",
+    "postcode": "54516",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

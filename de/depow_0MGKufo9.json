@@ -4,11 +4,11 @@
   "name": "DE Leipzig 04178 Merseburger Strasse 200 VGRD VW LP02 (öffentlich)",
   "evses": [
     {
-      "id": "DEPOWE02405",
+      "id": "DEPOWE01542",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 11.0
         }
       ],
       "authMethods": null,
@@ -26,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPOWE01542",
+      "id": "DEPOWE02405",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 11.0
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

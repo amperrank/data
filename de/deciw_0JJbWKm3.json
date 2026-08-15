@@ -1,10 +1,21 @@
 {
   "operatorId": "DE*CIW",
   "geohash": "0JJbWKm3",
-  "name": "Nerlich & Lesser KG Pfarrkirchen #01",
+  "name": "Nerlich & Lesser KG Pfarrkirchen #02",
   "evses": [
     {
-      "id": "DECIWE001259",
+      "id": "DECIWE001257",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECIWE001260",
       "connectors": [
         {
           "type": "type2",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECIWE001257",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECIWE001260",
+      "id": "DECIWE001259",
       "connectors": [
         {
           "type": "type2",

@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*EMC",
+  "geohash": "0D1do75~",
+  "name": "e-mobilio Autohaus Michel Public1",
+  "evses": [
+    {
+      "id": "DEEMCE12347403621",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 12.8
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEMCE12347403622",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 51.2
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Gießen",
+    "street": "Grünberger Straße",
+    "houseNumber": "49-63",
+    "postcode": "35394",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

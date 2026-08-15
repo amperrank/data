@@ -4,6 +4,17 @@
   "name": "UNI ELEKTRO Oranienburg",
   "evses": [
     {
+      "id": "DEFKUEUE90070",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEFKUEUE90067",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DEFKUEUE90068",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEFKUEUE90070",
       "connectors": [
         {
           "type": "type2",

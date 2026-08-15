@@ -4,7 +4,18 @@
   "name": "IONITY GmbH IONITY Knüllwald",
   "evses": [
     {
-      "id": "DEIOYE222004",
+      "id": "DEIOYE222071",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE222008",
       "connectors": [
         {
           "type": "ccs",
@@ -15,22 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE222072",
+      "id": "DEIOYE222006",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE222071",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
+          "maxPowerKw": 350.0
         }
       ],
       "authMethods": null,
@@ -70,11 +70,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE222002",
+      "id": "DEIOYE222005",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE222073",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
         }
       ],
       "authMethods": null,
@@ -92,7 +103,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE222005",
+      "id": "DEIOYE222004",
       "connectors": [
         {
           "type": "ccs",
@@ -103,33 +114,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE222006",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE222008",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE222073",
+      "id": "DEIOYE222072",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE222002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
         }
       ],
       "authMethods": null,

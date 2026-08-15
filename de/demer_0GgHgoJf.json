@@ -4,7 +4,18 @@
   "name": "Mer Germany GmbH Mer Germany GmbH - Gladenbach - Jakob-Heuser-Str. 7a",
   "evses": [
     {
-      "id": "DEMERE01810402",
+      "id": "DEMERE01810302",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE01810401",
       "connectors": [
         {
           "type": "ccs",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMERE01810302",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE01810401",
+      "id": "DEMERE01810402",
       "connectors": [
         {
           "type": "ccs",

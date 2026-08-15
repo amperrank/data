@@ -4,22 +4,11 @@
   "name": "Lidl Filiale Köln-Lövenich",
   "evses": [
     {
-      "id": "DELDLE00004653",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 11.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DELDLE00005226",
+      "id": "DELDLE00004659",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 350.0
+          "maxPowerKw": 60.0
         }
       ],
       "authMethods": null,
@@ -37,22 +26,33 @@
       "paymentMethods": null
     },
     {
-      "id": "DELDLE00004659",
+      "id": "DELDLE00005230",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 60.0
+          "maxPowerKw": 350.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DELDLE00005230",
+      "id": "DELDLE00005226",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELDLE00004653",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
         }
       ],
       "authMethods": null,

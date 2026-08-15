@@ -4,22 +4,22 @@
   "name": "DE Dresden 01067 Bremer Straße 35 VGRD Cupra LP01 (öffentlich)",
   "evses": [
     {
-      "id": "DEPOWE2006",
+      "id": "DEPOWE2004",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEPOWE2004",
+      "id": "DEPOWE2006",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

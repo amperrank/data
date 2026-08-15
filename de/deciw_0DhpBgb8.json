@@ -1,10 +1,10 @@
 {
   "operatorId": "DE*CIW",
   "geohash": "0DhpBgb8",
-  "name": "CITYWATT Albstadt #01 - 300kW",
+  "name": "CITYWATT Albstadt #02 - 300kW",
   "evses": [
     {
-      "id": "DECIWE000837",
+      "id": "DECIWE000842",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DECIWE000838",
+      "id": "DECIWE000841",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECIWE000837",
       "connectors": [
         {
           "type": "ccs",
@@ -48,18 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECIWE000841",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECIWE000842",
+      "id": "DECIWE000838",
       "connectors": [
         {
           "type": "ccs",

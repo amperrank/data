@@ -4,18 +4,7 @@
   "name": "Shell Recharge OBN 2606 - Penny Askanierring",
   "evses": [
     {
-      "id": "DETNMEGL49022606022",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49022606021",
+      "id": "DETNMEGL49022606011",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49022606011",
+      "id": "DETNMEGL49022606021",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49022606022",
       "connectors": [
         {
           "type": "ccs",

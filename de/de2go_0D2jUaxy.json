@@ -1,8 +1,19 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0D2jUaxy",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0392",
   "evses": [
+    {
+      "id": "DE2GOEMCD10171A1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DE2GOEMCD10171A2",
       "connectors": [
@@ -15,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEMCD10171A1",
+      "id": "DE2GOEMCD10171B3",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD10171B4",
       "connectors": [
         {
           "type": "ccs",
@@ -29,10 +51,10 @@
   "facilities": null,
   "address": {
     "city": "Lohr am Main",
-    "street": "Jahnstraße 87",
+    "street": "Jahnstraße",
     "houseNumber": null,
     "postcode": "97816",
-    "province": "Bayern"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

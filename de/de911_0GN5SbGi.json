@@ -4,7 +4,7 @@
   "name": "Porsche Sales & Marketplace Porsche Zentrum Münster Ladesäule links",
   "evses": [
     {
-      "id": "DE911EDE00172100000010000001",
+      "id": "DE911EDE00166300000010000001",
       "connectors": [
         {
           "type": "type2",
@@ -15,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DE911EDE00166300000010000001",
+      "id": "DE911EDE00172100000010000001",
       "connectors": [
         {
           "type": "type2",
@@ -38,7 +38,7 @@
     "isOpen247": false,
     "regularHours": [
       {
-        "weekday": 5,
+        "weekday": 3,
         "periodBegin": {
           "hour": 8,
           "minute": 0
@@ -49,7 +49,29 @@
         }
       },
       {
-        "weekday": 3,
+        "weekday": 4,
+        "periodBegin": {
+          "hour": 8,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 7,
+        "periodBegin": {
+          "hour": 8,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 5,
         "periodBegin": {
           "hour": 8,
           "minute": 0
@@ -83,28 +105,6 @@
       },
       {
         "weekday": 6,
-        "periodBegin": {
-          "hour": 8,
-          "minute": 0
-        },
-        "periodEnd": {
-          "hour": 20,
-          "minute": 0
-        }
-      },
-      {
-        "weekday": 7,
-        "periodBegin": {
-          "hour": 8,
-          "minute": 0
-        },
-        "periodEnd": {
-          "hour": 20,
-          "minute": 0
-        }
-      },
-      {
-        "weekday": 4,
         "periodBegin": {
           "hour": 8,
           "minute": 0

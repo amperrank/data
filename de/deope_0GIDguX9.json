@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*OPE",
+  "geohash": "0GIDguX9",
+  "name": "Kortrijker Straße 1 DC50",
+  "evses": [
+    {
+      "id": "DEOPEE0112800L",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEOPEE0112800R",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Bonn",
+    "street": "Kortrijker Straße",
+    "houseNumber": "1",
+    "postcode": "53123",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

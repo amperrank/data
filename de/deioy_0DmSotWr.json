@@ -4,17 +4,6 @@
   "name": "IONITY GmbH IONITY Denkendorf Nord",
   "evses": [
     {
-      "id": "DEIOYE200102",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEIOYE200105",
       "connectors": [
         {
@@ -37,7 +26,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE200101",
+      "id": "DEIOYE200102",
       "connectors": [
         {
           "type": "ccs",
@@ -49,6 +38,17 @@
     },
     {
       "id": "DEIOYE200103",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE200101",
       "connectors": [
         {
           "type": "ccs",

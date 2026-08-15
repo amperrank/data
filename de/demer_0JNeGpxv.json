@@ -4,11 +4,22 @@
   "name": "Mer Germany GmbH Bergbauer Marina - Bad Kötzting - Matzelsdorf 31 #1",
   "evses": [
     {
-      "id": "DEMERE01421401",
+      "id": "DEMERE01421402",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE01424401",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -26,22 +37,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMERE01421402",
+      "id": "DEMERE01421401",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE01424401",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

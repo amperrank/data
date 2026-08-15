@@ -1,32 +1,10 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0MQZR2ZA",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE1000492",
   "evses": [
     {
-      "id": "DE2GOEEWE74241C6",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE2GOEEWE74241B3",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE2GOEEWE74241C5",
+      "id": "DE2GOEEWE74241A2",
       "connectors": [
         {
           "type": "ccs",
@@ -48,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEEWE74241A2",
+      "id": "DE2GOEEWE74241C5",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEEWE74241C6",
       "connectors": [
         {
           "type": "ccs",
@@ -68,15 +57,26 @@
       ],
       "authMethods": null,
       "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEEWE74241B3",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Haldensleben",
-    "street": "Friedrich-Schmelzer-Straße 2",
+    "street": "Friedrich-Schmelzer-Straße",
     "houseNumber": null,
     "postcode": "39340",
-    "province": "Sachsen-Anhalt"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

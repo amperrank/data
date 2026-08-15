@@ -4,7 +4,18 @@
   "name": "Lidl Heppenheim",
   "evses": [
     {
-      "id": "DELDLE00005868",
+      "id": "DELDLE00005866",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELDLE00005934",
       "connectors": [
         {
           "type": "ccs",
@@ -20,17 +31,6 @@
         {
           "type": "type2",
           "maxPowerKw": 11.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DELDLE00005866",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 60.0
         }
       ],
       "authMethods": null,
@@ -59,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DELDLE00005934",
+      "id": "DELDLE00005868",
       "connectors": [
         {
           "type": "ccs",

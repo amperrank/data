@@ -1,8 +1,19 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0G4_kySC",
-  "name": "EWE Go Ladestation",
+  "name": "McD_0619_1A",
   "evses": [
+    {
+      "id": "DE2GOEMCD06191A1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DE2GOEMCD06191A2",
       "connectors": [
@@ -16,17 +27,6 @@
     },
     {
       "id": "DE2GOEMCD06191B3",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE2GOEMCD06191A1",
       "connectors": [
         {
           "type": "ccs",
@@ -51,10 +51,10 @@
   "facilities": null,
   "address": {
     "city": "Braunschweig",
-    "street": "Hansestraße 90",
+    "street": "Hansestraße",
     "houseNumber": null,
     "postcode": "38112",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

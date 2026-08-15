@@ -1,0 +1,49 @@
+{
+  "operatorId": "DE*PLN",
+  "geohash": "0GGtzTDZ",
+  "name": "Einbleckstraße 40",
+  "evses": [
+    {
+      "id": "DEPLNEH0031181",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPLNEH0031183",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPLNEH0031182",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 51.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Oberhausen, Stadt",
+    "street": "Einbleckstraße",
+    "houseNumber": "40",
+    "postcode": "46117",
+    "province": null
+  },
+  "openingHours": null
+}

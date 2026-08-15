@@ -1,10 +1,10 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0GsQwFqx",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE1000870",
   "evses": [
     {
-      "id": "DE2GOEMCD02921C6",
+      "id": "DE2GOEMCD02921B4",
       "connectors": [
         {
           "type": "ccs",
@@ -26,7 +26,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEMCD02921B4",
+      "id": "DE2GOEMCD02921C6",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEMCD02921A1",
+      "id": "DE2GOEMCD02921C5",
       "connectors": [
         {
           "type": "ccs",
@@ -59,7 +59,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEMCD02921C5",
+      "id": "C0A8DE2BA8CC4E87E71FAAF76BD7B9E3",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD02921A1",
       "connectors": [
         {
           "type": "ccs",
@@ -73,10 +84,10 @@
   "facilities": null,
   "address": {
     "city": "Göttingen",
-    "street": "Siekweg 30",
+    "street": "Siekweg",
     "houseNumber": null,
     "postcode": "37081",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

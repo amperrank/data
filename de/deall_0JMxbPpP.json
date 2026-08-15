@@ -4,17 +4,6 @@
   "name": "Allego - Euro Rastpark Hengersberg A3",
   "evses": [
     {
-      "id": "DEALLEGO0026362",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEALLEGO0026352",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0026351",
+      "id": "DEALLEGO0026362",
       "connectors": [
         {
           "type": "ccs",
@@ -38,6 +27,17 @@
     },
     {
       "id": "DEALLEGO0026361",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEALLEGO0026351",
       "connectors": [
         {
           "type": "ccs",

@@ -4,11 +4,11 @@
   "name": "Eni Station - Ob. Hauptstraße 5",
   "evses": [
     {
-      "id": "DEPLNEH0005681",
+      "id": "DEPLNEH0006713",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 150.0
+          "type": "type2",
+          "maxPowerKw": 12.8
         }
       ],
       "authMethods": null,
@@ -26,6 +26,17 @@
       "paymentMethods": null
     },
     {
+      "id": "DEPLNEH0005681",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEPLNEH0006712",
       "connectors": [
         {
@@ -37,18 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPLNEH0006713",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 12.8
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEPLNEH0006711",
+      "id": "DEPLNEH0005682",
       "connectors": [
         {
           "type": "ccs",
@@ -59,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPLNEH0005682",
+      "id": "DEPLNEH0006711",
       "connectors": [
         {
           "type": "ccs",

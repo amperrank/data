@@ -1,19 +1,8 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0GfiaLQx",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE1000699",
   "evses": [
-    {
-      "id": "DE2GOEEWE72591A1",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DE2GOEEWE72591A2",
       "connectors": [
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEEWE72591B3",
+      "id": "DE2GOEEWE72591A1",
       "connectors": [
         {
           "type": "ccs",
@@ -46,15 +35,26 @@
       ],
       "authMethods": null,
       "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEEWE72591B3",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Oldenburg",
-    "street": "Klingenbergstraße 1",
+    "street": "Klingenbergstraße",
     "houseNumber": null,
     "postcode": "26133",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

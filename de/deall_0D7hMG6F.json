@@ -4,17 +4,6 @@
   "name": "Allego - Gewerbepark Heßdorf A3",
   "evses": [
     {
-      "id": "DEALLEGO0025132",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEALLEGO0025122",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DEALLEGO0025131",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEALLEGO0025132",
       "connectors": [
         {
           "type": "ccs",

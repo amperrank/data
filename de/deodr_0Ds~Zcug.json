@@ -4,17 +4,6 @@
   "name": "Ladestation an der Kaiserwiese",
   "evses": [
     {
-      "id": "DEODRE10000402",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEODRE10000404",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DEODRE10000403",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEODRE10000402",
       "connectors": [
         {
           "type": "type2",

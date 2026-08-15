@@ -1,0 +1,63 @@
+{
+  "operatorId": "8E*902",
+  "geohash": "0Dyz3SP0",
+  "name": "EDEKA Ladestation",
+  "evses": [
+    {
+      "id": "8E902EE13D047CD01116E321FD8D3D20",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE384E134929CS00011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "9CB42E8ECD8AFA08B3EC895D7FFE2AF7",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE384E134929CS00012",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Boxberg",
+    "street": "Karl-Hofmann-Straße",
+    "houseNumber": null,
+    "postcode": "97944",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

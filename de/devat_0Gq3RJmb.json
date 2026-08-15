@@ -1,10 +1,21 @@
 {
   "operatorId": "DE*VAT",
   "geohash": "0Gq3RJmb",
-  "name": "DE*VAT*EKBA*27249505*6",
+  "name": "DE*VAT*EKBA*27249505*5",
   "evses": [
     {
-      "id": "DEVATEKBA272495055",
+      "id": "DEVATEKBA272495053",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.04
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEVATEKBA272495054",
       "connectors": [
         {
           "type": "type2",
@@ -37,29 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEVATEKBA272495053",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 11.04
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEVATEKBA272495054",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 11.04
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEVATEKBA272495056",
+      "id": "DEVATEKBA272495055",
       "connectors": [
         {
           "type": "type2",
@@ -71,6 +60,17 @@
     },
     {
       "id": "DEVATEKBA272495058",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.04
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEVATEKBA272495056",
       "connectors": [
         {
           "type": "type2",

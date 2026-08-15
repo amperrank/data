@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*CPW",
+  "geohash": "0Hl0y2oy",
+  "name": "CutPower CutPower Niebüll (HPC)",
+  "evses": [
+    {
+      "id": "DECPWE10000434131",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPWE10000434133",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPWE10000434132",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Niebüll",
+    "street": "Ostring",
+    "houseNumber": "55",
+    "postcode": "25899",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

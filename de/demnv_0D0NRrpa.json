@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*MNV",
+  "geohash": "0D0NRrpa",
+  "name": "Mainova DC FFM Lyoner Str ADAC",
+  "evses": [
+    {
+      "id": "DEMNVE2000011002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMNVE2000011001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Frankfurt am Main",
+    "street": "Lyoner Str.",
+    "houseNumber": "22",
+    "postcode": "60528",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

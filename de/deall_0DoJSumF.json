@@ -4,7 +4,18 @@
   "name": "Allego - Euro Rastpark Aichstetten A96",
   "evses": [
     {
-      "id": "DEALLEGO0032041",
+      "id": "DEALLEGO0017511",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEALLEGO0032042",
       "connectors": [
         {
           "type": "ccs",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0032021",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEALLEGO0032042",
+      "id": "DEALLEGO0032041",
       "connectors": [
         {
           "type": "ccs",
@@ -59,18 +59,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0017511",
+      "id": "DEALLEGO0032032",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 7.36
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0032032",
+      "id": "DEALLEGO0032021",
       "connectors": [
         {
           "type": "ccs",

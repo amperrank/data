@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*384",
+  "geohash": "0Gy9JAVN",
+  "name": "EDEKA Ladesäule",
+  "evses": [
+    {
+      "id": "DE384E164284CS00012",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE384E164284CS00011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Hannover",
+    "street": "Schollweg",
+    "houseNumber": null,
+    "postcode": "30457",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

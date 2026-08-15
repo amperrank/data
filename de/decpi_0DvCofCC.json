@@ -4,7 +4,7 @@
   "name": "KARMANN WEMDING AC03",
   "evses": [
     {
-      "id": "DECPIE68878452",
+      "id": "DECPIE73203252",
       "connectors": [
         {
           "type": "type2",
@@ -16,6 +16,28 @@
     },
     {
       "id": "DECPIE73203251",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.08
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE67162751",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE68878451",
       "connectors": [
         {
           "type": "type2",
@@ -48,18 +70,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE68878451",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.08
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE73203252",
+      "id": "DECPIE68878452",
       "connectors": [
         {
           "type": "type2",
@@ -75,17 +86,6 @@
         {
           "type": "type2",
           "maxPowerKw": 22.08
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE67162751",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,

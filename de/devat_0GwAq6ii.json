@@ -1,21 +1,10 @@
 {
   "operatorId": "DE*VAT",
   "geohash": "0GwAq6ii",
-  "name": "DE*VAT*ET184*IT1*2524*016*1",
+  "name": "DE*VAT*ET184*IT1*2524*016*2",
   "evses": [
     {
       "id": "DEVATET184IT125240162",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 180.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEVATET184IT125240192",
       "connectors": [
         {
           "type": "ccs",
@@ -46,11 +35,22 @@
       ],
       "authMethods": null,
       "paymentMethods": null
+    },
+    {
+      "id": "DEVATET184IT125240192",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 180.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
-    "city": "Bi",
+    "city": "Bielefeld",
     "street": "Kurze Str.",
     "houseNumber": "6",
     "postcode": "33613",

@@ -1,0 +1,38 @@
+[
+  {
+    "operatorId": {
+      "countryCode": "DE",
+      "cpo": "MDS"
+    },
+    "currency": "EUR",
+    "validFrom": null,
+    "validTo": null,
+    "updatedAt": "2026-08-14T16:07:00.500Z",
+    "description": "Variable energy prices, split by AC (≤ 22 kW) and HDC (DC ≥ 150 kW) when present, derived from 2100 per-kWh prices across 1415 DE*MDS stations in the Mobilithek chargecloud stat feed (min–median–max per type). MENNEKES' network is primarily AC (≤ 22 kW). Prices incl. 19% VAT. Time-based blocking/parking fees (pricePerMinute) apply at some stations and are not included in the energy price. Ad-hoc payment (ratePolicy adHoc); price shown in-app before charging.",
+    "tiers": [
+      {
+        "id": "standard",
+        "role": "standard",
+        "name": "Standard",
+        "subscriptionFee": null,
+        "requiresMembership": false,
+        "applicableHours": null,
+        "description": null,
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 0.61,
+            "minPricePerUnit": 0.2,
+            "maxPricePerUnit": 0.95,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          }
+        ]
+      }
+    ]
+  }
+]

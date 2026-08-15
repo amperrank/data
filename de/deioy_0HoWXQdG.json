@@ -4,6 +4,17 @@
   "name": "IONITY GmbH IONITY Quickborn",
   "evses": [
     {
+      "id": "DEIOYE226907",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEIOYE226903",
       "connectors": [
         {
@@ -26,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE226907",
+      "id": "DEIOYE226912",
       "connectors": [
         {
           "type": "ccs",
@@ -37,40 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE226906",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE226905",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE226904",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE226901",
+      "id": "DEIOYE226911",
       "connectors": [
         {
           "type": "ccs",
@@ -103,7 +81,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE226911",
+      "id": "DEIOYE226901",
       "connectors": [
         {
           "type": "ccs",
@@ -114,7 +92,29 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE226912",
+      "id": "DEIOYE226905",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE226906",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE226904",
       "connectors": [
         {
           "type": "ccs",

@@ -4,6 +4,17 @@
   "name": "VW Gröditz - AC Ladesäule",
   "evses": [
     {
+      "id": "DEDEAE272642070012",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 30.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEDEAE272642040012",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DEDEAE272642070011",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 30.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEDEAE272642070012",
       "connectors": [
         {
           "type": "ccs",

@@ -1,10 +1,21 @@
 {
   "operatorId": "DE*DES",
   "geohash": "0GM6W9v0",
-  "name": "[FL-PUB] Procar Automobile GmbH Unna - DC - Eichrecht - DE*DES*E1002973",
+  "name": "[FL-PUB] Procar Automobile Wuppertal - Unna - AC - Eichrecht - DE*DES*E1001412",
   "evses": [
     {
       "id": "DEDESE10014121",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEDESE10029732",
       "connectors": [
         {
           "type": "type2",
@@ -27,17 +38,6 @@
     },
     {
       "id": "DEDESE10014122",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEDESE10029732",
       "connectors": [
         {
           "type": "type2",

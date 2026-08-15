@@ -1,58 +1,25 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0GabdOmE",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE1000612",
   "evses": [
-    {
-      "id": "DE2GOEMCD03181A2",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 57.6
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE2GOEMCD03183",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE2GOEMCD03181",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 14.26
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DE2GOEMCD03181A1",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 57.6
+          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEMCD03182",
+      "id": "DE2GOEMCD03181A2",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 50.0
+          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,
@@ -62,10 +29,10 @@
   "facilities": null,
   "address": {
     "city": "Osnabrück",
-    "street": "Pagenstecherstraße 72",
+    "street": "Pagenstecherstraße",
     "houseNumber": null,
     "postcode": "49090",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

@@ -4,11 +4,33 @@
   "name": "Mer Germany GmbH Mer Germany (TuR) - Kirchberg an der Jagst - Im Seefeld 2 #1",
   "evses": [
     {
-      "id": "DEMERE00696602",
+      "id": "DEMERE00696501",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00696503",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00696504",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -37,29 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMERE00696501",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE00696504",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE00696503",
+      "id": "DEMERE00696602",
       "connectors": [
         {
           "type": "ccs",

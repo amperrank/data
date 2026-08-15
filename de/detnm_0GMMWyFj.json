@@ -4,6 +4,17 @@
   "name": "Shell Recharge OBN 7522 - Shell Bernecker Strasse",
   "evses": [
     {
+      "id": "DETNMEGL49017522022",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DETNMEGL49017522021",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DETNMEGL49017522011",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49017522022",
       "connectors": [
         {
           "type": "ccs",

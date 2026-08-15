@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*GCX",
+  "geohash": "0DPwazXO",
+  "name": "Betriebsführung durch Ladegrün! GmbH",
+  "evses": [
+    {
+      "id": "DEGCXEGRUEN1012403",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGCXEGRUEN1012402",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGCXEGRUEN1012401",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 43.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Freckenfeld",
+    "street": "Karlshöhlchen",
+    "houseNumber": null,
+    "postcode": "76872",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

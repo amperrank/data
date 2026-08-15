@@ -1,10 +1,10 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0GdluNOC",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE1000819",
   "evses": [
     {
-      "id": "DE2GOEEWE80821A2",
+      "id": "DE2GOEEWE80821A1",
       "connectors": [
         {
           "type": "ccs",
@@ -15,18 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEEWE80821C6",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 49.95
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE2GOEEWE80821A1",
+      "id": "DE2GOEEWE80821A2",
       "connectors": [
         {
           "type": "ccs",
@@ -41,7 +30,7 @@
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 49.95
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -52,7 +41,7 @@
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 49.95
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -63,7 +52,18 @@
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 49.95
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEEWE80821C6",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -72,11 +72,11 @@
   ],
   "facilities": null,
   "address": {
-    "city": "Leer (Ostfriesland)",
-    "street": "Bahnhofsring 4",
+    "city": "Leer",
+    "street": "Bahnhofsring",
     "houseNumber": null,
     "postcode": "26789",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

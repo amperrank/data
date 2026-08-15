@@ -4,17 +4,6 @@
   "name": "Shell Recharge OBN 4408 - Shell An der Kreisstraße",
   "evses": [
     {
-      "id": "DETNMEGL49014408011",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGL49014408021",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DETNMEGL49014408012",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49014408011",
       "connectors": [
         {
           "type": "ccs",

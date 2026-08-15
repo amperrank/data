@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*384",
+  "geohash": "0GfBTv2~",
+  "name": "EDEKA Ladestation",
+  "evses": [
+    {
+      "id": "DE384E166961CS00012",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE384E166961CS00011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Barßel",
+    "street": "Krumme Kamp",
+    "houseNumber": null,
+    "postcode": "26676",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

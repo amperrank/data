@@ -4,6 +4,17 @@
   "name": "Allego - HEM Tankstelle Hohen Neuendorf",
   "evses": [
     {
+      "id": "DEALLEGO0031941",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEALLEGO0032132",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DEALLEGO0031942",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEALLEGO0031941",
       "connectors": [
         {
           "type": "ccs",

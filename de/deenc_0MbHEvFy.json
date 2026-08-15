@@ -4,17 +4,6 @@
   "name": "enercity AG REVO Berlin - A03",
   "evses": [
     {
-      "id": "DEENCELA000453A02A",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 3.68
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEENCELA000453A01A",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DEENCELA000453A03A",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 3.68
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEENCELA000453A02A",
       "connectors": [
         {
           "type": "type2",

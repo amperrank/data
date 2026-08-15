@@ -4,6 +4,17 @@
   "name": "ibis Hotel Frankfurt Messe West",
   "evses": [
     {
+      "id": "DEVIRE238162",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEVIRE238161",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DEVIRE238163",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEVIRE238162",
       "connectors": [
         {
           "type": "type2",

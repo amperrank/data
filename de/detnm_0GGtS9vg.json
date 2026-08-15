@@ -4,17 +4,6 @@
   "name": "Shell Recharge OBN 3659 - Shell Centroallee",
   "evses": [
     {
-      "id": "DETNMEGL49013659012",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGL49013659021",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DETNMEGL49013659022",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49013659012",
       "connectors": [
         {
           "type": "ccs",

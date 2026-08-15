@@ -4,11 +4,11 @@
   "name": "Lidl Filiale Leingarten",
   "evses": [
     {
-      "id": "DELDLE00006036",
+      "id": "DELDLE00006047",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 11.0
+          "type": "ccs",
+          "maxPowerKw": 60.0
         }
       ],
       "authMethods": null,
@@ -26,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DELDLE00006047",
+      "id": "DELDLE00006036",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 60.0
+          "type": "type2",
+          "maxPowerKw": 11.0
         }
       ],
       "authMethods": null,

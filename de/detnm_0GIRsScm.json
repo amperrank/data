@@ -4,7 +4,18 @@
   "name": "Shell Recharge OBN 3652 - Shell Heidestrasse",
   "evses": [
     {
-      "id": "DETNMEGLABBT1840009",
+      "id": "DETNMEGLABBT1840010",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 180.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGLABBT1840019",
       "connectors": [
         {
           "type": "ccs",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGLABBT1840010",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 180.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGLABBT1840019",
+      "id": "DETNMEGLABBT1840009",
       "connectors": [
         {
           "type": "ccs",

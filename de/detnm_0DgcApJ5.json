@@ -4,17 +4,6 @@
   "name": "Shell Recharge OBN 2131 - Shell In Steppach",
   "evses": [
     {
-      "id": "DETNMEGL49012131012",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGL49012131021",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49012131022",
+      "id": "DETNMEGL49012131011",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49012131011",
+      "id": "DETNMEGL49012131012",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49012131022",
       "connectors": [
         {
           "type": "ccs",

@@ -1,7 +1,7 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0DxMFCv5",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE1000506",
   "evses": [
     {
       "id": "DE2GOENUV00021C6",
@@ -9,17 +9,6 @@
         {
           "type": "ccs",
           "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE2GOENUV00021B3",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,
@@ -37,28 +26,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOENUV00021D8",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE2GOENUV00021A1",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DE2GOENUV00021B4",
       "connectors": [
         {
@@ -70,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOENUV00021A2",
+      "id": "DE2GOENUV00021B3",
       "connectors": [
         {
           "type": "ccs",
@@ -90,15 +57,26 @@
       ],
       "authMethods": null,
       "paymentMethods": null
+    },
+    {
+      "id": "DE2GOENUV00021D8",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Bensheim",
-    "street": "Fabrikstraße 2",
+    "street": "Fabrikstraße",
     "houseNumber": null,
     "postcode": "64625",
-    "province": "Hessen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

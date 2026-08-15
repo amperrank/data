@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*GRL",
+  "geohash": "0MjYgOPE",
+  "name": "Elisabethplatz",
+  "evses": [
+    {
+      "id": "DEGRLE704001",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGRLE704002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGRLE704003",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Görlitz",
+    "street": "Elisabethplatz",
+    "houseNumber": null,
+    "postcode": "02828",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

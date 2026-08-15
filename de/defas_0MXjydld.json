@@ -4,6 +4,17 @@
   "name": "Fastned Wittstock",
   "evses": [
     {
+      "id": "DEFASE4902803",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEFASE4902804",
       "connectors": [
         {
@@ -20,17 +31,6 @@
     },
     {
       "id": "DEFASE4902801",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEFASE4902803",
       "connectors": [
         {
           "type": "ccs",

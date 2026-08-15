@@ -4,10 +4,10 @@
   "name": "Kaufland Essen",
   "evses": [
     {
-      "id": "DEKDLE00000962",
+      "id": "DEKDLE00000186",
       "connectors": [
         {
-          "type": "ccs",
+          "type": "chademo",
           "maxPowerKw": 50.0
         }
       ],
@@ -15,18 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00000185",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEKDLE00000186",
+      "id": "DEKDLE00000961",
       "connectors": [
         {
           "type": "chademo",
@@ -48,11 +37,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00000961",
+      "id": "DEKDLE00000185",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -60,6 +49,17 @@
     },
     {
       "id": "DEKDLE00000187",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEKDLE00000962",
       "connectors": [
         {
           "type": "ccs",

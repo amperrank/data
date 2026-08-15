@@ -4,17 +4,6 @@
   "name": "Shell Recharge OBN 0041 - Shell Ahrensburger Strasse",
   "evses": [
     {
-      "id": "DETNMEGL49010041022",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 360.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGL49010041011",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49010041021",
+      "id": "DETNMEGL49010041022",
       "connectors": [
         {
           "type": "ccs",
@@ -38,6 +27,17 @@
     },
     {
       "id": "DETNMEGL49010041012",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 360.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49010041021",
       "connectors": [
         {
           "type": "ccs",

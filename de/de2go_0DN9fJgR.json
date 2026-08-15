@@ -1,10 +1,10 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0DN9fJgR",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0767",
   "evses": [
     {
-      "id": "DE2GOEMCD18251A1",
+      "id": "DE2GOEMCD18251A2",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEMCD18251A2",
+      "id": "9A72AE326AE62B06102B3B6730A800B1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD18251A1",
       "connectors": [
         {
           "type": "ccs",
@@ -29,10 +40,10 @@
   "facilities": null,
   "address": {
     "city": "Pirmasens",
-    "street": "Turnstraße 77",
+    "street": "Turnstraße",
     "houseNumber": null,
     "postcode": "66953",
-    "province": "Rheinland-Pfalz"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

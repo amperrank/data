@@ -1,10 +1,10 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0GwCKwoi",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0597",
   "evses": [
     {
-      "id": "DE2GOEMCD08251A1",
+      "id": "DE2GOEMCD08251A2",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEMCD08251A2",
+      "id": "7BDE7EFD483F5AEA256FB5148D645C16",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD08251A1",
       "connectors": [
         {
           "type": "ccs",
@@ -29,10 +40,10 @@
   "facilities": null,
   "address": {
     "city": "Bielefeld",
-    "street": "Eckendorfer Straße 58",
+    "street": "Eckendorfer Straße",
     "houseNumber": null,
     "postcode": "33609",
-    "province": "Nordrhein-Westfalen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

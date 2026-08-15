@@ -4,22 +4,22 @@
   "name": "Volkswagen Automobile Berlin - Tegel - Berliner Straße 68",
   "evses": [
     {
-      "id": "DEPOWE01711",
+      "id": "DEPOWE01712",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 75.2
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEPOWE01712",
+      "id": "DEPOWE01711",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 75.2
         }
       ],
       "authMethods": null,

@@ -4,15 +4,22 @@
   "name": "Shell Recharge OBN 7763 - Shell Autohof Berg",
   "evses": [
     {
-      "id": "DETNMEGL4901776301",
+      "id": "DETNMEGL49017763031",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 175.0
-        },
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49017763032",
+      "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 70.0
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
@@ -34,22 +41,15 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49017763032",
+      "id": "DETNMEGL4901776301",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49017763031",
-      "connectors": [
+          "maxPowerKw": 175.0
+        },
         {
-          "type": "ccs",
-          "maxPowerKw": 300.0
+          "type": "chademo",
+          "maxPowerKw": 70.0
         }
       ],
       "authMethods": null,

@@ -1,0 +1,52 @@
+{
+  "operatorId": "4C*E9D",
+  "geohash": "0JUgFGFJ",
+  "name": "EDEKA Ladestation",
+  "evses": [
+    {
+      "id": "4CE9DE5D3197655C99BD62113721E5E6",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE384E155262CS00011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE384E155262CS00012",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Bayreuth",
+    "street": "Königsallee",
+    "houseNumber": null,
+    "postcode": "95448",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

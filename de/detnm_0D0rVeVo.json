@@ -4,17 +4,6 @@
   "name": "Shell Recharge OBN 2710 - Penny Kardinal-Faulhaber-Strasse",
   "evses": [
     {
-      "id": "DETNMEGL49022710012",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGL49022710021",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DETNMEGL49022710011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49022710012",
       "connectors": [
         {
           "type": "ccs",

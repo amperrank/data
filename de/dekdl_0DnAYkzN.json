@@ -4,7 +4,7 @@
   "name": "Kaufland Ludwigsburg",
   "evses": [
     {
-      "id": "DEKDLE00000839",
+      "id": "DEKDLE00000837",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00000837",
+      "id": "DEKDLE00000839",
       "connectors": [
         {
           "type": "ccs",
@@ -37,6 +37,17 @@
       "paymentMethods": null
     },
     {
+      "id": "DEKDLE00000699",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEKDLE00000700",
       "connectors": [
         {
@@ -49,17 +60,6 @@
     },
     {
       "id": "DEKDLE00000701",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 60.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEKDLE00000699",
       "connectors": [
         {
           "type": "ccs",

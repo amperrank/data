@@ -4,22 +4,11 @@
   "name": "Kaufland Erftstadt",
   "evses": [
     {
-      "id": "DEKDLE00000561",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 43.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEKDLE00000562",
+      "id": "DEKDLE00001612",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 50.0
+          "maxPowerKw": 60.0
         }
       ],
       "authMethods": null,
@@ -37,11 +26,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00001612",
+      "id": "DEKDLE00000562",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 60.0
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEKDLE00000561",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 43.0
         }
       ],
       "authMethods": null,

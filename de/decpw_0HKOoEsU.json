@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*CPW",
+  "geohash": "0HKOoEsU",
+  "name": "CutPower CutPower Wilhelmshaven (HPC)",
+  "evses": [
+    {
+      "id": "DECPWE10000443663",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPWE10000443661",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPWE10000443662",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Wilhelmshaven",
+    "street": "Ernst-Barlach-Straße",
+    "houseNumber": "2",
+    "postcode": "26389",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

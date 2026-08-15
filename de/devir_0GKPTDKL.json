@@ -4,22 +4,22 @@
   "name": "Auto Center Muehlenbruch",
   "evses": [
     {
-      "id": "DEVIRE77823",
+      "id": "DEVIRE77822",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 7.36
+          "type": "ccs",
+          "maxPowerKw": 90.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEVIRE77822",
+      "id": "DEVIRE77823",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 90.0
+          "type": "type2",
+          "maxPowerKw": 7.36
         }
       ],
       "authMethods": null,

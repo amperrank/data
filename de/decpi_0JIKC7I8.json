@@ -4,7 +4,18 @@
   "name": "RUPERTIHOF STATION 2",
   "evses": [
     {
-      "id": "DECPIE66268751",
+      "id": "DECPIE66268652",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE66268651",
       "connectors": [
         {
           "type": "type2",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE66268652",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE66268651",
+      "id": "DECPIE66268751",
       "connectors": [
         {
           "type": "type2",

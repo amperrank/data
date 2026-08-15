@@ -1,0 +1,66 @@
+[
+  {
+    "operatorId": {
+      "countryCode": "DE",
+      "cpo": "BSW"
+    },
+    "currency": "EUR",
+    "validFrom": "2025-07-01T00:00:00.000",
+    "validTo": null,
+    "updatedAt": "2026-08-15T00:00:00.000",
+    "description": "Berliner Stadtwerke ad-hoc tariff. AC 0.55 EUR/kWh, DC 0.65 EUR/kWh (brutto), no base fee. Blocking fee 0.02 EUR/min from minute 240 (AC) / minute 120 (DC). Prices incl. VAT. Valid from 01.07.2025.",
+    "tiers": [
+      {
+        "id": "standard",
+        "name": "Ad-hoc (AC & DC)",
+        "role": "standard",
+        "subscriptionFee": null,
+        "requiresMembership": false,
+        "applicableHours": null,
+        "description": null,
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 0.55,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": 49,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 0.65,
+            "unit": "kWh",
+            "minPowerKw": 50,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.02,
+            "unit": "min",
+            "minPowerKw": null,
+            "maxPowerKw": 49,
+            "gracePeriodMinutes": 240,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.02,
+            "unit": "min",
+            "minPowerKw": 50,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": 120,
+            "condition": null,
+            "applicableHours": null
+          }
+        ]
+      }
+    ]
+  }
+]

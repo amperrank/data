@@ -4,17 +4,6 @@
   "name": "Fastned Vareler Wald",
   "evses": [
     {
-      "id": "DEFASE4932104",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEFASE4932102",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DEFASE4932101",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEFASE4932104",
       "connectors": [
         {
           "type": "ccs",

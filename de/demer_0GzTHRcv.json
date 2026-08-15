@@ -4,7 +4,7 @@
   "name": "Mer Germany GmbH Autohaus Anders GmbH - Nienburg - Nienburger Damm 8 #1",
   "evses": [
     {
-      "id": "DEMERE00042001",
+      "id": "DEMERE00042002",
       "connectors": [
         {
           "type": "type2",
@@ -15,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMERE00041403",
+      "id": "DEMERE00042001",
       "connectors": [
         {
           "type": "type2",
@@ -37,22 +37,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMERE00042002",
+      "id": "DEMERE00041401",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 135.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEMERE00041401",
+      "id": "DEMERE00041403",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 135.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

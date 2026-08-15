@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*BEC",
+  "geohash": "0JBApzCJ",
+  "name": "Charge Green OnSite GmbH, Hauptplatz 7, 82223 Eichenau, P1+P2",
+  "evses": [
+    {
+      "id": "DEGUCEBEC0124",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGUCEBEC0123",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Eichenau",
+    "street": "Hauptplatz",
+    "houseNumber": null,
+    "postcode": "82223",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

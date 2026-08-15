@@ -4,17 +4,6 @@
   "name": "W - Service- & Vertriebsgesellschaft",
   "evses": [
     {
-      "id": "DEGFXE284820181",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 11.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEGFXE284820191",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DEGFXE284820111",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGFXE284820131",
       "connectors": [
         {
           "type": "type2",
@@ -59,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEGFXE284820131",
+      "id": "DEGFXE284820181",
       "connectors": [
         {
           "type": "type2",

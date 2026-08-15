@@ -1,19 +1,8 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0G3GnxFI",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0872",
   "evses": [
-    {
-      "id": "DE2GOEMCD06801A1",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DE2GOEMCD06802A3",
       "connectors": [
@@ -59,7 +48,29 @@
       "paymentMethods": null
     },
     {
+      "id": "DE2GOEMCD06804A8",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DE2GOEMCD06804A7",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD06801A1",
       "connectors": [
         {
           "type": "ccs",
@@ -79,26 +90,15 @@
       ],
       "authMethods": null,
       "paymentMethods": null
-    },
-    {
-      "id": "DE2GOEMCD06804A8",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Gyhum",
-    "street": "An der Autobahn 3",
+    "street": "An der Autobahn",
     "houseNumber": null,
     "postcode": "27404",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

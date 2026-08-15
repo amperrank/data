@@ -4,6 +4,17 @@
   "name": "Shell Recharge OBN 0699 - Shell Kanalstrasse",
   "evses": [
     {
+      "id": "DETNMEGL49010699012",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 360.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DETNMEGL49010699011",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DETNMEGL49010699021",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 360.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49010699012",
       "connectors": [
         {
           "type": "ccs",

@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*GRL",
+  "geohash": "0MjYhKLV",
+  "name": "Parkplatz Nikolaiturm",
+  "evses": [
+    {
+      "id": "DEGRLE703803",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGRLE703802",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGRLE703801",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Görlitz",
+    "street": "Nikolaigraben",
+    "houseNumber": null,
+    "postcode": "02826",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

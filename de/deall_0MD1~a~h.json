@@ -4,17 +4,6 @@
   "name": "Allego - REWE Leipzig Zentrum-Südost",
   "evses": [
     {
-      "id": "DEALLEGO0036562",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEALLEGO0036552",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DEALLEGO0036551",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEALLEGO0036562",
       "connectors": [
         {
           "type": "ccs",

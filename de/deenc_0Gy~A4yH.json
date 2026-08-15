@@ -4,17 +4,6 @@
   "name": "enercity AG enercity - Fiedelerstr./Hildesheimer Str. - 002",
   "evses": [
     {
-      "id": "DEENCELA000117002B",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEENCELA000117001A",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DEENCELA000117002A",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEENCELA000117002B",
       "connectors": [
         {
           "type": "type2",

@@ -4,17 +4,6 @@
   "name": "DE_Motor-Nuetzel_27457_95502_Skoda_LP01_öffentlich",
   "evses": [
     {
-      "id": "DEPOWE01791",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEPOWE01789",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPOWE01792",
+      "id": "DEPOWE01791",
       "connectors": [
         {
           "type": "type2",
@@ -38,6 +27,17 @@
     },
     {
       "id": "DEPOWE01790",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE01792",
       "connectors": [
         {
           "type": "type2",

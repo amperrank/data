@@ -4,6 +4,17 @@
   "name": "Hermann Braig Entsorgungsfachbetrieb",
   "evses": [
     {
+      "id": "DEVIRE255422",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEVIRE255424",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DEVIRE255423",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEVIRE255422",
       "connectors": [
         {
           "type": "ccs",

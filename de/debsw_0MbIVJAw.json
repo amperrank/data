@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*BSW",
+  "geohash": "0MbIVJAw",
+  "name": "Berliner Stadtwerke Semmelweißstr. 18 AC",
+  "evses": [
+    {
+      "id": "DEBSWE603007007",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBSWE603006006",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Berlin",
+    "street": "Semmelweißstr.",
+    "houseNumber": "18",
+    "postcode": "12524",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

@@ -4,17 +4,6 @@
   "name": "Eviny Germany Bad Saulgau",
   "evses": [
     {
-      "id": "DEEVYEBSA3A",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 200.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEEVYEBSA1A",
       "connectors": [
         {
@@ -26,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEVYEBSA2B",
+      "id": "DEEVYEBSA3A",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEVYEBSA2A",
       "connectors": [
         {
           "type": "ccs",
@@ -48,7 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEVYEBSA3B",
+      "id": "DEEVYEBSA2B",
       "connectors": [
         {
           "type": "ccs",
@@ -59,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEVYEBSA2A",
+      "id": "DEEVYEBSA3B",
       "connectors": [
         {
           "type": "ccs",

@@ -4,18 +4,7 @@
   "name": "Eni Station - GEWERBEGEB. LANGWEID A.D. B301",
   "evses": [
     {
-      "id": "DEPLNEH0014992",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 51.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEPLNEH0014793",
+      "id": "DEPLNEH0014993",
       "connectors": [
         {
           "type": "ccs",
@@ -37,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPLNEH0014991",
+      "id": "DEPLNEH0014992",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 300.0
+          "type": "chademo",
+          "maxPowerKw": 51.0
         }
       ],
       "authMethods": null,
@@ -59,7 +48,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPLNEH0014993",
+      "id": "DEPLNEH0014793",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPLNEH0014991",
       "connectors": [
         {
           "type": "ccs",

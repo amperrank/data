@@ -4,37 +4,22 @@
   "name": "Fastned Eching",
   "evses": [
     {
-      "id": "DEFASE4907203",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEFASE4907205",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 50.0
-        },
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEFASE4907208",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEFASE4907201",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
@@ -56,6 +41,17 @@
       "paymentMethods": null
     },
     {
+      "id": "DEFASE4907209",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEFASE4907202",
       "connectors": [
         {
@@ -71,7 +67,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFASE4907201",
+      "id": "DEFASE4907203",
       "connectors": [
         {
           "type": "ccs",
@@ -82,7 +78,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFASE4907210",
+      "id": "DEFASE4907206",
       "connectors": [
         {
           "type": "ccs",
@@ -104,7 +100,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFASE4907206",
+      "id": "DEFASE4907210",
       "connectors": [
         {
           "type": "ccs",
@@ -115,8 +111,12 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFASE4907209",
+      "id": "DEFASE4907205",
       "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        },
         {
           "type": "ccs",
           "maxPowerKw": 400.0

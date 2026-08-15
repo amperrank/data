@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*LVP",
+  "geohash": "0DtciUKD",
+  "name": "Crailsheim - Gartenstraße 25",
+  "evses": [
+    {
+      "id": "DELVPE22547001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELVPE22547002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELVPE22343001",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Crailsheim",
+    "street": "Gartenstraße",
+    "houseNumber": "25",
+    "postcode": "74564",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

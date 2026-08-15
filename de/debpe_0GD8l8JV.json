@@ -4,17 +4,6 @@
   "name": "Aral pulse Bergische Landstraße 605",
   "evses": [
     {
-      "id": "DEBPEE0FA310101",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEBPEE0FA310307",
       "connectors": [
         {
@@ -37,7 +26,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FA310102",
+      "id": "DEBPEE0FA310305",
       "connectors": [
         {
           "type": "ccs",
@@ -48,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FA310305",
+      "id": "DEBPEE0FA310102",
       "connectors": [
         {
           "type": "ccs",
@@ -64,6 +53,17 @@
         {
           "type": "chademo",
           "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0FA310101",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,

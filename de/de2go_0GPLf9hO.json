@@ -1,19 +1,8 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0GPLf9hO",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD1051",
   "evses": [
-    {
-      "id": "DE2GOEMCD04941B3",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DE2GOEMCD04941B4",
       "connectors": [
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEMCD04941A1",
+      "id": "DE2GOEMCD04941B3",
       "connectors": [
         {
           "type": "ccs",
@@ -46,15 +35,26 @@
       ],
       "authMethods": null,
       "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD04941A1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Beckum",
-    "street": "Neubeckumer Straße 55",
+    "street": "Neubeckumer Straße",
     "houseNumber": null,
     "postcode": "59269",
-    "province": "Nordrhein-Westfalen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

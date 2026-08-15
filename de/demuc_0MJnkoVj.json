@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*MUC",
+  "geohash": "0MJnkoVj",
+  "name": "Autohaus Krumbiegel",
+  "evses": [
+    {
+      "id": "DEMUCEAH110057",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMUCEAH110058",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Döbeln",
+    "street": "Daniel-Wilhelm-Beck-Straße",
+    "houseNumber": "1",
+    "postcode": "04720",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

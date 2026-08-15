@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*BSW",
+  "geohash": "0MZsXwjL",
+  "name": "Berliner Stadtwerke Alt-Pichelsdorf 1A HPC",
+  "evses": [
+    {
+      "id": "DEBSWE604911911",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBSWE604912912",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Berlin",
+    "street": "Alt-Pichelsdorf",
+    "houseNumber": "1A",
+    "postcode": "13595",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

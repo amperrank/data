@@ -4,17 +4,6 @@
   "name": "Shell Recharge OBN 7734 - Shell Augsburger Strasse",
   "evses": [
     {
-      "id": "DETNMEGL49017734021",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGL49017734022",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DETNMEGL49017734011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49017734021",
       "connectors": [
         {
           "type": "ccs",

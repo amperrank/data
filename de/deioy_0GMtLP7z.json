@@ -4,17 +4,6 @@
   "name": "IONITY GmbH IONITY Lichtendorf Süd",
   "evses": [
     {
-      "id": "DEIOYE207002",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEIOYE207005",
       "connectors": [
         {
@@ -26,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE207006",
+      "id": "DEIOYE207002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE207003",
       "connectors": [
         {
           "type": "ccs",
@@ -48,7 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE207004",
+      "id": "DEIOYE207006",
       "connectors": [
         {
           "type": "ccs",
@@ -59,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE207003",
+      "id": "DEIOYE207004",
       "connectors": [
         {
           "type": "ccs",

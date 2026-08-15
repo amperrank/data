@@ -4,17 +4,6 @@
   "name": "Station 2, Obere Marktstraße, Kösching",
   "evses": [
     {
-      "id": "ATHTBE1017604",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "ATHTBE1017601",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "ATHTBE1017602",
+      "id": "ATHTBE1017604",
       "connectors": [
         {
           "type": "type2",
@@ -38,6 +27,17 @@
     },
     {
       "id": "ATHTBE1017603",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "ATHTBE1017602",
       "connectors": [
         {
           "type": "type2",

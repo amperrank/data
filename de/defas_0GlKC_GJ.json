@@ -4,6 +4,21 @@
   "name": "Fastned Paderborn-Mönkeloh",
   "evses": [
     {
+      "id": "DEFASE4902304",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        },
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEFASE4902301",
       "connectors": [
         {
@@ -35,21 +50,6 @@
         {
           "type": "ccs",
           "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEFASE4902304",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        },
-        {
-          "type": "chademo",
-          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

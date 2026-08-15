@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*MRG",
+  "geohash": "0NEu5SNp",
+  "name": "Frankfurt Eintracht Frankfurt Riederwald GCG000803",
+  "evses": [
+    {
+      "id": "DEMRGE0008301",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMRGE0008302",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Frankfurt am Main",
+    "street": "Alfred-Pfaff-Straße",
+    "houseNumber": null,
+    "postcode": "60386",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

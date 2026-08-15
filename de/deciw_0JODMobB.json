@@ -4,17 +4,6 @@
   "name": "Niedermaier - Innstadt/Passau #01",
   "evses": [
     {
-      "id": "DECIWE001395",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DECIWE001392",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DECIWE001394",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECIWE001395",
       "connectors": [
         {
           "type": "type2",

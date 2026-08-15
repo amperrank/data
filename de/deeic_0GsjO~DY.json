@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*EIC",
+  "geohash": "0GsjO~DY",
+  "name": "EIC000052-Leinefelde VR-Bank",
+  "evses": [
+    {
+      "id": "DEGUCEEIC0128",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGUCEEIC0127",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Leinefelde-Worbis",
+    "street": "Bahnhofstr.",
+    "houseNumber": null,
+    "postcode": "37327",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

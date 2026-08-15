@@ -4,7 +4,7 @@
   "name": "Allego - ATU Weimar",
   "evses": [
     {
-      "id": "DEALLEGO0034832",
+      "id": "DEALLEGO0035712",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0035711",
+      "id": "DEALLEGO0035002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEALLEGO0034832",
       "connectors": [
         {
           "type": "ccs",
@@ -37,17 +48,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0035712",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEALLEGO0035001",
       "connectors": [
         {
@@ -59,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0035002",
+      "id": "DEALLEGO0035711",
       "connectors": [
         {
           "type": "ccs",

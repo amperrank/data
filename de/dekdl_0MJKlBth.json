@@ -4,22 +4,22 @@
   "name": "Kaufland Mittweida",
   "evses": [
     {
-      "id": "DEKDLE00000422",
+      "id": "DEKDLE00000423",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "chademo",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00000423",
+      "id": "DEKDLE00000422",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

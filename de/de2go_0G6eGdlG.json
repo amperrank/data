@@ -1,10 +1,21 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0G6eGdlG",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0451",
   "evses": [
     {
       "id": "DE2GOEMCD11391A2",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "914A3E022A3EE410E84111C88541CF06",
       "connectors": [
         {
           "type": "ccs",
@@ -28,11 +39,11 @@
   ],
   "facilities": null,
   "address": {
-    "city": "Königslutter am Elm",
-    "street": "Am Mühlenhop 2",
+    "city": "Königslutter am  Elm",
+    "street": "Am Mühlenhop",
     "houseNumber": null,
     "postcode": "38154",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

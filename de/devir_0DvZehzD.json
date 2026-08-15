@@ -4,11 +4,11 @@
   "name": "Auto Halbig",
   "evses": [
     {
-      "id": "DEVIRE210013",
+      "id": "DEVIRE210014",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 160.0
+          "type": "type2",
+          "maxPowerKw": 7.36
         }
       ],
       "authMethods": null,
@@ -26,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEVIRE210014",
+      "id": "DEVIRE210013",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 7.36
+          "type": "ccs",
+          "maxPowerKw": 160.0
         }
       ],
       "authMethods": null,

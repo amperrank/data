@@ -4,28 +4,6 @@
   "name": "Aral pulse Alleestraße 18",
   "evses": [
     {
-      "id": "DEBPEE0FK780307",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0FK780411",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 100.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEBPEE0FK780308",
       "connectors": [
         {
@@ -37,11 +15,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FK780412",
+      "id": "DEBPEE0FK780411",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 300.0
+          "type": "chademo",
+          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,
@@ -70,7 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FK780101",
+      "id": "DEBPEE0FK780412",
       "connectors": [
         {
           "type": "ccs",
@@ -81,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FK780204",
+      "id": "DEBPEE0FK780307",
       "connectors": [
         {
           "type": "ccs",
@@ -103,7 +81,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FK780103",
+      "id": "DEBPEE0FK780204",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0FK780101",
       "connectors": [
         {
           "type": "ccs",
@@ -115,6 +104,17 @@
     },
     {
       "id": "DEBPEE0FK780206",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0FK780103",
       "connectors": [
         {
           "type": "ccs",

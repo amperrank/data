@@ -4,6 +4,17 @@
   "name": "AWO Regionalverband Mitte-West-Thüringen e.V. 01",
   "evses": [
     {
+      "id": "DECIWE000809",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DECIWE000812",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DECIWE000811",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECIWE000809",
       "connectors": [
         {
           "type": "type2",

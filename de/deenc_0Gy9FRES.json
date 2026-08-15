@@ -4,7 +4,18 @@
   "name": "enercity AG enercity - Salzweg 30 - 001",
   "evses": [
     {
-      "id": "DEENCELA000807001A",
+      "id": "DEENCELA000807002A",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEENCELA000807002B",
       "connectors": [
         {
           "type": "type2",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEENCELA000807002A",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEENCELA000807002B",
+      "id": "DEENCELA000807001A",
       "connectors": [
         {
           "type": "type2",

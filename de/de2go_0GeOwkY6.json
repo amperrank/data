@@ -1,25 +1,47 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0GeOwkY6",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE1001022",
   "evses": [
     {
-      "id": "DE2GOEEWE76451A1",
+      "id": "DE2GOEEWE76451B3",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 49.95
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEEWE76451C5",
+      "id": "DE2GOEEWE76451B4",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 200.0
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEEWE76451A2",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEEWE76451A1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -37,33 +59,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEEWE76451A2",
+      "id": "DE2GOEEWE76451C5",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 49.95
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE2GOEEWE76451B3",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 49.95
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE2GOEEWE76451B4",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 49.95
+          "maxPowerKw": 200.0
         }
       ],
       "authMethods": null,
@@ -73,10 +73,10 @@
   "facilities": null,
   "address": {
     "city": "Cloppenburg",
-    "street": "Pingel-Anton-Platz 7",
+    "street": "Pingel-Anton-Platz",
     "houseNumber": null,
     "postcode": "49661",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

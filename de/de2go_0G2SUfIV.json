@@ -1,10 +1,21 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0G2SUfIV",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0566",
   "evses": [
     {
       "id": "DE2GOEMCD05431A2",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "C6C0DEF2F8D0B71E60CDA9E218BBFEA1",
       "connectors": [
         {
           "type": "ccs",
@@ -28,11 +39,11 @@
   ],
   "facilities": null,
   "address": {
-    "city": "Verden (Aller)",
-    "street": "Hamburger Straße 55",
+    "city": "Verden",
+    "street": "Hamburger Straße",
     "houseNumber": null,
     "postcode": "27283",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

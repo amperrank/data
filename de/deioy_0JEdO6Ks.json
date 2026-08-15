@@ -4,7 +4,18 @@
   "name": "IONITY GmbH IONITY Köschinger Forst West",
   "evses": [
     {
-      "id": "DEIOYE100404",
+      "id": "DEIOYE100402",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE100405",
       "connectors": [
         {
           "type": "ccs",
@@ -48,18 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE100405",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE100402",
+      "id": "DEIOYE100404",
       "connectors": [
         {
           "type": "ccs",

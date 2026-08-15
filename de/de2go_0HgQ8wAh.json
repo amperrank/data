@@ -1,21 +1,10 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0HgQ8wAh",
-  "name": "EWE Go Ladestation",
+  "name": "EWE_4403",
   "evses": [
     {
       "id": "DE2GOEEWE44031A1",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE2GOEEWE44031A3",
       "connectors": [
         {
           "type": "type2",
@@ -46,15 +35,26 @@
       ],
       "authMethods": null,
       "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEEWE44031A3",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
-    "city": "Wurster Nordseeküste",
-    "street": "In der Langen Straße 2",
+    "city": "Wremen",
+    "street": "In der Langen Straße",
     "houseNumber": null,
     "postcode": "27639",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

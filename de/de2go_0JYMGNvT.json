@@ -1,32 +1,10 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0JYMGNvT",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0629",
   "evses": [
     {
-      "id": "DE2GOEMCD18571B4",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DE2GOEMCD18571A1",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE2GOEMCD18571B3",
       "connectors": [
         {
           "type": "ccs",
@@ -46,15 +24,48 @@
       ],
       "authMethods": null,
       "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD18571B4",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "AAC19E8CA75B4EBE5F2477BBBDF22B82",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD18571B3",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Furth im Wald",
-    "street": "Böhmerstraße 16",
+    "street": "Böhmerstraße",
     "houseNumber": null,
     "postcode": "93437",
-    "province": "Bayern"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

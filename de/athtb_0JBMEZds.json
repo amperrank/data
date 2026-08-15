@@ -4,17 +4,6 @@
   "name": "DAH_PP_Waldfriedhof_LS02",
   "evses": [
     {
-      "id": "ATHTBE1021869",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "ATHTBE1021887",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "ATHTBE1006812",
+      "id": "ATHTBE1021869",
       "connectors": [
         {
           "type": "type2",
@@ -38,6 +27,17 @@
     },
     {
       "id": "ATHTBE1006811",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "ATHTBE1006812",
       "connectors": [
         {
           "type": "type2",

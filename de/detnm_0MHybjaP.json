@@ -4,17 +4,6 @@
   "name": "Shell Recharge OBN 6863 - Shell Rosslauer Strasse",
   "evses": [
     {
-      "id": "DETNMEGL49016863021",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 360.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGL49016863012",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49016863011",
+      "id": "DETNMEGL49016863021",
       "connectors": [
         {
           "type": "ccs",
@@ -38,6 +27,17 @@
     },
     {
       "id": "DETNMEGL49016863022",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 360.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49016863011",
       "connectors": [
         {
           "type": "ccs",

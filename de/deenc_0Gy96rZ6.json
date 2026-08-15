@@ -4,6 +4,28 @@
   "name": "enercity AG enercity - Stephansplatz - A03",
   "evses": [
     {
+      "id": "DEENCELA000980A02A",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEENCELA000980A03A",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEENCELA000980A01B",
       "connectors": [
         {
@@ -26,28 +48,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DEENCELA000980A03B",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 200.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEENCELA000980A02A",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 200.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEENCELA000980A02B",
       "connectors": [
         {
@@ -59,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEENCELA000980A03A",
+      "id": "DEENCELA000980A03B",
       "connectors": [
         {
           "type": "ccs",

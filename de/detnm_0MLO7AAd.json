@@ -4,18 +4,7 @@
   "name": "Shell Recharge OBN 3272 - Rewe Meissner Strasse 5",
   "evses": [
     {
-      "id": "DETNMEGL49023272022",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49023272012",
+      "id": "DETNMEGL49023272011",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49023272011",
+      "id": "DETNMEGL49023272012",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49023272022",
       "connectors": [
         {
           "type": "ccs",

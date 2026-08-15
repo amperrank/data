@@ -1,0 +1,179 @@
+[
+  {
+    "operatorId": {
+      "countryCode": "DE",
+      "cpo": "BPE"
+    },
+    "currency": "EUR",
+    "validFrom": null,
+    "validTo": null,
+    "updatedAt": "2026-08-15T00:00:00.000",
+    "description": null,
+    "tiers": [
+      {
+        "id": "ladestaeule",
+        "name": "Ladesäulentarif",
+        "role": "standard",
+        "subscriptionFee": null,
+        "requiresMembership": false,
+        "applicableHours": null,
+        "description": null,
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 0.59,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 0.69,
+            "unit": "kWh",
+            "minPowerKw": 22.01,
+            "maxPowerKw": 50,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 0.79,
+            "unit": "kWh",
+            "minPowerKw": 50.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          }
+        ]
+      },
+      {
+        "id": "klassik",
+        "name": "Klassik-Tarif",
+        "role": "secondary",
+        "subscriptionFee": null,
+        "requiresMembership": true,
+        "applicableHours": null,
+        "description": null,
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 0.47,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 0.52,
+            "unit": "kWh",
+            "minPowerKw": 22.01,
+            "maxPowerKw": 50,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 0.62,
+            "unit": "kWh",
+            "minPowerKw": 50.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          }
+        ]
+      },
+      {
+        "id": "extra",
+        "name": "Extra-Tarif",
+        "role": "secondary",
+        "subscriptionFee": 2.99,
+        "requiresMembership": true,
+        "applicableHours": null,
+        "description": null,
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 0.41,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 0.46,
+            "unit": "kWh",
+            "minPowerKw": 22.01,
+            "maxPowerKw": 50,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 0.54,
+            "unit": "kWh",
+            "minPowerKw": 50.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          }
+        ]
+      },
+      {
+        "id": "adac",
+        "name": "ADAC e-Charge Tarif",
+        "role": "secondary",
+        "subscriptionFee": null,
+        "requiresMembership": true,
+        "applicableHours": null,
+        "description": null,
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 0.55,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 0.55,
+            "unit": "kWh",
+            "minPowerKw": 22.01,
+            "maxPowerKw": 50,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 0.55,
+            "unit": "kWh",
+            "minPowerKw": 50.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          }
+        ]
+      }
+    ]
+  }
+]

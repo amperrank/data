@@ -1,10 +1,21 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0G0dDbK1",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE0748",
   "evses": [
     {
       "id": "DE2GOE07481",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "1BE45E6817C43449711C629E759726A9",
       "connectors": [
         {
           "type": "type2",
@@ -29,10 +40,10 @@
   "facilities": null,
   "address": {
     "city": "Delmenhorst",
-    "street": "Am Knick 1",
+    "street": "Am Knick",
     "houseNumber": null,
     "postcode": "27749",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

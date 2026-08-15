@@ -4,7 +4,7 @@
   "name": "Aral pulse Meiendorfer Mühlenweg 6A",
   "evses": [
     {
-      "id": "DEBPEE0FG970205",
+      "id": "DEBPEE0FG970102",
       "connectors": [
         {
           "type": "chademo",
@@ -15,29 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FG970204",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEBPEE0FG970101",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0FG970206",
       "connectors": [
         {
           "type": "ccs",
@@ -59,11 +37,33 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FG970102",
+      "id": "DEBPEE0FG970204",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0FG970205",
       "connectors": [
         {
           "type": "chademo",
           "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0FG970206",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,

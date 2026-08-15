@@ -1,21 +1,10 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0G0c3l7h",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE1000736",
   "evses": [
     {
-      "id": "DE2GOEEWE74181A2",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE2GOEEWE74181B3",
+      "id": "DE2GOEEWE74181C5",
       "connectors": [
         {
           "type": "ccs",
@@ -48,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEEWE74181C5",
+      "id": "DE2GOEEWE74181A2",
       "connectors": [
         {
           "type": "ccs",
@@ -68,15 +57,26 @@
       ],
       "authMethods": null,
       "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEEWE74181B3",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Delmenhorst",
-    "street": "Reinersweg 20",
+    "street": "Reinersweg",
     "houseNumber": null,
     "postcode": "27751",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

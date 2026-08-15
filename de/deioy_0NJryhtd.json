@@ -4,17 +4,6 @@
   "name": "IONITY GmbH IONITY Demminer Land",
   "evses": [
     {
-      "id": "DEIOYE207902",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEIOYE207901",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DEIOYE207903",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE207902",
       "connectors": [
         {
           "type": "ccs",

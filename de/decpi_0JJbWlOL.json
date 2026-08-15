@@ -1,21 +1,10 @@
 {
   "operatorId": "DE*CPI",
   "geohash": "0JJbWlOL",
-  "name": "SCHREINER&WOL HYPERCHARGER",
+  "name": "PFARRKIRCHEN PFARRKIRCHEN3",
   "evses": [
     {
-      "id": "DECPIE65405351",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 75.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE28655952",
+      "id": "DECPIE65311051",
       "connectors": [
         {
           "type": "type2",
@@ -26,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE65311051",
+      "id": "DECPIE65311052",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE28655952",
       "connectors": [
         {
           "type": "type2",
@@ -48,11 +48,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE65311052",
+      "id": "DECPIE65405351",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 75.0
         }
       ],
       "authMethods": null,

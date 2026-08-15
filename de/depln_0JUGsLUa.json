@@ -4,11 +4,22 @@
   "name": "Eni Station - INDUSTRIESTR. 8",
   "evses": [
     {
-      "id": "DEPLNEH0016343",
+      "id": "DEPLNEH0021951",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 300.0
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPLNEH0021952",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 51.0
         }
       ],
       "authMethods": null,
@@ -26,11 +37,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPLNEH0021951",
+      "id": "DEPLNEH0016343",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 400.0
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
@@ -48,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPLNEH0016432",
+      "id": "DEPLNEH0016342",
       "connectors": [
         {
           "type": "chademo",
@@ -59,7 +70,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPLNEH0016342",
+      "id": "DEPLNEH0016432",
       "connectors": [
         {
           "type": "chademo",
@@ -86,17 +97,6 @@
         {
           "type": "ccs",
           "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEPLNEH0021952",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 51.0
         }
       ],
       "authMethods": null,

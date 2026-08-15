@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*SWZ",
+  "geohash": "0MiULs5t",
+  "name": "Rathaus Zittau",
+  "evses": [
+    {
+      "id": "DESWZE704301",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "D9970E6422CC45C830C8B972AD5ADA62",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DESWZE704302",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Zittau",
+    "street": "Rathausplatz",
+    "houseNumber": null,
+    "postcode": "02763",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

@@ -4,17 +4,6 @@
   "name": "DC_Burkhardt GmbH_Werk 1_001_public",
   "evses": [
     {
-      "id": "DEBEMEE0010919",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEBEME0010918",
       "connectors": [
         {
@@ -26,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBEME0010371",
+      "id": "DEBEMEE0010919",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBEME0010370",
       "connectors": [
         {
           "type": "type2",
@@ -37,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBEME0010370",
+      "id": "DEBEME0010371",
       "connectors": [
         {
           "type": "type2",

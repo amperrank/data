@@ -4,7 +4,29 @@
   "name": "Mer Germany GmbH Mer Germany GmbH - Passau - Innstraße 76 #1",
   "evses": [
     {
-      "id": "DEMERE01788902",
+      "id": "DEMERE01789002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00051602",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE01789001",
       "connectors": [
         {
           "type": "ccs",
@@ -37,33 +59,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMERE01789001",
+      "id": "DEMERE01788902",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE01789002",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE00051602",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

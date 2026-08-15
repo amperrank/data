@@ -1,8 +1,19 @@
 {
   "operatorId": "DE*BDO",
   "geohash": "0JBzkeJp",
-  "name": "866191039680004",
+  "name": "866191039653704",
   "evses": [
+    {
+      "id": "DEBDOE7224263651",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DEBDOE2915364571",
       "connectors": [
@@ -27,17 +38,6 @@
     },
     {
       "id": "DEBDOE3673877061",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBDOE7224263651",
       "connectors": [
         {
           "type": "type2",

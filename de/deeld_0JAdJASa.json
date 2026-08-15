@@ -4,6 +4,17 @@
   "name": "Electra München - La Selva",
   "evses": [
     {
+      "id": "DEELDEKXF2",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEELDE5X3C",
       "connectors": [
         {
@@ -26,17 +37,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DEELDEWXAN",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEELDELPGW",
       "connectors": [
         {
@@ -48,7 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEELDEKXF2",
+      "id": "DEELDEWXAN",
       "connectors": [
         {
           "type": "ccs",

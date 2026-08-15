@@ -4,7 +4,7 @@
   "name": "CITYWATT Hofheim #05 - 300kW",
   "evses": [
     {
-      "id": "DECIWE000908",
+      "id": "DECIWE000907",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECIWE000907",
+      "id": "DECIWE000908",
       "connectors": [
         {
           "type": "ccs",
@@ -59,29 +59,18 @@
       "paymentMethods": null
     },
     {
+      "id": "DECIWE000901",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DECIWE000904",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECIWE000902",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECIWE000905",
       "connectors": [
         {
           "type": "ccs",
@@ -103,7 +92,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DECIWE000901",
+      "id": "DECIWE000905",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECIWE000902",
       "connectors": [
         {
           "type": "ccs",

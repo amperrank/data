@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*MRG",
+  "geohash": "0GM5RZO9",
+  "name": "Dortmund Färberstraße 23 GCG0060",
+  "evses": [
+    {
+      "id": "DEMRGE006002",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMRGE006001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Dortmund",
+    "street": "Färberstraße",
+    "houseNumber": null,
+    "postcode": "44329",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

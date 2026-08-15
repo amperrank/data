@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*384",
+  "geohash": "0MhoC93O",
+  "name": "EDEKA Ladestation",
+  "evses": [
+    {
+      "id": "DE384E156989CS00011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE384E156989CS00012",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Ebersbach-Neugersdorf",
+    "street": "Bleichenstr.",
+    "houseNumber": null,
+    "postcode": "02727",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

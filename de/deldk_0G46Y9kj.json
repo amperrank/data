@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*LDK",
+  "geohash": "0G46Y9kj",
+  "name": "BS|ENERGY Helene-Künne-Allee",
+  "evses": [
+    {
+      "id": "DELDKE001031",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELDKE001032",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Braunschweig",
+    "street": "Helene-Künne-Allee",
+    "houseNumber": "14",
+    "postcode": "38122",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

@@ -4,6 +4,17 @@
   "name": "IONITY GmbH IONITY Wolfsburg Allerpark",
   "evses": [
     {
+      "id": "DEIOYE218204",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEIOYE218202",
       "connectors": [
         {
@@ -26,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE218204",
+      "id": "DEIOYE218205",
       "connectors": [
         {
           "type": "ccs",
@@ -38,17 +49,6 @@
     },
     {
       "id": "DEIOYE218201",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE218205",
       "connectors": [
         {
           "type": "ccs",

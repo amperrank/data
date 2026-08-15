@@ -4,17 +4,6 @@
   "name": "Lidl Zwickau",
   "evses": [
     {
-      "id": "DELDLE00009259",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 180.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DELDLE00009257",
       "connectors": [
         {
@@ -26,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DELDLE00009260",
+      "id": "DELDLE00009258",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELDLE00009259",
       "connectors": [
         {
           "type": "ccs",
@@ -37,11 +37,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DELDLE00009258",
+      "id": "DELDLE00009260",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 60.0
+          "maxPowerKw": 180.0
         }
       ],
       "authMethods": null,

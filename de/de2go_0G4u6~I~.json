@@ -1,14 +1,25 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0G4u6~I~",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE0253",
   "evses": [
     {
       "id": "DE2GOE02531",
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 7.36
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "5C666EE119C65F1905FB07514587453E",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -19,7 +30,7 @@
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 7.36
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -29,10 +40,10 @@
   "facilities": null,
   "address": {
     "city": "Wolfenbüttel",
-    "street": "Im Sommerfeld 1",
+    "street": "Im Sommerfeld",
     "houseNumber": null,
     "postcode": "38304",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*AUW",
+  "geohash": "0C9yy1ZW",
+  "name": "Anwander-Waldmann Sulzberg",
+  "evses": [
+    {
+      "id": "DEAUWE0042001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEAUWE0042002",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Sulzberg",
+    "street": "Trettachweg",
+    "houseNumber": "6",
+    "postcode": "87477",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

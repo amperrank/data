@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*PWA",
+  "geohash": "0Da2V4yP",
+  "name": "Pfalzwerke Ladestation (Golfplatz Dackenheim)",
+  "evses": [
+    {
+      "id": "DEPWAEEBG22545X0060002",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPWAEEBG22545X0060001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Dackenheim",
+    "street": "Kirchheimer Straße",
+    "houseNumber": null,
+    "postcode": "67281",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*MVV",
+  "geohash": "0DwZ1Bwl",
+  "name": "MaLIS_Schriesheim_Alexander-Mack-Straße",
+  "evses": [
+    {
+      "id": "DEMVVE00609L1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMVVE00609R1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Schriesheim",
+    "street": "Alexander-Mack-Straße",
+    "houseNumber": "1",
+    "postcode": "69198",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

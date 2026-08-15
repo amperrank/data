@@ -1,32 +1,10 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0Gn~Lium",
-  "name": "EWE Go Ladestation",
+  "name": "McD_0461_1B",
   "evses": [
     {
-      "id": "DE2GOEMCD04611A1",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DE2GOEMCD04611B4",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE2GOEMCD04611A2",
       "connectors": [
         {
           "type": "ccs",
@@ -46,15 +24,37 @@
       ],
       "authMethods": null,
       "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD04611A1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD04611A2",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
-    "city": "Alfeld (Leine)",
-    "street": "Borsigstraße 1",
+    "city": "Alfeld",
+    "street": "Borsigstraße",
     "houseNumber": null,
     "postcode": "31061",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

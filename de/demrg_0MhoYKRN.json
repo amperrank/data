@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*MRG",
+  "geohash": "0MhoYKRN",
+  "name": "Ebersbach OBI Baumarkt, GCG0045",
+  "evses": [
+    {
+      "id": "DEMRGE004502",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMRGE004501",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Ebersbach-Neugersdorf",
+    "street": "Johann-Andreas-Schubert-Straße",
+    "houseNumber": null,
+    "postcode": "02730",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

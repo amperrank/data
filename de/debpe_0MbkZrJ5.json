@@ -4,11 +4,11 @@
   "name": "Aral pulse Frankfurter Chaussee 68",
   "evses": [
     {
-      "id": "DEBPEE0FE300103",
+      "id": "DEBPEE0FE300205",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 300.0
+          "type": "chademo",
+          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,
@@ -26,7 +26,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FE300205",
+      "id": "DEBPEE0FE300102",
       "connectors": [
         {
           "type": "chademo",
@@ -48,11 +48,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FE300102",
+      "id": "DEBPEE0FE300103",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 100.0
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,

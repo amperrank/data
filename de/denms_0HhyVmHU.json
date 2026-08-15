@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*NMS",
+  "geohash": "0HhyVmHU",
+  "name": "HBW Verwaltungs GmbH_Am Hafen bei 4a",
+  "evses": [
+    {
+      "id": "DENMSE510098001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DENMSE510096001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 62.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DENMSE510096002",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 62.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Friedrichskoog",
+    "street": "Am Hafen",
+    "houseNumber": "4a",
+    "postcode": "25718",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

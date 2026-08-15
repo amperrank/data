@@ -4,7 +4,18 @@
   "name": "Shell Recharge OBN 2807 - Rewe Provinzialstrasse",
   "evses": [
     {
-      "id": "DETNMEGL49022807012",
+      "id": "DETNMEGL49022807021",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49022807022",
       "connectors": [
         {
           "type": "ccs",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49022807021",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49022807022",
+      "id": "DETNMEGL49022807012",
       "connectors": [
         {
           "type": "ccs",

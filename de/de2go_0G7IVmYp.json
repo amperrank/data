@@ -1,25 +1,36 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0G7IVmYp",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0786",
   "evses": [
     {
-      "id": "DE2GOEMCD05131A2",
+      "id": "DE2GOEMCD05131A1",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 400.0
+          "maxPowerKw": 350.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEMCD05131A1",
+      "id": "39C0DEEF01E2ED045DC0C13224C0F868",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 400.0
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD05131A2",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
         }
       ],
       "authMethods": null,
@@ -29,10 +40,10 @@
   "facilities": null,
   "address": {
     "city": "Wolfsburg",
-    "street": "Westerlinge 2",
+    "street": "Westerlinge",
     "houseNumber": null,
     "postcode": "38442",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

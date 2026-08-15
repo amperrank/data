@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*BSW",
+  "geohash": "0MZjwcLx",
+  "name": "Berliner Stadtwerke Sakrower Landstr. 3 DC",
+  "evses": [
+    {
+      "id": "DEBSWE604508508",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBSWE604507507",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Berlin",
+    "street": "Sakrower Landstr.",
+    "houseNumber": "3",
+    "postcode": "14089",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

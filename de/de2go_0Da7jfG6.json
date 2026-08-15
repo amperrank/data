@@ -1,32 +1,10 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0Da7jfG6",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE1000655",
   "evses": [
     {
-      "id": "DE2GOENUV00031C6",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 49.95
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DE2GOENUV00031A2",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE2GOENUV00031B3",
       "connectors": [
         {
           "type": "ccs",
@@ -48,6 +26,39 @@
       "paymentMethods": null
     },
     {
+      "id": "DE2GOENUV00031D7",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOENUV00031D8",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOENUV00031B3",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DE2GOENUV00031B4",
       "connectors": [
         {
@@ -59,11 +70,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOENUV00031D8",
+      "id": "DE2GOENUV00031C6",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 49.95
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -79,26 +90,15 @@
       ],
       "authMethods": null,
       "paymentMethods": null
-    },
-    {
-      "id": "DE2GOENUV00031D7",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Ludwigshafen am Rhein",
-    "street": "Von-Kieffer-Straße 14",
+    "street": "Von-Kieffer-Straße",
     "houseNumber": null,
     "postcode": "67065",
-    "province": "Rheinland-Pfalz"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

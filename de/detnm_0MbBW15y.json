@@ -4,17 +4,6 @@
   "name": "Shell Recharge OBN 0394 - Shell Manteuffelstrasse",
   "evses": [
     {
-      "id": "DETNMEGL49010394022",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 360.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGL49010394011",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DETNMEGL49010394012",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 360.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49010394022",
       "connectors": [
         {
           "type": "ccs",

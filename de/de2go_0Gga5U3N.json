@@ -1,10 +1,10 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0Gga5U3N",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0149",
   "evses": [
     {
-      "id": "DE2GOEMCD09671A2",
+      "id": "DE2GOEMCD09671A1",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEMCD09671A1",
+      "id": "43D43E6B693623D492B4619842E076A4",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD09671A2",
       "connectors": [
         {
           "type": "ccs",
@@ -29,10 +40,10 @@
   "facilities": null,
   "address": {
     "city": "Marburg",
-    "street": "Afföllerstraße 102",
+    "street": "Afföllerstraße",
     "houseNumber": null,
     "postcode": "35039",
-    "province": "Hessen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

@@ -4,18 +4,7 @@
   "name": "JOLT STN00030",
   "evses": [
     {
-      "id": "DEJEGESTN000312",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEJEGESTN000302",
+      "id": "DEJEGESTN000301",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEJEGESTN000301",
+      "id": "DEJEGESTN000302",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEJEGESTN000312",
       "connectors": [
         {
           "type": "ccs",

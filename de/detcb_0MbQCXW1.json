@@ -4,17 +4,6 @@
   "name": "Berliner Modell | Berlin | Mickestrasse 22",
   "evses": [
     {
-      "id": "DETCBE3D9CS300510022",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETCBE3D9CS300510011",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DETCBE3D9CS300510021",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETCBE3D9CS300510022",
       "connectors": [
         {
           "type": "type2",

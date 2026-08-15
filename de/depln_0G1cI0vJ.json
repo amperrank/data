@@ -4,17 +4,6 @@
   "name": "Burgalle 3 Parkplatz ZOB",
   "evses": [
     {
-      "id": "DEPLNEH0024082",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEPLNEH0024032",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPLNEH0024031",
+      "id": "DEPLNEH0024082",
       "connectors": [
         {
           "type": "ccs",
@@ -38,6 +27,17 @@
     },
     {
       "id": "DEPLNEH0024081",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPLNEH0024031",
       "connectors": [
         {
           "type": "ccs",

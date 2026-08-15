@@ -4,17 +4,6 @@
   "name": "Shell Recharge OBN 0289 - Shell Geschwister-Scholl-Strasse",
   "evses": [
     {
-      "id": "DETNMEGL49010289011",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 360.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGL49010289012",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49010289022",
+      "id": "DETNMEGL49010289011",
       "connectors": [
         {
           "type": "ccs",
@@ -38,6 +27,17 @@
     },
     {
       "id": "DETNMEGL49010289021",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 360.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49010289022",
       "connectors": [
         {
           "type": "ccs",

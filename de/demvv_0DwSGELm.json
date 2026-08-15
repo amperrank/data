@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*MVV",
+  "geohash": "0DwSGELm",
+  "name": "MaLIS_Bruehl_Anton-Langlotz",
+  "evses": [
+    {
+      "id": "DEMVVE00296L1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMVVE00296R1",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Brühl",
+    "street": "Anton-Langlotz-Straße",
+    "houseNumber": "1",
+    "postcode": "68782",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

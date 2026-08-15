@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*333",
+  "geohash": "0JEZJADe",
+  "name": "EDEKA Fanderl Kothau Stadtwerke Ingolstadt - öffentlicher Ladepunkt",
+  "evses": [
+    {
+      "id": "DE333E00201001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE333E00201002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Ingolstadt",
+    "street": "Geisenfelder Str.",
+    "houseNumber": "42",
+    "postcode": "85053",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

@@ -4,6 +4,17 @@
   "name": "MIELE GT ALPI DC 01",
   "evses": [
     {
+      "id": "DECPIE68040251",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DECPIE68040252",
       "connectors": [
         {
@@ -15,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE68040251",
+      "id": "DECPIE67041752",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 150.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -53,17 +64,6 @@
         {
           "type": "ccs",
           "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE67041752",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

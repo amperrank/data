@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*TNK",
+  "geohash": "0Dx152R7",
+  "name": "Willi Weber Gmbh und Co. KG",
+  "evses": [
+    {
+      "id": "DETNKE30000501",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNKE30000502",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNKE30000503",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 43.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Dieburg",
+    "street": "Dieselstr.",
+    "houseNumber": "3",
+    "postcode": "64807",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

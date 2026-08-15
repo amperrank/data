@@ -1,10 +1,21 @@
 {
   "operatorId": "DE*CPI",
   "geohash": "0GJQ0NVN",
-  "name": "MB-WUPPERTAL SOLINGEN 3",
+  "name": "MB-WUPPERTAL SOLINGEN 1",
   "evses": [
     {
-      "id": "DECPIE65944951",
+      "id": "DECPIE64762852",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE64762851",
       "connectors": [
         {
           "type": "type2",
@@ -16,6 +27,17 @@
     },
     {
       "id": "DECPIE65944752",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE65944951",
       "connectors": [
         {
           "type": "type2",
@@ -38,28 +60,6 @@
     },
     {
       "id": "DECPIE65944952",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE64762852",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE64762851",
       "connectors": [
         {
           "type": "type2",

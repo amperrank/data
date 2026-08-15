@@ -1,30 +1,8 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0HswSzkp",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0631",
   "evses": [
-    {
-      "id": "DE2GOEMCD18331B3",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE2GOEMCD18331A1",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DE2GOEMCD18331B4",
       "connectors": [
@@ -37,11 +15,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEMCD18331A2",
+      "id": "DE2GOEMCD18331B3",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 300.0
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,
@@ -51,10 +29,10 @@
   "facilities": null,
   "address": {
     "city": "Schönkirchen",
-    "street": "Krummland 7",
+    "street": "Krummland",
     "houseNumber": null,
     "postcode": "24232",
-    "province": "Schleswig-Holstein"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

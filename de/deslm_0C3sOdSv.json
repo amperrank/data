@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*SLM",
+  "geohash": "0C3sOdSv",
+  "name": "SWLi Stadler DC",
+  "evses": [
+    {
+      "id": "DESLMES040001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DESLMES040002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Lindau",
+    "street": "Kemptener Str.",
+    "houseNumber": "114",
+    "postcode": "88131",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

@@ -1,14 +1,25 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0GfjhU7W",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE0655",
   "evses": [
     {
       "id": "DE2GOE06551",
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 7.36
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "5B478E27DC25A2BE13E622C7D3CA5FC0",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -19,7 +30,7 @@
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 7.36
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -29,10 +40,10 @@
   "facilities": null,
   "address": {
     "city": "Oldenburg",
-    "street": "Huntestraße 16",
+    "street": "Huntestraße",
     "houseNumber": null,
     "postcode": "26135",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

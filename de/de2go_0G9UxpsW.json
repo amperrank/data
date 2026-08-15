@@ -1,10 +1,10 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0G9UxpsW",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE7128",
   "evses": [
     {
-      "id": "DE2GOE71301A1",
+      "id": "DE2GOE71301A2",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOE71301A2",
+      "id": "90F06EBD1A76256CBE9269D58FBECEFE",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOE71301A1",
       "connectors": [
         {
           "type": "ccs",
@@ -29,10 +40,10 @@
   "facilities": null,
   "address": {
     "city": "Rosengarten",
-    "street": "Eckeler Straße 7",
+    "street": "Eckeler Straße",
     "houseNumber": null,
     "postcode": "21224",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

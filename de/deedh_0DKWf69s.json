@@ -4,17 +4,6 @@
   "name": "Autostrom Ladenetz - Emmendingen Am Weiherschloss",
   "evses": [
     {
-      "id": "DEEDHE001001",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEEDHE001000",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEDHE00103",
+      "id": "DEEDHE001001",
       "connectors": [
         {
           "type": "type2",
@@ -38,6 +27,17 @@
     },
     {
       "id": "DEEDHE001002",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEDHE00103",
       "connectors": [
         {
           "type": "type2",

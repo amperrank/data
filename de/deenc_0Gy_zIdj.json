@@ -4,17 +4,6 @@
   "name": "enercity AG enercity - Gut Kronsberg 1 - 002",
   "evses": [
     {
-      "id": "DEENCELA000172001A",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEENCELA000172002B",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DEENCELA000172002A",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEENCELA000172001A",
       "connectors": [
         {
           "type": "ccs",

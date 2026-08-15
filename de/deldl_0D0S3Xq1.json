@@ -4,17 +4,6 @@
   "name": "Lidl Filiale Eschborn",
   "evses": [
     {
-      "id": "DELDLE00003289",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DELDLE00003292",
       "connectors": [
         {
@@ -26,7 +15,40 @@
       "paymentMethods": null
     },
     {
-      "id": "DELDLE00010361",
+      "id": "DELDLE00003289",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELDLE00010360",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELDLE00003307",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELDLE00010362",
       "connectors": [
         {
           "type": "ccs",
@@ -48,11 +70,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DELDLE00003305",
+      "id": "DELDLE00010361",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 60.0
+          "maxPowerKw": 200.0
         }
       ],
       "authMethods": null,
@@ -70,29 +92,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DELDLE00010360",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 200.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DELDLE00010362",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 200.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DELDLE00003307",
+      "id": "DELDLE00003305",
       "connectors": [
         {
           "type": "ccs",

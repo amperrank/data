@@ -4,22 +4,11 @@
   "name": "Mer Germany GmbH Mer Germany GmbH - Landau an der Isar - Kleegartenstraße 1 #1",
   "evses": [
     {
-      "id": "DEMERE00697404",
+      "id": "DEMERE00697401",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE00697402",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 50.0
+          "type": "ccs",
+          "maxPowerKw": 200.0
         }
       ],
       "authMethods": null,
@@ -37,11 +26,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMERE00697401",
+      "id": "DEMERE00697404",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 200.0
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00697402",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

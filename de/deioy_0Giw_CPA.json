@@ -4,17 +4,6 @@
   "name": "IONITY GmbH IONITY Kirchheim Industriestraße",
   "evses": [
     {
-      "id": "DEIOYE216106",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEIOYE216105",
       "connectors": [
         {
@@ -37,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE216101",
+      "id": "DEIOYE216106",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE216102",
       "connectors": [
         {
           "type": "ccs",
@@ -59,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE216102",
+      "id": "DEIOYE216101",
       "connectors": [
         {
           "type": "ccs",

@@ -1,0 +1,45 @@
+{
+  "operatorId": "DE*EWB",
+  "geohash": "0DlWC9NX",
+  "name": "Amalienstraße 1a, Karlsdorf - Neuthard",
+  "evses": [
+    {
+      "id": "DEEWBE00095001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEWBE00028001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        },
+        {
+          "type": "unknown",
+          "maxPowerKw": 3.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Karlsdorf-Neuthard",
+    "street": "Amalienstraße",
+    "houseNumber": "1a",
+    "postcode": "76689",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

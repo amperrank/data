@@ -4,22 +4,22 @@
   "name": "Vögl GmbH & Co. Vilsbiburg KG - Vilsbiburg - AC/DC - Eichrecht - DE*DES*E1003061",
   "evses": [
     {
-      "id": "DEDESE10030612",
+      "id": "DEDESE10030611",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEDESE10030611",
+      "id": "DEDESE10030612",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

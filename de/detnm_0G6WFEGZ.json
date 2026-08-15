@@ -4,7 +4,7 @@
   "name": "Shell Recharge OBN 2258 - Shell In Den Lohbalken",
   "evses": [
     {
-      "id": "DETNMEGL49012258032",
+      "id": "DETNMEGL49012258042",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49012258042",
+      "id": "DETNMEGL49012258032",
       "connectors": [
         {
           "type": "ccs",
@@ -37,18 +37,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL4901225806",
+      "id": "DETNMEGL49012258012",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 420.0
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49012258021",
+      "id": "DETNMEGL49012258041",
       "connectors": [
         {
           "type": "ccs",
@@ -70,7 +70,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL4901225805",
+      "id": "DETNMEGL4901225808",
       "connectors": [
         {
           "type": "ccs",
@@ -81,11 +81,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49012258012",
+      "id": "DETNMEGL49012258021",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL4901225806",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 420.0
         }
       ],
       "authMethods": null,
@@ -103,22 +114,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL4901225808",
+      "id": "DETNMEGL4901225805",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 420.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49012258041",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,

@@ -4,11 +4,11 @@
   "name": "Eviny Germany Füssen",
   "evses": [
     {
-      "id": "DEEVYEFUE1B",
+      "id": "DEEVYEFUE2A",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 400.0
+          "maxPowerKw": 200.0
         }
       ],
       "authMethods": null,
@@ -26,22 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEVYEFUE1A",
+      "id": "DEEVYEFUE1B",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEVYEFUE2A",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 200.0
         }
       ],
       "authMethods": null,
@@ -64,6 +53,17 @@
         {
           "type": "ccs",
           "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEVYEFUE1A",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
         }
       ],
       "authMethods": null,

@@ -4,22 +4,11 @@
   "name": "Eni Station - Paunsdorfer Str. 70, 04316 Leipzig, Germania",
   "evses": [
     {
-      "id": "DEPLNEH0014663",
+      "id": "DEPLNEH0014652",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEPLNEH0014651",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
+          "type": "chademo",
+          "maxPowerKw": 51.0
         }
       ],
       "authMethods": null,
@@ -37,7 +26,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPLNEH0014653",
+      "id": "DEPLNEH0014663",
       "connectors": [
         {
           "type": "ccs",
@@ -59,11 +48,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPLNEH0014652",
+      "id": "DEPLNEH0014651",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 51.0
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPLNEH0014653",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,

@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*BKP",
+  "geohash": "0MZo68Dg",
+  "name": "BIM Beeskowdamm 3 HPC/AC",
+  "evses": [
+    {
+      "id": "DEBKPE800242242",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBKPE800240240",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBKPE800241241",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Berlin",
+    "street": "Beeskowdamm",
+    "houseNumber": "3",
+    "postcode": "14167",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

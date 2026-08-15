@@ -4,17 +4,6 @@
   "name": "Campingpark Gitzenweiler Hof GmbH #02",
   "evses": [
     {
-      "id": "DECIWE001211",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DECIWE001213",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DECIWE001212",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECIWE001211",
       "connectors": [
         {
           "type": "type2",

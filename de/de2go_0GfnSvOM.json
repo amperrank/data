@@ -1,7 +1,7 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0GfnSvOM",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE1000226",
   "evses": [
     {
       "id": "DE2GOEEWE74111A1",
@@ -15,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEEWE74112A3",
+      "id": "DE2GOEEWE74111A2",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +37,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEEWE74111A2",
+      "id": "76BCEEE20CC3F8A4B9A1B5BA711E7DD4",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEEWE74112A3",
       "connectors": [
         {
           "type": "ccs",
@@ -51,10 +62,10 @@
   "facilities": null,
   "address": {
     "city": "Rastede",
-    "street": "Feldbreite 6",
+    "street": "Feldbreite",
     "houseNumber": null,
     "postcode": "26180",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

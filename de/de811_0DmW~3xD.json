@@ -1,8 +1,19 @@
 {
   "operatorId": "DE*811",
   "geohash": "0DmW~3xD",
-  "name": "1384202.03258",
+  "name": "1384202.03256",
   "evses": [
+    {
+      "id": "DE811E120402931001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DE811E120602951001",
       "connectors": [
@@ -27,6 +38,17 @@
     },
     {
       "id": "DE811E120B02961001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE811E120C02971001",
       "connectors": [
         {
           "type": "type2",
@@ -301,28 +323,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DE811E178102EF1001",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE811E178102EF1002",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DE811E178202F01001",
       "connectors": [
         {
@@ -367,7 +367,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DE811E120C02971001",
+      "id": "DE811E178102EF1001",
       "connectors": [
         {
           "type": "type2",
@@ -378,7 +378,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DE811E120402931001",
+      "id": "DE811E178102EF1002",
       "connectors": [
         {
           "type": "type2",

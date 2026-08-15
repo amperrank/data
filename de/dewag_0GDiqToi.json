@@ -4,17 +4,6 @@
   "name": "Westfalen Ladestation Westfalen AG - Köln Spenrather Weg",
   "evses": [
     {
-      "id": "DEWAGEE0292",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 75.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEWAGEE0348",
       "connectors": [
         {
@@ -37,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEWAGEE0347",
+      "id": "DEWAGEE0292",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 150.0
+          "maxPowerKw": 75.0
         }
       ],
       "authMethods": null,
@@ -64,6 +53,17 @@
         {
           "type": "ccs",
           "maxPowerKw": 75.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEWAGEE0347",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,

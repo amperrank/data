@@ -4,17 +4,6 @@
   "name": "Kassel Peugeot Kassel 50kW",
   "evses": [
     {
-      "id": "DEGLIE100100278",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEGLIE100100279",
       "connectors": [
         {
@@ -37,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEGLIE100100282",
+      "id": "DEGLIE100100278",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGLIE100100281",
       "connectors": [
         {
           "type": "type2",
@@ -48,7 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEGLIE100100281",
+      "id": "DEGLIE100100282",
       "connectors": [
         {
           "type": "type2",

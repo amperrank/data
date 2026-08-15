@@ -4,17 +4,6 @@
   "name": "Shell Recharge OBN 0214 - Shell Strahlenberger Strasse",
   "evses": [
     {
-      "id": "DETNMEGL49010214021",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGL49010214011",
       "connectors": [
         {
@@ -26,11 +15,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49010214012",
+      "id": "DETNMEGL49010214022",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 200.0
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49010214021",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
@@ -48,18 +48,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49010214032",
+      "id": "DETNMEGL49010214012",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 300.0
+          "maxPowerKw": 200.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49010214022",
+      "id": "DETNMEGL49010214032",
       "connectors": [
         {
           "type": "ccs",

@@ -4,6 +4,17 @@
   "name": "CAP1 BOARDING CHARGEPOINT L",
   "evses": [
     {
+      "id": "DECPIE67835851",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DECPIE67835451",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DECPIE67835852",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE67835851",
       "connectors": [
         {
           "type": "type2",

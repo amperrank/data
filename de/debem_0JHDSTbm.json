@@ -4,6 +4,17 @@
   "name": "Ladestation 3W Energy Solutions Bad Abbach",
   "evses": [
     {
+      "id": "DEBEME0010809",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEBEME0010811",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEBEME0010808",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBEME0010809",
       "connectors": [
         {
           "type": "type2",

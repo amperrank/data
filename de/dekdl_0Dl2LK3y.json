@@ -4,11 +4,11 @@
   "name": "Kaufland Eppingen",
   "evses": [
     {
-      "id": "DEKDLE00000308",
+      "id": "DEKDLE00000309",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "chademo",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -26,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00000309",
+      "id": "DEKDLE00000308",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

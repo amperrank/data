@@ -4,22 +4,22 @@
   "name": "BMW - Autohaus Müller GmbH & Co. KG",
   "evses": [
     {
-      "id": "DEDESEBMW07051",
+      "id": "DEDESEBMW07052",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 11.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEDESEBMW07052",
+      "id": "DEDESEBMW07051",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 11.0
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

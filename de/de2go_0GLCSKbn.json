@@ -1,10 +1,10 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0GLCSKbn",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0329",
   "evses": [
     {
-      "id": "DE2GOEMCD04811A2",
+      "id": "DE2GOEMCD04811A1",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEMCD04811A1",
+      "id": "C2A31E43ED208DED34CFAE64674E449A",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD04811A2",
       "connectors": [
         {
           "type": "ccs",
@@ -29,10 +40,10 @@
   "facilities": null,
   "address": {
     "city": "Olpe",
-    "street": "Am Breithammer 5",
+    "street": "Am Breithammer",
     "houseNumber": null,
     "postcode": "57462",
-    "province": "Nordrhein-Westfalen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

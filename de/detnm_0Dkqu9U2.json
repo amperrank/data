@@ -4,17 +4,6 @@
   "name": "Shell Recharge OBN 2298 - Shell Kusterdinger Strasse",
   "evses": [
     {
-      "id": "DETNMEGL49012298021",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 360.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGL49012298012",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DETNMEGL49012298022",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 360.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49012298021",
       "connectors": [
         {
           "type": "ccs",

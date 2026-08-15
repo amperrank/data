@@ -4,6 +4,17 @@
   "name": "Shell Recharge OBN 4409 - Shell Trinkbornstrasse",
   "evses": [
     {
+      "id": "DETNMEGL49014409021",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 360.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DETNMEGL49014409012",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DETNMEGL49014409011",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 360.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49014409021",
       "connectors": [
         {
           "type": "ccs",

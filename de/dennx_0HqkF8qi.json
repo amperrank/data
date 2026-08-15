@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*NNX",
+  "geohash": "0HqkF8qi",
+  "name": "NORDENERGIE Ladestation",
+  "evses": [
+    {
+      "id": "DENNXER30010001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DENNXER30010101",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DENNXER30010002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Zarrentin",
+    "street": "Ernst-Litfaß-Straße",
+    "houseNumber": null,
+    "postcode": "19246",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

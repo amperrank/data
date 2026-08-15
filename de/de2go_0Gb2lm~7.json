@@ -1,19 +1,8 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0Gb2lm~7",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE1000480",
   "evses": [
-    {
-      "id": "DE2GOEEWE72401A2",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 200.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DE2GOEEWE72401B3",
       "connectors": [
@@ -37,6 +26,17 @@
       "paymentMethods": null
     },
     {
+      "id": "DE2GOEEWE72401A2",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DE2GOEEWE72401A1",
       "connectors": [
         {
@@ -50,11 +50,11 @@
   ],
   "facilities": null,
   "address": {
-    "city": "Lohne (Oldenburg)",
-    "street": "Bahnhofstraße 40",
+    "city": "Lohne",
+    "street": "Bahnhofstraße",
     "houseNumber": null,
     "postcode": "49393",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

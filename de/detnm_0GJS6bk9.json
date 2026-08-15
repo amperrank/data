@@ -4,22 +4,11 @@
   "name": "Shell Recharge OBN 3185 - Redevco Willy-Brandt-Platz",
   "evses": [
     {
-      "id": "DETNMEGL49023185012",
+      "id": "DETNMEGL49023185011",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49023185021",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
@@ -37,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49023185011",
+      "id": "DETNMEGL49023185021",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49023185012",
       "connectors": [
         {
           "type": "ccs",

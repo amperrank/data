@@ -4,6 +4,17 @@
   "name": "DE_AMB_ Borna_Wallbox_1_Slave_230222450_2 öffentlich",
   "evses": [
     {
+      "id": "DEPOWE02759",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEPOWEE02762",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DEPOWE02760",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEPOWE02759",
       "connectors": [
         {
           "type": "type2",

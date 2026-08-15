@@ -4,6 +4,17 @@
   "name": "PMG - Parkhaus City Port",
   "evses": [
     {
+      "id": "DEVIRE271507",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEVIRE271519",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEVIRE271518",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEVIRE271507",
       "connectors": [
         {
           "type": "type2",

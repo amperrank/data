@@ -1,10 +1,21 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0Drwf0U2",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0115",
   "evses": [
     {
       "id": "DE2GOEMCD04641A1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "7440FE35591EFF3937E2CB372BD62DB4",
       "connectors": [
         {
           "type": "ccs",
@@ -29,10 +40,10 @@
   "facilities": null,
   "address": {
     "city": "Augsburg",
-    "street": "Meraner Straße 22",
+    "street": "Meraner Straße",
     "houseNumber": null,
     "postcode": "86165",
-    "province": "Bayern"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

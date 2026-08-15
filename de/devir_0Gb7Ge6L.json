@@ -4,17 +4,6 @@
   "name": "Jantzon & Hocke KG - 100 kW Delta 4in1",
   "evses": [
     {
-      "id": "DEVIRE41723",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEVIRE41726",
       "connectors": [
         {
@@ -26,22 +15,33 @@
       "paymentMethods": null
     },
     {
-      "id": "DEVIRE41725",
+      "id": "DEVIRE41724",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 7.36
+          "type": "chademo",
+          "maxPowerKw": 63.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEVIRE41724",
+      "id": "DEVIRE41723",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 63.0
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEVIRE41725",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
         }
       ],
       "authMethods": null,

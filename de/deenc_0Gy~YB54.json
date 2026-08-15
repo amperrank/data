@@ -4,6 +4,17 @@
   "name": "enercity AG enercity - Janusz-Korczak-Allee - A01",
   "evses": [
     {
+      "id": "DEENCELA000860A01B",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEENCELA000860B01B",
       "connectors": [
         {
@@ -26,17 +37,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DEENCELA000860A01B",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEENCELA000860A01A",
       "connectors": [
         {
@@ -48,7 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEENCELA000471001A",
+      "id": "DEENCELA000471001B",
       "connectors": [
         {
           "type": "type2",
@@ -59,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEENCELA000471001B",
+      "id": "DEENCELA000471001A",
       "connectors": [
         {
           "type": "type2",

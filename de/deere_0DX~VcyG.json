@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*ERE",
+  "geohash": "0DX~VcyG",
+  "name": "Rheinbach Prümer Wall DC",
+  "evses": [
+    {
+      "id": "DEEREE008100L",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEREE008100R",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Rheinbach",
+    "street": "Prümer Wall",
+    "houseNumber": "1",
+    "postcode": "53359",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

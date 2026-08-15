@@ -4,17 +4,6 @@
   "name": "Mercedes-Benz Charging Hub Butzbach",
   "evses": [
     {
-      "id": "DEMBXE001901",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEMBXE001902",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMBXE001905",
+      "id": "DEMBXE001901",
       "connectors": [
         {
           "type": "ccs",
@@ -60,6 +49,17 @@
     },
     {
       "id": "DEMBXE001903",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMBXE001905",
       "connectors": [
         {
           "type": "ccs",

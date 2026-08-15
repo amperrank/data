@@ -4,7 +4,29 @@
   "name": "TMO LP1/2 Melchendorfer Markt",
   "evses": [
     {
-      "id": "DETMOE11008003",
+      "id": "DETMOE11008005",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETMOE11008002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETMOE11008001",
       "connectors": [
         {
           "type": "ccs",
@@ -26,18 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETMOE11008002",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETMOE11008004",
+      "id": "DETMOE11008003",
       "connectors": [
         {
           "type": "ccs",
@@ -59,18 +70,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETMOE11008005",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETMOE11008001",
+      "id": "DETMOE11008004",
       "connectors": [
         {
           "type": "ccs",

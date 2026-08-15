@@ -4,6 +4,17 @@
   "name": "222010-DN | Klötze | Bahnhofstrasse 60",
   "evses": [
     {
+      "id": "DETCBE3D9CS500130011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DETCBE3D9CS500130021",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DETCBE3D9CS500130012",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETCBE3D9CS500130011",
       "connectors": [
         {
           "type": "ccs",

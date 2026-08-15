@@ -4,7 +4,18 @@
   "name": "Aral pulse Schöneberger Str. 19-20",
   "evses": [
     {
-      "id": "DEBPEE0FK930102",
+      "id": "DEBPEE0FK930204",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0FK930205",
       "connectors": [
         {
           "type": "chademo",
@@ -15,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FK930205",
+      "id": "DEBPEE0FK930101",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0FK930102",
       "connectors": [
         {
           "type": "chademo",
@@ -37,29 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FK930101",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEBPEE0FK930103",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0FK930204",
       "connectors": [
         {
           "type": "ccs",

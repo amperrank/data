@@ -4,6 +4,17 @@
   "name": "Allego - 24-Autohof Halle Tornau A14",
   "evses": [
     {
+      "id": "DEALLEGO0026961",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEALLEGO0026952",
       "connectors": [
         {
@@ -26,11 +37,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0026951",
+      "id": "DEALLEGO0026941",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 300.0
+          "maxPowerKw": 175.0
         }
       ],
       "authMethods": null,
@@ -48,18 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0026941",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 175.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEALLEGO0026961",
+      "id": "DEALLEGO0026951",
       "connectors": [
         {
           "type": "ccs",

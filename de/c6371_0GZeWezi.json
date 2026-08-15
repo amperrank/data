@@ -1,0 +1,52 @@
+{
+  "operatorId": "C6*371",
+  "geohash": "0GZeWezi",
+  "name": "EDEKA Ladestation",
+  "evses": [
+    {
+      "id": "C6371E74CBA2D1912921531D59CCC4D8",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE384E164305CS00011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE384E164305CS00012",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Meppen",
+    "street": "Helter Damm",
+    "houseNumber": null,
+    "postcode": "49716",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

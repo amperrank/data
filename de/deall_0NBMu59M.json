@@ -4,7 +4,7 @@
   "name": "Allego - porta (Möbel Boss) Wismar",
   "evses": [
     {
-      "id": "DEALLEGO0035392",
+      "id": "DEALLEGO0035582",
       "connectors": [
         {
           "type": "ccs",
@@ -26,7 +26,29 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0038112",
+      "id": "DEALLEGO0035581",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEALLEGO0035392",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEALLEGO0038732",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0038732",
+      "id": "DEALLEGO0038112",
       "connectors": [
         {
           "type": "ccs",
@@ -70,28 +92,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0038141",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEALLEGO0035582",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEALLEGO0038142",
       "connectors": [
         {
@@ -103,11 +103,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0035581",
+      "id": "DEALLEGO0038141",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 150.0
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

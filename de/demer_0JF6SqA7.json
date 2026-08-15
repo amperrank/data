@@ -4,17 +4,6 @@
   "name": "Mer Germany GmbH Grabinger GmbH - Laaber - Marktplatz 3 #2",
   "evses": [
     {
-      "id": "DEMERE00048802",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEMERE00048801",
       "connectors": [
         {
@@ -42,6 +31,17 @@
         {
           "type": "ccs",
           "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00048802",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

@@ -4,17 +4,6 @@
   "name": "Shell Recharge OBN 2772 - Rewe Neustaedter Strasse",
   "evses": [
     {
-      "id": "DETNMEGL49022772011",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGL49022772021",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DETNMEGL49022772022",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49022772011",
       "connectors": [
         {
           "type": "ccs",

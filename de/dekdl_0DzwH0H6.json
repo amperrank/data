@@ -4,11 +4,11 @@
   "name": "Kaufland Wertheim",
   "evses": [
     {
-      "id": "DEKDLE00001903",
+      "id": "DEKDLE00001904",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 43.0
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -26,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00001904",
+      "id": "DEKDLE00001903",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 43.0
         }
       ],
       "authMethods": null,

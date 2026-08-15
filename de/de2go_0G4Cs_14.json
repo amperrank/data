@@ -1,19 +1,8 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0G4Cs_14",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE1000184",
   "evses": [
-    {
-      "id": "DE2GOEEWE71681A2",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DE2GOEEWE71681A1",
       "connectors": [
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEEWE71682A4",
+      "id": "DE2GOEEWE71681A2",
       "connectors": [
         {
           "type": "ccs",
@@ -46,15 +35,26 @@
       ],
       "authMethods": null,
       "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEEWE71682A4",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Bad Salzdetfurth",
-    "street": "Ahnepaule 6",
+    "street": "Ahnepaule",
     "houseNumber": null,
     "postcode": "31162",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

@@ -4,21 +4,6 @@
   "name": "Shell Recharge OBN 1196 - Shell Scharnweberstrasse",
   "evses": [
     {
-      "id": "DETNMEGL4901119602",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 70.0
-        },
-        {
-          "type": "ccs",
-          "maxPowerKw": 175.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGL49011196032",
       "connectors": [
         {
@@ -42,6 +27,21 @@
     },
     {
       "id": "DETNMEGL4901119601",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 70.0
+        },
+        {
+          "type": "ccs",
+          "maxPowerKw": 175.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL4901119602",
       "connectors": [
         {
           "type": "chademo",

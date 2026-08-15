@@ -4,29 +4,18 @@
   "name": "IONITY GmbH IONITY Wittenburg",
   "evses": [
     {
+      "id": "DEIOYE218905",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEIOYE218903",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE218906",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE218902",
       "connectors": [
         {
           "type": "ccs",
@@ -48,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE218901",
+      "id": "DEIOYE218902",
       "connectors": [
         {
           "type": "ccs",
@@ -59,7 +48,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE218905",
+      "id": "DEIOYE218906",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE218901",
       "connectors": [
         {
           "type": "ccs",

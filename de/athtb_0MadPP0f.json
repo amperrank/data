@@ -4,17 +4,6 @@
   "name": "Autohaus Kossert",
   "evses": [
     {
-      "id": "ATHTBE1026833",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "ATHTBE1026834",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "ATHTBE1026835",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "ATHTBE1026833",
       "connectors": [
         {
           "type": "ccs",

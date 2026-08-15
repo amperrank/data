@@ -4,11 +4,11 @@
   "name": "Lidl Filiale Bühl",
   "evses": [
     {
-      "id": "DELDLE00005177",
+      "id": "DELDLE000005178",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 11.0
+          "type": "ccs",
+          "maxPowerKw": 60.0
         }
       ],
       "authMethods": null,
@@ -26,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DELDLE000005178",
+      "id": "DELDLE00005177",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 60.0
+          "type": "type2",
+          "maxPowerKw": 11.0
         }
       ],
       "authMethods": null,

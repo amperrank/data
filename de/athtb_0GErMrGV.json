@@ -1,19 +1,8 @@
 {
   "operatorId": "AT*HTB",
   "geohash": "0GErMrGV",
-  "name": "Waschhaus Blaue Lagune",
+  "name": "BOX Home 2 Blaue Lagune",
   "evses": [
-    {
-      "id": "ATHTBE1009486",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 11.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "ATHTBE1010202",
       "connectors": [
@@ -27,6 +16,17 @@
     },
     {
       "id": "ATHTBE1010201",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "ATHTBE1009486",
       "connectors": [
         {
           "type": "type2",

@@ -4,6 +4,17 @@
   "name": "Mer Germany GmbH Mer Germany (DNetz) - Stockach - Ludwigshafener Str. 2 #1",
   "evses": [
     {
+      "id": "DEMERE01761302",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEMERE01761402",
       "connectors": [
         {
@@ -26,40 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMERE01761501",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEMERE01761601",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE01761301",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE01761401",
       "connectors": [
         {
           "type": "ccs",
@@ -81,7 +59,29 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMERE01761302",
+      "id": "DEMERE01761501",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE01761401",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE01761301",
       "connectors": [
         {
           "type": "ccs",

@@ -4,11 +4,11 @@
   "name": "Lidl Filiale Nienburg",
   "evses": [
     {
-      "id": "DELDLE00005865",
+      "id": "DELDLE00005864",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 60.0
+          "type": "type2",
+          "maxPowerKw": 11.0
         }
       ],
       "authMethods": null,
@@ -26,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DELDLE00005864",
+      "id": "DELDLE00005865",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 11.0
+          "type": "ccs",
+          "maxPowerKw": 60.0
         }
       ],
       "authMethods": null,

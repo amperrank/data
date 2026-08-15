@@ -4,7 +4,18 @@
   "name": "Völklingerstraße 4 - Public",
   "evses": [
     {
-      "id": "DESPIEA301042",
+      "id": "DESPIEA003902",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DESPIEA003901",
       "connectors": [
         {
           "type": "type2",
@@ -37,29 +48,18 @@
       "paymentMethods": null
     },
     {
+      "id": "DESPIEA301042",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DESPIEA389822",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DESPIEA003902",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DESPIEA003901",
       "connectors": [
         {
           "type": "type2",

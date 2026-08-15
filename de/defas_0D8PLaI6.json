@@ -4,17 +4,6 @@
   "name": "Fastned Schweinfurt-West",
   "evses": [
     {
-      "id": "DEFASE4901101",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEFASE4901102",
       "connectors": [
         {
@@ -30,7 +19,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFASE4901103",
+      "id": "DEFASE4901101",
       "connectors": [
         {
           "type": "ccs",
@@ -50,6 +39,17 @@
         {
           "type": "chademo",
           "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEFASE4901103",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,

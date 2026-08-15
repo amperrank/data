@@ -4,7 +4,18 @@
   "name": "IONITY GmbH IONITY Mühldorf",
   "evses": [
     {
-      "id": "DEIOYE220606",
+      "id": "DEIOYE220602",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE220605",
       "connectors": [
         {
           "type": "ccs",
@@ -37,29 +48,18 @@
       "paymentMethods": null
     },
     {
+      "id": "DEIOYE220606",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEIOYE220601",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE220602",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE220605",
       "connectors": [
         {
           "type": "ccs",

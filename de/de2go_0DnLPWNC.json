@@ -1,10 +1,21 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0DnLPWNC",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0109",
   "evses": [
     {
       "id": "DE2GOEMCD05591A1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "CB759E9B5425A889CCF87ACFD7EF7505",
       "connectors": [
         {
           "type": "ccs",
@@ -29,10 +40,10 @@
   "facilities": null,
   "address": {
     "city": "Backnang",
-    "street": "Wanne 7",
+    "street": "Wanne",
     "houseNumber": null,
     "postcode": "71522",
-    "province": "Baden-Württemberg"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

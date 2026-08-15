@@ -1,8 +1,19 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0GDiqUPR",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0381",
   "evses": [
+    {
+      "id": "DE2GOEMCD16401A2",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DE2GOEMCD16401A1",
       "connectors": [
@@ -35,26 +46,15 @@
       ],
       "authMethods": null,
       "paymentMethods": null
-    },
-    {
-      "id": "DE2GOEMCD16401A2",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Köln",
-    "street": "Spenrather Weg 11",
+    "street": "Spenrather Weg",
     "houseNumber": null,
     "postcode": "50829",
-    "province": "Nordrhein-Westfalen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

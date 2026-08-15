@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*MRG",
+  "geohash": "0GgWFfIt",
+  "name": "Biedenkopf Sparkasse GCG0002",
+  "evses": [
+    {
+      "id": "DEMRGE000202",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMRGE000201",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Biedenkopf",
+    "street": "Am Bahnhof",
+    "houseNumber": null,
+    "postcode": "35216",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

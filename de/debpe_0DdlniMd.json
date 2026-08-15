@@ -4,6 +4,28 @@
   "name": "DE | Aral 0F130 | Hauptstraße 221, 56575 Weißenthurm - DC #01",
   "evses": [
     {
+      "id": "DEBPEE0F1300203",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0F1300101",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEBPEE0F1300204",
       "connectors": [
         {
@@ -27,28 +49,6 @@
     },
     {
       "id": "DEBPEE0F1300306",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0F1300101",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0F1300203",
       "connectors": [
         {
           "type": "ccs",

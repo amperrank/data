@@ -1,8 +1,30 @@
 {
   "operatorId": "DE*TMO",
   "geohash": "0GroAq5o",
-  "name": "TMO LP3/4 Linderbacher Weg",
+  "name": "TMO LP7/8 Linderbacher Weg",
   "evses": [
+    {
+      "id": "DETMOE11416003",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETMOE11416006",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DETMOE11416005",
       "connectors": [
@@ -37,33 +59,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DETMOE11416006",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETMOE11416003",
+      "id": "DETMOE11416002",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETMOE11416008",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -81,11 +81,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DETMOE11416002",
+      "id": "DETMOE11416008",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

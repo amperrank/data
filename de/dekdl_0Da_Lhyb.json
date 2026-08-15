@@ -4,6 +4,17 @@
   "name": "Kaufland Ludwigshafen",
   "evses": [
     {
+      "id": "DEKDLE00001574",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEKDLE00001585",
       "connectors": [
         {
@@ -15,29 +26,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00001581",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEKDLE00001575",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEKDLE00001574",
+      "id": "DEKDLE00001580",
       "connectors": [
         {
           "type": "ccs",
@@ -59,11 +48,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00001580",
+      "id": "DEKDLE00001575",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 60.0
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEKDLE00001581",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

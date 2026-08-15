@@ -4,7 +4,7 @@
   "name": "[FL-PUB] BMW May & Olde GmbH - AC - Eichrecht - DE*DES*E1001567",
   "evses": [
     {
-      "id": "DEDESE10015672",
+      "id": "DEDESE10015671",
       "connectors": [
         {
           "type": "type2",
@@ -15,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEDESE10015671",
+      "id": "DEDESE10015672",
       "connectors": [
         {
           "type": "type2",
@@ -31,6 +31,17 @@
         {
           "type": "ccs",
           "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEDESE10014792",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 20.0
         }
       ],
       "authMethods": null,
@@ -53,17 +64,6 @@
         {
           "type": "type2",
           "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEDESE10014792",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 20.0
         }
       ],
       "authMethods": null,

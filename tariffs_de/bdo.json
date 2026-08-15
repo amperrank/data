@@ -7,8 +7,8 @@
     "currency": "EUR",
     "validFrom": null,
     "validTo": null,
-    "updatedAt": "2026-08-05T18:01:44.4082148+00:00",
-    "description": "Variable energy prices, split by AC (≤ 22 kW), DC (> 22 kW), and HDC (DC ≥ 150 kW), derived from 2367 per-kWh prices across 1727 DE*BDO stations in the Mobilithek stat feed (min–median–max per type). All prices incl. 19% VAT. Actual prices vary by station. Blocking/parking fees and session fees are irregular and not included.",
+    "updatedAt": "2026-08-15T00:01:33.9956493+00:00",
+    "description": "Variable energy prices, split by AC (≤ 22 kW), DC (> 22 kW), and HDC (DC ≥ 150 kW), derived from 2388 per-kWh prices across 1741 DE*BDO stations in the Mobilithek stat feed (min–median–max per type). All prices incl. 19% VAT. Actual prices vary by station. Blocking/parking fees and session fees are irregular and not included.",
     "tiers": [
       {
         "id": "standard",
@@ -33,7 +33,7 @@
           },
           {
             "type": "energy",
-            "pricePerUnit": 0.57,
+            "pricePerUnit": 0.58,
             "minPricePerUnit": 0.28,
             "maxPricePerUnit": 0.89,
             "unit": "kWh",

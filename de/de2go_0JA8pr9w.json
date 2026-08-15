@@ -1,10 +1,21 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0JA8pr9w",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0114",
   "evses": [
     {
       "id": "DE2GOEMCD05541A2",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "FD28AE6702540CA14551F1F2587806ED",
       "connectors": [
         {
           "type": "ccs",
@@ -29,10 +40,10 @@
   "facilities": null,
   "address": {
     "city": "Kirchseeon",
-    "street": "Siriusstraße 1",
+    "street": "Siriusstraße",
     "houseNumber": null,
     "postcode": "85614",
-    "province": "Bayern"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

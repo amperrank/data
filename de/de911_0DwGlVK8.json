@@ -1,0 +1,163 @@
+{
+  "operatorId": "DE*911",
+  "geohash": "0DwGlVK8",
+  "name": "Porsche Sales & Marketplace PEC Hockenheimring Ladepunkt 6",
+  "evses": [
+    {
+      "id": "DE911EDE00007900000010000001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE911EDE00007800000010000001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE911EDE00007900000020000001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE911EDE00024100000020000001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE911EDE00024100000010000001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE911EDE00007800000020000001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Hockenheim",
+    "street": "Am Motodrom",
+    "houseNumber": "9-11",
+    "postcode": "68766",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": false,
+    "regularHours": [
+      {
+        "weekday": 5,
+        "periodBegin": {
+          "hour": 8,
+          "minute": 30
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 30
+        }
+      },
+      {
+        "weekday": 4,
+        "periodBegin": {
+          "hour": 8,
+          "minute": 30
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 30
+        }
+      },
+      {
+        "weekday": 2,
+        "periodBegin": {
+          "hour": 8,
+          "minute": 30
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 30
+        }
+      },
+      {
+        "weekday": 3,
+        "periodBegin": {
+          "hour": 8,
+          "minute": 30
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 30
+        }
+      },
+      {
+        "weekday": 7,
+        "periodBegin": {
+          "hour": 8,
+          "minute": 30
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 30
+        }
+      },
+      {
+        "weekday": 1,
+        "periodBegin": {
+          "hour": 8,
+          "minute": 30
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 30
+        }
+      },
+      {
+        "weekday": 6,
+        "periodBegin": {
+          "hour": 8,
+          "minute": 30
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 30
+        }
+      }
+    ]
+  }
+}

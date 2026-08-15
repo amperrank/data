@@ -4,6 +4,17 @@
   "name": "Gemeinde Gammelshausen - Ladesäule 2",
   "evses": [
     {
+      "id": "DEODRE10001410",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEODRE10001408",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEODRE10001407",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEODRE10001410",
       "connectors": [
         {
           "type": "type2",

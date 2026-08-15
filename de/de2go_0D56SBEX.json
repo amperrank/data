@@ -1,19 +1,8 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0D56SBEX",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0857",
   "evses": [
-    {
-      "id": "DE2GOEMCD02311B3",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DE2GOEMCD02311A2",
       "connectors": [
@@ -46,15 +35,26 @@
       ],
       "authMethods": null,
       "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD02311B3",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Geiselwind",
-    "street": "Scheinfelder Straße 14",
+    "street": "Scheinfelder Str.",
     "houseNumber": null,
     "postcode": "96160",
-    "province": "Bayern"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

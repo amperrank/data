@@ -1,14 +1,14 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0HKaNiE2",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE1000277",
   "evses": [
     {
-      "id": "DE2GOEEWE78001A2",
+      "id": "DE2GOEEWE78001B3",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 49.95
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -19,7 +19,18 @@
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 49.95
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEEWE78001A2",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -30,18 +41,7 @@
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 49.95
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE2GOEEWE78001B3",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 49.95
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -51,10 +51,10 @@
   "facilities": null,
   "address": {
     "city": "Wangerland",
-    "street": "Nee Straat 1",
+    "street": "Nee Straat",
     "houseNumber": null,
     "postcode": "26434",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

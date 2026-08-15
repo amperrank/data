@@ -4,22 +4,11 @@
   "name": "COFACE MZ LADESTATION 2",
   "evses": [
     {
-      "id": "DECPIE67049451",
+      "id": "DECPIE67049452",
       "connectors": [
         {
           "type": "type2",
           "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE72528552",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,
@@ -37,11 +26,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE72529651",
+      "id": "DECPIE67049451",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 150.0
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE71358152",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.08
         }
       ],
       "authMethods": null,
@@ -59,18 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE71358151",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.08
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE67049452",
+      "id": "DECPIE67034151",
       "connectors": [
         {
           "type": "type2",
@@ -103,6 +92,28 @@
       "paymentMethods": null
     },
     {
+      "id": "DECPIE72529651",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE72528552",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DECPIE67034152",
       "connectors": [
         {
@@ -114,18 +125,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE67034151",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE71358152",
+      "id": "DECPIE71358151",
       "connectors": [
         {
           "type": "type2",

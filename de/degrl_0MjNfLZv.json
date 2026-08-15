@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*GRL",
+  "geohash": "0MjNfLZv",
+  "name": "Bahnhof Görlitz ",
+  "evses": [
+    {
+      "id": "DEGRLE701203",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGRLE701201",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGRLE701202",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Görlitz",
+    "street": "Bahnhofstraße",
+    "houseNumber": null,
+    "postcode": "02826",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

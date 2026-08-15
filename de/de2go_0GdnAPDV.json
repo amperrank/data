@@ -1,19 +1,8 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0GdnAPDV",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE1000107",
   "evses": [
-    {
-      "id": "DE2GOEEWE71591C6",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DE2GOEEWE71591D7",
       "connectors": [
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEEWE71591C5",
+      "id": "2F862E69AD5F57DF0DE0057E6C41E804",
       "connectors": [
         {
           "type": "ccs",
@@ -50,15 +39,70 @@
   ],
   "facilities": null,
   "address": {
-    "city": "Leer (Ostfriesland)",
-    "street": "Osseweg 87",
+    "city": "Leer",
+    "street": "Osseweg",
     "houseNumber": null,
     "postcode": "26789",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": false,
     "regularHours": [
+      {
+        "weekday": 5,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 30
+        },
+        "periodEnd": {
+          "hour": 21,
+          "minute": 30
+        }
+      },
+      {
+        "weekday": 6,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 30
+        },
+        "periodEnd": {
+          "hour": 21,
+          "minute": 30
+        }
+      },
+      {
+        "weekday": 4,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 30
+        },
+        "periodEnd": {
+          "hour": 21,
+          "minute": 30
+        }
+      },
+      {
+        "weekday": 2,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 30
+        },
+        "periodEnd": {
+          "hour": 21,
+          "minute": 30
+        }
+      },
+      {
+        "weekday": 3,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 30
+        },
+        "periodEnd": {
+          "hour": 21,
+          "minute": 30
+        }
+      },
       {
         "weekday": 1,
         "periodBegin": {

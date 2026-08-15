@@ -4,17 +4,6 @@
   "name": "Shell Recharge OBN 2535 - Shell Kurt-Nagel-Strasse",
   "evses": [
     {
-      "id": "DETNMEGL49012535011",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGL49012535012",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49012535021",
+      "id": "DETNMEGL49012535022",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49012535022",
+      "id": "DETNMEGL49012535011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49012535021",
       "connectors": [
         {
           "type": "ccs",

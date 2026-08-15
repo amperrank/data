@@ -4,7 +4,7 @@
   "name": "Porsche Sales & Marketplace Ladesäule 4 (Wallbox)",
   "evses": [
     {
-      "id": "DE911EDE00161400000010000001",
+      "id": "DE911EPPCDE20000010000001",
       "connectors": [
         {
           "type": "type2",
@@ -15,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DE911EPPCDE20000010000001",
+      "id": "DE911EDE00161400000010000001",
       "connectors": [
         {
           "type": "type2",
@@ -81,17 +81,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DE911EDE00081600000010000001",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 12.8
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DE911EPDCDE10000010000001",
       "connectors": [
         {
@@ -114,11 +103,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DE911EDE00161600000010000001",
+      "id": "DE911EDE00081600000010000001",
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 4.84
+          "maxPowerKw": 12.8
         }
       ],
       "authMethods": null,
@@ -130,6 +119,17 @@
         {
           "type": "type2",
           "maxPowerKw": 12.8
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE911EDE00161600000010000001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 4.84
         }
       ],
       "authMethods": null,

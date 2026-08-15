@@ -1,19 +1,8 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0HoJ4OMl",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0407",
   "evses": [
-    {
-      "id": "DE2GOEMCD16811B3",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DE2GOEMCD16811B4",
       "connectors": [
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEMCD16811A2",
+      "id": "DE2GOEMCD16811B3",
       "connectors": [
         {
           "type": "ccs",
@@ -46,15 +35,37 @@
       ],
       "authMethods": null,
       "paymentMethods": null
+    },
+    {
+      "id": "F4291EB0C55E564F636AE4E90FDF9398",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD16811A2",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Hamburg",
-    "street": "Amandus-Stubbe-Straße 8",
+    "street": "Amandus-Stubbe-Straße",
     "houseNumber": null,
     "postcode": "22113",
-    "province": "Hamburg"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

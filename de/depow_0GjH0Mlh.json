@@ -4,17 +4,6 @@
   "name": "DE Fritzlar 34560 Im Wehrgrund AH Ostmann HPC2 (öffentlich) (KKT)",
   "evses": [
     {
-      "id": "DEPOWE02162",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEPOWE02164",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPOWE02163",
+      "id": "DEPOWE02162",
       "connectors": [
         {
           "type": "ccs",
@@ -38,6 +27,17 @@
     },
     {
       "id": "DEPOWE02161",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE02163",
       "connectors": [
         {
           "type": "ccs",

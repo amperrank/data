@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*384",
+  "geohash": "0JNY0anc",
+  "name": "EDEKA Ladestation",
+  "evses": [
+    {
+      "id": "DE384E006365CS00012",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE384E006365CS00011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Viechtach",
+    "street": "Schmidstraße",
+    "houseNumber": null,
+    "postcode": "94234",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

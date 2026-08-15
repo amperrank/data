@@ -4,11 +4,11 @@
   "name": "Shell Recharge OBN 2788 - Rewe Grellstrasse",
   "evses": [
     {
-      "id": "DETNMEGL49022788011",
+      "id": "DETNMEGL49022788032",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 150.0
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
@@ -16,17 +16,6 @@
     },
     {
       "id": "DETNMEGL49022788022",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49022788021",
       "connectors": [
         {
           "type": "ccs",
@@ -48,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49022788012",
+      "id": "DETNMEGL49022788021",
       "connectors": [
         {
           "type": "ccs",
@@ -59,11 +48,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49022788032",
+      "id": "DETNMEGL49022788011",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 300.0
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49022788012",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,

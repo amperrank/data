@@ -1,8 +1,19 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0HiSTCs1",
-  "name": "EWE Go Ladestation",
+  "name": "EWE_7192_1B",
   "evses": [
+    {
+      "id": "DE2GOEEWE71921B4",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DE2GOEEWE71921B3",
       "connectors": [
@@ -26,22 +37,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEEWE71921B4",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 49.95
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DE2GOEEWE71921A2",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 49.95
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -51,10 +51,10 @@
   "facilities": null,
   "address": {
     "city": "Hechthausen",
-    "street": "Hauptstraße 16",
+    "street": "Hauptstraße",
     "houseNumber": null,
     "postcode": "21755",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

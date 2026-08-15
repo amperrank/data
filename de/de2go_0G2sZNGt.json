@@ -1,10 +1,21 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0G2sZNGt",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0244",
   "evses": [
     {
       "id": "DE2GOEMCD04571A1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "6B7C4EE91B954DCDB4DF0C4B065C7355",
       "connectors": [
         {
           "type": "ccs",
@@ -29,10 +40,10 @@
   "facilities": null,
   "address": {
     "city": "Bad Fallingbostel",
-    "street": "Bockhorner Weg 7",
+    "street": "Bockhorner Weg",
     "houseNumber": null,
     "postcode": "29683",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

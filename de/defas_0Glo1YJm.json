@@ -4,6 +4,17 @@
   "name": "Fastned Bad Driburg",
   "evses": [
     {
+      "id": "DEFASE4960307",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEFASE4960305",
       "connectors": [
         {
@@ -37,29 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFASE4960307",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEFASE4960306",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEFASE4960301",
+      "id": "DEFASE4960303",
       "connectors": [
         {
           "type": "ccs",
@@ -81,7 +70,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFASE4960303",
+      "id": "DEFASE4960301",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEFASE4960306",
       "connectors": [
         {
           "type": "ccs",

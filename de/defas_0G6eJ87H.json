@@ -4,7 +4,18 @@
   "name": "Fastned Uhry Süd",
   "evses": [
     {
-      "id": "DEFASE4932303",
+      "id": "DEFASE4932304",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEFASE4932302",
       "connectors": [
         {
           "type": "ccs",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFASE4932304",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEFASE4932302",
+      "id": "DEFASE4932303",
       "connectors": [
         {
           "type": "ccs",

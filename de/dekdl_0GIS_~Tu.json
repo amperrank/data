@@ -4,7 +4,7 @@
   "name": "Kaufland Lohmar",
   "evses": [
     {
-      "id": "DEKDLE00000229",
+      "id": "DEKDLE00000999",
       "connectors": [
         {
           "type": "chademo",
@@ -15,10 +15,10 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00001000",
+      "id": "DEKDLE00000229",
       "connectors": [
         {
-          "type": "ccs",
+          "type": "chademo",
           "maxPowerKw": 50.0
         }
       ],
@@ -31,6 +31,17 @@
         {
           "type": "type2",
           "maxPowerKw": 43.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEKDLE00001000",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -52,17 +63,6 @@
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEKDLE00000999",
-      "connectors": [
-        {
-          "type": "chademo",
           "maxPowerKw": 50.0
         }
       ],

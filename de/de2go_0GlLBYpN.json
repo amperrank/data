@@ -1,7 +1,7 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0GlLBYpN",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE1000882",
   "evses": [
     {
       "id": "DE2GOEMCD18971A2",
@@ -15,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEMCD18971B3",
+      "id": "24083E89C9B35DE6FA4042E47DB771FC",
       "connectors": [
         {
           "type": "ccs",
@@ -46,15 +46,26 @@
       ],
       "authMethods": null,
       "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD18971B3",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Paderborn",
-    "street": "Paderborner Straße 59",
+    "street": "Paderborner Straße",
     "houseNumber": null,
     "postcode": "33104",
-    "province": "Nordrhein-Westfalen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

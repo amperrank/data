@@ -4,7 +4,7 @@
   "name": "NaturEnergie Community - Konstanz Bücklestraße 1",
   "evses": [
     {
-      "id": "DEEDHE001513",
+      "id": "DEEDHE001516",
       "connectors": [
         {
           "type": "type2",
@@ -16,6 +16,17 @@
     },
     {
       "id": "DEEDHE001512",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEDHE001513",
       "connectors": [
         {
           "type": "type2",
@@ -49,17 +60,6 @@
     },
     {
       "id": "DEEDHE001511",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEDHE001516",
       "connectors": [
         {
           "type": "type2",

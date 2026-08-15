@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*384",
+  "geohash": "0GqXlhky",
+  "name": "NETTO Ladestation",
+  "evses": [
+    {
+      "id": "DE384E163906CS00012",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE384E163906CS00011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Gotha",
+    "street": "Eschleber Straße",
+    "houseNumber": null,
+    "postcode": "99867",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

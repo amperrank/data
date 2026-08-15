@@ -4,11 +4,11 @@
   "name": "DE Emden 26721 Auricher Str. 210 AH Osterkamp HYC50 100141244 (öffentlich KKT)",
   "evses": [
     {
-      "id": "DEPOWE03614",
+      "id": "DEPOWE03612",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 11.0
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -26,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPOWE03612",
+      "id": "DEPOWE03614",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 11.0
         }
       ],
       "authMethods": null,

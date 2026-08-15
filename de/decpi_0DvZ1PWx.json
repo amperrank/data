@@ -4,7 +4,7 @@
   "name": "STROM OUTLET STATION 05",
   "evses": [
     {
-      "id": "DECPIE68969652",
+      "id": "DECPIE68969651",
       "connectors": [
         {
           "type": "ccs",
@@ -15,11 +15,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE68969851",
+      "id": "DECPIE68969652",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.08
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -37,11 +37,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE68969651",
+      "id": "DECPIE68969851",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.08
         }
       ],
       "authMethods": null,

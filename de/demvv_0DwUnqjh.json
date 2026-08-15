@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*MVV",
+  "geohash": "0DwUnqjh",
+  "name": "MaLIS_Mannheimer Morgen",
+  "evses": [
+    {
+      "id": "DEMVVE00610L1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMVVE00610R1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Mannheim",
+    "street": "Dudenstraße",
+    "houseNumber": "12-26",
+    "postcode": "68167",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

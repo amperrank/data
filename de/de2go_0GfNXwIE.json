@@ -1,10 +1,10 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0GfNXwIE",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE1000245",
   "evses": [
     {
-      "id": "DE2GOEEWE72051B3",
+      "id": "DE2GOEEWE72051C6",
       "connectors": [
         {
           "type": "ccs",
@@ -15,11 +15,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEEWE72051B4",
+      "id": "DE2GOEEWE72051C5",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 49.95
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEEWE72051A2",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -37,29 +48,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEEWE72051A2",
+      "id": "DE2GOEEWE72051B4",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 49.95
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEEWE72051C6",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 49.95
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE2GOEEWE72051C5",
+      "id": "DE2GOEEWE72051B3",
       "connectors": [
         {
           "type": "ccs",
@@ -73,10 +73,10 @@
   "facilities": null,
   "address": {
     "city": "Westerstede",
-    "street": "Albert-Post-Platz 1",
+    "street": "Albert-Post-Platz",
     "houseNumber": null,
     "postcode": "26655",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

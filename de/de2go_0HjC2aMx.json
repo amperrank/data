@@ -1,19 +1,8 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0HjC2aMx",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE1000741",
   "evses": [
-    {
-      "id": "DE2GOE74211B4",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DE2GOE74211A2",
       "connectors": [
@@ -37,6 +26,17 @@
       "paymentMethods": null
     },
     {
+      "id": "DE2GOE74211B4",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DE2GOE74211B3",
       "connectors": [
         {
@@ -50,11 +50,11 @@
   ],
   "facilities": null,
   "address": {
-    "city": "Freiburg (Elbe)",
+    "city": "Freiburg",
     "street": "Bürgermeister-Schild-Platz",
     "houseNumber": null,
     "postcode": "21729",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

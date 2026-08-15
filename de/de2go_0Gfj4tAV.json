@@ -1,7 +1,7 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0Gfj4tAV",
-  "name": "EWE Go Ladestation",
+  "name": "EWE_7101_1A",
   "evses": [
     {
       "id": "DE2GOE71012",
@@ -29,16 +29,60 @@
   "facilities": null,
   "address": {
     "city": "Oldenburg",
-    "street": "Waterender Weg 30A",
+    "street": "Waterender Weg",
     "houseNumber": null,
     "postcode": "26123",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": false,
     "regularHours": [
       {
         "weekday": 1,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 18,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 2,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 18,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 3,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 18,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 4,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 18,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 5,
         "periodBegin": {
           "hour": 7,
           "minute": 0

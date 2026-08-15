@@ -1,0 +1,49 @@
+{
+  "operatorId": "DE*NRW",
+  "geohash": "0GGIKpmD",
+  "name": "SWK ENERGIE Inseltank Gutenbergstr. 197",
+  "evses": [
+    {
+      "id": "DENRWE00042001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 43.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DENRWE00042002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DENRWE00042003",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Krefeld",
+    "street": "Gutenbergstraße",
+    "houseNumber": "197",
+    "postcode": "47804",
+    "province": null
+  },
+  "openingHours": null
+}

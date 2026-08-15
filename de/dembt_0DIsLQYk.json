@@ -4,6 +4,17 @@
   "name": "mblty Bremgarten",
   "evses": [
     {
+      "id": "DEMBTESO1702DC0022",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEMBTESO1702DC0021",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DEMBTESO1702DC0012",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMBTESO1702DC0022",
       "connectors": [
         {
           "type": "ccs",

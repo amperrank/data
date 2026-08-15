@@ -1,21 +1,10 @@
 {
   "operatorId": "DE*ODE",
   "geohash": "0GME2hv3",
-  "name": "DC-10021-02",
+  "name": "DC-10021-01",
   "evses": [
     {
-      "id": "DEODEEDC100210101",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEODEEDC100210102",
+      "id": "DEODEEDC100210204",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEODEEDC100210204",
+      "id": "DEODEEDC100210101",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEODEEDC100210102",
       "connectors": [
         {
           "type": "ccs",

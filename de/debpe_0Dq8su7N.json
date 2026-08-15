@@ -4,6 +4,17 @@
   "name": "Aral pulse Brucker Straße 34",
   "evses": [
     {
+      "id": "DEBPEE0FE960103",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEBPEE0FE960102",
       "connectors": [
         {
@@ -15,7 +26,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FE960103",
+      "id": "DEBPEE0FE960101",
       "connectors": [
         {
           "type": "ccs",
@@ -37,17 +48,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FE960204",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEBPEE0FE960205",
       "connectors": [
         {
@@ -59,11 +59,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FE960101",
+      "id": "DEBPEE0FE960204",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0FE960102",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,
@@ -86,17 +97,6 @@
         {
           "type": "ccs",
           "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0FE960102",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,

@@ -4,7 +4,7 @@
   "name": "[FL-PUB] Landhandel Josef Eusterbrock - DC - Eichrecht -DE*DES*E1003861",
   "evses": [
     {
-      "id": "DEDESE10038631",
+      "id": "DEDESE10038601",
       "connectors": [
         {
           "type": "ccs",
@@ -26,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEDESE10038601",
+      "id": "DEDESE10038612",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 75.2
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEDESE10038611",
       "connectors": [
         {
           "type": "ccs",
@@ -70,18 +81,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEDESE10038612",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 75.2
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEDESE10038611",
+      "id": "DEDESE10038631",
       "connectors": [
         {
           "type": "ccs",

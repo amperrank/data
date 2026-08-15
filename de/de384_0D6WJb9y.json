@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*384",
+  "geohash": "0D6WJb9y",
+  "name": "EDEKA Ladestation",
+  "evses": [
+    {
+      "id": "DE384E159178CS00011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE384E159178CS00012",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Markt Erlbach",
+    "street": "Nürnberger Str.",
+    "houseNumber": null,
+    "postcode": "91459",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

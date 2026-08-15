@@ -4,22 +4,22 @@
   "name": "DE Hamburg 22111 Horner Landstraße VGRD NW03 (50kW) (öffentlich) (Time) (KKT)",
   "evses": [
     {
-      "id": "DEPOWE01179",
+      "id": "DEPOWE01180",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 75.2
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEPOWE01180",
+      "id": "DEPOWE01179",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 75.2
         }
       ],
       "authMethods": null,

@@ -4,17 +4,6 @@
   "name": "Mühlenhelle",
   "evses": [
     {
-      "id": "DEVIREMUHLENHELLE1",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEVIREMUHLENHELLE3",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DEVIREMUHLENHELLE2",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEVIREMUHLENHELLE1",
       "connectors": [
         {
           "type": "type2",

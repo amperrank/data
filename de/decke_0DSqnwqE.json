@@ -4,11 +4,11 @@
   "name": "Circle K | Saarbruecken Martin-Luther-Str. 21",
   "evses": [
     {
-      "id": "DECKEEXD002493022",
+      "id": "DECKEEXD002493023",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 200.0
+          "type": "ccs",
+          "maxPowerKw": 400.0
         }
       ],
       "authMethods": null,
@@ -27,6 +27,28 @@
     },
     {
       "id": "DECKEEXD002493012",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECKEEXD002493022",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECKEEXD002493021",
       "connectors": [
         {
           "type": "ccs",
@@ -59,7 +81,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECKEEXD002493023",
+      "id": "DECKEEXD002493012",
       "connectors": [
         {
           "type": "ccs",
@@ -81,62 +103,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECKEEXD002493012",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECKEEXD002493021",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DECKEEXD002493011",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECKEEXD002493011",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECKEEXD002493023",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECKEEXD002493012",
       "connectors": [
         {
           "type": "ccs",
@@ -180,55 +147,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DECKEEXD002493011",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DECKEEXD002493012",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECKEEXD002493021",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECKEEXD002493022",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 200.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECKEEXD002493022",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 200.0
         }
       ],
       "authMethods": null,
@@ -246,7 +169,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECKEEXD002493012",
+      "id": "DECKEEXD002493011",
       "connectors": [
         {
           "type": "ccs",
@@ -268,11 +191,88 @@
       "paymentMethods": null
     },
     {
+      "id": "DECKEEXD002493022",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DECKEEXD002493021",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECKEEXD002493012",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECKEEXD002493012",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECKEEXD002493021",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECKEEXD002493023",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECKEEXD002493011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECKEEXD002493022",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 200.0
         }
       ],
       "authMethods": null,

@@ -1,0 +1,243 @@
+[
+  {
+    "operatorId": {
+      "countryCode": "DE",
+      "cpo": "QRM"
+    },
+    "currency": "EUR",
+    "validFrom": null,
+    "validTo": null,
+    "updatedAt": "2026-08-15T00:00:00.000",
+    "description": "Day rate (07:00–21:00) and night rate (21:00–07:00). Infrastructure (time) fee is the same for AC and DC charging. Energy price varies by city: 0,49 €/kWh (58 cities); 0,51 €/kWh (1 city: Berlin); 0,48 €/kWh (1 city: Hamburg). Representative median 0,49 €/kWh (range 0,48–0,51 €/kWh across 717 German stations).",
+    "tiers": [
+      {
+        "id": "day",
+        "name": "Day rate",
+        "role": "standard",
+        "subscriptionFee": null,
+        "requiresMembership": false,
+        "applicableHours": {
+          "isOpen247": false,
+          "regularHours": [
+            {
+              "weekday": 1,
+              "periodBegin": {
+                "hour": 7,
+                "minute": 0
+              },
+              "periodEnd": {
+                "hour": 21,
+                "minute": 0
+              }
+            },
+            {
+              "weekday": 2,
+              "periodBegin": {
+                "hour": 7,
+                "minute": 0
+              },
+              "periodEnd": {
+                "hour": 21,
+                "minute": 0
+              }
+            },
+            {
+              "weekday": 3,
+              "periodBegin": {
+                "hour": 7,
+                "minute": 0
+              },
+              "periodEnd": {
+                "hour": 21,
+                "minute": 0
+              }
+            },
+            {
+              "weekday": 4,
+              "periodBegin": {
+                "hour": 7,
+                "minute": 0
+              },
+              "periodEnd": {
+                "hour": 21,
+                "minute": 0
+              }
+            },
+            {
+              "weekday": 5,
+              "periodBegin": {
+                "hour": 7,
+                "minute": 0
+              },
+              "periodEnd": {
+                "hour": 21,
+                "minute": 0
+              }
+            },
+            {
+              "weekday": 6,
+              "periodBegin": {
+                "hour": 7,
+                "minute": 0
+              },
+              "periodEnd": {
+                "hour": 21,
+                "minute": 0
+              }
+            },
+            {
+              "weekday": 7,
+              "periodBegin": {
+                "hour": 7,
+                "minute": 0
+              },
+              "periodEnd": {
+                "hour": 21,
+                "minute": 0
+              }
+            }
+          ]
+        },
+        "description": null,
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 0.49,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null,
+            "minPricePerUnit": 0.48,
+            "maxPricePerUnit": 0.51
+          },
+          {
+            "type": "time",
+            "pricePerUnit": 0.02,
+            "unit": "min",
+            "minPowerKw": null,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          }
+        ]
+      },
+      {
+        "id": "night",
+        "name": "Night rate",
+        "role": "secondary",
+        "subscriptionFee": null,
+        "requiresMembership": false,
+        "applicableHours": {
+          "isOpen247": false,
+          "regularHours": [
+            {
+              "weekday": 1,
+              "periodBegin": {
+                "hour": 21,
+                "minute": 0
+              },
+              "periodEnd": {
+                "hour": 7,
+                "minute": 0
+              }
+            },
+            {
+              "weekday": 2,
+              "periodBegin": {
+                "hour": 21,
+                "minute": 0
+              },
+              "periodEnd": {
+                "hour": 7,
+                "minute": 0
+              }
+            },
+            {
+              "weekday": 3,
+              "periodBegin": {
+                "hour": 21,
+                "minute": 0
+              },
+              "periodEnd": {
+                "hour": 7,
+                "minute": 0
+              }
+            },
+            {
+              "weekday": 4,
+              "periodBegin": {
+                "hour": 21,
+                "minute": 0
+              },
+              "periodEnd": {
+                "hour": 7,
+                "minute": 0
+              }
+            },
+            {
+              "weekday": 5,
+              "periodBegin": {
+                "hour": 21,
+                "minute": 0
+              },
+              "periodEnd": {
+                "hour": 7,
+                "minute": 0
+              }
+            },
+            {
+              "weekday": 6,
+              "periodBegin": {
+                "hour": 21,
+                "minute": 0
+              },
+              "periodEnd": {
+                "hour": 7,
+                "minute": 0
+              }
+            },
+            {
+              "weekday": 7,
+              "periodBegin": {
+                "hour": 21,
+                "minute": 0
+              },
+              "periodEnd": {
+                "hour": 7,
+                "minute": 0
+              }
+            }
+          ]
+        },
+        "description": null,
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 0.49,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null,
+            "minPricePerUnit": 0.48,
+            "maxPricePerUnit": 0.51
+          },
+          {
+            "type": "time",
+            "pricePerUnit": 0.02,
+            "unit": "min",
+            "minPowerKw": null,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": "pay max 3,60 € for charging time",
+            "applicableHours": null
+          }
+        ]
+      }
+    ]
+  }
+]

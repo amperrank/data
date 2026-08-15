@@ -1,14 +1,36 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0G1JeXYI",
-  "name": "EWE Go Ladestation",
+  "name": "EWE_7407",
   "evses": [
+    {
+      "id": "DE2GOEEWE74071A2",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "182E2E43DA8DEAC200CFDC200B0C7144",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DE2GOEEWE74071A1",
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 7.36
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -19,7 +41,7 @@
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 7.36
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -30,18 +52,7 @@
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE2GOEEWE74071A2",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -51,10 +62,10 @@
   "facilities": null,
   "address": {
     "city": "Bremen",
-    "street": "Bruno-Bürgel-Straße 23",
+    "street": "Bruno-Bürgel-Straße",
     "houseNumber": null,
     "postcode": "28759",
-    "province": "Bremen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

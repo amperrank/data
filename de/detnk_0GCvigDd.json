@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*TNK",
+  "geohash": "0GCvigDd",
+  "name": "[TankE] - Rathausstraße, Bornheim",
+  "evses": [
+    {
+      "id": "DETNKE10037001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNKE10037002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNKE10037003",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Bornheim",
+    "street": "Rathausstraße",
+    "houseNumber": "2",
+    "postcode": "53332",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

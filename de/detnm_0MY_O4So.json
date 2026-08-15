@@ -4,6 +4,17 @@
   "name": "Shell Recharge OBN 3805 - Shell Parkallee",
   "evses": [
     {
+      "id": "DETNMEGL49013805031",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DETNMEGL49013805032",
       "connectors": [
         {
@@ -39,17 +50,6 @@
         {
           "type": "ccs",
           "maxPowerKw": 175.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49013805031",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,

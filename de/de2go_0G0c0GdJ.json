@@ -1,25 +1,36 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0G0c0GdJ",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE0614",
   "evses": [
     {
-      "id": "DE2GOE06142",
+      "id": "DE2GOE06141",
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 7.36
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DE2GOE06141",
+      "id": "E9963E2AE83AF6E4437F45693D62A24D",
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 7.36
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOE06142",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -29,10 +40,10 @@
   "facilities": null,
   "address": {
     "city": "Delmenhorst",
-    "street": "Niedersachsendamm 16",
+    "street": "Niedersachsendamm",
     "houseNumber": null,
     "postcode": "27751",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

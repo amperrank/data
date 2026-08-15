@@ -4,18 +4,7 @@
   "name": "Shell Recharge OBN 5671 - Shell Justus-Von-Liebig-Strasse",
   "evses": [
     {
-      "id": "DETNMEGL49015671021",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49015671011",
+      "id": "DETNMEGL49015671012",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49015671012",
+      "id": "DETNMEGL49015671021",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49015671011",
       "connectors": [
         {
           "type": "ccs",

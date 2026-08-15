@@ -4,6 +4,17 @@
   "name": "Ubitricity Brucknerstraße 4a, links",
   "evses": [
     {
+      "id": "DEUBIE10042500",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEUBIE10048118",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DEUBIE10045280",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEUBIE10042500",
       "connectors": [
         {
           "type": "type2",

@@ -1,8 +1,19 @@
 {
   "operatorId": "DE*VAT",
   "geohash": "0NGKWsin",
-  "name": "DE*VAT*ET184*IT1*4523*005*2",
+  "name": "DE*VAT*ET184*IT1*4523*005*1",
   "evses": [
+    {
+      "id": "DEVATET184IT143230011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 180.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DEVATET184IT143230012",
       "connectors": [
@@ -35,23 +46,12 @@
       ],
       "authMethods": null,
       "paymentMethods": null
-    },
-    {
-      "id": "DEVATET184IT143230011",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 180.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Rövershagen",
-    "street": "Graal-Müritzer Str",
+    "street": "Graal-Müritzer Str.",
     "houseNumber": "30b",
     "postcode": "18182",
     "province": null

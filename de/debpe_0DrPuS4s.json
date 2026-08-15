@@ -4,6 +4,17 @@
   "name": "Aral pulse Inninger Straße 99",
   "evses": [
     {
+      "id": "DEBPEE0FG620204",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEBPEE0FG620205",
       "connectors": [
         {
@@ -15,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FG620101",
+      "id": "DEBPEE0FG620102",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 300.0
+          "type": "chademo",
+          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,
@@ -37,22 +48,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FG620204",
+      "id": "DEBPEE0FG620101",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0FG620102",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,

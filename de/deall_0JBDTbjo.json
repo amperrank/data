@@ -4,17 +4,6 @@
   "name": "Allego - Bergkirchen-GADA A8",
   "evses": [
     {
-      "id": "DEALLEGO0027271",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEALLEGO0027281",
       "connectors": [
         {
@@ -26,11 +15,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0027681",
+      "id": "DEALLEGO0027271",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 150.0
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
@@ -64,6 +53,17 @@
         {
           "type": "ccs",
           "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEALLEGO0027681",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,

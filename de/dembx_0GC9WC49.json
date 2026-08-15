@@ -4,17 +4,6 @@
   "name": "Mercedes-Benz Charging Hub Köln",
   "evses": [
     {
-      "id": "DEMBXE000901",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEMBXE000904",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMBXE000902",
+      "id": "DEMBXE000906",
       "connectors": [
         {
           "type": "ccs",
@@ -48,7 +37,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMBXE000906",
+      "id": "DEMBXE000902",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMBXE000901",
       "connectors": [
         {
           "type": "ccs",

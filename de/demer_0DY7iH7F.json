@@ -4,6 +4,17 @@
   "name": "Mer Germany GmbH Mer Germany (IKEA) - Kaiserslautern - Opelkreisel 3",
   "evses": [
     {
+      "id": "DEMERE01786001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEMERE01786101",
       "connectors": [
         {
@@ -15,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMERE01786602",
+      "id": "DEMERE01786301",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE01786202",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +59,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMERE01786201",
+      "id": "DEMERE01786002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE01786302",
       "connectors": [
         {
           "type": "ccs",
@@ -59,7 +92,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMERE01786202",
+      "id": "DEMERE01786602",
       "connectors": [
         {
           "type": "ccs",
@@ -81,7 +114,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMERE01786002",
+      "id": "DEMERE01785801",
       "connectors": [
         {
           "type": "ccs",
@@ -92,7 +125,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMERE01786501",
+      "id": "DEMERE01786502",
       "connectors": [
         {
           "type": "ccs",
@@ -114,62 +147,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMERE01786302",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE01786001",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE01786301",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE01785801",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE01785901",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE01786502",
+      "id": "DEMERE01786201",
       "connectors": [
         {
           "type": "ccs",
@@ -185,6 +163,28 @@
         {
           "type": "ccs",
           "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE01786501",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE01785901",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,

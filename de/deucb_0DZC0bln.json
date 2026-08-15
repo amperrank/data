@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*UCB",
+  "geohash": "0DZC0bln",
+  "name": "PARDE0304S001",
+  "evses": [
+    {
+      "id": "DEUCBEPARDE0304S0013",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEUCBEPARDE0304S0011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEUCBEPARDE0304S0012",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Hoppstädten-Weiersbach",
+    "street": "Neubrücker Straße",
+    "houseNumber": null,
+    "postcode": "55768",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

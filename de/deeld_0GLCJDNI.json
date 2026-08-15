@@ -4,6 +4,17 @@
   "name": "Electra Wenden - Netto Koblenzer Straße",
   "evses": [
     {
+      "id": "DEELDEHVZY",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEELDEQGER",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DEELDE4WGC",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEELDEHVZY",
       "connectors": [
         {
           "type": "ccs",

@@ -4,6 +4,17 @@
   "name": "V-Modemarkt Schongau",
   "evses": [
     {
+      "id": "DEVIRE197925",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEVIRE197956",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEVIRE197919",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEVIRE197925",
       "connectors": [
         {
           "type": "type2",

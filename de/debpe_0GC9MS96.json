@@ -4,7 +4,7 @@
   "name": "Aral pulse Widdersdorfer Straße 427",
   "evses": [
     {
-      "id": "DEBPEE0FG180102",
+      "id": "DEBPEE0FG180205",
       "connectors": [
         {
           "type": "chademo",
@@ -26,6 +26,17 @@
       "paymentMethods": null
     },
     {
+      "id": "DEBPEE0FG180101",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEBPEE0FG180204",
       "connectors": [
         {
@@ -37,7 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FG180205",
+      "id": "DEBPEE0FG180102",
       "connectors": [
         {
           "type": "chademo",
@@ -49,17 +60,6 @@
     },
     {
       "id": "DEBPEE0FG180103",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0FG180101",
       "connectors": [
         {
           "type": "ccs",

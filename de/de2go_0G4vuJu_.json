@@ -1,19 +1,8 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0G4vuJu_",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE1001001",
   "evses": [
-    {
-      "id": "DE2GOEEWE72511C5",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DE2GOEEWE72511A2",
       "connectors": [
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEEWE72511B3",
+      "id": "DE2GOEEWE72511A1",
       "connectors": [
         {
           "type": "ccs",
@@ -48,6 +37,17 @@
       "paymentMethods": null
     },
     {
+      "id": "DE2GOEEWE72511B3",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DE2GOEEWE72511C6",
       "connectors": [
         {
@@ -59,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEEWE72511D8",
+      "id": "DE2GOEEWE72511C5",
       "connectors": [
         {
           "type": "ccs",
@@ -70,7 +70,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEEWE72511A1",
+      "id": "DE2GOEEWE72511D8",
       "connectors": [
         {
           "type": "ccs",
@@ -95,10 +95,10 @@
   "facilities": null,
   "address": {
     "city": "Wolfenbüttel",
-    "street": "Neuer Weg 28A",
+    "street": "Neuer Weg",
     "houseNumber": null,
     "postcode": "38302",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*ERE",
+  "geohash": "0GCi4BN~",
+  "name": "Euskirchen, Münsterstraße DC",
+  "evses": [
+    {
+      "id": "DEEREE005300R",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEREE005300L",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEREE005300M",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Euskirchen",
+    "street": "Münsterstraße",
+    "houseNumber": "9",
+    "postcode": "53881",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

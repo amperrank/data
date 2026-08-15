@@ -4,7 +4,18 @@
   "name": "Shell Recharge OBN 2822 - Rewe Weisweiler Strasse",
   "evses": [
     {
-      "id": "DETNMEGL49022822011",
+      "id": "DETNMEGL49022822021",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49022822012",
       "connectors": [
         {
           "type": "ccs",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49022822021",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49022822012",
+      "id": "DETNMEGL49022822011",
       "connectors": [
         {
           "type": "ccs",

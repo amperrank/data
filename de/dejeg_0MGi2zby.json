@@ -4,7 +4,18 @@
   "name": "JOLT L00871",
   "evses": [
     {
-      "id": "DEJEGEL008712",
+      "id": "DEJEGEL008701",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEJEGEL008702",
       "connectors": [
         {
           "type": "ccs",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEJEGEL008701",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEJEGEL008702",
+      "id": "DEJEGEL008712",
       "connectors": [
         {
           "type": "ccs",

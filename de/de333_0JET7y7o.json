@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*333",
+  "geohash": "0JET7y7o",
+  "name": "Harderstr. 12 Stadtwerke Ingolstadt - öffentlicher Ladepunkt",
+  "evses": [
+    {
+      "id": "DE333E00179001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE333E00179002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Ingolstadt",
+    "street": "Harderstraße",
+    "houseNumber": "12",
+    "postcode": "85049",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

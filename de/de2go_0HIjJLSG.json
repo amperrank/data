@@ -1,25 +1,36 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0HIjJLSG",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE0345",
   "evses": [
     {
-      "id": "DE2GOE03452",
+      "id": "DE2GOE03451",
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 7.36
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DE2GOE03451",
+      "id": "3EB11E2665E4084A227BCC626CB9BAD8",
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 7.36
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOE03452",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -29,10 +40,10 @@
   "facilities": null,
   "address": {
     "city": "Aurich",
-    "street": "Esenser Straße 140",
+    "street": "Esenser Straße",
     "houseNumber": null,
     "postcode": "26607",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

@@ -4,11 +4,11 @@
   "name": "Lidl Filiale Hürth-Efferen",
   "evses": [
     {
-      "id": "DELDLE00000364",
+      "id": "DELDLE00000365",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -26,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DELDLE00000365",
+      "id": "DELDLE00000364",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "chademo",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

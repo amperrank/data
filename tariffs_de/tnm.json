@@ -1,0 +1,91 @@
+[
+  {
+    "operatorId": {
+      "countryCode": "DE",
+      "cpo": "TNM"
+    },
+    "currency": "EUR",
+    "validFrom": null,
+    "validTo": null,
+    "updatedAt": "2026-08-15T00:00:00.000",
+    "description": null,
+    "tiers": [
+      {
+        "id": "basic",
+        "name": "Shell Recharge Basic",
+        "role": "standard",
+        "subscriptionFee": null,
+        "requiresMembership": false,
+        "applicableHours": null,
+        "description": null,
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 0.59,
+            "minPricePerUnit": 0.59,
+            "maxPricePerUnit": 0.65,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "session",
+            "pricePerUnit": 0.35,
+            "unit": "session",
+            "minPowerKw": null,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.15,
+            "unit": "min",
+            "minPowerKw": null,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": 60,
+            "condition": null,
+            "applicableHours": null
+          }
+        ]
+      },
+      {
+        "id": "edeal",
+        "name": "Shell Recharge e-Deal",
+        "role": "secondary",
+        "subscriptionFee": 5.99,
+        "requiresMembership": true,
+        "applicableHours": null,
+        "description": null,
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 0.44,
+            "minPricePerUnit": 0.44,
+            "maxPricePerUnit": 0.49,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.15,
+            "unit": "min",
+            "minPowerKw": null,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": 60,
+            "condition": null,
+            "applicableHours": null
+          }
+        ]
+      }
+    ]
+  }
+]

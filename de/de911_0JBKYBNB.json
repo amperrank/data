@@ -4,17 +4,6 @@
   "name": "Porsche Sales & Marketplace PZ Olympiapark - WB 5 5 v. l. ab HPC",
   "evses": [
     {
-      "id": "DE911EDE00014100000010000001",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 320.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DE911EDE00148000000010000001",
       "connectors": [
         {
@@ -26,11 +15,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DE911EDE00147900000010000001",
+      "id": "DE911EDE00014100000010000001",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 12.8
+          "type": "ccs",
+          "maxPowerKw": 320.0
         }
       ],
       "authMethods": null,
@@ -42,6 +31,17 @@
         {
           "type": "ccs",
           "maxPowerKw": 320.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE911EDE00147900000010000001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 12.8
         }
       ],
       "authMethods": null,

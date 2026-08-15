@@ -4,10 +4,10 @@
   "name": "Volksbank Raiffeisenbank Dachau eG - DE*DES*E0151",
   "evses": [
     {
-      "id": "DEDESE01513",
+      "id": "DEDESE01512",
       "connectors": [
         {
-          "type": "ccs",
+          "type": "chademo",
           "maxPowerKw": 50.0
         }
       ],
@@ -15,10 +15,10 @@
       "paymentMethods": null
     },
     {
-      "id": "DEDESE01512",
+      "id": "DEDESE01513",
       "connectors": [
         {
-          "type": "chademo",
+          "type": "ccs",
           "maxPowerKw": 50.0
         }
       ],

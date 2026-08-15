@@ -1,7 +1,7 @@
 {
   "operatorId": "DE*DES",
   "geohash": "0GNNj3Eq",
-  "name": "BMW - AHAG Dülmen GmbH",
+  "name": "[FL-PUB] [FHW] - AHAG Münsterland Dülmen - DC - Eichrecht - DE*DES*E1004599",
   "evses": [
     {
       "id": "DEDESE10045992",
@@ -15,11 +15,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEDESE10045991",
+      "id": "DEDESEBMW05562",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 75.2
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -37,11 +37,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEDESEBMW05562",
+      "id": "DEDESE10045991",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 75.2
         }
       ],
       "authMethods": null,

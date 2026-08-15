@@ -4,17 +4,6 @@
   "name": "DE Berlin 10587 Franklinstraße 24 VGRD AZB PP10 (max.100 kW) (öffentlich)",
   "evses": [
     {
-      "id": "DEPOWE01923",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEPOWE01922",
       "connectors": [
         {
@@ -37,7 +26,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPOWE01924",
+      "id": "DEPOWE01921",
       "connectors": [
         {
           "type": "ccs",
@@ -48,7 +37,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPOWE01921",
+      "id": "DEPOWE01923",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE01924",
       "connectors": [
         {
           "type": "ccs",

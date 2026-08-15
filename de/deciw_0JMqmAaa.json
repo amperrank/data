@@ -4,7 +4,18 @@
   "name": "HESKO Arbeitsschutz links",
   "evses": [
     {
-      "id": "DECIWE000326",
+      "id": "DECIWE000327",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECIWE000328",
       "connectors": [
         {
           "type": "type2",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECIWE000327",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECIWE000328",
+      "id": "DECIWE000326",
       "connectors": [
         {
           "type": "type2",

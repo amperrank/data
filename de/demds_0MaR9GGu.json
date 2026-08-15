@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*MDS",
+  "geohash": "0MaR9GGu",
+  "name": "Ladepunkt Kramer Elektro-Anlagen GmbH-öffentlich zugänglich 24/7",
+  "evses": [
+    {
+      "id": "DEMDSE008582",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMDSE014628",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Rangsdorf",
+    "street": "Seebadallee",
+    "houseNumber": "10F",
+    "postcode": "15834",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

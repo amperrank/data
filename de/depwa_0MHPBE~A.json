@@ -1,0 +1,130 @@
+{
+  "operatorId": "DE*PWA",
+  "geohash": "0MHPBE~A",
+  "name": "Pfalzwerke Ladestation (GLOBUS Baumarkt)",
+  "evses": [
+    {
+      "id": "DEPWAEALP22539X0182001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPWAEALP22539X0182002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPWAEALP22539X0181901",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPWAEALP22539X0181902",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Dessau-Roßlau",
+    "street": "Schlagbreite",
+    "houseNumber": null,
+    "postcode": "06842",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": false,
+    "regularHours": [
+      {
+        "weekday": 3,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 30
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 30
+        }
+      },
+      {
+        "weekday": 1,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 30
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 30
+        }
+      },
+      {
+        "weekday": 2,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 30
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 30
+        }
+      },
+      {
+        "weekday": 4,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 30
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 30
+        }
+      },
+      {
+        "weekday": 5,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 30
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 30
+        }
+      },
+      {
+        "weekday": 6,
+        "periodBegin": {
+          "hour": 6,
+          "minute": 30
+        },
+        "periodEnd": {
+          "hour": 20,
+          "minute": 30
+        }
+      }
+    ]
+  }
+}

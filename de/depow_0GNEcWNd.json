@@ -4,6 +4,17 @@
   "name": "DE Reken 48734 Aeckern 2a Autohaus Pellmann Wallbox (SN:230222158) öffentlich",
   "evses": [
     {
+      "id": "DEPOWE03256",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 49.9
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEPOWE03258",
       "connectors": [
         {
@@ -20,17 +31,6 @@
         {
           "type": "type2",
           "maxPowerKw": 11.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEPOWE03256",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 49.9
         }
       ],
       "authMethods": null,

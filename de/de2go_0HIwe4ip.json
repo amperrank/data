@@ -1,10 +1,21 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0HIwe4ip",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE1000615",
   "evses": [
     {
       "id": "DE2GOEEWE76211A2",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "CD13EECE0B0B7215A13B50EBFD22B0B8",
       "connectors": [
         {
           "type": "ccs",
@@ -29,10 +40,10 @@
   "facilities": null,
   "address": {
     "city": "Dornum",
-    "street": "Bensjücher Weg 1",
+    "street": "Bensjücher Weg",
     "houseNumber": null,
     "postcode": "26553",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

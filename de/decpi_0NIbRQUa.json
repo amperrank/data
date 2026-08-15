@@ -4,17 +4,6 @@
   "name": "BRINKMANN STV-3",
   "evses": [
     {
-      "id": "DECPIE69900952",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.08
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DECPIE69900852",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DECPIE69900851",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.08
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE69900952",
       "connectors": [
         {
           "type": "type2",

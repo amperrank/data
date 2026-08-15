@@ -4,6 +4,17 @@
   "name": "Allego - Kleinostheim A3",
   "evses": [
     {
+      "id": "DEALLEGO0026682",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEALLEGO0026681",
       "connectors": [
         {
@@ -26,6 +37,17 @@
       "paymentMethods": null
     },
     {
+      "id": "DEALLEGO0026672",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEALLEGO0026661",
       "connectors": [
         {
@@ -37,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0026672",
+      "id": "DEALLEGO0026662",
       "connectors": [
         {
           "type": "ccs",
@@ -53,28 +75,6 @@
         {
           "type": "ccs",
           "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEALLEGO0026682",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEALLEGO0026662",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,

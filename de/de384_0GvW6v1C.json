@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*384",
+  "geohash": "0GvW6v1C",
+  "name": "EDEKA Ladestation",
+  "evses": [
+    {
+      "id": "DE384E177047CS00012",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE384E177047CS00011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Osterwieck",
+    "street": "An der Zuckerfabrik",
+    "houseNumber": null,
+    "postcode": "38835",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

@@ -4,22 +4,22 @@
   "name": "Ladestation Hans Stockmar GmbH & Co KG - 100% Ökostrom",
   "evses": [
     {
-      "id": "ATHTBE1001200",
+      "id": "ATHTBE1001199",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "ATHTBE1001199",
+      "id": "ATHTBE1001200",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

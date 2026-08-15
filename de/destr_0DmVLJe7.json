@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*STR",
+  "geohash": "0DmVLJe7",
+  "name": "Haldenrainstr 23/1/ LADE/ DC",
+  "evses": [
+    {
+      "id": "DESTRE10300001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DESTRE10300002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Stuttgart",
+    "street": "Haldenrainstr",
+    "houseNumber": "23",
+    "postcode": "70435",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

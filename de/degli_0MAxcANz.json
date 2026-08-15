@@ -4,18 +4,7 @@
   "name": "Jena Wallboxnetzwerk AC 22kW",
   "evses": [
     {
-      "id": "DEGLIE100100167",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEGLIE100100165",
+      "id": "DEGLIE100100166",
       "connectors": [
         {
           "type": "type2",
@@ -37,11 +26,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEGLIE100100166",
+      "id": "DEGLIE100100165",
       "connectors": [
         {
           "type": "type2",
           "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGLIE100100167",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

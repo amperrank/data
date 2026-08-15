@@ -4,17 +4,6 @@
   "name": "Druckerei Dämmig - links",
   "evses": [
     {
-      "id": "DECIWE000871",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DECIWE000870",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DECIWE000869",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECIWE000871",
       "connectors": [
         {
           "type": "type2",

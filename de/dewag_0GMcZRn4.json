@@ -4,17 +4,6 @@
   "name": "Westfalen AG - Recklinghausen",
   "evses": [
     {
-      "id": "DEWAGEE0316",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEWAGEE0315",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DEWAGEE0315",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEWAGEE0316",
       "connectors": [
         {
           "type": "ccs",

@@ -1,25 +1,25 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0HKeIYqX",
-  "name": "EWE Go Ladestation",
+  "name": "EWE_8102_1A",
   "evses": [
     {
-      "id": "DE2GOEEWE81021A1",
+      "id": "DE2GOEEWE81021A2",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 49.95
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEEWE81021A2",
+      "id": "DE2GOEEWE81021A1",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 49.95
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -29,10 +29,10 @@
   "facilities": null,
   "address": {
     "city": "Wangerland",
-    "street": "Mellumweg 4",
+    "street": "Mellumweg",
     "houseNumber": null,
     "postcode": "26434",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

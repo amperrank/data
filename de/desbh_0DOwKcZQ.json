@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*SBH",
+  "geohash": "0DOwKcZQ",
+  "name": "Ladesäule Stadtwerke Bühl (Parkplatz)",
+  "evses": [
+    {
+      "id": "DESBHE020001001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 43.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DESBHE020001002",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DESBHE020001003",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Bühl",
+    "street": "Siemensstraße",
+    "houseNumber": "5",
+    "postcode": "77815",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

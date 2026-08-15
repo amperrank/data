@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*EIC",
+  "geohash": "0Gp3amzy",
+  "name": "EIC000009-Dingelstädt, AH Iffland",
+  "evses": [
+    {
+      "id": "DEGUCEEIC0018",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 24.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGUCEEIC0017",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Dingelstädt",
+    "street": "Mühlhäuser Straße",
+    "houseNumber": null,
+    "postcode": "37351",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

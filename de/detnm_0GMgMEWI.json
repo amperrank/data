@@ -4,18 +4,7 @@
   "name": "Shell Recharge OBN 3564 - Shell Enneper Strasse",
   "evses": [
     {
-      "id": "DETNMEGL49013564011",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49013564022",
+      "id": "DETNMEGL49013564021",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49013564021",
+      "id": "DETNMEGL49013564011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49013564022",
       "connectors": [
         {
           "type": "ccs",

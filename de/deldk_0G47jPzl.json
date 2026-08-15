@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*LDK",
+  "geohash": "0G47jPzl",
+  "name": "BS|ENERGY Okerinsel",
+  "evses": [
+    {
+      "id": "DELDKE00154",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELDKE00155",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Braunschweig",
+    "street": "Friedrich-Wilhelm-Platz",
+    "houseNumber": "0",
+    "postcode": "38100",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

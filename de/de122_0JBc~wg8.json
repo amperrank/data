@@ -4,6 +4,17 @@
   "name": "BK Reichertshausen",
   "evses": [
     {
+      "id": "DE122E0000073",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 43.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DE122E0000075",
       "connectors": [
         {
@@ -29,17 +40,6 @@
       "id": "DE122E0000073",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 43.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE122E0000075",
-      "connectors": [
-        {
           "type": "ccs",
           "maxPowerKw": 50.0
         }
@@ -48,7 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DE122E0000073",
+      "id": "DE122E0000075",
       "connectors": [
         {
           "type": "ccs",

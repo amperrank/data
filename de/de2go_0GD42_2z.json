@@ -1,19 +1,8 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0GD42_2z",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0591",
   "evses": [
-    {
-      "id": "DE2GOEMCD05331A1",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DE2GOEMCD05331B4",
       "connectors": [
@@ -27,6 +16,28 @@
     },
     {
       "id": "DE2GOEMCD05331B3",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD05331A1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "2F734E12E4B4841B7BDCAE94FC407EDC",
       "connectors": [
         {
           "type": "ccs",
@@ -51,10 +62,10 @@
   "facilities": null,
   "address": {
     "city": "Hilden",
-    "street": "Diekhaus 2",
+    "street": "Diekhaus",
     "houseNumber": null,
     "postcode": "40724",
-    "province": "Nordrhein-Westfalen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

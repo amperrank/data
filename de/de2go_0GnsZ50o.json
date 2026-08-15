@@ -1,21 +1,10 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0GnsZ50o",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE1000716",
   "evses": [
     {
-      "id": "DE2GOEEWE71891B3",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE2GOEEWE71891B4",
+      "id": "DE2GOEEWE71891A1",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEEWE71891A1",
+      "id": "DE2GOEEWE71891B4",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEEWE71891B3",
       "connectors": [
         {
           "type": "ccs",
@@ -51,10 +51,10 @@
   "facilities": null,
   "address": {
     "city": "Dassel",
-    "street": "Ilmenstraße 1C",
+    "street": "Ilmestraße",
     "houseNumber": null,
     "postcode": "37586",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

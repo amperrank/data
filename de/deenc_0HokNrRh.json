@@ -4,17 +4,6 @@
   "name": "enercity AG enercity - Glinde Kaposvar-Spange/Heizwerk - 002",
   "evses": [
     {
-      "id": "DEENCELA000629001A",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEENCELA000629002B",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DEENCELA000629001B",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEENCELA000629001A",
       "connectors": [
         {
           "type": "type2",

@@ -1,25 +1,14 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0Gfjk9n2",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE7201",
   "evses": [
     {
       "id": "DE2GOE72011",
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 14.49
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE2GOE72013",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "maxPowerKw": 43.0
         }
       ],
       "authMethods": null,
@@ -35,15 +24,26 @@
       ],
       "authMethods": null,
       "paymentMethods": null
+    },
+    {
+      "id": "DE2GOE72013",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Oldenburg",
-    "street": "Berliner Platz 1",
+    "street": "Berliner Platz",
     "houseNumber": null,
-    "postcode": "26122",
-    "province": "Niedersachsen"
+    "postcode": "26123",
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

@@ -4,6 +4,17 @@
   "name": "Westfalen Ladestation Fehmarn Strandcamping",
   "evses": [
     {
+      "id": "DEWAGEE0323",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEWAGEE0324",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEWAGEE0322",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEWAGEE0323",
       "connectors": [
         {
           "type": "type2",

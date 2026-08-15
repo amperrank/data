@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*HST",
+  "geohash": "0NNvpzgY",
+  "name": "Stadtwerke Stralsund 18556 Altenkirchen, Marktstraße 6",
+  "evses": [
+    {
+      "id": "DEHSTE12346436841",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEHSTE12346436842",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Altenkirchen",
+    "street": "Marktstraße",
+    "houseNumber": "6",
+    "postcode": "18556",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

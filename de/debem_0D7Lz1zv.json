@@ -4,17 +4,6 @@
   "name": "Ladestation Wirtschaft von Johann Gerner",
   "evses": [
     {
-      "id": "DEBEME0010850",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEBEME0010478",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DEBEME0010514",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBEME0010850",
       "connectors": [
         {
           "type": "type2",

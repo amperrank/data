@@ -4,6 +4,17 @@
   "name": "[FL-PUB] Fritzmeier Composite GmbH & Co. KG - Bruckmühl-Hinrichssegen - DC - Eichrecht - DE*DES*E1005192",
   "evses": [
     {
+      "id": "DEDESE10019881",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEDESE10019882",
       "connectors": [
         {
@@ -20,17 +31,6 @@
         {
           "type": "ccs",
           "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEDESE10019881",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

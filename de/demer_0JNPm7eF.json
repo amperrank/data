@@ -4,6 +4,17 @@
   "name": "Mer Germany GmbH Mer Germany GmbH - Patersdorf - Kichensteg 1 #2",
   "evses": [
     {
+      "id": "DEMERE00079301",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEMERE00672201",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DEMERE00672202",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE00079301",
       "connectors": [
         {
           "type": "type2",

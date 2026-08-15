@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*MWE",
+  "geohash": "0GDeN0hd",
+  "name": "mw autostrom Ladestation (Stadtwerke Meerbusch) 23",
+  "evses": [
+    {
+      "id": "DEMWEE2366453001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMWEE2366453002",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Meerbusch",
+    "street": "Kaarster straße",
+    "houseNumber": "135",
+    "postcode": "40670",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

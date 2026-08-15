@@ -4,6 +4,17 @@
   "name": "WERNKE STATION 2",
   "evses": [
     {
+      "id": "DECPIE66629552",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DECPIE66631752",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DECPIE66629551",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE66629552",
       "connectors": [
         {
           "type": "type2",

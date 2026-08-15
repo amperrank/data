@@ -4,6 +4,17 @@
   "name": "CPF 1 STATION_02",
   "evses": [
     {
+      "id": "DECPIE68166752",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.08
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DECPIE68166751",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DECPIE68166851",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.08
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE68166752",
       "connectors": [
         {
           "type": "type2",

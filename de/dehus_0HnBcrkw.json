@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*HUS",
+  "geohash": "0HnBcrkw",
+  "name": "HU003",
+  "evses": [
+    {
+      "id": "DEHUSEHU00302",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEHUSEHU00301",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Viöl",
+    "street": "Westermarkt",
+    "houseNumber": null,
+    "postcode": "25884",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

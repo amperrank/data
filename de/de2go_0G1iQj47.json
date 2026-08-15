@@ -1,19 +1,8 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0G1iQj47",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0812",
   "evses": [
-    {
-      "id": "DE2GOEMCD15332A3",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DE2GOEMCD15332A4",
       "connectors": [
@@ -26,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEMCD15332B6",
+      "id": "DE2GOEMCD15332A3",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOEMCD15331A1",
       "connectors": [
         {
           "type": "ccs",
@@ -48,7 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DE2GOEMCD15331A1",
+      "id": "DE2GOEMCD15332B6",
       "connectors": [
         {
           "type": "ccs",
@@ -73,10 +73,10 @@
   "facilities": null,
   "address": {
     "city": "Bremen",
-    "street": "Haferwende 26",
+    "street": "Haferwende",
     "houseNumber": null,
     "postcode": "28357",
-    "province": "Bremen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

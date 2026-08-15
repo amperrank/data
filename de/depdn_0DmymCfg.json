@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*PDN",
+  "geohash": "0DmymCfg",
+  "name": "Pfalzwerke Ladestation (Deutschlandnetz)",
+  "evses": [
+    {
+      "id": "DEPDNEALP22541X0164201",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPDNEALP22541X0164202",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Göppingen",
+    "street": "Hohenstaufenblick",
+    "houseNumber": null,
+    "postcode": "73035",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

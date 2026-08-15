@@ -4,11 +4,11 @@
   "name": "Lidl Filiale Marktheidenfeld",
   "evses": [
     {
-      "id": "DELDLE00003964",
+      "id": "DELDLE00003966",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 43.0
+          "type": "chademo",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -26,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DELDLE00003966",
+      "id": "DELDLE00003964",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 43.0
         }
       ],
       "authMethods": null,

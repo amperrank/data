@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*384",
+  "geohash": "0DvURnXh",
+  "name": "EDEKA Ladestation",
+  "evses": [
+    {
+      "id": "DE384E154495CS00011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE384E154495CS00012",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Bechhofen",
+    "street": "Ansbacher Str.",
+    "houseNumber": null,
+    "postcode": "91572",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

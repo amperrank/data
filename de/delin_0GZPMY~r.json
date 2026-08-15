@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*LIN",
+  "geohash": "0GZPMY~r",
+  "name": "Stadtwerke Lingen - Kundenparkplatz",
+  "evses": [
+    {
+      "id": "DELINEN111",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELINEN112",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Lingen (Ems)",
+    "street": "Böhmerhof",
+    "houseNumber": "1",
+    "postcode": "49808",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

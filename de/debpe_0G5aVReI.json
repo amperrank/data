@@ -4,7 +4,18 @@
   "name": "Aral pulse Braunschw. Heerstraße 79",
   "evses": [
     {
-      "id": "DEBPEE0F2780308",
+      "id": "DEBPEE0F2780409",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0F2780410",
       "connectors": [
         {
           "type": "ccs",
@@ -26,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0F2780410",
+      "id": "DEBPEE0F2780308",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0F2780307",
+      "id": "DEBPEE0F2780204",
       "connectors": [
         {
           "type": "ccs",
@@ -59,7 +70,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0F2780409",
+      "id": "DEBPEE0F2780307",
       "connectors": [
         {
           "type": "ccs",
@@ -70,7 +81,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0F2780204",
+      "id": "DEBPEE0F2780101",
       "connectors": [
         {
           "type": "ccs",
@@ -93,17 +104,6 @@
     },
     {
       "id": "DEBPEE0F2780103",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0F2780101",
       "connectors": [
         {
           "type": "ccs",

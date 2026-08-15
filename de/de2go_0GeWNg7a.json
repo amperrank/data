@@ -1,10 +1,21 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0GeWNg7a",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0679",
   "evses": [
     {
       "id": "DE2GOEMCD10581A1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "343F2E056624DB0E924827F9D39B9682",
       "connectors": [
         {
           "type": "ccs",
@@ -29,10 +40,10 @@
   "facilities": null,
   "address": {
     "city": "Friesoythe",
-    "street": "Huntestraße 4",
+    "street": "Huntestraße",
     "houseNumber": null,
     "postcode": "26169",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

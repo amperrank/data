@@ -4,7 +4,7 @@
   "name": "Allego - Gartencenter Wassenaar Bremerhaven",
   "evses": [
     {
-      "id": "DEALLEGO0016931",
+      "id": "DEALLEGO0016932",
       "connectors": [
         {
           "type": "type2",
@@ -15,11 +15,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0016932",
+      "id": "DEALLEGO0031352",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 7.36
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,
@@ -37,11 +37,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0031352",
+      "id": "DEALLEGO0016931",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 150.0
+          "type": "type2",
+          "maxPowerKw": 7.36
         }
       ],
       "authMethods": null,

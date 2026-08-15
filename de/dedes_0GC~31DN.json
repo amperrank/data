@@ -4,22 +4,22 @@
   "name": "[FL-PUB] Procar Automobile GmbH & Co. KG Köln - DC - Eichrecht - DE*DES*E1002970",
   "evses": [
     {
-      "id": "DEDESE10029702",
+      "id": "DEDESE10029701",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 75.2
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEDESE10029701",
+      "id": "DEDESE10029702",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 75.2
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

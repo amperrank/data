@@ -4,6 +4,17 @@
   "name": "BOERJES H-D DC SCHNELLLADER",
   "evses": [
     {
+      "id": "DECPIE64929451",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 24.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DECPIE64640851",
       "connectors": [
         {
@@ -20,17 +31,6 @@
         {
           "type": "type2",
           "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE64929451",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 24.0
         }
       ],
       "authMethods": null,

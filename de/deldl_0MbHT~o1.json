@@ -4,22 +4,22 @@
   "name": "Lidl Filiale Berlin-Lichtenberg-HsH",
   "evses": [
     {
-      "id": "DELDLE00001231",
+      "id": "DELDLE00001233",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DELDLE00001233",
+      "id": "DELDLE00001231",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

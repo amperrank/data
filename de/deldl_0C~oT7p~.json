@@ -4,11 +4,11 @@
   "name": "Lidl Garmisch-Partenkirchen",
   "evses": [
     {
-      "id": "DELDLE00010663",
+      "id": "DELDLE00010662",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 60.0
+          "type": "type2",
+          "maxPowerKw": 11.0
         }
       ],
       "authMethods": null,
@@ -26,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DELDLE00010662",
+      "id": "DELDLE00010663",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 11.0
+          "type": "ccs",
+          "maxPowerKw": 60.0
         }
       ],
       "authMethods": null,

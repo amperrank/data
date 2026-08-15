@@ -4,17 +4,6 @@
   "name": "GELSENWASSER AG Charging Station",
   "evses": [
     {
-      "id": "DEGWEEAC1178",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEGWEEAC1166",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEGWEEAC1165",
+      "id": "DEGWEEAC1178",
       "connectors": [
         {
           "type": "type2",
@@ -38,6 +27,17 @@
     },
     {
       "id": "DEGWEEAC1177",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGWEEAC1165",
       "connectors": [
         {
           "type": "type2",

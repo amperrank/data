@@ -4,22 +4,22 @@
   "name": "[FL-PUB] Autohaus Müller Wittenberg GmbH - Eichrecht SAM - DC - DE*DES*E1003064",
   "evses": [
     {
-      "id": "DEDESE10030642",
+      "id": "DEDESE10030641",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEDESE10030641",
+      "id": "DEDESE10030642",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

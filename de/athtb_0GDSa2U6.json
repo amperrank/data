@@ -1,19 +1,8 @@
 {
   "operatorId": "AT*HTB",
   "geohash": "0GDSa2U6",
-  "name": "SbPgTest1_2",
+  "name": "SbRdTest1_1",
   "evses": [
-    {
-      "id": "ATHTBESBPGTEST121",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "ATHTBESBRDTEST111",
       "connectors": [
@@ -35,12 +24,23 @@
       ],
       "authMethods": null,
       "paymentMethods": null
+    },
+    {
+      "id": "ATHTBESBPGTEST121",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Mönchengladbach",
-    "street": "Breite Str",
+    "street": "Breite Straße",
     "houseNumber": "132",
     "postcode": "41238",
     "province": null

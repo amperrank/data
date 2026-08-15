@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*PSG",
+  "geohash": "0C9y4Ddr",
+  "name": "Ö_Sulzberg_Friedhof",
+  "evses": [
+    {
+      "id": "DEPSGE00035001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPSGE00035002",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Sulzberg",
+    "street": "Sonthofener Str.",
+    "houseNumber": "3",
+    "postcode": "87477",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

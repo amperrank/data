@@ -4,17 +4,6 @@
   "name": "MTG262838",
   "evses": [
     {
-      "id": "ATHTBE1024608",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 120.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "ATHTBEE1024607",
       "connectors": [
         {
@@ -26,7 +15,29 @@
       "paymentMethods": null
     },
     {
+      "id": "ATHTBE1024608",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 120.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "ATHTBE1024597",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "ATHTBE1024601",
       "connectors": [
         {
           "type": "type2",
@@ -71,17 +82,6 @@
     },
     {
       "id": "ATHTBE1024598",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "ATHTBE1024601",
       "connectors": [
         {
           "type": "type2",

@@ -4,17 +4,6 @@
   "name": "TotalEnergies | RewePenny | Bremen | Kalmsweg 1",
   "evses": [
     {
-      "id": "DETCBE3D9CS452030012",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETCBE3D9CS452030022",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DETCBE3D9CS452030021",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETCBE3D9CS452030012",
       "connectors": [
         {
           "type": "ccs",

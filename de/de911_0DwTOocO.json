@@ -1,8 +1,19 @@
 {
   "operatorId": "DE*911",
   "geohash": "0DwTOocO",
-  "name": "Porsche Sales & Marketplace PZ_Mannheim Wallbox Kundenparkplatz rechts",
+  "name": "Porsche Sales & Marketplace Porsche Zentrum Mannheim HPC Ladesäule 2",
   "evses": [
+    {
+      "id": "DE911EDE00014200000010000001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 475.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DE911EDE00083800000010000001",
       "connectors": [
@@ -24,12 +35,23 @@
       ],
       "authMethods": null,
       "paymentMethods": null
+    },
+    {
+      "id": "DE911EDE00014200000020000001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 475.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Mannheim",
-    "street": "Elsa Brändström-Strasse",
+    "street": "Elsa-Brändström-Straße",
     "houseNumber": "11",
     "postcode": "68229",
     "province": null

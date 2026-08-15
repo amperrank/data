@@ -1,32 +1,21 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0D0vVORt",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE1000095",
   "evses": [
     {
-      "id": "DE2GOENUV00011A2",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE2GOENUV00011B4",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DE2GOENUV00011A1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOENUV00011A2",
       "connectors": [
         {
           "type": "ccs",
@@ -46,15 +35,37 @@
       ],
       "authMethods": null,
       "paymentMethods": null
+    },
+    {
+      "id": "F702DE9F404FD26FAF5CBB740F7ABD1B",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE2GOENUV00011B4",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Alzenau",
-    "street": "Emmy-Noether-Straße 3",
+    "street": "Emmy-Noether-Straße",
     "houseNumber": null,
     "postcode": "63755",
-    "province": "Bayern"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

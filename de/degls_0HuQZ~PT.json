@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*GLS",
+  "geohash": "0HuQZ~PT",
+  "name": "PLOEG0041478",
+  "evses": [
+    {
+      "id": "DEGLSEPLOEG0101",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGLSEPLOEG0102",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Behrensdorf",
+    "street": "Kembs",
+    "houseNumber": null,
+    "postcode": "24321",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

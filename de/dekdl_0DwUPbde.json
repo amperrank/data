@@ -4,11 +4,11 @@
   "name": "Kaufland Mannheim",
   "evses": [
     {
-      "id": "DEKDLE00000235",
+      "id": "DEKDLE00000234",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -26,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00000234",
+      "id": "DEKDLE00000235",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "chademo",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

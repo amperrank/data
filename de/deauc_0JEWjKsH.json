@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*AUC",
+  "geohash": "0JEWjKsH",
+  "name": "Audi Ingolstadt GVZ J Service Training (IN)",
+  "evses": [
+    {
+      "id": "DEAUCETRON80001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 75.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEAUCETRON90017",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEAUCEXXXXXX",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Ingolstadt",
+    "street": "Pascalstraße",
+    "houseNumber": "6",
+    "postcode": "85057",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

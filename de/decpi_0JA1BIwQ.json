@@ -4,6 +4,17 @@
   "name": "PARKWERK CHARGE VEPA 09",
   "evses": [
     {
+      "id": "DECPIE65806451",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DECPIE65806051",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DECPIE71336951",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE65806451",
       "connectors": [
         {
           "type": "type2",

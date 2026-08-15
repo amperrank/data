@@ -1,10 +1,21 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0Ge3SiCt",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEE0129",
   "evses": [
     {
       "id": "DE2GOE01291",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "457FCE2DD7F86AAC88C65EDE75361486",
       "connectors": [
         {
           "type": "type2",
@@ -29,10 +40,10 @@
   "facilities": null,
   "address": {
     "city": "Wardenburg",
-    "street": "Friedrichstraße 16",
+    "street": "Friedrichstraße",
     "houseNumber": null,
     "postcode": "26203",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

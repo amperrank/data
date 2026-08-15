@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*NNX",
+  "geohash": "0HjKCM2y",
+  "name": "Molenkiekergang",
+  "evses": [
+    {
+      "id": "DENNXER30001901",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DENNXER30001902",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Glückstadt",
+    "street": "Molenkiekergang",
+    "houseNumber": null,
+    "postcode": "25348",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

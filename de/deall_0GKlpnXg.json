@@ -4,11 +4,33 @@
   "name": "Allego - Bäckerei Rothe Haiger A45",
   "evses": [
     {
-      "id": "DEALLEGO0021371",
+      "id": "DEALLEGO0021381",
       "connectors": [
         {
           "type": "type2",
           "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEALLEGO0025141",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEALLEGO0025142",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
@@ -37,28 +59,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0025141",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEALLEGO0021382",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEALLEGO0025452",
       "connectors": [
         {
@@ -70,18 +70,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0025142",
+      "id": "DEALLEGO0021371",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 300.0
+          "type": "type2",
+          "maxPowerKw": 7.36
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0021381",
+      "id": "DEALLEGO0021382",
       "connectors": [
         {
           "type": "type2",

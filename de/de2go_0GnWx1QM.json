@@ -1,10 +1,21 @@
 {
   "operatorId": "DE*2GO",
   "geohash": "0GnWx1QM",
-  "name": "EWE Go Ladestation",
+  "name": "DEEWEEMCD0105",
   "evses": [
     {
       "id": "DE2GOEMCD10641A1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "C714CEDE6EE72896F33A9A63C8F13054",
       "connectors": [
         {
           "type": "ccs",
@@ -29,10 +40,10 @@
   "facilities": null,
   "address": {
     "city": "Bad Pyrmont",
-    "street": "Siemensstraße 2",
+    "street": "Siemensstraße",
     "houseNumber": null,
     "postcode": "31812",
-    "province": "Niedersachsen"
+    "province": null
   },
   "openingHours": {
     "isOpen247": true,

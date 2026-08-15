@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*HST",
+  "geohash": "0NMnVCjK",
+  "name": "Stadtwerke Stralsund SWS- öffentlich",
+  "evses": [
+    {
+      "id": "DEHSTE12346431721",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEHSTE12346431722",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Stralsund",
+    "street": "Frankendamm",
+    "houseNumber": "8",
+    "postcode": "18439",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

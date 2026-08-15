@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*BAR",
+  "geohash": "0Gt5lQyh",
+  "name": "PARDE0906S006",
+  "evses": [
+    {
+      "id": "DEBAREPARDE0906S0062",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBAREPARDE0906S0061",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Goslar",
+    "street": "Hildesheimer Straße",
+    "houseNumber": null,
+    "postcode": "38640",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}
