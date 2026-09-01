@@ -4,17 +4,6 @@
   "name": "Shell Recharge OBN 1297 - Shell Rellinger Strasse",
   "evses": [
     {
-      "id": "DETNMEGL49011297012",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGL49011297011",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DETNMEGL49011297021",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49011297012",
       "connectors": [
         {
           "type": "ccs",

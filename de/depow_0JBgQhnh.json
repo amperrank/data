@@ -4,11 +4,22 @@
   "name": "DE VGRD M VW Frankfurter Ring 80807 KP03 öffentlich",
   "evses": [
     {
-      "id": "DEPOWE02582",
+      "id": "DEPOWE02580",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 50.0
+          "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE01585",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -37,22 +48,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPOWE02580",
+      "id": "DEPOWE02582",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 100.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEPOWE01585",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

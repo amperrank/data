@@ -4,22 +4,22 @@
   "name": "DE Schwerin 19061 Hagenower Chaussee OTLG AH Ahnefeld LS1 (öffentlich)",
   "evses": [
     {
-      "id": "DEPOWE02921",
+      "id": "DEPOWE02922",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEPOWE02922",
+      "id": "DEPOWE02921",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

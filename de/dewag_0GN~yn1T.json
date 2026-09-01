@@ -4,17 +4,6 @@
   "name": "Westfalen Ladestation Klinik Hornheide",
   "evses": [
     {
-      "id": "DEWAGEE0363",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEWAGEE0362",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEWAGEE0361",
+      "id": "DEWAGEE0363",
       "connectors": [
         {
           "type": "type2",
@@ -38,6 +27,17 @@
     },
     {
       "id": "DEWAGEE0364",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEWAGEE0361",
       "connectors": [
         {
           "type": "type2",

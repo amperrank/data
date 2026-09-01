@@ -4,6 +4,17 @@
   "name": "FIRMENLADEN Ladepark Eladin",
   "evses": [
     {
+      "id": "DEFLAE10001003951",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEFLAE10001003961",
       "connectors": [
         {
@@ -15,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFLAE10001003951",
+      "id": "DEFLAE10001003962",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEFLAE10001003952",
       "connectors": [
         {
           "type": "ccs",
@@ -37,33 +59,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFLAE10001003962",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 200.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEFLAE12346693182",
       "connectors": [
         {
           "type": "type2",
           "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEFLAE10001003952",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 200.0
         }
       ],
       "authMethods": null,

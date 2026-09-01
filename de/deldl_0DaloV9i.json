@@ -4,6 +4,17 @@
   "name": "Lidl Filiale Neustadt an der Weinstraße",
   "evses": [
     {
+      "id": "DELDLE00004073",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DELDLE00004074",
       "connectors": [
         {
@@ -20,17 +31,6 @@
         {
           "type": "type2",
           "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DELDLE00004073",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

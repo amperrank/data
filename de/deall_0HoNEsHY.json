@@ -4,6 +4,17 @@
   "name": "Allego - Alstercity Hamburg",
   "evses": [
     {
+      "id": "DEALLEGO0016891",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEALLEGO0016861",
       "connectors": [
         {
@@ -26,40 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0016881",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEALLEGO0016891",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEALLEGO0016892",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEALLEGO0027621",
+      "id": "DEALLEGO0027632",
       "connectors": [
         {
           "type": "ccs",
@@ -70,7 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0016882",
+      "id": "DEALLEGO0016852",
       "connectors": [
         {
           "type": "type2",
@@ -92,7 +70,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0016852",
+      "id": "DEALLEGO0016882",
       "connectors": [
         {
           "type": "type2",
@@ -103,11 +81,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0027632",
+      "id": "DEALLEGO0027621",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEALLEGO0016862",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
         }
       ],
       "authMethods": null,
@@ -125,11 +114,66 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0016862",
+      "id": "DEALLEGO0016892",
       "connectors": [
         {
           "type": "type2",
           "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEALLEGO0027642",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEALLEGO0027641",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEALLEGO0027622",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEALLEGO0016881",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEALLEGO0027631",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
@@ -152,50 +196,6 @@
         {
           "type": "type2",
           "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEALLEGO0027631",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEALLEGO0027622",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEALLEGO0027641",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEALLEGO0027642",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,

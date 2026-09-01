@@ -4,11 +4,11 @@
   "name": "Mer Germany GmbH Mer Germany (TuR) - Quickborn - Holmmoor Ost #1",
   "evses": [
     {
-      "id": "DEMERE00109402",
+      "id": "DEMERE00109403",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 50.0
+          "type": "ccs",
+          "maxPowerKw": 112.0
         }
       ],
       "authMethods": null,
@@ -26,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMERE00109403",
+      "id": "DEMERE00109402",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00109401",
       "connectors": [
         {
           "type": "ccs",
@@ -53,17 +64,6 @@
         {
           "type": "type2",
           "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE00109401",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 112.0
         }
       ],
       "authMethods": null,

@@ -4,17 +4,6 @@
   "name": "221990-DN | Bad Freienwalde (Oder) | Am Bahnhof",
   "evses": [
     {
-      "id": "DETCBE3D9CS500110022",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETCBE3D9CS500110012",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DETCBE3D9CS500110011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETCBE3D9CS500110022",
       "connectors": [
         {
           "type": "ccs",

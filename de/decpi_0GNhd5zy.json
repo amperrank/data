@@ -4,17 +4,6 @@
   "name": "ALTHOFF STATION 01 DC",
   "evses": [
     {
-      "id": "DECPIE68906551",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DECPIE68906552",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DECPIE68906052",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE68906551",
       "connectors": [
         {
           "type": "ccs",

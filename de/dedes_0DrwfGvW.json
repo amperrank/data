@@ -4,6 +4,17 @@
   "name": "[FL-PUB] Robert Manhardt Besitz GmbH - Brixener Str. 8 - AC - Eichrecht - DE*DES*E1001946",
   "evses": [
     {
+      "id": "DEDESE10020482",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEDESE10019462",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEDESE10020481",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 11.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEDESE10020482",
       "connectors": [
         {
           "type": "type2",

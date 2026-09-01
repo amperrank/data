@@ -4,17 +4,6 @@
   "name": "Mer Germany GmbH Dittler Industriebeteiligungen GmbH - Landsberg am Lech - Am Penzinger Feld 15",
   "evses": [
     {
-      "id": "DEMERE01781102",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEMERE01781302",
       "connectors": [
         {
@@ -26,22 +15,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMERE00040002",
+      "id": "DEMERE01781102",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 110.0
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEMERE01781201",
+      "id": "DEMERE00040001",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 50.0
+          "maxPowerKw": 110.0
         }
       ],
       "authMethods": null,
@@ -59,7 +48,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMERE00040001",
+      "id": "DEMERE01781201",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00040002",
       "connectors": [
         {
           "type": "ccs",

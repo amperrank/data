@@ -4,22 +4,22 @@
   "name": "Greenflash Charge GS Tank",
   "evses": [
     {
-      "id": "DEGFCE10000984372",
+      "id": "DEGFCE10000984371",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 7.36
+          "type": "ccs",
+          "maxPowerKw": 160.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEGFCE10000984371",
+      "id": "DEGFCE10000984372",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 160.0
+          "type": "type2",
+          "maxPowerKw": 7.36
         }
       ],
       "authMethods": null,

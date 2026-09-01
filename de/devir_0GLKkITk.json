@@ -4,6 +4,17 @@
   "name": "Siepark GmbH",
   "evses": [
     {
+      "id": "DEVIRE309711",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 3.68
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEVIRE309837",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEVIRE309835",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 3.68
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEVIRE309711",
       "connectors": [
         {
           "type": "type2",

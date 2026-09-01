@@ -4,7 +4,18 @@
   "name": "Aral pulse Ingolstädter Straße 164-166",
   "evses": [
     {
-      "id": "DEBPEE0F8950411",
+      "id": "DEBPEE0F8950103",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0F8950204",
       "connectors": [
         {
           "type": "ccs",
@@ -37,17 +48,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0F8950103",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEBPEE0F9850308",
       "connectors": [
         {
@@ -59,7 +59,40 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0F8950204",
+      "id": "DEBPEE0F8950410",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0F8950411",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0F8950205",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0F8950101",
       "connectors": [
         {
           "type": "ccs",
@@ -81,40 +114,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0F8950101",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEBPEE0F8950102",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 100.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0F8950205",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 100.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0F8950410",
       "connectors": [
         {
           "type": "chademo",

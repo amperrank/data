@@ -4,6 +4,17 @@
   "name": "Kaufland Sinzig",
   "evses": [
     {
+      "id": "DEKDLE00000704",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEKDLE00000702",
       "connectors": [
         {
@@ -20,17 +31,6 @@
         {
           "type": "type2",
           "maxPowerKw": 11.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEKDLE00000704",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 60.0
         }
       ],
       "authMethods": null,

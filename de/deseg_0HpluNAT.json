@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*SEG",
+  "geohash": "0HpluNAT",
+  "name": "DESEG1009",
+  "evses": [
+    {
+      "id": "DESEGEDESEG100901",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 75.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DESEGEDESEG100902",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Bad Segeberg",
+    "street": "Leopardstr.",
+    "houseNumber": null,
+    "postcode": "23795",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

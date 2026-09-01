@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*SEG",
+  "geohash": "0HplTxGG",
+  "name": "DESEG1008",
+  "evses": [
+    {
+      "id": "DESEGEDESEG100802",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DESEGEDESEG100801",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 75.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Wahlstedt",
+    "street": "Markt",
+    "houseNumber": null,
+    "postcode": "23812",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

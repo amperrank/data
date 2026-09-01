@@ -4,7 +4,29 @@
   "name": "Shell Recharge OBN 3167 - Redevco Bahnhofstrasse",
   "evses": [
     {
-      "id": "DETNMEGL4902316704",
+      "id": "DETNMEGL4902316705",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL4902316703",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL4902316702",
       "connectors": [
         {
           "type": "ccs",
@@ -37,18 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL4902316702",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL4902316705",
+      "id": "DETNMEGL4902316704",
       "connectors": [
         {
           "type": "ccs",
@@ -60,17 +71,6 @@
     },
     {
       "id": "DETNMEGL4902316701",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL4902316703",
       "connectors": [
         {
           "type": "ccs",

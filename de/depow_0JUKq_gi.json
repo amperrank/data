@@ -4,17 +4,6 @@
   "name": "DE_Motor-Nuetzel_48755_95448_VW_PP02_öffentlich",
   "evses": [
     {
-      "id": "DEPOWE01728",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEPOWE01729",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DEPOWE01730",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE01727",
       "connectors": [
         {
           "type": "type2",
@@ -59,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPOWE01727",
+      "id": "DEPOWE01728",
       "connectors": [
         {
           "type": "type2",

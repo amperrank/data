@@ -4,6 +4,17 @@
   "name": "enercity AG enercity - Theodor-Heuss-Platz / HCC - B01",
   "evses": [
     {
+      "id": "DEENCELA000095001A",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEENCELA000095B01A",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEENCELA000095B01B",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEENCELA000095001A",
       "connectors": [
         {
           "type": "type2",

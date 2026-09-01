@@ -4,18 +4,29 @@
   "name": "CITYWATT - Hofmann GmbH #01",
   "evses": [
     {
-      "id": "DECIWE000699",
+      "id": "DECIWE000700",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 50.0
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DECIWE000702",
+      "id": "DECIWE000699",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECIWE000701",
       "connectors": [
         {
           "type": "type2",
@@ -37,18 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECIWE000700",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECIWE000701",
+      "id": "DECIWE000698",
       "connectors": [
         {
           "type": "type2",
@@ -59,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECIWE000698",
+      "id": "DECIWE000702",
       "connectors": [
         {
           "type": "type2",

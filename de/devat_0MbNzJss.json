@@ -1,7 +1,7 @@
 {
   "operatorId": "DE*VAT",
   "geohash": "0MbNzJss",
-  "name": "DE*VAT*EKBA*25605576*1",
+  "name": "DE*VAT*EKBA*25605574*1",
   "evses": [
     {
       "id": "DEVATEKBA256055771",
@@ -37,6 +37,17 @@
       "paymentMethods": null
     },
     {
+      "id": "DEVATEKBA256189891",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.04
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEVATEKBA256189831",
       "connectors": [
         {
@@ -49,17 +60,6 @@
     },
     {
       "id": "DEVATEKBA256189751",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 11.04
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEVATEKBA256189891",
       "connectors": [
         {
           "type": "type2",

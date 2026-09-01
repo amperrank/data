@@ -4,17 +4,6 @@
   "name": "Eni Station - SIEMENSSTRAßE 1",
   "evses": [
     {
-      "id": "DEPLNEH0014833",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEPLNEH0015021",
       "connectors": [
         {
@@ -48,6 +37,17 @@
       "paymentMethods": null
     },
     {
+      "id": "DEPLNEH0015023",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEPLNEH0014831",
       "connectors": [
         {
@@ -59,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPLNEH0015023",
+      "id": "DEPLNEH0014833",
       "connectors": [
         {
           "type": "ccs",

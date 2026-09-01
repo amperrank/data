@@ -4,21 +4,10 @@
   "name": "Ecotap Peter Plümpe Platz DC-Lader 50KW links",
   "evses": [
     {
-      "id": "NLLMSE17086241",
+      "id": "NLLMSE12347735932",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "NLLMSE17086242",
-      "connectors": [
-        {
-          "type": "type2",
+          "type": "ccs",
           "maxPowerKw": 7.36
         }
       ],
@@ -37,10 +26,21 @@
       "paymentMethods": null
     },
     {
-      "id": "NLLMSE12347735932",
+      "id": "NLLMSE17086241",
       "connectors": [
         {
-          "type": "ccs",
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "NLLMSE17086242",
+      "connectors": [
+        {
+          "type": "type2",
           "maxPowerKw": 7.36
         }
       ],

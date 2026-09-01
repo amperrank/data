@@ -4,17 +4,6 @@
   "name": "Lidl Filiale Ebersdorf",
   "evses": [
     {
-      "id": "DELDLE00005310",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 60.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DELDLE00005309",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DELDLE00005308",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELDLE00005310",
       "connectors": [
         {
           "type": "ccs",

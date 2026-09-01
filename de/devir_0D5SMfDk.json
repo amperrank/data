@@ -4,11 +4,11 @@
   "name": "Spindler Würzburg Skoda Zentrum HYC300",
   "evses": [
     {
-      "id": "DEVIRE250438",
+      "id": "DEVIRE250439",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 150.0
+          "type": "type2",
+          "maxPowerKw": 7.36
         }
       ],
       "authMethods": null,
@@ -26,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEVIRE250439",
+      "id": "DEVIRE250438",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 7.36
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,

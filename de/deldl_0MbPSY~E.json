@@ -4,11 +4,11 @@
   "name": "Lidl Filiale Hönow",
   "evses": [
     {
-      "id": "DELDLE00002974",
+      "id": "DELDLE00002975",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -26,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DELDLE00002975",
+      "id": "DELDLE00002974",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

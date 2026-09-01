@@ -4,6 +4,17 @@
   "name": "DC-0407-01",
   "evses": [
     {
+      "id": "DEODEEDC100140204",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEODEEDC100140203",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DEODEEDC100140102",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEODEEDC100140204",
       "connectors": [
         {
           "type": "ccs",

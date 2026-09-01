@@ -4,17 +4,6 @@
   "name": "Shell Recharge OBN 3188 - Redevco Klein Kienitzer Strasse",
   "evses": [
     {
-      "id": "DETNMEGL49023188012",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGL49023188032",
       "connectors": [
         {
@@ -48,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49023188011",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49023188022",
+      "id": "DETNMEGL49023188012",
       "connectors": [
         {
           "type": "ccs",
@@ -86,6 +64,28 @@
         {
           "type": "ccs",
           "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49023188011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49023188022",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,

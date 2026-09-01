@@ -4,7 +4,18 @@
   "name": "PMG - Parkhaus Taubertsberg",
   "evses": [
     {
-      "id": "DEVIRE271502",
+      "id": "DEVIRE271509",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEVIRE271503",
       "connectors": [
         {
           "type": "type2",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEVIRE271509",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEVIRE271503",
+      "id": "DEVIRE271502",
       "connectors": [
         {
           "type": "type2",

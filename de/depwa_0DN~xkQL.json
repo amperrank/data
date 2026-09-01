@@ -4,28 +4,6 @@
   "name": "Pfalzwerke Ladestation",
   "evses": [
     {
-      "id": "DEPWAETNG22547X0184402",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEPWAETNG22547X0184401",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEPWAEALP22539X0184501",
       "connectors": [
         {
@@ -53,6 +31,28 @@
         {
           "type": "ccs",
           "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPWAETNG22547X0184402",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPWAETNG22547X0184401",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

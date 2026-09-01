@@ -4,17 +4,6 @@
   "name": "Lidl Alsfeld",
   "evses": [
     {
-      "id": "DELDLE00010115",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 60.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DELDLE00010116",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DELDLE00010117",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELDLE00010115",
       "connectors": [
         {
           "type": "ccs",

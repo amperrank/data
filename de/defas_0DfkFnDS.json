@@ -4,7 +4,7 @@
   "name": "Fastned Limburg-Süd",
   "evses": [
     {
-      "id": "DEFASE4900101",
+      "id": "DEFASE4900105",
       "connectors": [
         {
           "type": "ccs",
@@ -15,11 +15,52 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFASE4900112",
+      "id": "DEFASE4900108",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 300.0
+        },
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEFASE4900102",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEFASE4900107",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEFASE4900104",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        },
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -70,70 +111,29 @@
       "paymentMethods": null
     },
     {
+      "id": "DEFASE4900101",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEFASE4900112",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEFASE4900103",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEFASE4900108",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        },
-        {
-          "type": "chademo",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEFASE4900105",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEFASE4900107",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEFASE4900104",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        },
-        {
-          "type": "chademo",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEFASE4900102",
       "connectors": [
         {
           "type": "ccs",

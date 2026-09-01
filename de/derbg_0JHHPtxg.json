@@ -1,30 +1,8 @@
 {
   "operatorId": "DE*RBG",
   "geohash": "0JHHPtxg",
-  "name": "Prüfeninger Str. 5 II",
+  "name": "Prüfeninger Str. 5 I",
   "evses": [
-    {
-      "id": "DERBGE0486",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DERBGE0485",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DERBGE0483",
       "connectors": [
@@ -46,12 +24,34 @@
       ],
       "authMethods": null,
       "paymentMethods": null
+    },
+    {
+      "id": "DERBGE0486",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DERBGE0485",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Regensburg",
-    "street": "Prüfeninger Straße",
+    "street": "Prüfeninger Str.",
     "houseNumber": null,
     "postcode": "93049",
     "province": null

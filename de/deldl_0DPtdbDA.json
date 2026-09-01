@@ -4,6 +4,17 @@
   "name": "Lidl Filiale Wörth",
   "evses": [
     {
+      "id": "DELDLE00005166",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DELDLE00005165",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DELDLE00005164",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 60.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DELDLE00005166",
       "connectors": [
         {
           "type": "ccs",

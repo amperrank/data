@@ -4,33 +4,11 @@
   "name": "VHM Ladestation",
   "evses": [
     {
-      "id": "DEHMSE100033",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEHMSE100019",
+      "id": "DEHMSE100020",
       "connectors": [
         {
           "type": "type2",
           "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEHMSE100034",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
         }
       ],
       "authMethods": null,
@@ -48,11 +26,33 @@
       "paymentMethods": null
     },
     {
-      "id": "DEHMSE100020",
+      "id": "DEHMSE100019",
       "connectors": [
         {
           "type": "type2",
           "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEHMSE100033",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEHMSE100034",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
         }
       ],
       "authMethods": null,

@@ -4,7 +4,7 @@
   "name": "CITYWATT Memmingen #02 - 300kW",
   "evses": [
     {
-      "id": "DECIWE000439",
+      "id": "DECIWE000431",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECIWE000431",
+      "id": "DECIWE000439",
       "connectors": [
         {
           "type": "ccs",
@@ -48,7 +48,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DECIWE000437",
+      "id": "DECIWE000438",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECIWE000432",
       "connectors": [
         {
           "type": "ccs",
@@ -81,18 +92,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECIWE000432",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECIWE000438",
+      "id": "DECIWE000437",
       "connectors": [
         {
           "type": "ccs",

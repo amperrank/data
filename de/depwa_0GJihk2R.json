@@ -4,6 +4,28 @@
   "name": "Pfalzwerke Ladestation (OBI)",
   "evses": [
     {
+      "id": "DEPWAEALP22270X0047702",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPWAEALP22270X0047701",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEPWAEALP22270X0047901",
       "connectors": [
         {
@@ -42,28 +64,6 @@
         {
           "type": "ccs",
           "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEPWAEALP22270X0047702",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEPWAEALP22270X0047701",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,

@@ -4,17 +4,6 @@
   "name": "Kaufland Kirchentellinsfurt",
   "evses": [
     {
-      "id": "DEKDLE00000810",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 60.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEKDLE00000811",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DEKDLE00000812",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEKDLE00000810",
       "connectors": [
         {
           "type": "ccs",

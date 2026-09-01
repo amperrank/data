@@ -4,6 +4,17 @@
   "name": "Mer Germany GmbH Mer Germany (TuR) - Rodgau - Weiskirchen Nord #1",
   "evses": [
     {
+      "id": "DEMERE00010203",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 43.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEMERE00010202",
       "connectors": [
         {
@@ -20,17 +31,6 @@
         {
           "type": "chademo",
           "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE00010203",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 43.0
         }
       ],
       "authMethods": null,

@@ -4,17 +4,6 @@
   "name": "WWG STATION 04",
   "evses": [
     {
-      "id": "DECPIE68354052",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DECPIE68421951",
       "connectors": [
         {
@@ -26,22 +15,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE68280952",
+      "id": "DECPIE68354052",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.08
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DECPIE68281551",
+      "id": "DECPIE68280951",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 300.0
+          "type": "type2",
+          "maxPowerKw": 22.08
         }
       ],
       "authMethods": null,
@@ -70,22 +59,33 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE68280951",
+      "id": "DECPIE68281552",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.08
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DECPIE68281552",
+      "id": "DECPIE68281551",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE68280952",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.08
         }
       ],
       "authMethods": null,

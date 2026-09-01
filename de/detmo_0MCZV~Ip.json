@@ -4,17 +4,6 @@
   "name": "TMO LP4/5 Globus",
   "evses": [
     {
-      "id": "DETMOE11017001",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETMOE11017008",
       "connectors": [
         {
@@ -48,6 +37,17 @@
       "paymentMethods": null
     },
     {
+      "id": "DETMOE11017005",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DETMOE11017011",
       "connectors": [
         {
@@ -59,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETMOE11017002",
+      "id": "DETMOE11017001",
       "connectors": [
         {
           "type": "ccs",
@@ -70,7 +70,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETMOE11017005",
+      "id": "DETMOE11017002",
       "connectors": [
         {
           "type": "ccs",

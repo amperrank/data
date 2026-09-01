@@ -4,17 +4,6 @@
   "name": "e-mobilio AUTO_SERVICE_STANDORT_STEMWEDE",
   "evses": [
     {
-      "id": "DEEMCE12346008151",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEEMCE12346008161",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEMCE12346008152",
+      "id": "DEEMCE12346008151",
       "connectors": [
         {
           "type": "type2",
@@ -42,6 +31,17 @@
         {
           "type": "ccs",
           "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEMCE12346008152",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
         }
       ],
       "authMethods": null,

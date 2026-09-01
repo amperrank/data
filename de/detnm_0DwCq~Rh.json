@@ -4,7 +4,7 @@
   "name": "Shell Recharge OBN 2100 - Shell Am Autobahnzubringer",
   "evses": [
     {
-      "id": "DETNMEGL49012100011",
+      "id": "DETNMEGL49012100012",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49012100041",
+      "id": "DETNMEGL49012100042",
       "connectors": [
         {
           "type": "ccs",
@@ -37,6 +37,17 @@
       "paymentMethods": null
     },
     {
+      "id": "DETNMEGL49012100041",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DETNMEGL49012100032",
       "connectors": [
         {
@@ -48,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49012100012",
+      "id": "DETNMEGL49012100011",
       "connectors": [
         {
           "type": "ccs",
@@ -71,17 +82,6 @@
     },
     {
       "id": "DETNMEGL49012100022",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49012100042",
       "connectors": [
         {
           "type": "ccs",

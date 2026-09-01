@@ -4,17 +4,6 @@
   "name": "Wallbox Autohaus",
   "evses": [
     {
-      "id": "ATHTBE1017070",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "ATHTBE1017069",
       "connectors": [
         {
@@ -26,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "ATHTBE1025324",
+      "id": "ATHTBE1017070",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "ATHTBE1025323",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "ATHTBE1025323",
+      "id": "ATHTBE1025324",
       "connectors": [
         {
           "type": "ccs",

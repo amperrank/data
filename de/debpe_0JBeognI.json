@@ -4,6 +4,17 @@
   "name": "Aral pulse Schroßlacher Straße 2",
   "evses": [
     {
+      "id": "DEBPEE0FG300308",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEBPEE0FG300409",
       "connectors": [
         {
@@ -26,62 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FG300308",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEBPEE0FG300101",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0FG300206",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0FG300410",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0FG300103",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0FG300204",
       "connectors": [
         {
           "type": "ccs",
@@ -108,6 +64,50 @@
         {
           "type": "chademo",
           "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0FG300206",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0FG300103",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0FG300410",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0FG300204",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,

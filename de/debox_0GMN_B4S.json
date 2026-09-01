@@ -4,17 +4,6 @@
   "name": "Parkplatz Ruhr Park, Am Einkaufszentrum; Stadtwerke Bochum",
   "evses": [
     {
-      "id": "DEBOXEDC0001",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEBOXEAC0001",
       "connectors": [
         {
@@ -30,6 +19,17 @@
       "connectors": [
         {
           "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBOXEDC0001",
+      "connectors": [
+        {
+          "type": "ccs",
           "maxPowerKw": 50.0
         }
       ],

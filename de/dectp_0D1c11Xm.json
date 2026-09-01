@@ -4,17 +4,6 @@
   "name": "Contipark Parkhaus Bahnhof Lahnstraße P1",
   "evses": [
     {
-      "id": "DECTPE152100021",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 11.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DECTPE152100041",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECTPE152100011",
+      "id": "DECTPE152100021",
       "connectors": [
         {
           "type": "type2",
@@ -38,6 +27,17 @@
     },
     {
       "id": "DECTPE152100031",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECTPE152100011",
       "connectors": [
         {
           "type": "type2",

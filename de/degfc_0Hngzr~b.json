@@ -4,7 +4,7 @@
   "name": "Greenflash Charge GEWOBA (öffentlich)",
   "evses": [
     {
-      "id": "DEGFCE12347019791",
+      "id": "DEGFCE12347019781",
       "connectors": [
         {
           "type": "type2",
@@ -15,7 +15,29 @@
       "paymentMethods": null
     },
     {
-      "id": "DEGFCE12347019771",
+      "id": "DEGFCE12347019772",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGFCE12347019782",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGFCE12347019761",
       "connectors": [
         {
           "type": "ccs",
@@ -48,18 +70,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEGFCE12347019781",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEGFCE12347019761",
+      "id": "DEGFCE12347019771",
       "connectors": [
         {
           "type": "ccs",
@@ -70,18 +81,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEGFCE12347019772",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEGFCE12347019782",
+      "id": "DEGFCE12347019791",
       "connectors": [
         {
           "type": "type2",

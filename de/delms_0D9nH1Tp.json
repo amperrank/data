@@ -4,6 +4,17 @@
   "name": "Überlandwerk Rhön GmbH ÜWRM MET Streuwiese",
   "evses": [
     {
+      "id": "DELMSE12347883763",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DELMSE12347883761",
       "connectors": [
         {
@@ -20,17 +31,6 @@
         {
           "type": "type2",
           "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DELMSE12347883763",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
         }
       ],
       "authMethods": null,

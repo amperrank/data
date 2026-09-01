@@ -4,6 +4,28 @@
   "name": "Pfalzwerke Ladestation (Deutschlandnetz)",
   "evses": [
     {
+      "id": "DEPDNEALP22541X0176602",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPDNEALP22541X0176601",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEPDNEALP22541X0176801",
       "connectors": [
         {
@@ -38,28 +60,6 @@
     },
     {
       "id": "DEPDNEALP22541X0176402",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEPDNEALP22541X0176602",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEPDNEALP22541X0176601",
       "connectors": [
         {
           "type": "ccs",

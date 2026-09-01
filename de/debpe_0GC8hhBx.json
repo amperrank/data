@@ -4,11 +4,11 @@
   "name": "Aral pulse Luxemburger Straße 58",
   "evses": [
     {
-      "id": "DEBPEE0F9360206",
+      "id": "DEBPEE0F9360102",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 300.0
+          "type": "chademo",
+          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,
@@ -20,6 +20,28 @@
         {
           "type": "ccs",
           "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0F9360206",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0F9360205",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,
@@ -42,28 +64,6 @@
         {
           "type": "ccs",
           "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0F9360205",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 100.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0F9360102",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,

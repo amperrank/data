@@ -4,6 +4,17 @@
   "name": "CITYWATT Weiden #04 - 300kW",
   "evses": [
     {
+      "id": "DECIWE000348",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DECIWE000343",
       "connectors": [
         {
@@ -15,18 +26,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECIWE000344",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECIWE000346",
+      "id": "DECIWE000347",
       "connectors": [
         {
           "type": "ccs",
@@ -48,17 +48,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DECIWE000345",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DECIWE000349",
       "connectors": [
         {
@@ -70,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECIWE000348",
+      "id": "DECIWE000344",
       "connectors": [
         {
           "type": "ccs",
@@ -92,7 +81,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DECIWE000347",
+      "id": "DECIWE000345",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECIWE000346",
       "connectors": [
         {
           "type": "ccs",

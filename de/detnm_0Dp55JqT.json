@@ -4,7 +4,7 @@
   "name": "Shell Recharge OBN 1233 - Shell Robert-Bosch-Strasse",
   "evses": [
     {
-      "id": "DETNMEGL49011233012",
+      "id": "DETNMEGL49011233011",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49011233021",
+      "id": "DETNMEGL49011233031",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +37,29 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49011233011",
+      "id": "DETNMEGL49011233032",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49011233021",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49011233012",
       "connectors": [
         {
           "type": "ccs",

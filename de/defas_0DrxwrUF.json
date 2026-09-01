@@ -4,8 +4,12 @@
   "name": "Fastned Friedberg",
   "evses": [
     {
-      "id": "DEFASE4900303",
+      "id": "DEFASE4900304",
       "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        },
         {
           "type": "ccs",
           "maxPowerKw": 300.0
@@ -30,12 +34,8 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFASE4900304",
+      "id": "DEFASE4900303",
       "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 50.0
-        },
         {
           "type": "ccs",
           "maxPowerKw": 300.0

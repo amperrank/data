@@ -4,17 +4,6 @@
   "name": "WEMAG Steuerbüro Petra Klinner",
   "evses": [
     {
-      "id": "DELMSE117186082",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 4.83
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DELMSE117186042",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DELMSE117186041",
+      "id": "DELMSE117186082",
       "connectors": [
         {
           "type": "type2",
@@ -42,6 +31,17 @@
         {
           "type": "type2",
           "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELMSE117186041",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 4.83
         }
       ],
       "authMethods": null,

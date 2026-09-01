@@ -4,7 +4,22 @@
   "name": "Shell Recharge OBN 2861 - KFC Prenzlauer Promenade",
   "evses": [
     {
-      "id": "DETNMEGL49022861022",
+      "id": "DETNMEGL4901912202",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 70.0
+        },
+        {
+          "type": "ccs",
+          "maxPowerKw": 175.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49022861021",
       "connectors": [
         {
           "type": "ccs",
@@ -26,26 +41,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49022861021",
+      "id": "DETNMEGL49022861022",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL4901912202",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 70.0
-        },
-        {
-          "type": "ccs",
-          "maxPowerKw": 175.0
         }
       ],
       "authMethods": null,

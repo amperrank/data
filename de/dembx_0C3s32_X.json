@@ -4,17 +4,6 @@
   "name": "Mercedes-Benz Charging Hub Weißensberg",
   "evses": [
     {
-      "id": "DEMBXE000202",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEMBXE000205",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DEMBXE000206",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMBXE000203",
       "connectors": [
         {
           "type": "ccs",
@@ -59,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMBXE000203",
+      "id": "DEMBXE000202",
       "connectors": [
         {
           "type": "ccs",

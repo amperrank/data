@@ -4,7 +4,18 @@
   "name": "50five-S DE Fischerberg 2",
   "evses": [
     {
-      "id": "DE505E12347698611",
+      "id": "DE505E12347700061",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE505E12347652781",
       "connectors": [
         {
           "type": "type2",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DE505E12347700061",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE505E12347652781",
+      "id": "DE505E12347698611",
       "connectors": [
         {
           "type": "type2",

@@ -4,17 +4,6 @@
   "name": "TMO LP3/4 Rossmann",
   "evses": [
     {
-      "id": "DETMOE11196002",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETMOE11196001",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETMOE11196003",
+      "id": "DETMOE11196002",
       "connectors": [
         {
           "type": "ccs",
@@ -38,6 +27,17 @@
     },
     {
       "id": "DETMOE11196004",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETMOE11196003",
       "connectors": [
         {
           "type": "ccs",

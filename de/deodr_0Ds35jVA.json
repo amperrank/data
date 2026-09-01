@@ -4,17 +4,6 @@
   "name": "VAF GmbH Mitarbeiterparkplatz Bopfingen",
   "evses": [
     {
-      "id": "DEODRE10001317",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 11.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEODRE10001318",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEODRE10001320",
+      "id": "DEODRE10001317",
       "connectors": [
         {
           "type": "type2",
@@ -38,6 +27,17 @@
     },
     {
       "id": "DEODRE10001319",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEODRE10001320",
       "connectors": [
         {
           "type": "type2",

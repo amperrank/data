@@ -4,22 +4,22 @@
   "name": "Autohaus Barth 150kW",
   "evses": [
     {
-      "id": "DEVIRE217284",
+      "id": "DEVIRE217285",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 150.0
+          "type": "type2",
+          "maxPowerKw": 7.36
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEVIRE217285",
+      "id": "DEVIRE217284",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 7.36
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,

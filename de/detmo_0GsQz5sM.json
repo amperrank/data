@@ -1,21 +1,10 @@
 {
   "operatorId": "DE*TMO",
   "geohash": "0GsQz5sM",
-  "name": "TMO LP5/6 EDEKA",
+  "name": "TMO LP1/2 EDEKA",
   "evses": [
     {
       "id": "DETMOE11007003",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 225.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETMOE11007001",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +26,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETMOE11007005",
+      "id": "DETMOE11007001",
       "connectors": [
         {
           "type": "ccs",
@@ -49,6 +38,17 @@
     },
     {
       "id": "DETMOE11007006",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 225.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETMOE11007005",
       "connectors": [
         {
           "type": "ccs",

@@ -4,6 +4,17 @@
   "name": "Allego - Donau-Einkaufszentrum DEZ Regensburg",
   "evses": [
     {
+      "id": "DEALLEGO0033291",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEALLEGO0036341",
       "connectors": [
         {
@@ -15,11 +26,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0033291",
+      "id": "DEALLEGO0033241",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEALLEGO0038151",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -48,17 +70,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0038151",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEALLEGO0033292",
       "connectors": [
         {
@@ -70,29 +81,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0033241",
+      "id": "DEALLEGO0038162",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 300.0
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0033282",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEALLEGO0036342",
+      "id": "DEALLEGO0033242",
       "connectors": [
         {
           "type": "ccs",
@@ -114,18 +114,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0038162",
+      "id": "DEALLEGO0033282",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 50.0
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0033242",
+      "id": "DEALLEGO0036342",
       "connectors": [
         {
           "type": "ccs",

@@ -4,17 +4,6 @@
   "name": "[FL-PUB] Procar Automobile GmbH Velbert - DC - Eichrecht - DE*DES*E1002972",
   "evses": [
     {
-      "id": "DEDESE10029721",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 75.2
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEDESE10014492",
       "connectors": [
         {
@@ -42,6 +31,17 @@
         {
           "type": "type2",
           "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEDESE10029721",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 75.2
         }
       ],
       "authMethods": null,

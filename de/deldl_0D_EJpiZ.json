@@ -4,17 +4,6 @@
   "name": "Lidl Filiale Zeil am Main",
   "evses": [
     {
-      "id": "DELDLE00005426",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 11.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DELDLE00005425",
       "connectors": [
         {
@@ -31,6 +20,17 @@
         {
           "type": "ccs",
           "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELDLE00005426",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
         }
       ],
       "authMethods": null,

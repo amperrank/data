@@ -4,17 +4,6 @@
   "name": "Kaufland Kreuztal/Westf.",
   "evses": [
     {
-      "id": "DEKDLE00001661",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 11.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEKDLE00001662",
       "connectors": [
         {
@@ -31,6 +20,17 @@
         {
           "type": "ccs",
           "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEKDLE00001661",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
         }
       ],
       "authMethods": null,

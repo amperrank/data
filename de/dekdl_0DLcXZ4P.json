@@ -4,10 +4,10 @@
   "name": "Kaufland Offenburg",
   "evses": [
     {
-      "id": "DEKDLE00000352",
+      "id": "DEKDLE00000351",
       "connectors": [
         {
-          "type": "ccs",
+          "type": "chademo",
           "maxPowerKw": 50.0
         }
       ],
@@ -26,10 +26,10 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00000351",
+      "id": "DEKDLE00000352",
       "connectors": [
         {
-          "type": "chademo",
+          "type": "ccs",
           "maxPowerKw": 50.0
         }
       ],
@@ -46,7 +46,74 @@
     "province": null
   },
   "openingHours": {
-    "isOpen247": true,
-    "regularHours": null
+    "isOpen247": false,
+    "regularHours": [
+      {
+        "weekday": 6,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 45
+        },
+        "periodEnd": {
+          "hour": 22,
+          "minute": 15
+        }
+      },
+      {
+        "weekday": 5,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 45
+        },
+        "periodEnd": {
+          "hour": 22,
+          "minute": 15
+        }
+      },
+      {
+        "weekday": 4,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 45
+        },
+        "periodEnd": {
+          "hour": 22,
+          "minute": 15
+        }
+      },
+      {
+        "weekday": 3,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 45
+        },
+        "periodEnd": {
+          "hour": 22,
+          "minute": 15
+        }
+      },
+      {
+        "weekday": 2,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 45
+        },
+        "periodEnd": {
+          "hour": 22,
+          "minute": 15
+        }
+      },
+      {
+        "weekday": 1,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 45
+        },
+        "periodEnd": {
+          "hour": 22,
+          "minute": 15
+        }
+      }
+    ]
   }
 }

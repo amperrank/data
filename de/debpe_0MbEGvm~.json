@@ -4,6 +4,17 @@
   "name": "Aral pulse Dudenstraße 19",
   "evses": [
     {
+      "id": "DEBPEE0FK100203",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEBPEE0FK100102",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DEBPEE0FK100101",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0FK100203",
       "connectors": [
         {
           "type": "ccs",

@@ -4,17 +4,6 @@
   "name": "Aral pulse An der Autobahn 1 Gyhum",
   "evses": [
     {
-      "id": "DEBPEE0F2750513",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEBPEE0F2750308",
       "connectors": [
         {
@@ -26,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0F2750412",
+      "id": "DEBPEE0F2750206",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0F2750410",
       "connectors": [
         {
           "type": "ccs",
@@ -59,22 +59,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0F2750307",
+      "id": "DEBPEE0F2750513",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0F2750617",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,
@@ -92,7 +81,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0F2750411",
+      "id": "DEBPEE0F2750617",
       "connectors": [
         {
           "type": "chademo",
@@ -103,29 +92,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0F2750515",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0F2750618",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0F2750206",
+      "id": "DEBPEE0F2750412",
       "connectors": [
         {
           "type": "ccs",
@@ -147,7 +114,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0F2750102",
+      "id": "DEBPEE0F2750411",
       "connectors": [
         {
           "type": "chademo",
@@ -169,18 +136,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0F2750410",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0F2750101",
+      "id": "DEBPEE0F2750618",
       "connectors": [
         {
           "type": "ccs",
@@ -202,11 +158,44 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0F2750823",
+      "id": "DEBPEE0F2750307",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0F2750102",
       "connectors": [
         {
           "type": "chademo",
           "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0F2750101",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0F2750515",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
@@ -235,18 +224,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0F2750719",
+      "id": "DEBPEE0F2750823",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 300.0
+          "type": "chademo",
+          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0F2750824",
+      "id": "DEBPEE0F2750719",
       "connectors": [
         {
           "type": "ccs",
@@ -262,6 +251,17 @@
         {
           "type": "chademo",
           "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0F2750824",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,

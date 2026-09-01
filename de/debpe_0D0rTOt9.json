@@ -4,11 +4,11 @@
   "name": "Aral pulse Aschaffenburger Straße 86",
   "evses": [
     {
-      "id": "DEBPEE0FB900205",
+      "id": "DEBPEE0FB900103",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 100.0
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
@@ -37,18 +37,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FB900204",
+      "id": "DEBPEE0FB900205",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 300.0
+          "type": "chademo",
+          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FB900103",
+      "id": "DEBPEE0FB900204",
       "connectors": [
         {
           "type": "ccs",

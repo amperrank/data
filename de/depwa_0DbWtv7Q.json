@@ -4,6 +4,28 @@
   "name": "Pfalzwerke Ladestation (DECATHLON)",
   "evses": [
     {
+      "id": "DEPWAETNG22547X0055801",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPWAETNG22547X0055802",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEPWAEALP22270X0056002",
       "connectors": [
         {
@@ -42,28 +64,6 @@
         {
           "type": "ccs",
           "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEPWAETNG22547X0055801",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEPWAETNG22547X0055802",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

@@ -4,18 +4,7 @@
   "name": "Shell Recharge OBN 3165 - Redevco Grassinger Strasse",
   "evses": [
     {
-      "id": "DETNMEGL49023165021",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49023165011",
+      "id": "DETNMEGL49023165012",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49023165012",
+      "id": "DETNMEGL49023165011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49023165021",
       "connectors": [
         {
           "type": "ccs",

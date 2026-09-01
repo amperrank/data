@@ -4,10 +4,10 @@
   "name": "DE Dresden 01067 Großenhainer Str. 81/83 Auto-Holding Dresden Service GmbH (öffentlich)",
   "evses": [
     {
-      "id": "DEPOWE02021",
+      "id": "DEPOWE02022",
       "connectors": [
         {
-          "type": "type2",
+          "type": "ccs",
           "maxPowerKw": 22.0
         }
       ],
@@ -15,10 +15,10 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPOWE02022",
+      "id": "DEPOWE02021",
       "connectors": [
         {
-          "type": "ccs",
+          "type": "type2",
           "maxPowerKw": 22.0
         }
       ],

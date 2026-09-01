@@ -4,6 +4,21 @@
   "name": "Tourismus und Stadtmarketing NES Mühlbacher Str.",
   "evses": [
     {
+      "id": "DEVIRE269871",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        },
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEVIRE155454",
       "connectors": [
         {
@@ -26,7 +41,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEVIRE155545",
+      "id": "DEVIRE155544",
       "connectors": [
         {
           "type": "type2",
@@ -48,22 +63,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEVIRE269871",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 50.0
-        },
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEVIRE155544",
+      "id": "DEVIRE155545",
       "connectors": [
         {
           "type": "type2",

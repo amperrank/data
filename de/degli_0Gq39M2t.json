@@ -4,22 +4,22 @@
   "name": "Erfurt Audi Zentrum 50 kW Rudolstädter Str. 19",
   "evses": [
     {
-      "id": "DEGLIE100100138",
+      "id": "DEGLIE100100139",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 43.0
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEGLIE100100139",
+      "id": "DEGLIE100100138",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 43.0
         }
       ],
       "authMethods": null,

@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*POW",
+  "geohash": "0GLUnPOZ",
+  "name": "Tiemeyer Werdohl Škoda 55kW",
+  "evses": [
+    {
+      "id": "DEPOWE03562",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE03561",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 75.2
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Werdohl",
+    "street": "Kettling",
+    "houseNumber": "39",
+    "postcode": "58791",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

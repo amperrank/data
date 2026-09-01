@@ -4,6 +4,17 @@
   "name": "Wormser Str. 95",
   "evses": [
     {
+      "id": "DEPLNEH0033041",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEPLNEH0031192",
       "connectors": [
         {
@@ -15,7 +26,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPLNEH0033041",
+      "id": "DEPLNEH0033042",
       "connectors": [
         {
           "type": "ccs",
@@ -48,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPLNEH0031211",
+      "id": "DEPLNEH0031213",
       "connectors": [
         {
           "type": "ccs",
@@ -70,22 +81,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPLNEH0031213",
+      "id": "DEPLNEH0031211",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEPLNEH0033042",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 200.0
         }
       ],
       "authMethods": null,

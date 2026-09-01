@@ -4,11 +4,11 @@
   "name": "Aral pulse Jerichower Straße 24",
   "evses": [
     {
-      "id": "DEBPEE0FL110102",
+      "id": "DEBPEE0FL110103",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 100.0
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
@@ -26,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FL110103",
+      "id": "DEBPEE0FL110204",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0FL110206",
       "connectors": [
         {
           "type": "ccs",
@@ -48,22 +59,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FL110206",
+      "id": "DEBPEE0FL110102",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0FL110204",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
+          "type": "chademo",
+          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,

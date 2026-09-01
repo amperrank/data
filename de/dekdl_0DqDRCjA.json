@@ -4,11 +4,11 @@
   "name": "Kaufland Kaufbeuren",
   "evses": [
     {
-      "id": "DEKDLE00000067",
+      "id": "DEKDLE00000069",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 43.0
+          "type": "chademo",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -26,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00000069",
+      "id": "DEKDLE00000067",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 43.0
         }
       ],
       "authMethods": null,

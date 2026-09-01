@@ -4,17 +4,6 @@
   "name": "Kaufland Sindelfingen",
   "evses": [
     {
-      "id": "DEKDLE00000452",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEKDLE00000453",
       "connectors": [
         {
@@ -31,6 +20,17 @@
         {
           "type": "ccs",
           "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEKDLE00000452",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

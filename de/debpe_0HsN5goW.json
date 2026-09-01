@@ -4,7 +4,18 @@
   "name": "Aral pulse Rendsburger Landstr. 205",
   "evses": [
     {
-      "id": "DEBPEE0F2760305",
+      "id": "DEBPEE0F2760203",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0F2760102",
       "connectors": [
         {
           "type": "ccs",
@@ -26,17 +37,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0F2760306",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEBPEE0F2760101",
       "connectors": [
         {
@@ -48,7 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0F2760203",
+      "id": "DEBPEE0F2760306",
       "connectors": [
         {
           "type": "ccs",
@@ -59,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0F2760102",
+      "id": "DEBPEE0F2760305",
       "connectors": [
         {
           "type": "ccs",

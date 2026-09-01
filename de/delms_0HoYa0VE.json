@@ -4,7 +4,7 @@
   "name": "go2zero charging solutions gmbh Uhlenhorster Hockey-Club",
   "evses": [
     {
-      "id": "DELMSE12346089812",
+      "id": "DELMSE12346089811",
       "connectors": [
         {
           "type": "type2",
@@ -26,22 +26,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DELMSE10001464711",
+      "id": "DELMSE12346089812",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 3.68
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DELMSE12346089811",
+      "id": "DELMSE10001464711",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 3.68
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

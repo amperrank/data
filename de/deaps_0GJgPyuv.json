@@ -4,17 +4,6 @@
   "name": "115922 - AVIA Klöcker, Blumenau 1, 51766 Engelskirchen, LS2",
   "evses": [
     {
-      "id": "DEAPSE100021",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEAPSE100019",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DEAPSE100020",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEAPSE100021",
       "connectors": [
         {
           "type": "ccs",

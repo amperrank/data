@@ -4,22 +4,22 @@
   "name": "Circle K Schwuelper Ruhmrischkamp 3",
   "evses": [
     {
-      "id": "DECKEEXD038182041",
+      "id": "DECKEEXD038182042",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 174.8
+          "type": "chademo",
+          "maxPowerKw": 100.28
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DECKEEXD038182042",
+      "id": "DECKEEXD038182041",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 100.28
+          "type": "ccs",
+          "maxPowerKw": 174.8
         }
       ],
       "authMethods": null,
@@ -48,6 +48,17 @@
       "paymentMethods": null
     },
     {
+      "id": "DECKEEXD038182071",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 174.8
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DECKEEXD038182021",
       "connectors": [
         {
@@ -60,17 +71,6 @@
     },
     {
       "id": "DECKEEXD038182061",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 174.8
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECKEEXD038182071",
       "connectors": [
         {
           "type": "ccs",
@@ -125,7 +125,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECKEEXD038182021",
+      "id": "DECKEEXD038182071",
       "connectors": [
         {
           "type": "ccs",
@@ -136,7 +136,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DECKEEXD038182011",
+      "id": "DECKEEXD038182041",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 174.8
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECKEEXD038182021",
       "connectors": [
         {
           "type": "ccs",
@@ -158,18 +169,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECKEEXD038182041",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 174.8
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECKEEXD038182071",
+      "id": "DECKEEXD038182011",
       "connectors": [
         {
           "type": "ccs",
@@ -191,17 +191,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DECKEEXD038182031",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 174.8
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DECKEEXD038182051",
       "connectors": [
         {
@@ -213,51 +202,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECKEEXD038182022",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 100.28
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECKEEXD038182012",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 100.28
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DECKEEXD038182032",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 100.28
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECKEEXD038182032",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 100.28
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECKEEXD038182042",
       "connectors": [
         {
           "type": "chademo",
@@ -290,6 +235,17 @@
       "paymentMethods": null
     },
     {
+      "id": "DECKEEXD038182022",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 100.28
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DECKEEXD038182011",
       "connectors": [
         {
@@ -302,6 +258,50 @@
     },
     {
       "id": "DECKEEXD038182071",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 174.8
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECKEEXD038182032",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 100.28
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECKEEXD038182042",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 100.28
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECKEEXD038182012",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 100.28
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECKEEXD038182031",
       "connectors": [
         {
           "type": "ccs",
@@ -367,7 +367,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECKEEXD038182031",
+      "id": "DECKEEXD038182071",
       "connectors": [
         {
           "type": "ccs",
@@ -378,7 +378,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECKEEXD038182041",
+      "id": "DECKEEXD038182051",
       "connectors": [
         {
           "type": "ccs",
@@ -400,7 +400,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECKEEXD038182012",
+      "id": "DECKEEXD038182022",
       "connectors": [
         {
           "type": "chademo",
@@ -423,6 +423,39 @@
     },
     {
       "id": "DECKEEXD038182011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 174.8
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECKEEXD038182032",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 100.28
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECKEEXD038182031",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 174.8
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECKEEXD038182041",
       "connectors": [
         {
           "type": "ccs",
@@ -444,29 +477,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECKEEXD038182051",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 174.8
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECKEEXD038182071",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 174.8
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECKEEXD038182032",
+      "id": "DECKEEXD038182012",
       "connectors": [
         {
           "type": "chademo",
@@ -478,6 +489,17 @@
     },
     {
       "id": "DECKEEXD038182011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 174.8
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECKEEXD038182041",
       "connectors": [
         {
           "type": "ccs",
@@ -510,18 +532,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECKEEXD038182041",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 174.8
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECKEEXD038182061",
+      "id": "DECKEEXD038182021",
       "connectors": [
         {
           "type": "ccs",
@@ -543,7 +554,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECKEEXD038182031",
+      "id": "DECKEEXD038182061",
       "connectors": [
         {
           "type": "ccs",
@@ -554,7 +565,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECKEEXD038182021",
+      "id": "DECKEEXD038182031",
       "connectors": [
         {
           "type": "ccs",

@@ -1,30 +1,8 @@
 {
   "operatorId": "DE*PWA",
   "geohash": "0Hoa7Yzf",
-  "name": "Pfalzwerke Ladestation (Pflanzen Kölle)",
+  "name": "Pfalzwerke Ladestation (Pflanzen K�lle)",
   "evses": [
-    {
-      "id": "DEPWAEALP22270X0138501",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEPWAEALP22270X0138502",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DEPWAEALP22270X0138602",
       "connectors": [
@@ -38,6 +16,28 @@
     },
     {
       "id": "DEPWAEALP22270X0138601",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPWAEALP22270X0138501",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPWAEALP22270X0138502",
       "connectors": [
         {
           "type": "ccs",

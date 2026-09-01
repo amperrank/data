@@ -4,17 +4,6 @@
   "name": "Shell Recharge OBN 2796 - Rewe Bruehlstrasse",
   "evses": [
     {
-      "id": "DETNMEGL49022796012",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGL49022796011",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49022796022",
+      "id": "DETNMEGL49022796012",
       "connectors": [
         {
           "type": "ccs",
@@ -38,6 +27,17 @@
     },
     {
       "id": "DETNMEGL49022796021",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49022796022",
       "connectors": [
         {
           "type": "ccs",

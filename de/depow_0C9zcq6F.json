@@ -4,22 +4,22 @@
   "name": "Audi Zentrum Kempten",
   "evses": [
     {
-      "id": "DEPOWE02625",
+      "id": "DEPOWE02626",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 150.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEPOWE02626",
+      "id": "DEPOWE02625",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,

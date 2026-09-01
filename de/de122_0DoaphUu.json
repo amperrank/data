@@ -4,22 +4,22 @@
   "name": "BK Memmingen",
   "evses": [
     {
-      "id": "DE122E0000248",
+      "id": "DE122E0000246",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DE122E0000246",
+      "id": "DE122E0000248",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 300.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

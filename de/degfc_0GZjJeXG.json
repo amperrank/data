@@ -4,22 +4,11 @@
   "name": "Greenflash Charge Schüring (öffentlich)",
   "evses": [
     {
-      "id": "DEGFCE12346903152",
+      "id": "DEGFCE12346903151",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEGFCE12346903142",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
         }
       ],
       "authMethods": null,
@@ -37,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEGFCE12346903151",
+      "id": "DEGFCE12346903142",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGFCE12346903152",
       "connectors": [
         {
           "type": "ccs",

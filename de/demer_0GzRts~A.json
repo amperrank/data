@@ -4,7 +4,18 @@
   "name": "Mer Germany GmbH Nienburg GmbH - Nienburg Weser - Havelstraße 2 #1",
   "evses": [
     {
-      "id": "DEMERE01749901",
+      "id": "DEMERE01750001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE01749902",
       "connectors": [
         {
           "type": "type2",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMERE01750001",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE01749902",
+      "id": "DEMERE01749901",
       "connectors": [
         {
           "type": "type2",

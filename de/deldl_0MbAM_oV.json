@@ -4,17 +4,6 @@
   "name": "Lidl Berlin-Lichtenrade",
   "evses": [
     {
-      "id": "DELDLE00009064",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 60.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DELDLE00009063",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DELDLE00009065",
+      "id": "DELDLE00009064",
       "connectors": [
         {
           "type": "ccs",
@@ -38,6 +27,17 @@
     },
     {
       "id": "DELDLE00009062",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELDLE00009065",
       "connectors": [
         {
           "type": "ccs",

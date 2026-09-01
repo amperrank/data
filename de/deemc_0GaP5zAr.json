@@ -4,6 +4,17 @@
   "name": "e-mobilio Autogruppe STARKE_GMH",
   "evses": [
     {
+      "id": "DEEMCE12346737863",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEEMCE12346737861",
       "connectors": [
         {
@@ -20,17 +31,6 @@
         {
           "type": "ccs",
           "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEMCE12346737863",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
         }
       ],
       "authMethods": null,

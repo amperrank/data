@@ -4,12 +4,8 @@
   "name": "Fastned Kreuz Hilden",
   "evses": [
     {
-      "id": "DEFASE4906910",
+      "id": "DEFASE4906909",
       "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 50.0
-        },
         {
           "type": "ccs",
           "maxPowerKw": 300.0
@@ -24,6 +20,21 @@
         {
           "type": "ccs",
           "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEFASE4906910",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        },
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
@@ -45,7 +56,92 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFASE4906909",
+      "id": "DEFASE4906917",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEFASE4906901",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEFASE4906908",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        },
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEFASE4906921",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEFASE4906911",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEFASE4906914",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        },
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEFASE4906919",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEFASE4906907",
       "connectors": [
         {
           "type": "ccs",
@@ -67,7 +163,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFASE4906920",
+      "id": "DEFASE4906904",
       "connectors": [
         {
           "type": "ccs",
@@ -78,7 +174,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFASE4906904",
+      "id": "DEFASE4906920",
       "connectors": [
         {
           "type": "ccs",
@@ -111,39 +207,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFASE4906919",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEFASE4906907",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEFASE4906911",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEFASE4906903",
       "connectors": [
         {
@@ -155,15 +218,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFASE4906914",
+      "id": "DEFASE4906918",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 300.0
-        },
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEFASE4906922",
+      "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 50.0
+          "type": "ccs",
+          "maxPowerKw": 400.0
         }
       ],
       "authMethods": null,
@@ -186,76 +256,6 @@
         {
           "type": "ccs",
           "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEFASE4906922",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEFASE4906918",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEFASE4906917",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEFASE4906901",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEFASE4906908",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 50.0
-        },
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEFASE4906921",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
         }
       ],
       "authMethods": null,

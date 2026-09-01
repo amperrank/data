@@ -4,7 +4,40 @@
   "name": "BC GMBH DC HHK VORNE",
   "evses": [
     {
+      "id": "DECPIE71599951",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.08
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE71113151",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.08
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DECPIE73094052",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE73094152",
       "connectors": [
         {
           "type": "ccs",
@@ -26,28 +59,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE73094152",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE71246151",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.08
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DECPIE71599952",
       "connectors": [
         {
@@ -59,29 +70,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE73094151",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE71113151",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.08
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE71599951",
+      "id": "DECPIE71246151",
       "connectors": [
         {
           "type": "type2",
@@ -126,6 +115,17 @@
     },
     {
       "id": "DECPIE73094051",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE73094151",
       "connectors": [
         {
           "type": "ccs",

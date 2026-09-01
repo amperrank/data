@@ -1,21 +1,10 @@
 {
   "operatorId": "DE*TMO",
   "geohash": "0Gp5pPjU",
-  "name": "TMO LP1/2 REWE",
+  "name": "TMO LP3/4 REWE",
   "evses": [
     {
-      "id": "DETMOE11145004",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETMOE11145001",
+      "id": "DETMOE11145002",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DETMOE11145002",
+      "id": "DETMOE11145001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETMOE11145004",
       "connectors": [
         {
           "type": "ccs",

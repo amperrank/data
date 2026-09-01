@@ -1,0 +1,42 @@
+{
+  "operatorId": "DE*EDR",
+  "geohash": "0Hi5Ez4o",
+  "name": "Moorrege, REWE Parkplatz",
+  "evses": [
+    {
+      "id": "DEEDRE110001301",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 14.26
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEDRE110001302",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        },
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Moorrege",
+    "street": "Wederler Chaussee",
+    "houseNumber": "43D",
+    "postcode": "25436",
+    "province": null
+  },
+  "openingHours": null
+}

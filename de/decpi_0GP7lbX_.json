@@ -4,7 +4,18 @@
   "name": "SWG DC KUNDEN P 1",
   "evses": [
     {
-      "id": "DECPIE73662852",
+      "id": "DECPIE73662652",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE73662651",
       "connectors": [
         {
           "type": "ccs",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE73662652",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE73662651",
+      "id": "DECPIE73662852",
       "connectors": [
         {
           "type": "ccs",

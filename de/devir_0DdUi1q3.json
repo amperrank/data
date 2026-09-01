@@ -4,6 +4,17 @@
   "name": "SimplyCharge GmbH SimplyCharge Marktgarage Ahrweiler",
   "evses": [
     {
+      "id": "DEVIRE306460",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEVIRE306458",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DEVIRE306459",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEVIRE306460",
       "connectors": [
         {
           "type": "type2",

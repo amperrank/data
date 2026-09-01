@@ -4,17 +4,6 @@
   "name": "Lidl Wiesbaden",
   "evses": [
     {
-      "id": "DELDLE00010709",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 60.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DELDLE00010710",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DELDLE00010711",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELDLE00010709",
       "connectors": [
         {
           "type": "ccs",

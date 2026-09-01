@@ -4,7 +4,18 @@
   "name": "Ecotap Globana",
   "evses": [
     {
-      "id": "NLLMSE18094431",
+      "id": "NLLMSE18094491",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "NLLMSE18094432",
       "connectors": [
         {
           "type": "type2",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "NLLMSE18094491",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "NLLMSE18094432",
+      "id": "NLLMSE18094431",
       "connectors": [
         {
           "type": "type2",

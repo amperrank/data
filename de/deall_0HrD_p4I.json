@@ -4,6 +4,17 @@
   "name": "Kantstraße 15-17, 23566 Lübeck",
   "evses": [
     {
+      "id": "DEALLEGO0040852",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEALLEGO0040861",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DEALLEGO0040862",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 200.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEALLEGO0040852",
       "connectors": [
         {
           "type": "ccs",

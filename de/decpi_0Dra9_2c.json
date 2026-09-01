@@ -4,6 +4,17 @@
   "name": "IPARK MGWS 2",
   "evses": [
     {
+      "id": "DECPIE69373351",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.08
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DECPIE69499151",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DECPIE69373352",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.08
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE69373351",
       "connectors": [
         {
           "type": "type2",

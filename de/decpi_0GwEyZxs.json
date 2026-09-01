@@ -4,17 +4,6 @@
   "name": "LANDERMANN STATION 4",
   "evses": [
     {
-      "id": "DECPIE65588552",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DECPIE65588551",
       "connectors": [
         {
@@ -26,11 +15,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE66653952",
+      "id": "DECPIE65588552",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 150.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -48,6 +37,17 @@
       "paymentMethods": null
     },
     {
+      "id": "DECPIE66653951",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DECPIE64947251",
       "connectors": [
         {
@@ -59,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE66653951",
+      "id": "DECPIE66653952",
       "connectors": [
         {
           "type": "ccs",

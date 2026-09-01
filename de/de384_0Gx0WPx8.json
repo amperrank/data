@@ -1,0 +1,63 @@
+{
+  "operatorId": "DE*384",
+  "geohash": "0Gx0WPx8",
+  "name": "EDEKA Ladestation",
+  "evses": [
+    {
+      "id": "DE384E182595CS00012",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "E7697E01884B33D4B64D7B7500BAB332",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE384E182595CS00013",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE384E182595CS00011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Sulingen",
+    "street": "Schützenstraße",
+    "houseNumber": null,
+    "postcode": "27232",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

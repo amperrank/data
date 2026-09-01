@@ -4,6 +4,17 @@
   "name": "HAHN AUTOMOBILE VK GP S DC H 67",
   "evses": [
     {
+      "id": "DECPIE65497652",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DECPIE65497651",
       "connectors": [
         {
@@ -20,17 +31,6 @@
         {
           "type": "ccs",
           "maxPowerKw": 75.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE65497652",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

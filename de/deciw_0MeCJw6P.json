@@ -4,6 +4,17 @@
   "name": "Waldhotel Wandlitz #01",
   "evses": [
     {
+      "id": "DECIWE001434",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DECIWE001433",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DECIWE001435",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECIWE001434",
       "connectors": [
         {
           "type": "type2",

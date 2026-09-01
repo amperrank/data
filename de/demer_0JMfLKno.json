@@ -4,18 +4,29 @@
   "name": "Mer Germany GmbH Mer Germany GmbH - Deggendorf - Hans-Obser-Straße #1",
   "evses": [
     {
-      "id": "DEMERE00307401",
+      "id": "DEMERE00590102",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 150.0
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEMERE00147401",
+      "id": "DEMERE00590101",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00147402",
       "connectors": [
         {
           "type": "ccs",
@@ -37,44 +48,33 @@
       "paymentMethods": null
     },
     {
+      "id": "DEMERE00147401",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00307401",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEMERE00307402",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE00147402",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE00590102",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE00590101",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

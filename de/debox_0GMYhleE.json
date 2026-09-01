@@ -4,22 +4,11 @@
   "name": "Stadtwerke Bochum, Rewe Lenk Hiltroper Str. 450",
   "evses": [
     {
-      "id": "DEBOXEAC0744",
+      "id": "DEBOXEAC0928",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBOXEAC0743",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -48,11 +37,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBOXEAC0928",
+      "id": "DEBOXEAC0744",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,
@@ -60,6 +49,17 @@
     },
     {
       "id": "DEBOXEAC0742",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBOXEAC0743",
       "connectors": [
         {
           "type": "ccs",

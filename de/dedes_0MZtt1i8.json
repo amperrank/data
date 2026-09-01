@@ -4,17 +4,6 @@
   "name": "Nefzger GmbH - DC - DE*DES*E1003492",
   "evses": [
     {
-      "id": "DEDESE10034922",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 75.2
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEDESE10034923",
       "connectors": [
         {
@@ -37,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEDESE10014911",
+      "id": "DEDESE10034922",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 75.2
         }
       ],
       "authMethods": null,
@@ -49,17 +38,6 @@
     },
     {
       "id": "DEDESE10014912",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEDESE10014921",
       "connectors": [
         {
           "type": "type2",
@@ -81,7 +59,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEDESEBMW02631",
+      "id": "DEDESE10014911",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEDESE10014921",
       "connectors": [
         {
           "type": "type2",
@@ -93,6 +82,17 @@
     },
     {
       "id": "DEDESEBMW02632",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEDESEBMW02631",
       "connectors": [
         {
           "type": "type2",

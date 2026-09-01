@@ -4,7 +4,18 @@
   "name": "Stadtwerke Bochum, Parkplatz EBZ, Springorumallee 20",
   "evses": [
     {
-      "id": "DEBOXEAC0094",
+      "id": "DEBOXEAC0120",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBOXEAC0095",
       "connectors": [
         {
           "type": "ccs",
@@ -15,29 +26,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBOXEAC0123",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEBOXEAC0122",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBOXEAC0120",
       "connectors": [
         {
           "type": "type2",
@@ -59,11 +48,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBOXEAC0095",
+      "id": "DEBOXEAC0094",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBOXEAC0123",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

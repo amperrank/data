@@ -4,11 +4,11 @@
   "name": "AH Ludwig Meyer HYC49,9 öffentlich",
   "evses": [
     {
-      "id": "DEPOWE03589",
+      "id": "DEPOWE03591",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 11.0
+          "type": "ccs",
+          "maxPowerKw": 49.9
         }
       ],
       "authMethods": null,
@@ -26,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPOWE03591",
+      "id": "DEPOWE03589",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 49.9
+          "type": "type2",
+          "maxPowerKw": 11.0
         }
       ],
       "authMethods": null,

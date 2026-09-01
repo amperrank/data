@@ -4,17 +4,6 @@
   "name": "Maiborn Wolff GmbH",
   "evses": [
     {
-      "id": "DEDESE08181",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 11.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEDESE08191",
       "connectors": [
         {
@@ -26,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEDESE08192",
+      "id": "DEDESE08181",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEDESE9752",
       "connectors": [
         {
           "type": "type2",
@@ -48,7 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEDESE08182",
+      "id": "DEDESE08192",
       "connectors": [
         {
           "type": "type2",
@@ -59,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEDESE9752",
+      "id": "DEDESE08182",
       "connectors": [
         {
           "type": "type2",

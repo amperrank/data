@@ -4,17 +4,6 @@
   "name": "DE_SWB_Tuebinger_72336_PP02_öffentlich",
   "evses": [
     {
-      "id": "DEPOWE01872",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEPOWE01977",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPOWE02971",
+      "id": "DEPOWE01872",
       "connectors": [
         {
           "type": "ccs",
@@ -38,6 +27,17 @@
     },
     {
       "id": "DEPOWE02972",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE02971",
       "connectors": [
         {
           "type": "ccs",

@@ -4,6 +4,17 @@
   "name": "Lidl Schwanewede",
   "evses": [
     {
+      "id": "DELDLE00005998",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DELDLE00005999",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DELDLE00006000",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 60.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DELDLE00005998",
       "connectors": [
         {
           "type": "ccs",

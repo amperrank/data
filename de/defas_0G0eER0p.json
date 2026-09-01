@@ -4,11 +4,11 @@
   "name": "Fastned Groß Mackenstedt",
   "evses": [
     {
-      "id": "DEFASE4901504",
+      "id": "DEFASE4901507",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 400.0
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
@@ -26,7 +26,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFASE4901507",
+      "id": "DEFASE4901501",
       "connectors": [
         {
           "type": "ccs",
@@ -63,6 +63,17 @@
       "paymentMethods": null
     },
     {
+      "id": "DEFASE4901504",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEFASE4901506",
       "connectors": [
         {
@@ -72,17 +83,6 @@
         {
           "type": "chademo",
           "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEFASE4901501",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,

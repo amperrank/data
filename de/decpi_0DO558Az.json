@@ -4,22 +4,22 @@
   "name": "SäGMüHLE HYPERCHARGER",
   "evses": [
     {
-      "id": "DECPIE73281651",
+      "id": "DECPIE73281951",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.08
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DECPIE73281951",
+      "id": "DECPIE73281652",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.08
         }
       ],
       "authMethods": null,
@@ -37,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE73281652",
+      "id": "DECPIE73281651",
       "connectors": [
         {
           "type": "type2",

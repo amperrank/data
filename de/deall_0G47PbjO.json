@@ -4,6 +4,17 @@
   "name": "Allego - ATU Braunschweig",
   "evses": [
     {
+      "id": "DEALLEGO0031151",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEALLEGO0031142",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEALLEGO0031152",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEALLEGO0031151",
       "connectors": [
         {
           "type": "ccs",

@@ -4,6 +4,28 @@
   "name": "EDEKA Ladestation",
   "evses": [
     {
+      "id": "DE384E126962CS00032",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE384E126962CS00031",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DE384E126962CS00011",
       "connectors": [
         {
@@ -64,28 +86,6 @@
         {
           "type": "chademo",
           "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE384E126962CS00032",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE384E126962CS00031",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

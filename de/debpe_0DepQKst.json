@@ -4,28 +4,6 @@
   "name": "Aral pulse Pariser Straße 2",
   "evses": [
     {
-      "id": "DEBPEE0F0600102",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 100.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0F0600205",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 100.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEBPEE0F0600206",
       "connectors": [
         {
@@ -37,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0F0600204",
+      "id": "DEBPEE0F0600101",
       "connectors": [
         {
           "type": "ccs",
@@ -59,11 +37,33 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0F0600101",
+      "id": "DEBPEE0F0600102",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0F0600204",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0F0600205",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,

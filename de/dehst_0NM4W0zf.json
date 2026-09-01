@@ -4,22 +4,11 @@
   "name": "Stadtwerke Stralsund D 18573, Rambin, Hauptstraße 2a",
   "evses": [
     {
-      "id": "DEHSTE12346437002",
+      "id": "DEHSTE12346437382",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEHSTE12346437001",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 7.36
         }
       ],
       "authMethods": null,
@@ -37,11 +26,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEHSTE12346437382",
+      "id": "DEHSTE12346437001",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 7.36
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEHSTE12346437002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

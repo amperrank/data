@@ -1,0 +1,64 @@
+{
+  "operatorId": "DE*EDR",
+  "geohash": "0JEkIK75",
+  "name": "Wolnzach, Parkplatz Hopfenmuseum",
+  "evses": [
+    {
+      "id": "DEEDRE510006092",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEDRE110001952",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        },
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEDRE510006091",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 3.68
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEDRE110001951",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 14.26
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Wolnzach",
+    "street": "Elsenheimer Straße",
+    "houseNumber": "2",
+    "postcode": "85283",
+    "province": null
+  },
+  "openingHours": null
+}

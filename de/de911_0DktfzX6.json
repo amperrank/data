@@ -1,19 +1,8 @@
 {
   "operatorId": "DE*911",
   "geohash": "0DktfzX6",
-  "name": "Porsche Sales & Marketplace Porsche Zentrum Böblingen Ladesäule AC 2",
+  "name": "Porsche Sales & Marketplace Porsche Zentrum Böblingen Ladesäule DC 1",
   "evses": [
-    {
-      "id": "DE911EDE00167300000010000001",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 12.8
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DE911EDE00009300000010000001",
       "connectors": [
@@ -26,18 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DE911EDE00009300000020000001",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 320.16
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE911EDE00168900000010000001",
+      "id": "DE911EDE00167300000010000001",
       "connectors": [
         {
           "type": "type2",
@@ -49,6 +27,17 @@
     },
     {
       "id": "DE911EDE00167500000010000001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 12.8
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE911EDE00168900000010000001",
       "connectors": [
         {
           "type": "type2",
@@ -73,7 +62,7 @@
   "facilities": null,
   "address": {
     "city": "Böblingen",
-    "street": "Konrad-Zuse-Str.",
+    "street": "Konrad-Zuse-Straße",
     "houseNumber": "2",
     "postcode": "71034",
     "province": null

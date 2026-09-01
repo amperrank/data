@@ -4,17 +4,6 @@
   "name": "Allego - Euro Rastpark Lippetal A2",
   "evses": [
     {
-      "id": "DEALLEGO0028952",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEALLEGO0028951",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DEALLEGO0028961",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEALLEGO0028952",
       "connectors": [
         {
           "type": "ccs",

@@ -4,17 +4,6 @@
   "name": "Aral pulse Schollstraße 2",
   "evses": [
     {
-      "id": "DEBPEE0FK640206",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEBPEE0FK640102",
       "connectors": [
         {
@@ -26,18 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FK640204",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0FK640103",
+      "id": "DEBPEE0FK640206",
       "connectors": [
         {
           "type": "ccs",
@@ -64,6 +42,28 @@
         {
           "type": "chademo",
           "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0FK640204",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0FK640103",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,

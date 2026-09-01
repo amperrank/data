@@ -4,11 +4,11 @@
   "name": "Kaufland Emmendingen",
   "evses": [
     {
-      "id": "DEKDLE00000964",
+      "id": "DEKDLE00000963",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -26,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00000963",
+      "id": "DEKDLE00000964",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

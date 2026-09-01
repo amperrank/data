@@ -1,0 +1,63 @@
+{
+  "operatorId": "DE*SAE",
+  "geohash": "0MLkAeyf",
+  "name": "Messe Dresden",
+  "evses": [
+    {
+      "id": "DESAEE622501",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DESAEE622502",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DESAEE6009801",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 49.9
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DESAEE6009802",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 49.9
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Dresden",
+    "street": "Messering",
+    "houseNumber": null,
+    "postcode": "01067",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

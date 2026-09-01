@@ -4,17 +4,6 @@
   "name": "Electra Kaiserslautern - Eventpark",
   "evses": [
     {
-      "id": "DEELDEQ5SG",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEELDEQ83P",
       "connectors": [
         {
@@ -49,6 +38,17 @@
     },
     {
       "id": "DEELDE3KAY",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEELDEQ5SG",
       "connectors": [
         {
           "type": "ccs",

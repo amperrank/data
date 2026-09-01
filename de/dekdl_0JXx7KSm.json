@@ -4,6 +4,17 @@
   "name": "Kaufland Rodewisch",
   "evses": [
     {
+      "id": "DEKDLE00001093",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 120.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEKDLE00001092",
       "connectors": [
         {
@@ -20,17 +31,6 @@
         {
           "type": "type2",
           "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEKDLE00001093",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 120.0
         }
       ],
       "authMethods": null,

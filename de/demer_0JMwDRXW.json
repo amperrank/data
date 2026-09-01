@@ -4,6 +4,17 @@
   "name": "Mer Germany GmbH Mer Germany GmbH - Osterhofen - Seewiesen 6 #2",
   "evses": [
     {
+      "id": "DEMERE00696701",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEMERE00077301",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DEMERE00696702",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 200.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE00696701",
       "connectors": [
         {
           "type": "ccs",

@@ -4,6 +4,17 @@
   "name": "Mer Germany GmbH Mer Germany GmbH - Freyung - Bahnhofstraße 18 #3",
   "evses": [
     {
+      "id": "DEMERE00595502",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEMERE00095001",
       "connectors": [
         {
@@ -26,11 +37,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMERE00595502",
+      "id": "DEMERE00095002",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -53,17 +64,6 @@
         {
           "type": "ccs",
           "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE00095002",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

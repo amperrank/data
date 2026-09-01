@@ -4,6 +4,17 @@
   "name": "Aral pulse Riesstraße 41-49",
   "evses": [
     {
+      "id": "DEBPEE3EF1030204",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEBPEE3EF1030102",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DEBPEE3EF1030203",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE3EF1030204",
       "connectors": [
         {
           "type": "ccs",

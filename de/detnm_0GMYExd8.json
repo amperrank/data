@@ -4,7 +4,18 @@
   "name": "Shell Recharge OBN 7519 - Shell Herner Strasse",
   "evses": [
     {
-      "id": "DETNMEGL49017519012",
+      "id": "DETNMEGL49017519011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 360.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49017519021",
       "connectors": [
         {
           "type": "ccs",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49017519011",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 360.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49017519021",
+      "id": "DETNMEGL49017519012",
       "connectors": [
         {
           "type": "ccs",

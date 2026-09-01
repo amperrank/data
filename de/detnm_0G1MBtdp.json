@@ -4,17 +4,6 @@
   "name": "Shell Recharge OBN 6768 - Shell Am Rabenfeld",
   "evses": [
     {
-      "id": "DETNMEGL49016768021",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGL49016768012",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DETNMEGL49016768011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49016768021",
       "connectors": [
         {
           "type": "ccs",

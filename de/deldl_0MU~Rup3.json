@@ -4,6 +4,17 @@
   "name": "Lidl Perleberg",
   "evses": [
     {
+      "id": "DELDLE00010413",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DELDLE00010414",
       "connectors": [
         {
@@ -20,17 +31,6 @@
         {
           "type": "ccs",
           "maxPowerKw": 60.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DELDLE00010413",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 11.0
         }
       ],
       "authMethods": null,

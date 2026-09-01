@@ -4,18 +4,7 @@
   "name": "Porsche Sales & Marketplace PZ Bad Homburg - AC Wallbox rechts",
   "evses": [
     {
-      "id": "DE911EDE00009600000010000001",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 320.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE911EDE00146700000010000001",
+      "id": "DE911EDE00146800000010000001",
       "connectors": [
         {
           "type": "type2",
@@ -37,11 +26,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DE911EDE00146800000010000001",
+      "id": "DE911EDE00146700000010000001",
       "connectors": [
         {
           "type": "type2",
           "maxPowerKw": 12.8
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE911EDE00009600000010000001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 320.0
         }
       ],
       "authMethods": null,

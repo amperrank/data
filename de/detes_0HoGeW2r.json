@@ -4,7 +4,7 @@
   "name": "ACHTUNG: Private Ladestation - kein öffentliches Laden!",
   "evses": [
     {
-      "id": "DETESE125111",
+      "id": "DETESE125091",
       "connectors": [
         {
           "type": "type2",
@@ -15,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DETESE125096",
+      "id": "DETESE125090",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETESE125111",
       "connectors": [
         {
           "type": "type2",
@@ -37,17 +48,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DETESE125109",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETESE125097",
       "connectors": [
         {
@@ -59,29 +59,29 @@
       "paymentMethods": null
     },
     {
+      "id": "DETESE125096",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETESE125109",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DETESE125108",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETESE125091",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETESE125090",
       "connectors": [
         {
           "type": "type2",

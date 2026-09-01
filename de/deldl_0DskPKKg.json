@@ -4,22 +4,22 @@
   "name": "Lidl Filiale Giengen",
   "evses": [
     {
-      "id": "DELDLE00005745",
+      "id": "DELDLE00005746",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 11.0
+          "type": "ccs",
+          "maxPowerKw": 60.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DELDLE00005746",
+      "id": "DELDLE00005745",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 60.0
+          "type": "type2",
+          "maxPowerKw": 11.0
         }
       ],
       "authMethods": null,

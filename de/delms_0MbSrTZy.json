@@ -4,6 +4,17 @@
   "name": "go2zero charging solutions gmbh Prodontos Dentaltechnik",
   "evses": [
     {
+      "id": "DELMSE12346033472",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DELMSE12346033462",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DELMSE12346033471",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DELMSE12346033472",
       "connectors": [
         {
           "type": "type2",

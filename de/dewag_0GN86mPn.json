@@ -4,15 +4,22 @@
   "name": "Westfalen Ladestation Westfalen AG - Münster Bohlweg HYC",
   "evses": [
     {
-      "id": "DEWAGEE0041",
+      "id": "DEWAGEE1053",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 50.0
-        },
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEWAGEE0040",
+      "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 7.36
         }
       ],
       "authMethods": null,
@@ -41,6 +48,32 @@
       "paymentMethods": null
     },
     {
+      "id": "DEWAGEE2053",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEWAGEE0041",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        },
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEWAGE302418",
       "connectors": [
         {
@@ -53,39 +86,6 @@
     },
     {
       "id": "DEWAGEE1055",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEWAGEE1053",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEWAGEE0040",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEWAGEE2053",
       "connectors": [
         {
           "type": "ccs",

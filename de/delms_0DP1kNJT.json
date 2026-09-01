@@ -4,6 +4,17 @@
   "name": "Hymes Energy GmbH Funpark",
   "evses": [
     {
+      "id": "DELMSE10000010653",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DELMSE10000010651",
       "connectors": [
         {
@@ -20,17 +31,6 @@
         {
           "type": "chademo",
           "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DELMSE10000010653",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
         }
       ],
       "authMethods": null,

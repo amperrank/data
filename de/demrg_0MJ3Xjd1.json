@@ -1,0 +1,86 @@
+{
+  "operatorId": "DE*MRG",
+  "geohash": "0MJ3Xjd1",
+  "name": "Alpitronic HYC75",
+  "evses": [
+    {
+      "id": "DEMRGEENEUD100001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 75.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Liebschützberg",
+    "street": "Gewerbestraße",
+    "houseNumber": null,
+    "postcode": "04758",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": false,
+    "regularHours": [
+      {
+        "weekday": 1,
+        "periodBegin": {
+          "hour": 8,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 16,
+          "minute": 30
+        }
+      },
+      {
+        "weekday": 2,
+        "periodBegin": {
+          "hour": 8,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 16,
+          "minute": 30
+        }
+      },
+      {
+        "weekday": 3,
+        "periodBegin": {
+          "hour": 8,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 16,
+          "minute": 30
+        }
+      },
+      {
+        "weekday": 4,
+        "periodBegin": {
+          "hour": 8,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 16,
+          "minute": 30
+        }
+      },
+      {
+        "weekday": 5,
+        "periodBegin": {
+          "hour": 8,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 16,
+          "minute": 30
+        }
+      }
+    ]
+  }
+}

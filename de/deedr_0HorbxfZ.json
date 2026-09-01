@@ -1,0 +1,42 @@
+{
+  "operatorId": "DE*EDR",
+  "geohash": "0HorbxfZ",
+  "name": "Schwarzenbek, Hans-Koch Ring",
+  "evses": [
+    {
+      "id": "DEEDRE110001831",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 14.26
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEDRE110001832",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        },
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Schwarzenbek",
+    "street": "Hans-Koch-Ring",
+    "houseNumber": "8",
+    "postcode": "21493",
+    "province": null
+  },
+  "openingHours": null
+}

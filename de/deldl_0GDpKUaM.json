@@ -4,17 +4,6 @@
   "name": "Lidl Köln",
   "evses": [
     {
-      "id": "DELDLE00010713",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 11.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DELDLE00010712",
       "connectors": [
         {
@@ -31,6 +20,17 @@
         {
           "type": "ccs",
           "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELDLE00010713",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
         }
       ],
       "authMethods": null,

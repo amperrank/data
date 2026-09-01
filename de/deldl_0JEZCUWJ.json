@@ -4,11 +4,11 @@
   "name": "Lidl Filiale Ingolstadt",
   "evses": [
     {
-      "id": "DELDLE00005266",
+      "id": "DELDLE00005267",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 60.0
+          "type": "type2",
+          "maxPowerKw": 11.0
         }
       ],
       "authMethods": null,
@@ -26,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DELDLE00005267",
+      "id": "DELDLE00005266",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 11.0
+          "type": "ccs",
+          "maxPowerKw": 60.0
         }
       ],
       "authMethods": null,

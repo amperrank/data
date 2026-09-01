@@ -4,6 +4,17 @@
   "name": "Lidl Filiale Berlin-Pankow",
   "evses": [
     {
+      "id": "DELDLE00001228",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DELDLE00001226",
       "connectors": [
         {
@@ -20,17 +31,6 @@
         {
           "type": "chademo",
           "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DELDLE00001228",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

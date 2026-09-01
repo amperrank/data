@@ -4,6 +4,17 @@
   "name": "eliso - Jade HS - Wilhelmshaven",
   "evses": [
     {
+      "id": "DEELIE3584430",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.08
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEELIE3584431",
       "connectors": [
         {
@@ -31,17 +42,6 @@
         {
           "type": "ccs",
           "maxPowerKw": 124.8
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEELIE3584430",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.08
         }
       ],
       "authMethods": null,

@@ -1,30 +1,8 @@
 {
   "operatorId": "DE*MRG",
   "geohash": "0DsdgSAp",
-  "name": "Aalen Möbel Rieger GCG001301",
+  "name": "Aalen Möbel Rieger GCG001302",
   "evses": [
-    {
-      "id": "DEMRGE0013101",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMRGE0013102",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DEMRGE0013201",
       "connectors": [
@@ -38,6 +16,28 @@
     },
     {
       "id": "DEMRGE0013202",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMRGE0013101",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMRGE0013102",
       "connectors": [
         {
           "type": "type2",

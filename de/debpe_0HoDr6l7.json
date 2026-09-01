@@ -4,7 +4,7 @@
   "name": "Aral pulse Otto-Brenner-Straße 6",
   "evses": [
     {
-      "id": "DEBPEE0FG910102",
+      "id": "DEBPEE0FG910205",
       "connectors": [
         {
           "type": "chademo",
@@ -15,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FG910205",
+      "id": "DEBPEE0FG910101",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0FG910102",
       "connectors": [
         {
           "type": "chademo",
@@ -49,17 +60,6 @@
     },
     {
       "id": "DEBPEE0FG910204",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0FG910101",
       "connectors": [
         {
           "type": "ccs",

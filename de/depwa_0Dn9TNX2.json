@@ -4,28 +4,6 @@
   "name": "Pfalzwerke Ladestation (Bäckerei Härdtner)",
   "evses": [
     {
-      "id": "DEPWAESIM22292X0135301",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEPWAESIM22292X0135302",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEPWAESIM22292X0008103",
       "connectors": [
         {
@@ -49,6 +27,28 @@
     },
     {
       "id": "DEPWAESIM22292X0008101",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPWAESIM22292X0135301",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPWAESIM22292X0135302",
       "connectors": [
         {
           "type": "ccs",

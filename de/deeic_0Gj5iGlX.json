@@ -1,25 +1,14 @@
 {
   "operatorId": "DE*EIC",
   "geohash": "0Gj5iGlX",
-  "name": "EIC000049-Hessisch Lichtenau, Parkplatz VR-Bank",
+  "name": "EIC000048_01-Hessisch Lichtenau, Poststraße 13",
   "evses": [
     {
-      "id": "DEGUCEEIC0120",
+      "id": "DEGUCEEIC0117",
       "connectors": [
         {
           "type": "type2",
           "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEGUCEEIC0119",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -37,11 +26,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEGUCEEIC0117",
+      "id": "DEGUCEEIC0120",
       "connectors": [
         {
           "type": "type2",
           "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGUCEEIC0119",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

@@ -4,17 +4,6 @@
   "name": "Electra Dresden - Netto Gerichtsstraße",
   "evses": [
     {
-      "id": "DEELDE9GGV",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEELDEGFPS",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEELDECCCZ",
+      "id": "DEELDE9GGV",
       "connectors": [
         {
           "type": "ccs",
@@ -49,6 +38,17 @@
     },
     {
       "id": "DEELDEGUHP",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEELDECCCZ",
       "connectors": [
         {
           "type": "ccs",

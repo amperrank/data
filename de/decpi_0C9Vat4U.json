@@ -4,33 +4,11 @@
   "name": "HAUPTEINGANG HYPERCHARGER",
   "evses": [
     {
-      "id": "DECPIE66194952",
+      "id": "DECPIE66194951",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE66194751",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE66194852",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -59,7 +37,29 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE66194951",
+      "id": "DECPIE66194751",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE66194852",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE66194952",
       "connectors": [
         {
           "type": "ccs",

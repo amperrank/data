@@ -4,7 +4,7 @@
   "name": "CutPower CutPower HPC Ladestation Burger King Oraniendamm",
   "evses": [
     {
-      "id": "DECPWE12348970711",
+      "id": "DECPWE12348970731",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPWE12348970731",
+      "id": "DECPWE12348970711",
       "connectors": [
         {
           "type": "ccs",
@@ -37,22 +37,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPWE12348970713",
+      "id": "DECPWE12348970712",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 300.0
+          "type": "chademo",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DECPWE12348970712",
+      "id": "DECPWE12348970713",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 150.0
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,

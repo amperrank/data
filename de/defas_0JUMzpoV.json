@@ -4,15 +4,22 @@
   "name": "Fastned Neudrossenfeld",
   "evses": [
     {
-      "id": "DEFASE4904802",
+      "id": "DEFASE4904803",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 300.0
-        },
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEFASE4904801",
+      "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 50.0
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
@@ -34,22 +41,15 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFASE4904801",
+      "id": "DEFASE4904802",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEFASE4904803",
-      "connectors": [
+        },
         {
-          "type": "ccs",
-          "maxPowerKw": 300.0
+          "type": "chademo",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

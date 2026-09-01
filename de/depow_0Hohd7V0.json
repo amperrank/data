@@ -4,11 +4,11 @@
   "name": "DE Glinde 21509 Glinder Weg VGRD NW02 (21kW) (öffentlich)",
   "evses": [
     {
-      "id": "DEPOWE01672",
+      "id": "DEPOWE01615",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 11.0
         }
       ],
       "authMethods": null,
@@ -26,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPOWE01615",
+      "id": "DEPOWE01672",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 11.0
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

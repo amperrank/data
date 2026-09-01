@@ -4,17 +4,6 @@
   "name": "Aral pulse Athener Straße 1",
   "evses": [
     {
-      "id": "DEBPEE0FV170308",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 100.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEBPEE0FV170307",
       "connectors": [
         {
@@ -75,6 +64,17 @@
         {
           "type": "ccs",
           "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0FV170308",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,

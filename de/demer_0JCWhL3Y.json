@@ -4,6 +4,17 @@
   "name": "Mer Germany GmbH Mer Germany GmbH - Pfaffing - Am Gleis #1",
   "evses": [
     {
+      "id": "DEMERE00425301",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEMERE00425302",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEMERE00425402",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE00425301",
       "connectors": [
         {
           "type": "type2",

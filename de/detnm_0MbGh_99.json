@@ -4,6 +4,21 @@
   "name": "Shell Recharge OBN 7448 - Shell Rummelsburger Landstrasse",
   "evses": [
     {
+      "id": "DETNMEGL4901744802",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 70.0
+        },
+        {
+          "type": "ccs",
+          "maxPowerKw": 175.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DETNMEGL4901744801",
       "connectors": [
         {
@@ -13,17 +28,6 @@
         {
           "type": "chademo",
           "maxPowerKw": 70.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49017448032",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
@@ -41,15 +45,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL4901744802",
+      "id": "DETNMEGL49017448032",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 70.0
-        },
-        {
           "type": "ccs",
-          "maxPowerKw": 175.0
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,

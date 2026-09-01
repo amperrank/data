@@ -4,6 +4,17 @@
   "name": "IONITY GmbH IONITY Mainz-Gonsenheim",
   "evses": [
     {
+      "id": "DEIOYE241974",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEIOYE241975",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEIOYE241972",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE241974",
       "connectors": [
         {
           "type": "ccs",

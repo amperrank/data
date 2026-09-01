@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*POW",
+  "geohash": "0Dmu0U47",
+  "name": "Ladestation Ludwig Heer 49,9kW öffentlich",
+  "evses": [
+    {
+      "id": "DEPOWE03564",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 49.9
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE03563",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 49.9
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Kuchen",
+    "street": "Staubstraße",
+    "houseNumber": "3",
+    "postcode": "73329",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

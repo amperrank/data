@@ -4,6 +4,17 @@
   "name": "N HPC Station #01",
   "evses": [
     {
+      "id": "DECWCE001550",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DECWCE001548",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DECWCE001547",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECWCE001550",
       "connectors": [
         {
           "type": "ccs",

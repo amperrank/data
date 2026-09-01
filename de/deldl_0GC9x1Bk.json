@@ -4,29 +4,7 @@
   "name": "Lidl Filiale Köln-Ossendorf",
   "evses": [
     {
-      "id": "DELDLE00004607",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 60.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DELDLE00004611",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 11.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DELDLE00004612",
+      "id": "DELDLE00004610",
       "connectors": [
         {
           "type": "ccs",
@@ -48,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DELDLE00004608",
+      "id": "DELDLE00004612",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELDLE00004611",
       "connectors": [
         {
           "type": "type2",
@@ -59,11 +48,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DELDLE00004610",
+      "id": "DELDLE00004607",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELDLE00004608",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
         }
       ],
       "authMethods": null,

@@ -4,17 +4,6 @@
   "name": "Allego - Tankstelle Bergler Luhe-Wildenau A93",
   "evses": [
     {
-      "id": "DEALLEGO0027311",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEALLEGO0033642",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DEALLEGO0027312",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEALLEGO0027311",
       "connectors": [
         {
           "type": "ccs",

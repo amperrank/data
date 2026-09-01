@@ -4,22 +4,22 @@
   "name": "Glinicke Sport und Geländewagen Kassel 175kW",
   "evses": [
     {
-      "id": "DEGLIE100100184",
+      "id": "DEGLIE100100183",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 75.0
+          "type": "ccs",
+          "maxPowerKw": 175.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEGLIE100100183",
+      "id": "DEGLIE100100184",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 175.0
+          "type": "chademo",
+          "maxPowerKw": 75.0
         }
       ],
       "authMethods": null,

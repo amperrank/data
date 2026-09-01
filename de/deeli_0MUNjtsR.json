@@ -4,6 +4,17 @@
   "name": "eliso - zum Seeadler - Arendsee",
   "evses": [
     {
+      "id": "DEELIE3603098",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEELIE3603097",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEELIE3603099",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEELIE3603098",
       "connectors": [
         {
           "type": "ccs",

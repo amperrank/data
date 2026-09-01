@@ -4,18 +4,7 @@
   "name": "Shell Recharge OBN 1139 - Shell Leuther Strasse",
   "evses": [
     {
-      "id": "DETNMEGL49011139022",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49011139012",
+      "id": "DETNMEGL49011139011",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49011139011",
+      "id": "DETNMEGL49011139022",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49011139012",
       "connectors": [
         {
           "type": "ccs",

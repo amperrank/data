@@ -4,7 +4,18 @@
   "name": "50five-S DE Business Location",
   "evses": [
     {
-      "id": "DE505E12348023321",
+      "id": "DE505E12348023301",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 3.68
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE505E12348023311",
       "connectors": [
         {
           "type": "type2",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DE505E12348023301",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 3.68
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE505E12348023311",
+      "id": "DE505E12348023321",
       "connectors": [
         {
           "type": "type2",

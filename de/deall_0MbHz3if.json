@@ -4,29 +4,18 @@
   "name": "Allego - JET Tankstelle Berlin Rhinstraße",
   "evses": [
     {
+      "id": "DEALLEGO0039272",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEALLEGO0039242",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 200.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEALLEGO0039271",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 200.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEALLEGO0039241",
       "connectors": [
         {
           "type": "ccs",
@@ -48,7 +37,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0039272",
+      "id": "DEALLEGO0039241",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEALLEGO0039271",
       "connectors": [
         {
           "type": "ccs",

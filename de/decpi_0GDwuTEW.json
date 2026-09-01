@@ -4,6 +4,28 @@
   "name": "NOLL WERKZEUGE NOLL DC-1",
   "evses": [
     {
+      "id": "DECPIE67338152",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE64500751",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DECPIE64500752",
       "connectors": [
         {
@@ -15,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE64500751",
+      "id": "DECPIE64506551",
       "connectors": [
         {
           "type": "type2",
@@ -42,28 +64,6 @@
         {
           "type": "type2",
           "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE64506551",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE67338152",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,

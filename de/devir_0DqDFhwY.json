@@ -4,7 +4,18 @@
   "name": "V-Markt Hirschzell",
   "evses": [
     {
-      "id": "DEVIRE154269",
+      "id": "DEVIRE154294",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEVIRE154345",
       "connectors": [
         {
           "type": "type2",
@@ -37,29 +48,18 @@
       "paymentMethods": null
     },
     {
+      "id": "DEVIRE154269",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEVIRE154358",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEVIRE154294",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEVIRE154345",
       "connectors": [
         {
           "type": "type2",

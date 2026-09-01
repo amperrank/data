@@ -4,26 +4,11 @@
   "name": "Shell Recharge OBN 9179 - Shell Autohof Herzsprung",
   "evses": [
     {
-      "id": "DETNMEGL49019179021",
+      "id": "DETNMEGL49019179012",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL4901917904",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 70.0
-        },
-        {
-          "type": "ccs",
-          "maxPowerKw": 175.0
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,
@@ -45,28 +30,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49019179011",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49019179012",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGL4901917905",
       "connectors": [
         {
@@ -76,6 +39,32 @@
         {
           "type": "chademo",
           "maxPowerKw": 70.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL4901917904",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 70.0
+        },
+        {
+          "type": "ccs",
+          "maxPowerKw": 175.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49019179021",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
@@ -102,6 +91,17 @@
         {
           "type": "chademo",
           "maxPowerKw": 70.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49019179011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,

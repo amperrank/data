@@ -4,11 +4,11 @@
   "name": "Spindler Kreuzwertheim HYC 300",
   "evses": [
     {
-      "id": "DEVIRE248801",
+      "id": "DEVIRE248803",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 150.0
+          "type": "type2",
+          "maxPowerKw": 7.36
         }
       ],
       "authMethods": null,
@@ -26,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEVIRE248803",
+      "id": "DEVIRE248801",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 7.36
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,

@@ -4,17 +4,6 @@
   "name": "go2zero charging solutions gmbh Hotel Stadt Aurich",
   "evses": [
     {
-      "id": "DELMSE10001401052",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DELMSE10001401051",
       "connectors": [
         {
@@ -31,6 +20,17 @@
         {
           "type": "type2",
           "maxPowerKw": 3.68
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELMSE10001401052",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
         }
       ],
       "authMethods": null,

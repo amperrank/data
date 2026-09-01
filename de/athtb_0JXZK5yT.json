@@ -4,17 +4,6 @@
   "name": "GMO_065_Plauen_04",
   "evses": [
     {
-      "id": "ATHTBE1023081",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "ATHTBE1023079",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "ATHTBE1023080",
+      "id": "ATHTBE1023081",
       "connectors": [
         {
           "type": "ccs",
@@ -38,6 +27,17 @@
     },
     {
       "id": "ATHTBE1023082",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "ATHTBE1023080",
       "connectors": [
         {
           "type": "ccs",

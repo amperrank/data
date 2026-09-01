@@ -4,22 +4,33 @@
   "name": "Autohaus Franken",
   "evses": [
     {
-      "id": "DEVIRE243000",
+      "id": "DEVIRE243772",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 3.68
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEVIRE243772",
+      "id": "DEVIRE242947",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 150.0
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEVIRE243000",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 3.68
         }
       ],
       "authMethods": null,
@@ -37,17 +48,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DEVIRE242985",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 3.68
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEVIRE242946",
       "connectors": [
         {
@@ -59,11 +59,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEVIRE242947",
+      "id": "DEVIRE242985",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 300.0
+          "type": "type2",
+          "maxPowerKw": 3.68
         }
       ],
       "authMethods": null,

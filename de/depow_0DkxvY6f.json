@@ -4,6 +4,17 @@
   "name": "DE_AH Weeber 71263 Weil der Stadt 23BZ8852A öffentlich 150/22KW (KKT)",
   "evses": [
     {
+      "id": "DEPOWE02968",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEPOWE02962",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEPOWE02967",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEPOWE02968",
       "connectors": [
         {
           "type": "ccs",

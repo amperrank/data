@@ -4,7 +4,18 @@
   "name": "Aral pulse Kölner Straße 70",
   "evses": [
     {
-      "id": "DEBPEE0F3590101",
+      "id": "DEBPEE0F3590102",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0F3590203",
       "connectors": [
         {
           "type": "ccs",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0F3590102",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0F3590203",
+      "id": "DEBPEE0F3590101",
       "connectors": [
         {
           "type": "ccs",

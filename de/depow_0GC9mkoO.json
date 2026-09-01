@@ -1,25 +1,25 @@
 {
   "operatorId": "DE*POW",
   "geohash": "0GC9mkoO",
-  "name": "DE_Autohaus Jacob Fleischhauer GmbH & Co. KG_54HVIT15219002",
+  "name": "DE_Autohaus Jacob Fleischhauer GmbH & Co. KG_T54HVIT15219002_öffentlich",
   "evses": [
-    {
-      "id": "DEPOWE02897",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DEPOWE02898",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE02897",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

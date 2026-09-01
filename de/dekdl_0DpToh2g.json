@@ -4,17 +4,6 @@
   "name": "Kaufland Neu-Ulm",
   "evses": [
     {
-      "id": "DEKDLE00001253",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEKDLE00001255",
       "connectors": [
         {
@@ -30,6 +19,17 @@
       "connectors": [
         {
           "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEKDLE00001253",
+      "connectors": [
+        {
+          "type": "ccs",
           "maxPowerKw": 50.0
         }
       ],

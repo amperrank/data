@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*384",
+  "geohash": "0HgBasGt",
+  "name": "EDEKA Ladestation",
+  "evses": [
+    {
+      "id": "DE384E172149CS00012",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE384E172149CS00013",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE384E172149CS00011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Nordenham",
+    "street": "Atenser Allee",
+    "houseNumber": null,
+    "postcode": "26954",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

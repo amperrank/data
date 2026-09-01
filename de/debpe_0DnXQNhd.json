@@ -4,11 +4,11 @@
   "name": "Aral pulse Neuenstädter Straße 93",
   "evses": [
     {
-      "id": "DEBPEE0F4700103",
+      "id": "DEBPEE0F4700102",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 300.0
+          "type": "chademo",
+          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,
@@ -26,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0F4700102",
+      "id": "DEBPEE0F4700103",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 100.0
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
@@ -92,11 +92,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0F4700205",
+      "id": "DEBPEE0F4700204",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 100.0
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
@@ -125,11 +125,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0F4700204",
+      "id": "DEBPEE0F4700205",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 300.0
+          "type": "chademo",
+          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,

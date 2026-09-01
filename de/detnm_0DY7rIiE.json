@@ -4,7 +4,18 @@
   "name": "Shell Recharge OBN 5673 - Shell Merkurstrasse",
   "evses": [
     {
-      "id": "DETNMEGL49015673021",
+      "id": "DETNMEGL49015673012",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49015673011",
       "connectors": [
         {
           "type": "ccs",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49015673012",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49015673011",
+      "id": "DETNMEGL49015673021",
       "connectors": [
         {
           "type": "ccs",

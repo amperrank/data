@@ -4,17 +4,6 @@
   "name": "Fastned Düren",
   "evses": [
     {
-      "id": "DEFASE4907605",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEFASE4907606",
       "connectors": [
         {
@@ -30,7 +19,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFASE4907603",
+      "id": "DEFASE4907604",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        },
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEFASE4907605",
       "connectors": [
         {
           "type": "ccs",
@@ -41,15 +45,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFASE4907604",
+      "id": "DEFASE4907603",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 400.0
-        },
-        {
-          "type": "chademo",
-          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

@@ -1,0 +1,68 @@
+{
+  "operatorId": "DE*EDR",
+  "geohash": "0Gzq~Nd8",
+  "name": "Altwarmbüchen, Opelstraße 3-5",
+  "evses": [
+    {
+      "id": "DEEDRE110001561",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEDRE110002861",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEDRE110001562",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        },
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEDRE110002862",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        },
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Altwarmbüchen",
+    "street": "Opelstraße",
+    "houseNumber": "3-5",
+    "postcode": "30916",
+    "province": null
+  },
+  "openingHours": null
+}

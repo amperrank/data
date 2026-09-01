@@ -4,7 +4,18 @@
   "name": "Kaufland Bergheim",
   "evses": [
     {
-      "id": "DEKDLE00001834",
+      "id": "DEKDLE00000162",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEKDLE00000163",
       "connectors": [
         {
           "type": "ccs",
@@ -26,33 +37,22 @@
       "paymentMethods": null
     },
     {
+      "id": "DEKDLE00001834",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEKDLE00000161",
       "connectors": [
         {
           "type": "type2",
           "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEKDLE00000162",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEKDLE00000163",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

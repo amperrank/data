@@ -4,7 +4,7 @@
   "name": "Kaufland Pulheim",
   "evses": [
     {
-      "id": "DEKDLE00003085",
+      "id": "DEKDLE00001614",
       "connectors": [
         {
           "type": "type2",
@@ -26,18 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00001614",
+      "id": "DEKDLE00001618",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 60.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00001618",
+      "id": "DEKDLE00001613",
       "connectors": [
         {
           "type": "ccs",
@@ -59,11 +59,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00001613",
+      "id": "DEKDLE00003085",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 60.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

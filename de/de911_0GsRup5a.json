@@ -4,6 +4,17 @@
   "name": "Porsche Sales & Marketplace Porsche Zentrum Göttingen Wallbox links",
   "evses": [
     {
+      "id": "DE911EDE00009800000020000001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 320.16
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DE911EDE00147000000010000001",
       "connectors": [
         {
@@ -31,17 +42,6 @@
     },
     {
       "id": "DE911EDE00009800000010000001",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 320.16
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE911EDE00009800000020000001",
       "connectors": [
         {
           "type": "ccs",

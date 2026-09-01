@@ -4,17 +4,6 @@
   "name": "Mer Germany GmbH A.F. Bauer GmbH - Metten - Donaustraße 67 #2",
   "evses": [
     {
-      "id": "DEMERE00471201",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEMERE00471102",
       "connectors": [
         {
@@ -31,6 +20,17 @@
         {
           "type": "ccs",
           "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00471201",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

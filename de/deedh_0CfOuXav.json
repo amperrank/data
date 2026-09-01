@@ -4,11 +4,22 @@
   "name": "NaturEnergie Community - Laufenburg OBI AC",
   "evses": [
     {
-      "id": "DEEDHE000932",
+      "id": "DEEDHE000933",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEDHE000945",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -20,6 +31,17 @@
         {
           "type": "type2",
           "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEDHE000932",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,
@@ -42,28 +64,6 @@
         {
           "type": "type2",
           "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEDHE000945",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEDHE000933",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,

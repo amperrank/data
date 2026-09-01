@@ -4,11 +4,11 @@
   "name": "Allego - ATU Erftstadt A1",
   "evses": [
     {
-      "id": "DEALLEGO0017222",
+      "id": "DEALLEGO0033102",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 7.36
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
@@ -48,7 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0017211",
+      "id": "DEALLEGO0017222",
       "connectors": [
         {
           "type": "type2",
@@ -60,6 +60,28 @@
     },
     {
       "id": "DEALLEGO0033112",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEALLEGO0017221",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEALLEGO0033101",
       "connectors": [
         {
           "type": "ccs",
@@ -92,17 +114,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0033102",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEALLEGO0033262",
       "connectors": [
         {
@@ -114,18 +125,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0033101",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEALLEGO0017221",
+      "id": "DEALLEGO0017211",
       "connectors": [
         {
           "type": "type2",

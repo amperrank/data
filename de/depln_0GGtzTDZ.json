@@ -4,17 +4,6 @@
   "name": "Einbleckstraße 40",
   "evses": [
     {
-      "id": "DEPLNEH0031181",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEPLNEH0031183",
       "connectors": [
         {
@@ -31,6 +20,17 @@
         {
           "type": "chademo",
           "maxPowerKw": 51.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPLNEH0031181",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,

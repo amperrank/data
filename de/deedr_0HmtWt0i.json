@@ -1,0 +1,42 @@
+{
+  "operatorId": "DE*EDR",
+  "geohash": "0HmtWt0i",
+  "name": "Rendsburg, Kieler Straße",
+  "evses": [
+    {
+      "id": "DEEDRE110001812",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        },
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEDRE110001811",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 14.26
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Rendsburg",
+    "street": "Kieler Straße",
+    "houseNumber": "47",
+    "postcode": "24768",
+    "province": null
+  },
+  "openingHours": null
+}

@@ -4,28 +4,6 @@
   "name": "Schleswig, Marie-Curie-Straße 1 LIS 4",
   "evses": [
     {
-      "id": "DETMEE30018",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETMEE30238",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 100.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETMEE30024",
       "connectors": [
         {
@@ -59,6 +37,17 @@
       "paymentMethods": null
     },
     {
+      "id": "DETMEE30020",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DETMEE30019",
       "connectors": [
         {
@@ -70,11 +59,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DETMEE30021",
+      "id": "DETMEE30238",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "chademo",
+          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,
@@ -92,7 +81,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DETMEE30020",
+      "id": "DETMEE30018",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETMEE30021",
       "connectors": [
         {
           "type": "type2",

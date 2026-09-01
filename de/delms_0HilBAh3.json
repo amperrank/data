@@ -4,6 +4,17 @@
   "name": "go2zero charging solutions gmbh VfL Stade von 1850",
   "evses": [
     {
+      "id": "DELMSE12345719542",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DELMSE12345719552",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DELMSE12345719541",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DELMSE12345719542",
       "connectors": [
         {
           "type": "type2",

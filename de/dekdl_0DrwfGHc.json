@@ -15,22 +15,33 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00000943",
+      "id": "DEKDLE00000954",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 11.0
+          "type": "ccs",
+          "maxPowerKw": 60.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00000954",
+      "id": "DEKDLE00000942",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEKDLE00000943",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
         }
       ],
       "authMethods": null,
@@ -53,17 +64,6 @@
         {
           "type": "type2",
           "maxPowerKw": 11.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEKDLE00000942",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 60.0
         }
       ],
       "authMethods": null,

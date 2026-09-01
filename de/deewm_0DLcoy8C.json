@@ -4,6 +4,17 @@
   "name": "Ohlsbach_Brumatthalle",
   "evses": [
     {
+      "id": "DEEWME0000240",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEEWME0000241",
       "connectors": [
         {
@@ -20,17 +31,6 @@
         {
           "type": "type2",
           "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEWME0000240",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 11.0
         }
       ],
       "authMethods": null,

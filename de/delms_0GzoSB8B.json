@@ -4,17 +4,6 @@
   "name": "go2zero charging solutions gmbh Mercure Hotel am Entenfang",
   "evses": [
     {
-      "id": "DELMSE10001390411",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DELMSE10001390421",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DELMSE10001390412",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELMSE10001390411",
       "connectors": [
         {
           "type": "type2",

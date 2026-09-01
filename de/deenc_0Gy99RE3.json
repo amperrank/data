@@ -4,17 +4,6 @@
   "name": "enercity AG enercity - hanova Parkhaus Karolinenstraße - 002",
   "evses": [
     {
-      "id": "DEENCELA000613001A",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEENCELA000613003A",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DEENCELA000613004A",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEENCELA000613001A",
       "connectors": [
         {
           "type": "type2",

@@ -4,6 +4,17 @@
   "name": "Westfalen Ladestation Westfalen AG - Düren",
   "evses": [
     {
+      "id": "DEWAGEE0046",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEWAGEE0047",
       "connectors": [
         {
@@ -13,17 +24,6 @@
         {
           "type": "chademo",
           "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEWAGEE0046",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
         }
       ],
       "authMethods": null,

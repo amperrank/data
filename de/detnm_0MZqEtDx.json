@@ -4,6 +4,17 @@
   "name": "Shell Recharge OBN 2769 - Rewe Mahlower Strasse",
   "evses": [
     {
+      "id": "DETNMEGL49022769011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DETNMEGL49022769012",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DETNMEGL49022769022",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49022769011",
       "connectors": [
         {
           "type": "ccs",

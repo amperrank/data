@@ -1,8 +1,30 @@
 {
   "operatorId": "DE*RBG",
   "geohash": "0JHHptw9",
-  "name": "Hornstraße I",
+  "name": "Hornstraße III",
   "evses": [
+    {
+      "id": "DERBGE1061",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DERBGE1060",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DERBGE1065",
       "connectors": [
@@ -38,28 +60,6 @@
     },
     {
       "id": "DERBGE1063",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DERBGE1060",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DERBGE1061",
       "connectors": [
         {
           "type": "type2",

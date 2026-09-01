@@ -4,22 +4,22 @@
   "name": "Mer Germany GmbH Mer Germany (TuR) - Burghaun - Großenmoor Ost",
   "evses": [
     {
-      "id": "DEMERE00009703",
+      "id": "DEMERE00009701",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 43.0
+          "type": "chademo",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEMERE00009701",
+      "id": "DEMERE00009703",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 43.0
         }
       ],
       "authMethods": null,

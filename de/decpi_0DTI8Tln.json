@@ -4,18 +4,7 @@
   "name": "EKM AC LADER 1",
   "evses": [
     {
-      "id": "DECPIE69138852",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE71623851",
+      "id": "DECPIE71623852",
       "connectors": [
         {
           "type": "type2",
@@ -37,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE71623852",
+      "id": "DECPIE69138852",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE71623851",
       "connectors": [
         {
           "type": "type2",

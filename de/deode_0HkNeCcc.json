@@ -1,30 +1,8 @@
 {
   "operatorId": "DE*ODE",
   "geohash": "0HkNeCcc",
-  "name": "DC-14061-02",
+  "name": "DC-14061-01",
   "evses": [
-    {
-      "id": "DEODEEDC140610201",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEODEEDC140610202",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DEODEEDC140610101",
       "connectors": [
@@ -38,6 +16,28 @@
     },
     {
       "id": "DEODEEDC140610102",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEODEEDC140610201",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEODEEDC140610202",
       "connectors": [
         {
           "type": "ccs",

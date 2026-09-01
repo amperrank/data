@@ -4,7 +4,7 @@
   "name": "Aral pulse Rüblingsheide BAB 13",
   "evses": [
     {
-      "id": "DEBPEE0FC620102",
+      "id": "DEBPEE0FC620308",
       "connectors": [
         {
           "type": "chademo",
@@ -26,11 +26,33 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FC620204",
+      "id": "DEBPEE0FC620102",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0FC620101",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0FC620205",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,
@@ -59,17 +81,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FC620308",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 100.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEBPEE0FC620309",
       "connectors": [
         {
@@ -81,18 +92,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FC620205",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 100.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0FC620101",
+      "id": "DEBPEE0FC620204",
       "connectors": [
         {
           "type": "ccs",

@@ -4,7 +4,18 @@
   "name": "Berliner Modell | Berlin | Zwinglistrasse 1",
   "evses": [
     {
-      "id": "DETCBE3D9CS300060012",
+      "id": "DETCBE3D9CS300060021",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETCBE3D9CS300060022",
       "connectors": [
         {
           "type": "type2",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETCBE3D9CS300060021",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETCBE3D9CS300060022",
+      "id": "DETCBE3D9CS300060012",
       "connectors": [
         {
           "type": "type2",

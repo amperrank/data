@@ -4,17 +4,6 @@
   "name": "Stadtwerke Bochum, HPC Klinikstraße 56 am JosefCarree",
   "evses": [
     {
-      "id": "DEBOXEAC0971",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEBOXEAC0970",
       "connectors": [
         {
@@ -26,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBOXEAC0973",
+      "id": "DEBOXEAC0971",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBOXEAC0972",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBOXEAC0972",
+      "id": "DEBOXEAC0973",
       "connectors": [
         {
           "type": "ccs",

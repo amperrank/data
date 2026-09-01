@@ -4,6 +4,17 @@
   "name": "Mer Germany GmbH Mer Germany (DNetz) - Neukirchen - Am Rathaus 9 #1",
   "evses": [
     {
+      "id": "DEMERE01797302",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEMERE01797301",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEMERE01797401",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE01797302",
       "connectors": [
         {
           "type": "ccs",

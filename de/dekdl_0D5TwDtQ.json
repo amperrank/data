@@ -4,17 +4,6 @@
   "name": "Kaufland Würzburg-Lengfeld",
   "evses": [
     {
-      "id": "DEKDLE00000885",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 60.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEKDLE00000948",
       "connectors": [
         {
@@ -37,11 +26,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00000887",
+      "id": "DEKDLE00000885",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEKDLE00000949",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
         }
       ],
       "authMethods": null,
@@ -59,11 +59,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00000949",
+      "id": "DEKDLE00000887",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 11.0
+          "type": "ccs",
+          "maxPowerKw": 60.0
         }
       ],
       "authMethods": null,

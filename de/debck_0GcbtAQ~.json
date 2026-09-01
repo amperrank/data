@@ -4,11 +4,11 @@
   "name": "Backcharge GmbH Backcharge: Frericks Metallbau GmbH & Co. KG",
   "evses": [
     {
-      "id": "DEBCKE12345896011",
+      "id": "DEBCKE10001385172",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 7.36
+          "type": "ccs",
+          "maxPowerKw": 90.0
         }
       ],
       "authMethods": null,
@@ -26,18 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBCKE10001385171",
+      "id": "DEBCKE12345896011",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 90.0
+          "type": "type2",
+          "maxPowerKw": 7.36
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEBCKE10001385172",
+      "id": "DEBCKE10001385171",
       "connectors": [
         {
           "type": "ccs",

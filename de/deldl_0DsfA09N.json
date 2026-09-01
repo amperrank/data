@@ -4,6 +4,17 @@
   "name": "Lidl Filiale Aalen",
   "evses": [
     {
+      "id": "DELDLE00004292",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DELDLE00004290",
       "connectors": [
         {
@@ -19,17 +30,6 @@
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DELDLE00004292",
-      "connectors": [
-        {
-          "type": "chademo",
           "maxPowerKw": 50.0
         }
       ],

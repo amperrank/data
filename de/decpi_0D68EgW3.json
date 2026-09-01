@@ -4,17 +4,6 @@
   "name": "AIRPORT NUE VORPLATZ HOTEL",
   "evses": [
     {
-      "id": "DECPIE67645852",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.08
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DECPIE67444551",
       "connectors": [
         {
@@ -26,22 +15,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE67444652",
+      "id": "DECPIE67645852",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 150.0
+          "type": "type2",
+          "maxPowerKw": 22.08
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DECPIE67645851",
+      "id": "DECPIE67444652",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.08
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,
@@ -64,6 +53,17 @@
         {
           "type": "ccs",
           "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE67645851",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.08
         }
       ],
       "authMethods": null,

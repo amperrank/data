@@ -4,17 +4,6 @@
   "name": "Stadtwerke Stralsund D-18437 Stralsund - Koppelstraße 3",
   "evses": [
     {
-      "id": "DEHSTE12346422682",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEHSTE12346422683",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DEHSTE12346422681",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEHSTE12346422682",
       "connectors": [
         {
           "type": "ccs",

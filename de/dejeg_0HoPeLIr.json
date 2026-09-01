@@ -1,30 +1,8 @@
 {
   "operatorId": "DE*JEG",
   "geohash": "0HoPeLIr",
-  "name": "JOLT HH00940",
+  "name": "JOLT HH00941",
   "evses": [
-    {
-      "id": "DEJEGEHH009401",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEJEGEHH009402",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DEJEGEHH009412",
       "connectors": [
@@ -38,6 +16,28 @@
     },
     {
       "id": "DEJEGEHH009411",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEJEGEHH009401",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEJEGEHH009402",
       "connectors": [
         {
           "type": "ccs",

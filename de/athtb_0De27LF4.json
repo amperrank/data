@@ -4,22 +4,22 @@
   "name": "AUTOSCHMITT IDSTEIN Ladestation",
   "evses": [
     {
-      "id": "ATHTBE1007493",
+      "id": "ATHTBE1007494",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "ATHTBE1007494",
+      "id": "ATHTBE1007493",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

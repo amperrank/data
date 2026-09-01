@@ -4,6 +4,17 @@
   "name": "DAH_Brunngarten_LS01",
   "evses": [
     {
+      "id": "ATHTBE1009929",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "ATHTBE1006817",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "ATHTBE1006818",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "ATHTBE1009929",
       "connectors": [
         {
           "type": "type2",

@@ -4,7 +4,7 @@
   "name": "Aral pulse Dessauer Platz 4",
   "evses": [
     {
-      "id": "DEBPEE0FL310204",
+      "id": "DEBPEE0FL310206",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FL310206",
+      "id": "DEBPEE0FL310204",
       "connectors": [
         {
           "type": "ccs",
@@ -70,28 +70,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FL310412",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0FL310307",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEBPEE0FL310309",
       "connectors": [
         {
@@ -103,11 +81,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FL310410",
+      "id": "DEBPEE0FL310412",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0FL310411",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,
@@ -125,11 +114,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FL310411",
+      "id": "DEBPEE0FL310307",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 100.0
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0FL310410",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,

@@ -1,8 +1,19 @@
 {
   "operatorId": "DE*UBI",
   "geohash": "0MbDkgu1",
-  "name": "Ubitricity Springbornstraße 100 bzw. 102",
+  "name": "Ubitricity Springbornstraße 94",
   "evses": [
+    {
+      "id": "DEUBIE10039308",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 3.7
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DEUBIE10069002",
       "connectors": [
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEUBIE10038547",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 3.7
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEUBIE10039308",
       "connectors": [
         {
           "type": "type2",
@@ -52,7 +52,7 @@
   "address": {
     "city": "Berlin",
     "street": "Springbornstraße",
-    "houseNumber": "100 bzw. 102",
+    "houseNumber": "94",
     "postcode": "12487",
     "province": null
   },

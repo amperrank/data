@@ -4,40 +4,7 @@
   "name": "Eni Station - AN DER HESSENHALLE 7",
   "evses": [
     {
-      "id": "DEPLNEH0016292",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 51.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEPLNEH0013023",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEPLNEH0016293",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEPLNEH0013021",
       "connectors": [
         {
           "type": "ccs",
@@ -59,11 +26,44 @@
       "paymentMethods": null
     },
     {
+      "id": "DEPLNEH0013021",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEPLNEH0016291",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPLNEH0013023",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPLNEH0016292",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 51.0
         }
       ],
       "authMethods": null,

@@ -1,19 +1,8 @@
 {
   "operatorId": "DE*POW",
   "geohash": "0MDakGnH",
-  "name": "DE_AMB_ Pegau_Wallbox_230222195_öffentlich",
+  "name": "DE_AMB_Pegau_Wallbox_230222195_öffentlich",
   "evses": [
-    {
-      "id": "DEPOWEE03619",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DEPOWEE03618",
       "connectors": [
@@ -31,6 +20,17 @@
         {
           "type": "ccs",
           "maxPowerKw": 49.9
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWEE03619",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

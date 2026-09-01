@@ -4,22 +4,11 @@
   "name": "Mer Germany GmbH Mer Germany (TuR) - Nörten-Hardenberg - Unter dem Pferdestiege 1 #1",
   "evses": [
     {
-      "id": "DEMERE00096502",
+      "id": "DEMERE00096602",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE00644002",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 225.0
         }
       ],
       "authMethods": null,
@@ -48,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMERE00096602",
+      "id": "DEMERE00096502",
       "connectors": [
         {
           "type": "ccs",
@@ -59,33 +48,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMERE00644202",
+      "id": "DEMERE00644002",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 225.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE00644001",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 225.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE00096504",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -103,7 +70,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMERE00644101",
+      "id": "DEMERE00096504",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00644001",
       "connectors": [
         {
           "type": "ccs",
@@ -125,11 +103,33 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMERE00096603",
+      "id": "DEMERE00644101",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 62.0
+          "type": "ccs",
+          "maxPowerKw": 225.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00644202",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 225.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00096604",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -147,11 +147,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMERE00096604",
+      "id": "DEMERE00096603",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "chademo",
+          "maxPowerKw": 62.0
         }
       ],
       "authMethods": null,

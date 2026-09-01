@@ -4,11 +4,22 @@
   "name": "go2zero charging solutions gmbh TOP Mehrwert-Logistik",
   "evses": [
     {
-      "id": "DELMSE10001395581",
+      "id": "DELMSE10001395572",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELMSE10001395582",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
         }
       ],
       "authMethods": null,
@@ -16,17 +27,6 @@
     },
     {
       "id": "DELMSE10001395571",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DELMSE10001395591",
       "connectors": [
         {
           "type": "ccs",
@@ -48,22 +48,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DELMSE10001395572",
+      "id": "DELMSE10001395591",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 7.36
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DELMSE10001395582",
+      "id": "DELMSE10001395581",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 7.36
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

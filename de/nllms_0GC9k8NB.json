@@ -4,17 +4,6 @@
   "name": "Energiegewinner 60772967",
   "evses": [
     {
-      "id": "NLLMSE10000028583",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "NLLMSE10000028582",
       "connectors": [
         {
@@ -42,6 +31,17 @@
         {
           "type": "type2",
           "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "NLLMSE10000028583",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

@@ -4,6 +4,17 @@
   "name": "Aral pulse Peter-Achnitz-Straße 8",
   "evses": [
     {
+      "id": "DEBPEE3EF2710204",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEBPEE3EF2710102",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DEBPEE3EF2710203",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE3EF2710204",
       "connectors": [
         {
           "type": "ccs",

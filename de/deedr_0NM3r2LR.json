@@ -1,0 +1,42 @@
+{
+  "operatorId": "DE*EDR",
+  "geohash": "0NM3r2LR",
+  "name": "Ummanz, Neue Straße",
+  "evses": [
+    {
+      "id": "DEEDRE110001241",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 3.68
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEDRE110001242",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        },
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Ummanz OT Waase",
+    "street": "Neue Straße",
+    "houseNumber": "65 A",
+    "postcode": "18569",
+    "province": null
+  },
+  "openingHours": null
+}

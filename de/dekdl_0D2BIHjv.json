@@ -4,6 +4,17 @@
   "name": "Kaufland Aschaffenburg",
   "evses": [
     {
+      "id": "DEKDLE00000206",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEKDLE00000204",
       "connectors": [
         {
@@ -19,17 +30,6 @@
       "connectors": [
         {
           "type": "chademo",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEKDLE00000206",
-      "connectors": [
-        {
-          "type": "ccs",
           "maxPowerKw": 50.0
         }
       ],

@@ -4,6 +4,17 @@
   "name": "Große Bau und Transport GmbH",
   "evses": [
     {
+      "id": "DEVIRE308956",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 75.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEVIRE302374",
       "connectors": [
         {
@@ -31,17 +42,6 @@
         {
           "type": "ccs",
           "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEVIRE308956",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 75.0
         }
       ],
       "authMethods": null,

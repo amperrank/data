@@ -4,17 +4,6 @@
   "name": "Mer Germany GmbH Mer Germany GmbH - Marktl - Postmeisterstrasse #2",
   "evses": [
     {
-      "id": "DEMERE00442402",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEMERE00442501",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DEMERE00442502",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00442402",
       "connectors": [
         {
           "type": "ccs",

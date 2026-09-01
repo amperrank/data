@@ -4,6 +4,17 @@
   "name": "TMO 6LP Quartier",
   "evses": [
     {
+      "id": "DETMOE11011005",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DETMOE11011001",
       "connectors": [
         {
@@ -49,17 +60,6 @@
     },
     {
       "id": "DETMOE11011006",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETMOE11011005",
       "connectors": [
         {
           "type": "type2",

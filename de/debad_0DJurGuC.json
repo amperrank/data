@@ -4,7 +4,18 @@
   "name": "Europa Park_Bell Rock",
   "evses": [
     {
-      "id": "DEBADE100228",
+      "id": "DEBADE100229",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBADE100227",
       "connectors": [
         {
           "type": "type2",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBADE100229",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBADE100227",
+      "id": "DEBADE100228",
       "connectors": [
         {
           "type": "type2",

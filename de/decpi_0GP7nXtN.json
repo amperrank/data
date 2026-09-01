@@ -4,18 +4,18 @@
   "name": "CHARGEPOINT GT DC STATION 02",
   "evses": [
     {
-      "id": "DECPIE68173252",
+      "id": "DECPIE67778551",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 150.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DECPIE67781051",
+      "id": "DECPIE68173252",
       "connectors": [
         {
           "type": "ccs",
@@ -31,6 +31,17 @@
         {
           "type": "ccs",
           "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE67778552",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -59,7 +70,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE68173251",
+      "id": "DECPIE67781051",
       "connectors": [
         {
           "type": "ccs",
@@ -70,22 +81,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE67778552",
+      "id": "DECPIE68173251",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE67778551",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,

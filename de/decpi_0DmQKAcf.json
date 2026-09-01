@@ -1,7 +1,7 @@
 {
   "operatorId": "DE*CPI",
   "geohash": "0DmQKAcf",
-  "name": "MB CONSULTING 010.LE.6815825",
+  "name": "MB CONSULTING STATION 2",
   "evses": [
     {
       "id": "DECPIE73851851",
@@ -70,29 +70,18 @@
       "paymentMethods": null
     },
     {
+      "id": "DECPIE73806751",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DECPIE73806651",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE73944752",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE73806752",
       "connectors": [
         {
           "type": "type2",
@@ -114,7 +103,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE73806751",
+      "id": "DECPIE73944751",
       "connectors": [
         {
           "type": "type2",
@@ -125,7 +114,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE73944751",
+      "id": "DECPIE73806752",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE73944752",
       "connectors": [
         {
           "type": "type2",

@@ -4,10 +4,10 @@
   "name": "Kaufland Dortmund",
   "evses": [
     {
-      "id": "DEKDLE00000135",
+      "id": "DEKDLE00000136",
       "connectors": [
         {
-          "type": "chademo",
+          "type": "ccs",
           "maxPowerKw": 50.0
         }
       ],
@@ -15,10 +15,10 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00000136",
+      "id": "DEKDLE00000135",
       "connectors": [
         {
-          "type": "ccs",
+          "type": "chademo",
           "maxPowerKw": 50.0
         }
       ],
@@ -37,22 +37,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00001984",
+      "id": "DEKDLE00001985",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 43.0
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00001985",
+      "id": "DEKDLE00001984",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 43.0
         }
       ],
       "authMethods": null,

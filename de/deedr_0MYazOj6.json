@@ -1,0 +1,42 @@
+{
+  "operatorId": "DE*EDR",
+  "geohash": "0MYazOj6",
+  "name": "Beelitz, Ratinger Straße",
+  "evses": [
+    {
+      "id": "DEEDRE110001572",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        },
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEDRE110001571",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Beelitz",
+    "street": "Ratinger Str.",
+    "houseNumber": "20",
+    "postcode": "14547",
+    "province": null
+  },
+  "openingHours": null
+}

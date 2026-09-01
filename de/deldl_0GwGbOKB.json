@@ -4,6 +4,17 @@
   "name": "Lidl Filiale Enger",
   "evses": [
     {
+      "id": "DELDLE00002728",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DELDLE00002727",
       "connectors": [
         {
@@ -20,17 +31,6 @@
         {
           "type": "type2",
           "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DELDLE00002728",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

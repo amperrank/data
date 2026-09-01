@@ -4,7 +4,18 @@
   "name": "DC-10049-02",
   "evses": [
     {
-      "id": "DEODEEDC100490102",
+      "id": "DEODEEDC100490203",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEODEEDC100490101",
       "connectors": [
         {
           "type": "ccs",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEODEEDC100490203",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEODEEDC100490101",
+      "id": "DEODEEDC100490102",
       "connectors": [
         {
           "type": "ccs",

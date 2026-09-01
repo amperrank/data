@@ -4,17 +4,6 @@
   "name": "BOERJES H-D BAB STUHR DC",
   "evses": [
     {
-      "id": "DECPIE66210851",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 24.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DECPIE65395952",
       "connectors": [
         {
@@ -31,6 +20,17 @@
         {
           "type": "type2",
           "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE66210851",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 24.0
         }
       ],
       "authMethods": null,

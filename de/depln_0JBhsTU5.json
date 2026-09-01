@@ -4,6 +4,17 @@
   "name": "Eni Station - MÜNCHNER STR. 57",
   "evses": [
     {
+      "id": "DEPLNEH0016463",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEPLNEH0016461",
       "connectors": [
         {
@@ -20,17 +31,6 @@
         {
           "type": "chademo",
           "maxPowerKw": 51.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEPLNEH0016463",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,

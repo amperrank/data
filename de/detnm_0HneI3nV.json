@@ -4,17 +4,6 @@
   "name": "Shell Recharge OBN 3130 - Redevco Schleswiger Strasse",
   "evses": [
     {
-      "id": "DETNMEGL49023130031",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGL49023130012",
       "connectors": [
         {
@@ -26,11 +15,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49023130011",
+      "id": "DETNMEGL49023130031",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 300.0
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,
@@ -48,7 +37,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49023130032",
+      "id": "DETNMEGL49023130011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49023130022",
       "connectors": [
         {
           "type": "ccs",
@@ -59,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49023130022",
+      "id": "DETNMEGL49023130032",
       "connectors": [
         {
           "type": "ccs",

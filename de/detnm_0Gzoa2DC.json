@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*TNM",
+  "geohash": "0Gzoa2DC",
+  "name": "Shell Recharge OBN 2351 - Shell Schulenburger Landstrasse",
+  "evses": [
+    {
+      "id": "DETNMEGLELLI01502",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGLELLI01501",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Hannover",
+    "street": "Schulenburger Landstrasse",
+    "houseNumber": "119A",
+    "postcode": "30165",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

@@ -4,7 +4,7 @@
   "name": "Mercedes-Benz Charging Hub Wernberg-Köblitz",
   "evses": [
     {
-      "id": "DEMBXE002202",
+      "id": "DEMBXE002201",
       "connectors": [
         {
           "type": "ccs",
@@ -26,6 +26,28 @@
       "paymentMethods": null
     },
     {
+      "id": "DEMBXE002206",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMBXE002202",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEMBXE002203",
       "connectors": [
         {
@@ -37,29 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMBXE002201",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEMBXE002204",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMBXE002206",
       "connectors": [
         {
           "type": "ccs",

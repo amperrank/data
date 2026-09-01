@@ -4,17 +4,6 @@
   "name": "Shell Recharge OBN 2692 - Penny Am Alten Faehrhaus",
   "evses": [
     {
-      "id": "DETNMEGL49022692011",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGL49022692012",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49022692021",
+      "id": "DETNMEGL49022692011",
       "connectors": [
         {
           "type": "ccs",
@@ -38,6 +27,17 @@
     },
     {
       "id": "DETNMEGL49022692022",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49022692021",
       "connectors": [
         {
           "type": "ccs",

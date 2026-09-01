@@ -4,6 +4,17 @@
   "name": "Lidl Filiale Essen-Altenessen-Süd",
   "evses": [
     {
+      "id": "DELDLE00005113",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DELDLE00005114",
       "connectors": [
         {
@@ -20,17 +31,6 @@
         {
           "type": "ccs",
           "maxPowerKw": 60.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DELDLE00005113",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 11.0
         }
       ],
       "authMethods": null,

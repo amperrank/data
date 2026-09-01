@@ -1,8 +1,30 @@
 {
   "operatorId": "DE*NNX",
   "geohash": "0HskvaPo",
-  "name": "24BZ1379D",
+  "name": "NORDENERGIE Ladestation",
   "evses": [
+    {
+      "id": "DENNXER300257001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DENNXER300259002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DENNXER30019202",
       "connectors": [
@@ -38,28 +60,6 @@
     },
     {
       "id": "DENNXER300256001",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DENNXER300257001",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DENNXER300259002",
       "connectors": [
         {
           "type": "ccs",

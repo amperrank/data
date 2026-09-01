@@ -4,33 +4,11 @@
   "name": "Ratio Land Baunatal",
   "evses": [
     {
-      "id": "ATHTBE1022933",
+      "id": "ATHTBE1022908",
       "connectors": [
         {
           "type": "type2",
           "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "ATHTBE1004951",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "ATHTBE1004952",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -48,7 +26,29 @@
       "paymentMethods": null
     },
     {
-      "id": "ATHTBE1022908",
+      "id": "ATHTBE1004952",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "ATHTBE1004951",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "ATHTBE1022933",
       "connectors": [
         {
           "type": "type2",

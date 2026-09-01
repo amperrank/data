@@ -4,17 +4,6 @@
   "name": "Kaufland Burgstädt",
   "evses": [
     {
-      "id": "DEKDLE00001402",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEKDLE00001400",
       "connectors": [
         {
@@ -37,10 +26,10 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00001628",
+      "id": "DEKDLE00001402",
       "connectors": [
         {
-          "type": "ccs",
+          "type": "chademo",
           "maxPowerKw": 50.0
         }
       ],
@@ -53,6 +42,17 @@
         {
           "type": "type2",
           "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEKDLE00001628",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

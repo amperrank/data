@@ -1,8 +1,19 @@
 {
   "operatorId": "DE*SPE",
   "geohash": "0G40VGu3",
-  "name": "43AAA03",
+  "name": "43AAA01",
   "evses": [
+    {
+      "id": "DESPEE43AAA0104",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DESPEE43AAA0304",
       "connectors": [
@@ -16,17 +27,6 @@
     },
     {
       "id": "DESPEE43AAA0204",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 11.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DESPEE43AAA0104",
       "connectors": [
         {
           "type": "type2",

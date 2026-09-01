@@ -4,7 +4,7 @@
   "name": "PARKPLATZ KB INNENHOF 2",
   "evses": [
     {
-      "id": "DECPIE68883051",
+      "id": "DECPIE68883151",
       "connectors": [
         {
           "type": "type2",
@@ -26,7 +26,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE68883151",
+      "id": "DECPIE68883351",
       "connectors": [
         {
           "type": "type2",
@@ -59,11 +59,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE68883351",
+      "id": "DECPIE68883051",
       "connectors": [
         {
           "type": "type2",
           "maxPowerKw": 22.08
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE68922852",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,
@@ -93,17 +104,6 @@
     },
     {
       "id": "DECPIE68922851",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE68922852",
       "connectors": [
         {
           "type": "ccs",

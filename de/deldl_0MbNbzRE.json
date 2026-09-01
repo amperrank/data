@@ -4,17 +4,6 @@
   "name": "Lidl Filiale Berlin Marzahn",
   "evses": [
     {
-      "id": "DELDLE00003783",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 43.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DELDLE00003785",
       "connectors": [
         {
@@ -31,6 +20,17 @@
         {
           "type": "ccs",
           "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELDLE00003783",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 43.0
         }
       ],
       "authMethods": null,

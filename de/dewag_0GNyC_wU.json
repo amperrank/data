@@ -4,22 +4,22 @@
   "name": "Westfalen Ladestation Westfalen AG - Senden",
   "evses": [
     {
-      "id": "DEWAGEE0307",
+      "id": "DEWAGEE0096",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 150.0
+          "type": "type2",
+          "maxPowerKw": 7.36
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEWAGEE0096",
+      "id": "DEWAGEE0307",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 7.36
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,

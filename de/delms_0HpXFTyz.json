@@ -4,7 +4,18 @@
   "name": "go2zero charging solutions gmbh Golfpark Krogaspe",
   "evses": [
     {
-      "id": "DELMSE12346574951",
+      "id": "DELMSE12346574952",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELMSE12346574941",
       "connectors": [
         {
           "type": "type2",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DELMSE12346574952",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DELMSE12346574941",
+      "id": "DELMSE12346574951",
       "connectors": [
         {
           "type": "type2",

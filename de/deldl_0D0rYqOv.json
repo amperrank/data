@@ -4,11 +4,11 @@
   "name": "Lidl Filiale Mainaschaff",
   "evses": [
     {
-      "id": "DELDLE00003702",
+      "id": "DELDLE00003701",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 43.0
         }
       ],
       "authMethods": null,
@@ -26,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DELDLE00003701",
+      "id": "DELDLE00003702",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 43.0
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

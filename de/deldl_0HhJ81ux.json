@@ -4,17 +4,6 @@
   "name": "Lidl Cuxhaven",
   "evses": [
     {
-      "id": "DELDLE00010688",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 60.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DELDLE00010689",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DELDLE00010690",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELDLE00010688",
       "connectors": [
         {
           "type": "ccs",

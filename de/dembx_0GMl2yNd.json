@@ -4,7 +4,7 @@
   "name": "Mercedes-Benz Charging Hub Dortmund",
   "evses": [
     {
-      "id": "DEMBXE000402",
+      "id": "DEMBXE000405",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMBXE000405",
+      "id": "DEMBXE000403",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMBXE0004X03",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMBXE000404",
+      "id": "DEMBXE000402",
       "connectors": [
         {
           "type": "ccs",
@@ -48,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMBXE000403",
+      "id": "DEMBXE000404",
       "connectors": [
         {
           "type": "ccs",

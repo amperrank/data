@@ -4,17 +4,6 @@
   "name": "PRONES_LD_2",
   "evses": [
     {
-      "id": "ATHTBE1004207",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "ATHTBE1004208",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "ATHTBEE1004212",
+      "id": "ATHTBEE1004211",
       "connectors": [
         {
           "type": "type2",
@@ -37,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "ATHTBEE1004211",
+      "id": "ATHTBE1004207",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "ATHTBEE1004212",
       "connectors": [
         {
           "type": "type2",

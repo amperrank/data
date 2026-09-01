@@ -4,6 +4,17 @@
   "name": "Stadtwerke Stralsund Mönchstraße 1 , 18439 Stralsund",
   "evses": [
     {
+      "id": "DEHSTE12346426111",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 3.68
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEHSTE12346426091",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEHSTE12346426101",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 3.68
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEHSTE12346426111",
       "connectors": [
         {
           "type": "type2",

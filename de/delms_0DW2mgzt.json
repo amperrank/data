@@ -4,29 +4,7 @@
   "name": "Hymes Energy GmbH VR Bank RheinAhrEifel eG",
   "evses": [
     {
-      "id": "DELMSE12345722921",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DELMSE12345722931",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DELMSE12345722922",
       "connectors": [
         {
           "type": "type2",
@@ -48,11 +26,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DELMSE10000878771",
+      "id": "DELMSE12345722921",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELMSE12345722922",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
         }
       ],
       "authMethods": null,
@@ -64,6 +53,17 @@
         {
           "type": "type2",
           "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELMSE10000878771",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

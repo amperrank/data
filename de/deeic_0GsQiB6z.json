@@ -1,30 +1,8 @@
 {
   "operatorId": "DE*EIC",
   "geohash": "0GsQiB6z",
-  "name": "EIC000051_01-Rosdorf, VR-Bank, Lange Str. 11+13",
+  "name": "EIC000051_02-Rosdorf, VR-Bank, Lange Str. 11+13",
   "evses": [
-    {
-      "id": "DEGUCEEIC0123",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEGUCEEIC0124",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DEGUCEEIC0126",
       "connectors": [
@@ -64,6 +42,28 @@
         {
           "type": "ccs",
           "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGUCEEIC0123",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGUCEEIC0124",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

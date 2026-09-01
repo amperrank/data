@@ -4,6 +4,17 @@
   "name": "FKB_Schwabentorgarage",
   "evses": [
     {
+      "id": "DEBADE100017",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEBADE100018",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DEBADE100020",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBADE100017",
       "connectors": [
         {
           "type": "type2",

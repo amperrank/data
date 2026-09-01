@@ -4,21 +4,10 @@
   "name": "Kaufland Frankfurt am Main",
   "evses": [
     {
-      "id": "DEKDLE00000259",
+      "id": "DEKDLE00000257",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEKDLE00000256",
-      "connectors": [
-        {
-          "type": "chademo",
+          "type": "ccs",
           "maxPowerKw": 50.0
         }
       ],
@@ -37,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00000257",
+      "id": "DEKDLE00000255",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -59,7 +48,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00000255",
+      "id": "DEKDLE00000256",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEKDLE00000259",
       "connectors": [
         {
           "type": "type2",

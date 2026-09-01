@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*384",
+  "geohash": "0G6WeaQu",
+  "name": "EDEKA Ladestation",
+  "evses": [
+    {
+      "id": "DE384E166476CS00012",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE384E166476CS00011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Lehre",
+    "street": "Campenstraße",
+    "houseNumber": null,
+    "postcode": "38165",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

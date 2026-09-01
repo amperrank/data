@@ -4,22 +4,11 @@
   "name": "Ladestation 3W Energy Solutions",
   "evses": [
     {
-      "id": "DEBEME0010379",
+      "id": "DEBEME0010378",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBEME0010380",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -37,11 +26,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBEME0010378",
+      "id": "DEBEME0010379",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBEME0010380",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

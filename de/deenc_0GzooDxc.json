@@ -4,17 +4,6 @@
   "name": "enercity AG enercity - Hamburger Allee/Hagenstraße - 003",
   "evses": [
     {
-      "id": "DEENCELA000416003B",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEENCELA000416001B",
       "connectors": [
         {
@@ -26,18 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEENCELA000416001A",
+      "id": "DEENCELA000416003B",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 150.0
+          "type": "type2",
+          "maxPowerKw": 7.36
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEENCELA000416002B",
+      "id": "DEENCELA000416001A",
       "connectors": [
         {
           "type": "ccs",
@@ -64,6 +53,17 @@
         {
           "type": "type2",
           "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEENCELA000416002B",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,

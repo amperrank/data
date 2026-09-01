@@ -4,6 +4,17 @@
   "name": "Mer Germany GmbH Mer Germany (TuR) - Breitenbach am Herzberg - Rasthaus Rimberg #1",
   "evses": [
     {
+      "id": "DEMERE00011502",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEMERE00011503",
       "connectors": [
         {
@@ -20,17 +31,6 @@
         {
           "type": "ccs",
           "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE00011502",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

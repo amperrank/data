@@ -4,7 +4,18 @@
   "name": "Aral pulse Industriestraße 43",
   "evses": [
     {
-      "id": "DEBPEE0FK860206",
+      "id": "DEBPEE0FK860205",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0FK860204",
       "connectors": [
         {
           "type": "ccs",
@@ -26,7 +37,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FK860204",
+      "id": "DEBPEE0FK860103",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0FK860206",
       "connectors": [
         {
           "type": "ccs",
@@ -42,28 +64,6 @@
         {
           "type": "chademo",
           "maxPowerKw": 100.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0FK860205",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 100.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0FK860103",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,

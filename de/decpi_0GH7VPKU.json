@@ -4,7 +4,18 @@
   "name": "EGW MBA2",
   "evses": [
     {
-      "id": "DECPIE69833051",
+      "id": "DECPIE69833052",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE69833551",
       "connectors": [
         {
           "type": "type2",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE69833052",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE69833551",
+      "id": "DECPIE69833051",
       "connectors": [
         {
           "type": "type2",

@@ -4,6 +4,39 @@
   "name": "go2zero charging solutions gmbh Henrich Baustoffzentrum",
   "evses": [
     {
+      "id": "DELMSE12346512181",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELMSE12346568281",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 3.68
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELMSE12346512182",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DELMSE12346568311",
       "connectors": [
         {
@@ -26,39 +59,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DELMSE12346568271",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 3.68
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DELMSE12346568281",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 3.68
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DELMSE12346512181",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DELMSE12346568321",
       "connectors": [
         {
@@ -70,18 +70,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DELMSE12346512182",
+      "id": "DELMSE12346568291",
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 7.36
+          "maxPowerKw": 3.68
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DELMSE12346568291",
+      "id": "DELMSE12346568271",
       "connectors": [
         {
           "type": "type2",

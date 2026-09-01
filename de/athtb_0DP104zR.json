@@ -4,10 +4,10 @@
   "name": "Energie_Suedwest_67",
   "evses": [
     {
-      "id": "ATHTBE1008130",
+      "id": "ATHTBE1008128",
       "connectors": [
         {
-          "type": "chademo",
+          "type": "ccs",
           "maxPowerKw": 50.0
         }
       ],
@@ -15,10 +15,10 @@
       "paymentMethods": null
     },
     {
-      "id": "ATHTBE1008128",
+      "id": "ATHTBE1008130",
       "connectors": [
         {
-          "type": "ccs",
+          "type": "chademo",
           "maxPowerKw": 50.0
         }
       ],

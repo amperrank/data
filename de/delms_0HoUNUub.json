@@ -4,17 +4,6 @@
   "name": "go2zero charging solutions gmbh GC an der Pinnau",
   "evses": [
     {
-      "id": "DELMSE12346525951",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DELMSE12346525952",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DELMSE12346525941",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELMSE12346525951",
       "connectors": [
         {
           "type": "type2",

@@ -4,17 +4,6 @@
   "name": "TMO LP1/2 EDEKA",
   "evses": [
     {
-      "id": "DETMOE11326004",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETMOE11326003",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DETMOE11326002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETMOE11326004",
       "connectors": [
         {
           "type": "ccs",

@@ -1,7 +1,7 @@
 {
   "operatorId": "DE*EWM",
   "geohash": "0DLdIItx",
-  "name": "Schnellladesäule Offenburg, Freiburger Str. 23A (E-Werk Mittelbaden)",
+  "name": "Ladesäule E-Werk Mittelbaden, Offenburg",
   "evses": [
     {
       "id": "DEEWME0000259",
@@ -15,11 +15,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEWME000264",
+      "id": "DEEWME0000002",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEWME0000261",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,
@@ -48,22 +59,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEWME0000261",
+      "id": "DEEWME000264",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEWME0000002",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

@@ -1,30 +1,8 @@
 {
   "operatorId": "DE*ENC",
   "geohash": "0Gy~cKEI",
-  "name": "enercity AG enercity - Kleestraße/Scheidestraße - A01",
+  "name": "enercity AG enercity - Kleestraße/Scheidestraße - 001",
   "evses": [
-    {
-      "id": "DEENCELA000038A01A",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEENCELA000038A01B",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DEENCELA000038001B",
       "connectors": [
@@ -46,12 +24,34 @@
       ],
       "authMethods": null,
       "paymentMethods": null
+    },
+    {
+      "id": "DEENCELA000038A01A",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEENCELA000038A01B",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Hannover",
-    "street": "Kleestraße",
+    "street": "Kleestraße / Scheidestraße",
     "houseNumber": null,
     "postcode": "30625",
     "province": null

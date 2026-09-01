@@ -4,7 +4,18 @@
   "name": "E-CON AG WEIHER BUXHEIM1",
   "evses": [
     {
-      "id": "DECPIE65104151",
+      "id": "DECPIE64903251",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE64903252",
       "connectors": [
         {
           "type": "type2",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE64903251",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE64903252",
+      "id": "DECPIE65104151",
       "connectors": [
         {
           "type": "type2",

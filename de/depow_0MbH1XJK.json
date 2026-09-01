@@ -4,17 +4,6 @@
   "name": "VGRB Hansastraße VW",
   "evses": [
     {
-      "id": "DEPOWE01694",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEPOWE01696",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DEPOWE01695",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE01694",
       "connectors": [
         {
           "type": "ccs",

@@ -4,7 +4,7 @@
   "name": "ENTEGA ENTEGA Ladesäule",
   "evses": [
     {
-      "id": "NLLMSE17089432",
+      "id": "NLLMSE17089431",
       "connectors": [
         {
           "type": "type2",
@@ -15,22 +15,11 @@
       "paymentMethods": null
     },
     {
-      "id": "NLLMSE10001368832",
+      "id": "NLLMSE17089362",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "NLLMSE10001368831",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
+          "type": "type2",
+          "maxPowerKw": 7.36
         }
       ],
       "authMethods": null,
@@ -48,18 +37,29 @@
       "paymentMethods": null
     },
     {
-      "id": "NLLMSE17089431",
+      "id": "NLLMSE10001368831",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 7.36
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "NLLMSE17089362",
+      "id": "NLLMSE10001368832",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "NLLMSE17089432",
       "connectors": [
         {
           "type": "type2",

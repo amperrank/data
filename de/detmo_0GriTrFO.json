@@ -4,6 +4,17 @@
   "name": "TMO 4LP Quartier Berliner Straße",
   "evses": [
     {
+      "id": "DETMOE11355001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DETMOE11355003",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DETMOE11355002",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETMOE11355001",
       "connectors": [
         {
           "type": "type2",

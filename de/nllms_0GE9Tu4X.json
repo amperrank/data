@@ -4,22 +4,11 @@
   "name": "Ecotap 61011865",
   "evses": [
     {
-      "id": "NLLMSE10000175241",
+      "id": "NLLMSE10000175242",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 100.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "NLLMSE17086502",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
         }
       ],
       "authMethods": null,
@@ -59,7 +48,18 @@
       "paymentMethods": null
     },
     {
-      "id": "NLLMSE10000175242",
+      "id": "NLLMSE17086502",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "NLLMSE10000175241",
       "connectors": [
         {
           "type": "ccs",

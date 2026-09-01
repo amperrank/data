@@ -4,6 +4,17 @@
   "name": "Kaufland Traunstein",
   "evses": [
     {
+      "id": "DEKDLE00001195",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEKDLE00000973",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEKDLE00001205",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 60.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEKDLE00001195",
       "connectors": [
         {
           "type": "ccs",

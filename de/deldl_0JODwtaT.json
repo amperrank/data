@@ -4,11 +4,11 @@
   "name": "Lidl Filiale Passau-Grubweg",
   "evses": [
     {
-      "id": "DELDLE00011016",
+      "id": "DELDLE00005136",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 11.0
+          "type": "ccs",
+          "maxPowerKw": 60.0
         }
       ],
       "authMethods": null,
@@ -48,7 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DELDLE00005135",
+      "id": "DELDLE00011016",
       "connectors": [
         {
           "type": "type2",
@@ -59,11 +59,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DELDLE00005136",
+      "id": "DELDLE00005135",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 60.0
+          "type": "type2",
+          "maxPowerKw": 11.0
         }
       ],
       "authMethods": null,

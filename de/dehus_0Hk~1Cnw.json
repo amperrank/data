@@ -1,25 +1,25 @@
 {
   "operatorId": "DE*HUS",
   "geohash": "0Hk~1Cnw",
-  "name": "HU005",
+  "name": "HU018",
   "evses": [
     {
-      "id": "DEHUSEHU00501",
+      "id": "DEHUSEH01802",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEHUSEHU00502",
+      "id": "DEHUSEHU01801",
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 11.0
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -48,22 +48,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEHUSEH01802",
+      "id": "DEHUSEHU00501",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEHUSEHU01801",
+      "id": "DEHUSEHU00502",
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 22.0
+          "maxPowerKw": 11.0
         }
       ],
       "authMethods": null,

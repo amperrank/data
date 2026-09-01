@@ -4,7 +4,7 @@
   "name": "Kaufland Paderborn",
   "evses": [
     {
-      "id": "DEKDLE00001520",
+      "id": "DEKDLE00001832",
       "connectors": [
         {
           "type": "ccs",
@@ -26,22 +26,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00001831",
+      "id": "DEKDLE00001520",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00001832",
+      "id": "DEKDLE00001831",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

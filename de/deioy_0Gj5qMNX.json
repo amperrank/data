@@ -4,7 +4,18 @@
   "name": "IONITY GmbH IONITY Hessisch Lichtenau",
   "evses": [
     {
-      "id": "DEIOYE237774",
+      "id": "DEIOYE237772",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE237773",
       "connectors": [
         {
           "type": "ccs",
@@ -48,18 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE237773",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE237772",
+      "id": "DEIOYE237774",
       "connectors": [
         {
           "type": "ccs",

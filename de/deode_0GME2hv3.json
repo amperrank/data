@@ -4,17 +4,6 @@
   "name": "DC-10021-01",
   "evses": [
     {
-      "id": "DEODEEDC100210204",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEODEEDC100210203",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DEODEEDC100210101",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEODEEDC100210204",
       "connectors": [
         {
           "type": "ccs",

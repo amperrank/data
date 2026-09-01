@@ -4,6 +4,17 @@
   "name": "Aral pulse Flensburger Chaussee 44",
   "evses": [
     {
+      "id": "DEBPEE0F2240203",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEBPEE0F2240101",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DEBPEE0F2240102",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0F2240203",
       "connectors": [
         {
           "type": "ccs",

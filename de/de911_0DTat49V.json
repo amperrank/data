@@ -4,18 +4,7 @@
   "name": "Porsche Sales & Marketplace Porsche Zentrum Trier CP1",
   "evses": [
     {
-      "id": "DE911EDE00091700000010000001",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 12.8
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE911EDE00064900000020000001",
+      "id": "DE911EDE00064900000010000001",
       "connectors": [
         {
           "type": "ccs",
@@ -37,11 +26,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DE911EDE00064900000010000001",
+      "id": "DE911EDE00064900000020000001",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 320.16
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE911EDE00091700000010000001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 12.8
         }
       ],
       "authMethods": null,

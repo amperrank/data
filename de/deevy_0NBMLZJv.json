@@ -4,17 +4,6 @@
   "name": "Eviny Germany Wismar",
   "evses": [
     {
-      "id": "DEEVYEWI3B",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 200.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEEVYEWI1B",
       "connectors": [
         {
@@ -59,11 +48,33 @@
       "paymentMethods": null
     },
     {
+      "id": "DEEVYEWI2A",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEEVYEWI5A",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEVYEWI3B",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
         }
       ],
       "authMethods": null,
@@ -93,17 +104,6 @@
     },
     {
       "id": "DEEVYEWI5B",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEVYEWI2A",
       "connectors": [
         {
           "type": "ccs",

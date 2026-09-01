@@ -4,22 +4,22 @@
   "name": "DE_FR_Skoda_Tullastrasse_79108_PP01_öffentlich (KKT)",
   "evses": [
     {
-      "id": "DEPOWE01976",
+      "id": "DEPOWE01975",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 180.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEPOWE01975",
+      "id": "DEPOWE01976",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 180.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

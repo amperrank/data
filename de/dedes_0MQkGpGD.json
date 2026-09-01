@@ -4,22 +4,22 @@
   "name": "[FL-PUB] Schubert Motors GmbH - Magdeburg - DC/AC - Eichrecht - DE*DES*E1003203",
   "evses": [
     {
-      "id": "DEDESE10032032",
+      "id": "DEDESE10032031",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 75.2
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEDESE10032031",
+      "id": "DEDESE10032032",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 75.2
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

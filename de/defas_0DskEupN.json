@@ -4,17 +4,6 @@
   "name": "Fastned Giengen-Herbrechtingen",
   "evses": [
     {
-      "id": "DEFASE4900401",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEFASE4900404",
       "connectors": [
         {
@@ -30,7 +19,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFASE4900403",
+      "id": "DEFASE4900401",
       "connectors": [
         {
           "type": "ccs",
@@ -50,6 +39,17 @@
         {
           "type": "chademo",
           "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEFASE4900403",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,

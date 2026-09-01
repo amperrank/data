@@ -4,7 +4,7 @@
   "name": "Shell Recharge OBN 0002 - Shell Amsinckstrasse",
   "evses": [
     {
-      "id": "57AF6E89A1FD47EF9162AD041CFC3BE92",
+      "id": "57AF6E89A1FD47EF9162AD041CFC3BE91",
       "connectors": [
         {
           "type": "ccs",
@@ -15,11 +15,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49010002042",
+      "id": "DETNMEGL49010002041",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49010002012",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,
@@ -37,22 +48,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49010002022",
+      "id": "DETNMEGL49010002011",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 300.0
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49010002011",
+      "id": "DETNMEGL49010002022",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 150.0
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
@@ -81,7 +92,7 @@
       "paymentMethods": null
     },
     {
-      "id": "57AF6E89A1FD47EF9162AD041CFC3BE91",
+      "id": "57AF6E89A1FD47EF9162AD041CFC3BE92",
       "connectors": [
         {
           "type": "ccs",
@@ -92,22 +103,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49010002041",
+      "id": "DETNMEGL49010002042",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49010002012",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,

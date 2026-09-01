@@ -4,6 +4,17 @@
   "name": "Shell Recharge OBN 2655 - Rewe PFA Hauptstrasse",
   "evses": [
     {
+      "id": "DETNMEGL49022655012",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DETNMEGL49022655022",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DETNMEGL49022655011",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49022655012",
       "connectors": [
         {
           "type": "ccs",

@@ -4,6 +4,17 @@
   "name": "Sonnländer Getränke GmbH - ROE",
   "evses": [
     {
+      "id": "DEVIRE237500",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEVIRE271411",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DEVIRE271413",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEVIRE237500",
       "connectors": [
         {
           "type": "type2",

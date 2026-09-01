@@ -4,6 +4,17 @@
   "name": "Lidl Filiale Cloppenburg",
   "evses": [
     {
+      "id": "DELDLE00001267",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DELDLE00001268",
       "connectors": [
         {
@@ -19,17 +30,6 @@
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DELDLE00001267",
-      "connectors": [
-        {
-          "type": "chademo",
           "maxPowerKw": 50.0
         }
       ],

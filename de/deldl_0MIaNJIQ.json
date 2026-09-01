@@ -4,11 +4,11 @@
   "name": "Lidl Filiale Chemnitz",
   "evses": [
     {
-      "id": "DELDLE00005122",
+      "id": "DELDLE00005123",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 11.0
+          "type": "ccs",
+          "maxPowerKw": 60.0
         }
       ],
       "authMethods": null,
@@ -26,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DELDLE00005123",
+      "id": "DELDLE00005122",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 60.0
+          "type": "type2",
+          "maxPowerKw": 11.0
         }
       ],
       "authMethods": null,

@@ -4,17 +4,6 @@
   "name": "Backcharge GmbH Backcharge: Autohaus Tekken Aurich GmbH & Co. KG",
   "evses": [
     {
-      "id": "DEBCKE10001458521",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 90.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEBCKE10001458502",
       "connectors": [
         {
@@ -42,6 +31,17 @@
         {
           "type": "type2",
           "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBCKE10001458521",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 90.0
         }
       ],
       "authMethods": null,

@@ -4,33 +4,22 @@
   "name": "DE Berlin 12489 Rudower Chaussee VGRD AZB HPC1 (öffentlich) (Time) (AOTFUI)",
   "evses": [
     {
-      "id": "DEPOWE01495",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEPOWE01494",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEPOWE01497",
       "connectors": [
         {
           "type": "type2",
           "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE01493",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,
@@ -48,7 +37,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPOWE01493",
+      "id": "DEPOWE01495",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE01494",
       "connectors": [
         {
           "type": "ccs",

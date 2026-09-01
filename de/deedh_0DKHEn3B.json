@@ -4,7 +4,18 @@
   "name": "NaturEnergie Community - Au Feuerwehrparkplatz",
   "evses": [
     {
-      "id": "DEEDHE001550",
+      "id": "DEEDHE001552",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEDHE001551",
       "connectors": [
         {
           "type": "type2",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEDHE001552",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEDHE001551",
+      "id": "DEEDHE001550",
       "connectors": [
         {
           "type": "type2",

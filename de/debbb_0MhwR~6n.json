@@ -1,30 +1,8 @@
 {
   "operatorId": "DE*BBB",
   "geohash": "0MhwR~6n",
-  "name": " Schützenplatz",
+  "name": "Schützenplatz",
   "evses": [
-    {
-      "id": "DEBBBE6006902",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBBBE6006901",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DEBBBE6006801",
       "connectors": [
@@ -38,6 +16,28 @@
     },
     {
       "id": "DEBBBE6006802",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBBBE6006902",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBBBE6006901",
       "connectors": [
         {
           "type": "ccs",

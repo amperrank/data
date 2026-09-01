@@ -4,6 +4,17 @@
   "name": "JOLT HH00881",
   "evses": [
     {
+      "id": "DEJEGEHH008812",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEJEGEHH008811",
       "connectors": [
         {
@@ -31,17 +42,6 @@
         {
           "type": "ccs",
           "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEJEGEHH008812",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,

@@ -4,7 +4,18 @@
   "name": "Ubitricity Hans-Stoll-Straße ggü. 162",
   "evses": [
     {
-      "id": "DEUBIE10017542",
+      "id": "DEUBIE10000182",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEUBIE10005035",
       "connectors": [
         {
           "type": "type2",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEUBIE10000182",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEUBIE10005035",
+      "id": "DEUBIE10017542",
       "connectors": [
         {
           "type": "type2",

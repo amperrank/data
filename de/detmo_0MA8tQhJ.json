@@ -4,6 +4,17 @@
   "name": "TMO LP3/4 Küchenstudio Hecht",
   "evses": [
     {
+      "id": "DETMOE11060002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DETMOE11060004",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DETMOE11060001",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETMOE11060002",
       "connectors": [
         {
           "type": "ccs",

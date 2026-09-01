@@ -4,6 +4,17 @@
   "name": "Aral pulse Straßburgstraße 1",
   "evses": [
     {
+      "id": "DEBPEE0F1820204",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEBPEE0F1820411",
       "connectors": [
         {
@@ -26,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0F1820103",
+      "id": "DEBPEE0F1820410",
       "connectors": [
         {
           "type": "ccs",
@@ -37,29 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0F1820307",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0F1820412",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0F1820102",
+      "id": "DEBPEE0F1820308",
       "connectors": [
         {
           "type": "chademo",
@@ -92,7 +81,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0F1820308",
+      "id": "DEBPEE0F1820102",
       "connectors": [
         {
           "type": "chademo",
@@ -103,7 +92,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0F1820410",
+      "id": "DEBPEE0F1820307",
       "connectors": [
         {
           "type": "ccs",
@@ -114,7 +103,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0F1820204",
+      "id": "DEBPEE0F1820103",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0F1820412",
       "connectors": [
         {
           "type": "ccs",

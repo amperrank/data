@@ -4,6 +4,17 @@
   "name": "Lidl Filiale Aschaffenburg",
   "evses": [
     {
+      "id": "DELDLE00003706",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 43.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DELDLE00003705",
       "connectors": [
         {
@@ -20,17 +31,6 @@
         {
           "type": "chademo",
           "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DELDLE00003706",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 43.0
         }
       ],
       "authMethods": null,

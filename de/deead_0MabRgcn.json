@@ -4,22 +4,22 @@
   "name": "VW Zeesen - Im Gewerbepark",
   "evses": [
     {
-      "id": "DEEADE287415010011",
+      "id": "DEEADE287415010012",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 11.0
+          "type": "ccs",
+          "maxPowerKw": 30.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEEADE287415010012",
+      "id": "DEEADE287415010011",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 30.0
+          "type": "type2",
+          "maxPowerKw": 11.0
         }
       ],
       "authMethods": null,

@@ -4,17 +4,6 @@
   "name": "Lidl Filiale Wilhelmshaven",
   "evses": [
     {
-      "id": "DELDLE00003485",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 60.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DELDLE00003483",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DELDLE00003482",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELDLE00003485",
       "connectors": [
         {
           "type": "ccs",

@@ -4,18 +4,7 @@
   "name": "Shell Recharge OBN 1232 - Shell Leipzigstrasse",
   "evses": [
     {
-      "id": "DETNMEGL49011232022",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49011232011",
+      "id": "DETNMEGL49011232012",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49011232012",
+      "id": "DETNMEGL49011232011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49011232022",
       "connectors": [
         {
           "type": "ccs",

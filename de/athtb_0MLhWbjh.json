@@ -4,17 +4,6 @@
   "name": "Ladestation Penck Hotel Dresden",
   "evses": [
     {
-      "id": "ATHTBE1011017",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "ATHTBE1011019",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "ATHTBE101101718",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "ATHTBE1011017",
       "connectors": [
         {
           "type": "type2",

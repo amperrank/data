@@ -4,18 +4,18 @@
   "name": "enercity AG enercity - Hemmingen Rathaus - A01",
   "evses": [
     {
-      "id": "DEENCELA000070001A",
+      "id": "DEENCELA000070A01A",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 7.36
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEENCELA000070001B",
+      "id": "DEENCELA000070001A",
       "connectors": [
         {
           "type": "type2",
@@ -37,11 +37,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEENCELA000070A01A",
+      "id": "DEENCELA000070001B",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 150.0
+          "type": "type2",
+          "maxPowerKw": 7.36
         }
       ],
       "authMethods": null,

@@ -4,28 +4,6 @@
   "name": "Stadtwerke Stralsund Ringstraße 140 , 18528 Bergen/Rügen",
   "evses": [
     {
-      "id": "DEHSTE12346427333",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEHSTE12346427334",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 100.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEHSTE12346427332",
       "connectors": [
         {
@@ -38,6 +16,28 @@
     },
     {
       "id": "DEHSTE12346427331",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEHSTE12346427333",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEHSTE12346427334",
       "connectors": [
         {
           "type": "ccs",

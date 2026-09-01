@@ -1,14 +1,14 @@
 {
   "operatorId": "DE*POW",
   "geohash": "0G9PohUu",
-  "name": "Autohaus Lürs HYC49,9 öffentlich",
+  "name": "Autohaus Lürs HYC49,9 öffentlich 34kW max",
   "evses": [
     {
-      "id": "DEPOWE03592",
+      "id": "DEPOWE03594",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 11.0
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -26,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPOWE03594",
+      "id": "DEPOWE03592",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 11.0
         }
       ],
       "authMethods": null,

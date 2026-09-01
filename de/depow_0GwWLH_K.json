@@ -4,22 +4,22 @@
   "name": "Fritz Schmale GmbH - HYC75 - 23BZ7400A (öffentlich KKT)",
   "evses": [
     {
-      "id": "DEPOWE02192",
+      "id": "DEPOWE02381",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEPOWE02381",
+      "id": "DEPOWE02192",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

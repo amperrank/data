@@ -4,7 +4,18 @@
   "name": "Mer Germany GmbH Mer Germany GmbH - Innernzell - Schulstraße 4 #2",
   "evses": [
     {
-      "id": "DEMERE00487401",
+      "id": "DEMERE00491102",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00487402",
       "connectors": [
         {
           "type": "type2",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMERE00491102",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE00487402",
+      "id": "DEMERE00487401",
       "connectors": [
         {
           "type": "type2",

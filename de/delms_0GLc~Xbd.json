@@ -4,7 +4,7 @@
   "name": "Hymes Energy GmbH Haus Berghoff",
   "evses": [
     {
-      "id": "DELMSE12346271281",
+      "id": "DELMSE12346271282",
       "connectors": [
         {
           "type": "ccs",
@@ -37,17 +37,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DELMSE12346271362",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DELMSE12346271412",
       "connectors": [
         {
@@ -59,11 +48,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DELMSE12346271282",
+      "id": "DELMSE12346271281",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELMSE12346271362",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
         }
       ],
       "authMethods": null,

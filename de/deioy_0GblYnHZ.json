@@ -4,7 +4,7 @@
   "name": "IONITY GmbH IONITY Dammer Berge Ost",
   "evses": [
     {
-      "id": "DEIOYE103505",
+      "id": "DEIOYE103503",
       "connectors": [
         {
           "type": "ccs",
@@ -16,6 +16,17 @@
     },
     {
       "id": "DEIOYE103502",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE103505",
       "connectors": [
         {
           "type": "ccs",
@@ -38,17 +49,6 @@
     },
     {
       "id": "DEIOYE103506",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE103503",
       "connectors": [
         {
           "type": "ccs",

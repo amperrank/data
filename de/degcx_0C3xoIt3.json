@@ -1,19 +1,8 @@
 {
   "operatorId": "DE*GCX",
   "geohash": "0C3xoIt3",
-  "name": "PARDE0805S002",
+  "name": "PARDE0805S006",
   "evses": [
-    {
-      "id": "DEGCXEPARDE0805S0021",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DEGCXEPARDE0805S0061",
       "connectors": [
@@ -27,6 +16,17 @@
     },
     {
       "id": "DEGCXEPARDE0805S0081",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGCXEPARDE0805S0021",
       "connectors": [
         {
           "type": "type2",

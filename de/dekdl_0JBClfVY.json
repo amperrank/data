@@ -4,6 +4,28 @@
   "name": "Kaufland Gröbenzell",
   "evses": [
     {
+      "id": "DEKDLE00003174",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEKDLE00003156",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEKDLE00003175",
       "connectors": [
         {
@@ -15,11 +37,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00003174",
+      "id": "DEKDLE00003157",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEKDLE00000386",
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 22.0
+          "maxPowerKw": 43.0
         }
       ],
       "authMethods": null,
@@ -42,39 +75,6 @@
         {
           "type": "chademo",
           "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEKDLE00000386",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 43.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEKDLE00003157",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEKDLE00003156",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

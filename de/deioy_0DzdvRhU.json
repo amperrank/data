@@ -4,7 +4,18 @@
   "name": "IONITY GmbH IONITY Spessart Nord",
   "evses": [
     {
-      "id": "DEIOYE212604",
+      "id": "DEIOYE212605",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE212603",
       "connectors": [
         {
           "type": "ccs",
@@ -26,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE212605",
+      "id": "DEIOYE212604",
       "connectors": [
         {
           "type": "ccs",
@@ -38,17 +49,6 @@
     },
     {
       "id": "DEIOYE212601",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE212603",
       "connectors": [
         {
           "type": "ccs",

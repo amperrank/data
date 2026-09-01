@@ -4,17 +4,6 @@
   "name": "GW_Haltern BPP_Station 2_Oe",
   "evses": [
     {
-      "id": "DEGWEEAC1230",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEGWEEAC1229",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DEGWEEAC1232",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGWEEAC1230",
       "connectors": [
         {
           "type": "type2",

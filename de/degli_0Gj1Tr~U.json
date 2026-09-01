@@ -4,29 +4,7 @@
   "name": "Kassel Audi Zentrum Wallboxnetzwerk 22kW AC",
   "evses": [
     {
-      "id": "DEGLIE100100170",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 175.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEGLIE100100171",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 75.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEGLIE100100176",
+      "id": "DEGLIE100100177",
       "connectors": [
         {
           "type": "type2",
@@ -37,10 +15,10 @@
       "paymentMethods": null
     },
     {
-      "id": "DEGLIE100100178",
+      "id": "DEGLIE100100172",
       "connectors": [
         {
-          "type": "type2",
+          "type": "ccs",
           "maxPowerKw": 22.0
         }
       ],
@@ -59,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEGLIE100100177",
+      "id": "DEGLIE100100176",
       "connectors": [
         {
           "type": "type2",
@@ -70,11 +48,33 @@
       "paymentMethods": null
     },
     {
-      "id": "DEGLIE100100172",
+      "id": "DEGLIE100100171",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 75.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGLIE100100178",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGLIE100100170",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 22.0
+          "maxPowerKw": 175.0
         }
       ],
       "authMethods": null,

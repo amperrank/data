@@ -1,0 +1,42 @@
+{
+  "operatorId": "DE*EDR",
+  "geohash": "0Hl_NH3I",
+  "name": "Sprakebüll, Maytoft, 1",
+  "evses": [
+    {
+      "id": "DEEDRE110001362",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        },
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEDRE110001361",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 14.26
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Sprakebüll",
+    "street": "Maytoft",
+    "houseNumber": "2",
+    "postcode": "25917",
+    "province": null
+  },
+  "openingHours": null
+}

@@ -15,17 +15,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMBLESO1039DC0011",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 43.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEMBLESO1039DC0022",
       "connectors": [
         {
@@ -37,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMBLESO1039DC0013",
+      "id": "DEMBLESO1039DC0011",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 43.0
         }
       ],
       "authMethods": null,
@@ -53,6 +42,17 @@
         {
           "type": "ccs",
           "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMBLESO1039DC0013",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

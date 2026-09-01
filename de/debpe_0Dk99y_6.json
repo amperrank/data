@@ -4,28 +4,6 @@
   "name": "Aral pulse Freiherr-von-Varnbüler Str. 1",
   "evses": [
     {
-      "id": "DEBPEE0FT800206",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0FT800205",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 100.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEBPEE0FT800101",
       "connectors": [
         {
@@ -48,11 +26,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FT800102",
+      "id": "DEBPEE0FT800205",
       "connectors": [
         {
           "type": "chademo",
           "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0FT800206",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
@@ -64,6 +53,17 @@
         {
           "type": "ccs",
           "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0FT800102",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,

@@ -4,6 +4,17 @@
   "name": "Lidl Filiale Leipzig",
   "evses": [
     {
+      "id": "DELDLE00003256",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DELDLE00003268",
       "connectors": [
         {
@@ -20,17 +31,6 @@
         {
           "type": "type2",
           "maxPowerKw": 43.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DELDLE00003256",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

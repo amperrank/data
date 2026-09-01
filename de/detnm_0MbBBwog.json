@@ -4,17 +4,6 @@
   "name": "Shell Recharge OBN 2690 - Penny Kamenzer Damm",
   "evses": [
     {
-      "id": "DETNMEGL49022690012",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGL49022690011",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49022690022",
+      "id": "DETNMEGL49022690012",
       "connectors": [
         {
           "type": "ccs",
@@ -38,6 +27,17 @@
     },
     {
       "id": "DETNMEGL49022690021",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49022690022",
       "connectors": [
         {
           "type": "ccs",

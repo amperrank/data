@@ -4,7 +4,29 @@
   "name": "TMO LP3/4 EDEKA",
   "evses": [
     {
-      "id": "DETMOE11265005",
+      "id": "DETMOE11265006",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETMOE11265003",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETMOE11265002",
       "connectors": [
         {
           "type": "ccs",
@@ -37,29 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETMOE11265002",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETMOE11265003",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETMOE11265006",
+      "id": "DETMOE11265005",
       "connectors": [
         {
           "type": "ccs",

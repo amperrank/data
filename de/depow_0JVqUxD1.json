@@ -4,22 +4,22 @@
   "name": "DE_Motor-Nuetzel_22449_95030_VW_PP01_öffentlich",
   "evses": [
     {
-      "id": "DEPOWE01246",
+      "id": "DEPOWE01747",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEPOWE01747",
+      "id": "DEPOWE01246",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

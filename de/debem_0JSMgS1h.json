@@ -4,6 +4,17 @@
   "name": "bayernwerk e-mobil Ladestation Gemeinde Wackersdorf",
   "evses": [
     {
+      "id": "DEBEME0010362",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEBEME0010363",
       "connectors": [
         {
@@ -37,17 +48,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBEME0010361",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEBEME0011173",
       "connectors": [
         {
@@ -59,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBEME0010362",
+      "id": "DEBEME0010361",
       "connectors": [
         {
           "type": "type2",

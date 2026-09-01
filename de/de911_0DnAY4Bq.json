@@ -1,8 +1,30 @@
 {
   "operatorId": "DE*911",
   "geohash": "0DnAY4Bq",
-  "name": "Porsche Sales & Marketplace Ladesäule 4 (Wallbox)",
+  "name": "Porsche Sales & Marketplace W7-B05-C02-CP02-CBX",
   "evses": [
+    {
+      "id": "DE911EDE00004600000020000001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 320.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE911EDE00161700000010000001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 12.8
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DE911EPPCDE20000010000001",
       "connectors": [
@@ -26,11 +48,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DE911EDE00004600000020000001",
+      "id": "DE911EDE00081600000010000001",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 320.0
+          "type": "type2",
+          "maxPowerKw": 12.8
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE911EDE00161600000010000001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 4.84
         }
       ],
       "authMethods": null,
@@ -38,50 +71,6 @@
     },
     {
       "id": "DE911EDE00161700000010000001",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 12.8
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE911EDE00004600000010000001",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 320.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE911EDE00161500000010000001",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 12.8
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE911EDE00004600000020000001",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 320.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE911EPDCDE10000010000001",
       "connectors": [
         {
           "type": "type2",
@@ -103,7 +92,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DE911EDE00081600000010000001",
+      "id": "DE911EDE00161500000010000001",
       "connectors": [
         {
           "type": "type2",
@@ -114,7 +103,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DE911EDE00161700000010000001",
+      "id": "DE911EPDCDE10000010000001",
       "connectors": [
         {
           "type": "type2",
@@ -125,11 +114,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DE911EDE00161600000010000001",
+      "id": "DE911EDE00004600000010000001",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 4.84
+          "type": "ccs",
+          "maxPowerKw": 320.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE911EDE00004600000020000001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 500.0
         }
       ],
       "authMethods": null,

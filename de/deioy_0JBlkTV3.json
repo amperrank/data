@@ -4,7 +4,7 @@
   "name": "IONITY GmbH IONITY Eching",
   "evses": [
     {
-      "id": "DEIOYE215902",
+      "id": "DEIOYE215901",
       "connectors": [
         {
           "type": "ccs",
@@ -26,17 +26,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE215904",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEIOYE215903",
       "connectors": [
         {
@@ -48,7 +37,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE215901",
+      "id": "DEIOYE215904",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE215902",
       "connectors": [
         {
           "type": "ccs",

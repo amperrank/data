@@ -4,6 +4,17 @@
   "name": "IONITY GmbH IONITY Salzbergen",
   "evses": [
     {
+      "id": "DEIOYE209305",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEIOYE209306",
       "connectors": [
         {
@@ -15,7 +26,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE209305",
+      "id": "DEIOYE209301",
       "connectors": [
         {
           "type": "ccs",
@@ -37,17 +48,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE209304",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEIOYE209303",
       "connectors": [
         {
@@ -59,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE209301",
+      "id": "DEIOYE209304",
       "connectors": [
         {
           "type": "ccs",

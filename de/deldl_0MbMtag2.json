@@ -4,11 +4,11 @@
   "name": "Lidl Filiale Berlin",
   "evses": [
     {
-      "id": "DELDLE00004919",
+      "id": "DELDLE00004918",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "chademo",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -26,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DELDLE00004918",
+      "id": "DELDLE00004919",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

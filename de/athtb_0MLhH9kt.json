@@ -4,7 +4,7 @@
   "name": "Tiefgarage Wiener Platz - TGDD003",
   "evses": [
     {
-      "id": "ATHTBE1006893",
+      "id": "ATHTBE1006897",
       "connectors": [
         {
           "type": "ccs",
@@ -15,11 +15,11 @@
       "paymentMethods": null
     },
     {
-      "id": "ATHTBE1006895",
+      "id": "ATHTBE1006894",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,
@@ -37,11 +37,11 @@
       "paymentMethods": null
     },
     {
-      "id": "ATHTBE1006899",
+      "id": "ATHTBE1006895",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 150.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -70,6 +70,17 @@
       "paymentMethods": null
     },
     {
+      "id": "ATHTBE1006899",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "ATHTBE1006898",
       "connectors": [
         {
@@ -81,18 +92,7 @@
       "paymentMethods": null
     },
     {
-      "id": "ATHTBE1006894",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "ATHTBE1006897",
+      "id": "ATHTBE1006893",
       "connectors": [
         {
           "type": "ccs",

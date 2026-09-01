@@ -4,17 +4,6 @@
   "name": "Backcharge GmbH Backcharge: Kreishaus Syke",
   "evses": [
     {
-      "id": "DEBCKE12346275522",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEBCKE12346275511",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBCKE12346275521",
+      "id": "DEBCKE12346275522",
       "connectors": [
         {
           "type": "ccs",
@@ -42,6 +31,17 @@
         {
           "type": "type2",
           "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBCKE12346275521",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,

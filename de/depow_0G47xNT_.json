@@ -4,17 +4,6 @@
   "name": "DE Braunschweig 38114 Varrentrappstraße 1 Skoda Autohaus Liebe Keba Master (mit 2 Slaves) (öffentlich / hidden)",
   "evses": [
     {
-      "id": "DEPOWE02907",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEPOWE02905",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DEPOWE02906",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE02907",
       "connectors": [
         {
           "type": "type2",

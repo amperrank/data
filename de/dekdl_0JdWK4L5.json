@@ -4,6 +4,17 @@
   "name": "Kaufland Schwarzenberg/Erzgebirge",
   "evses": [
     {
+      "id": "DEKDLE00000509",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEKDLE00000507",
       "connectors": [
         {
@@ -20,17 +31,6 @@
         {
           "type": "type2",
           "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEKDLE00000509",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 60.0
         }
       ],
       "authMethods": null,

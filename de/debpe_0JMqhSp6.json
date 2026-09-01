@@ -4,17 +4,6 @@
   "name": "Aral pulse Doktorweg 1",
   "evses": [
     {
-      "id": "DEBPEE3EF1460101",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEBPEE3EF1460103",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE3EF1460204",
+      "id": "DEBPEE3EF1460101",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +26,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE3EF1460206",
+      "id": "DEBPEE3EF1460204",
       "connectors": [
         {
           "type": "ccs",
@@ -64,6 +53,17 @@
         {
           "type": "chademo",
           "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE3EF1460206",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,

@@ -4,6 +4,17 @@
   "name": "Kaufand Naila",
   "evses": [
     {
+      "id": "DEKDLE00001020",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEKDLE00001019",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEKDLE00001015",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 60.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEKDLE00001020",
       "connectors": [
         {
           "type": "ccs",

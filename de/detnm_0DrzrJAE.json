@@ -4,6 +4,17 @@
   "name": "Shell Recharge OBN 1665 - Shell Laimeringer Strasse",
   "evses": [
     {
+      "id": "DETNMEGL49011665021",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DETNMEGL49011665032",
       "connectors": [
         {
@@ -26,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49011665041",
+      "id": "DETNMEGL49011665031",
       "connectors": [
         {
           "type": "ccs",
@@ -48,17 +59,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49011665042",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGL49011665011",
       "connectors": [
         {
@@ -70,7 +70,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49011665021",
+      "id": "DETNMEGL49011665042",
       "connectors": [
         {
           "type": "ccs",
@@ -81,7 +81,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49011665031",
+      "id": "DETNMEGL49011665041",
       "connectors": [
         {
           "type": "ccs",

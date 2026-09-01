@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*SEG",
+  "geohash": "0HpzeIE1",
+  "name": "DESEG1011",
+  "evses": [
+    {
+      "id": "DESEGEDESEG101102",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DESEGEDESEG101101",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Tensfeld",
+    "street": "Dorfstr.",
+    "houseNumber": null,
+    "postcode": "23824",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

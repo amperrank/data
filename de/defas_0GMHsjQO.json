@@ -4,6 +4,21 @@
   "name": "Fastned Bochum-Stahlhausen",
   "evses": [
     {
+      "id": "DEFASE4907510",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        },
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEFASE4907508",
       "connectors": [
         {
@@ -30,15 +45,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFASE4907510",
+      "id": "DEFASE4907506",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 300.0
-        },
-        {
-          "type": "chademo",
-          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -56,7 +67,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFASE4907506",
+      "id": "DEFASE4907501",
       "connectors": [
         {
           "type": "ccs",
@@ -79,17 +90,6 @@
     },
     {
       "id": "DEFASE4907502",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEFASE4907501",
       "connectors": [
         {
           "type": "ccs",

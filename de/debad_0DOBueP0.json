@@ -4,6 +4,17 @@
   "name": "HS-Kehl_02 (0917)",
   "evses": [
     {
+      "id": "DEBADE100349",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEBADE100352",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEBADE100351",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBADE100349",
       "connectors": [
         {
           "type": "type2",

@@ -4,6 +4,17 @@
   "name": "Lidl Frankfurt am Main",
   "evses": [
     {
+      "id": "DELDLE00004123",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 43.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DELDLE00004125",
       "connectors": [
         {
@@ -20,17 +31,6 @@
         {
           "type": "ccs",
           "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DELDLE00004123",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 43.0
         }
       ],
       "authMethods": null,

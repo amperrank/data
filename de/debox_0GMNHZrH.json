@@ -4,6 +4,17 @@
   "name": "Parkhaus Massenbergstraße, Station 1",
   "evses": [
     {
+      "id": "DEBOXEAC0714",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEBOXEAC0713",
       "connectors": [
         {
@@ -26,29 +37,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBOXEAC0711",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBOXEAC0714",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEBOXEAC0710",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBOXEAC0711",
       "connectors": [
         {
           "type": "type2",

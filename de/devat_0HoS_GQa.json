@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*VAT",
+  "geohash": "0HoS_GQa",
+  "name": "DE*VAT*EXCHA*C7NE28A0CCACNFKKTA*2",
+  "evses": [
+    {
+      "id": "DEVATEXCHAC7NE28A0CCACNFKKTA2",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEVATEXCHAC7NE28A0CCACNFKKTA1",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Hamburg",
+    "street": "Krohnstieg",
+    "houseNumber": "55",
+    "postcode": "22415",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

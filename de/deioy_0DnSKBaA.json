@@ -4,7 +4,18 @@
   "name": "IONITY GmbH IONITY Wunnenstein West",
   "evses": [
     {
-      "id": "DEIOYE201106",
+      "id": "DEIOYE201102",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE201105",
       "connectors": [
         {
           "type": "ccs",
@@ -26,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE201105",
+      "id": "DEIOYE201106",
       "connectors": [
         {
           "type": "ccs",
@@ -49,17 +60,6 @@
     },
     {
       "id": "DEIOYE201104",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE201102",
       "connectors": [
         {
           "type": "ccs",

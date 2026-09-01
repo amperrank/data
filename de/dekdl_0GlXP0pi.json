@@ -4,11 +4,11 @@
   "name": "Kaufland Bielefeld",
   "evses": [
     {
-      "id": "DEKDLE00001593",
+      "id": "DEKDLE00001592",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 60.0
         }
       ],
       "authMethods": null,
@@ -26,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00001592",
+      "id": "DEKDLE00001593",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 60.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

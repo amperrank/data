@@ -4,17 +4,6 @@
   "name": "BayWa AG Baustoffe Kolbermoor",
   "evses": [
     {
-      "id": "DE122E0000526",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DE122E0000524",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DE122E0000523",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE122E0000526",
       "connectors": [
         {
           "type": "type2",

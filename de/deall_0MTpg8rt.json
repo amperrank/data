@@ -4,17 +4,6 @@
   "name": "Allego - Brandenburg an der Havel",
   "evses": [
     {
-      "id": "DEALLEGO0031392",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEALLEGO0017031",
       "connectors": [
         {
@@ -26,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0017051",
+      "id": "DEALLEGO0031392",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEALLEGO0017052",
       "connectors": [
         {
           "type": "type2",
@@ -59,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0017052",
+      "id": "DEALLEGO0017051",
       "connectors": [
         {
           "type": "type2",

@@ -4,22 +4,11 @@
   "name": "BK Neufinsing_02",
   "evses": [
     {
-      "id": "DE122E0000426",
+      "id": "DE122E0000425",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE122E0000428",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
@@ -37,11 +26,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DE122E0000425",
+      "id": "DE122E0000428",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 300.0
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE122E0000426",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

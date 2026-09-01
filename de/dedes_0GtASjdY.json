@@ -4,6 +4,17 @@
   "name": "[FL-PUB] Christian Höltje Landhandel - DC - Eichrecht -DE*DES*E1003855",
   "evses": [
     {
+      "id": "DEDESE10038551",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 75.2
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEDESE10038552",
       "connectors": [
         {
@@ -20,17 +31,6 @@
         {
           "type": "type2",
           "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEDESE10038551",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 75.2
         }
       ],
       "authMethods": null,

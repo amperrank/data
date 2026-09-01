@@ -4,6 +4,17 @@
   "name": "Mercedes-Benz Charging Hub Kassel",
   "evses": [
     {
+      "id": "DEMBXE000302",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEMBXE000301",
       "connectors": [
         {
@@ -37,7 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMBXE000307",
+      "id": "DEMBXE000304",
       "connectors": [
         {
           "type": "ccs",
@@ -59,18 +70,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMBXE000302",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMBXE000304",
+      "id": "DEMBXE000307",
       "connectors": [
         {
           "type": "ccs",

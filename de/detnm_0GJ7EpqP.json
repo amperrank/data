@@ -4,17 +4,6 @@
   "name": "Shell Recharge OBN 1162 - Shell Paulmannshoeher Strasse",
   "evses": [
     {
-      "id": "DETNMEGL49011162011",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGL49011162021",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DETNMEGL49011162022",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49011162011",
       "connectors": [
         {
           "type": "ccs",

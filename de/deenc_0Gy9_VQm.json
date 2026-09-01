@@ -4,7 +4,18 @@
   "name": "enercity AG enercity - Volgersweg - 002",
   "evses": [
     {
-      "id": "DEENCELA000102001A",
+      "id": "DEENCELA000102001B",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEENCELA000102002B",
       "connectors": [
         {
           "type": "type2",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEENCELA000102001B",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEENCELA000102002B",
+      "id": "DEENCELA000102001A",
       "connectors": [
         {
           "type": "type2",

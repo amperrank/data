@@ -4,18 +4,7 @@
   "name": "Shell Recharge OBN 0245 - Shell Thueringer Strasse",
   "evses": [
     {
-      "id": "DETNMEGL49010245022",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49010245011",
+      "id": "DETNMEGL49010245012",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49010245012",
+      "id": "DETNMEGL49010245011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49010245022",
       "connectors": [
         {
           "type": "ccs",

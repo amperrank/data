@@ -4,6 +4,17 @@
   "name": "SWG WEBEREI 2",
   "evses": [
     {
+      "id": "DECPIE68133851",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DECPIE68133751",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DECPIE68133852",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE68133851",
       "connectors": [
         {
           "type": "ccs",

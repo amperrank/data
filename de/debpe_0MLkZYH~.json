@@ -4,7 +4,29 @@
   "name": "Aral pulse Am Hellerhof",
   "evses": [
     {
-      "id": "DEBPEE0FK980206",
+      "id": "DEBPEE0FK980102",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0FK980101",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0FK980204",
       "connectors": [
         {
           "type": "ccs",
@@ -26,29 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FK980101",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0FK980102",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 100.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0FK980204",
+      "id": "DEBPEE0FK980206",
       "connectors": [
         {
           "type": "ccs",

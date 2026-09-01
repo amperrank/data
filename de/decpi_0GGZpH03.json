@@ -4,6 +4,17 @@
   "name": "INOVYN WALLBOX 1",
   "evses": [
     {
+      "id": "DECPIE71623552",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.08
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DECPIE71623452",
       "connectors": [
         {
@@ -20,17 +31,6 @@
         {
           "type": "type2",
           "maxPowerKw": 43.47
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE71623552",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.08
         }
       ],
       "authMethods": null,

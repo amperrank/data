@@ -4,17 +4,6 @@
   "name": "Eggebek, Hauptstraße 21 LIS 2",
   "evses": [
     {
-      "id": "DETMEE30170",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETMEE30171",
       "connectors": [
         {
@@ -26,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DETMEE30169",
+      "id": "DETMEE30170",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETMEE30168",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETMEE30168",
+      "id": "DETMEE30169",
       "connectors": [
         {
           "type": "ccs",

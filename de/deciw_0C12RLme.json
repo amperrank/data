@@ -4,7 +4,18 @@
   "name": "CITYWATT Singen #03 - 300kW",
   "evses": [
     {
-      "id": "DECIWE001062",
+      "id": "DECIWE001061",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECIWE001065",
       "connectors": [
         {
           "type": "ccs",
@@ -37,40 +48,18 @@
       "paymentMethods": null
     },
     {
+      "id": "DECIWE001062",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DECIWE001060",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECIWE001065",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECIWE001061",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECIWE001059",
       "connectors": [
         {
           "type": "ccs",
@@ -93,6 +82,17 @@
     },
     {
       "id": "DECIWE001056",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECIWE001059",
       "connectors": [
         {
           "type": "ccs",

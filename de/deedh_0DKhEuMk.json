@@ -4,17 +4,6 @@
   "name": "NaturEnergie Community - WÄLDER : Genuss Rechts",
   "evses": [
     {
-      "id": "DEEDHE001333",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEEDHE001334",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DEEDHE001335",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEDHE001333",
       "connectors": [
         {
           "type": "ccs",

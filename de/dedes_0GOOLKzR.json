@@ -4,6 +4,17 @@
   "name": "[FL-PUB] Autohaus Kaltenbach Arnsberg - AC - Eichrecht - DE*DES*E1003392",
   "evses": [
     {
+      "id": "DEDESE10033911",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEDESE10033912",
       "connectors": [
         {
@@ -26,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEDESE10033921",
+      "id": "DEDESE10033922",
       "connectors": [
         {
           "type": "type2",
@@ -48,22 +59,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEDESE10033922",
+      "id": "DEDESE10033921",
       "connectors": [
         {
           "type": "type2",
           "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEDESE10033911",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

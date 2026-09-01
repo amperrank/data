@@ -4,6 +4,17 @@
   "name": "Shell Recharge OBN 9284 - Shell HAL Berliner Strasse",
   "evses": [
     {
+      "id": "DETNMEGL49019284021",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DETNMEGL49019284011",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DETNMEGL49019284022",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49019284021",
       "connectors": [
         {
           "type": "ccs",

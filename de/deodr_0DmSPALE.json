@@ -4,6 +4,17 @@
   "name": "Stadt Ostfildern - Feuerwehr Scharnhausen",
   "evses": [
     {
+      "id": "DEODRE10000881",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEODRE10000885",
       "connectors": [
         {
@@ -38,17 +49,6 @@
     },
     {
       "id": "DEODRE10000883",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEODRE10000881",
       "connectors": [
         {
           "type": "type2",

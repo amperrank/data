@@ -4,17 +4,6 @@
   "name": "eliso - Eichhorn - Wartenberg",
   "evses": [
     {
-      "id": "DEELIE3584546",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEELIE3584545",
       "connectors": [
         {
@@ -26,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEELIE3585553",
+      "id": "DEELIE3584546",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEELIE3585551",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEELIE3585551",
+      "id": "DEELIE3585553",
       "connectors": [
         {
           "type": "ccs",

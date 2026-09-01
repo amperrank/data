@@ -4,17 +4,6 @@
   "name": "Porsche Sales & Marketplace Porsche Zentrum Karlsruhe Ladesäule 2",
   "evses": [
     {
-      "id": "DE911EDE00059000000020000001",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 320.16
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DE911EDE00059000000010000001",
       "connectors": [
         {
@@ -26,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DE911EDE00162200000010000001",
+      "id": "DE911EDE00059000000020000001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 320.16
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE911EDE00162300000010000001",
       "connectors": [
         {
           "type": "type2",
@@ -37,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DE911EDE00162300000010000001",
+      "id": "DE911EDE00162200000010000001",
       "connectors": [
         {
           "type": "type2",

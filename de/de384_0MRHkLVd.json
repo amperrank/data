@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*384",
+  "geohash": "0MRHkLVd",
+  "name": "EDEKA Ladestation",
+  "evses": [
+    {
+      "id": "DE384E176990CS00011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE384E176990CS00012",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE384E176990CS00013",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Gardelegen",
+    "street": "Vor dem Salzwedeler Tor",
+    "houseNumber": null,
+    "postcode": "39638",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

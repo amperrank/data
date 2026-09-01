@@ -1,13 +1,13 @@
 {
   "operatorId": "DE*POW",
   "geohash": "0DiijjFz",
-  "name": "WG_Seitz_Weingarten 0021155 Compleo öffentlich",
+  "name": "WG_Seitz_Weingarten HYC 49,9 100142558 öffentlich",
   "evses": [
     {
-      "id": "DEPOWE02618",
+      "id": "DEPOWE03737",
       "connectors": [
         {
-          "type": "ccs",
+          "type": "type2",
           "maxPowerKw": 22.0
         }
       ],
@@ -15,11 +15,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPOWE02619",
+      "id": "DEPOWE03735",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 49.9
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE03736",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 49.9
         }
       ],
       "authMethods": null,

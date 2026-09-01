@@ -4,22 +4,22 @@
   "name": "Mer Germany GmbH Autohaus Zehder - Cham - Janahofer Straße 1 #1",
   "evses": [
     {
-      "id": "DEMERE00046202",
+      "id": "DEMERE00046201",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEMERE00046201",
+      "id": "DEMERE00046202",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 100.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

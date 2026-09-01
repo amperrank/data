@@ -4,17 +4,6 @@
   "name": "PROCAR DORMAGEN AC",
   "evses": [
     {
-      "id": "DECPIE67988752",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DECPIE67989052",
       "connectors": [
         {
@@ -26,11 +15,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE67989051",
+      "id": "DECPIE67988752",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,
@@ -42,6 +31,17 @@
         {
           "type": "ccs",
           "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE67989051",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

@@ -4,17 +4,6 @@
   "name": "Shell Recharge OBN 2927 - Penny Zum Gunterstal",
   "evses": [
     {
-      "id": "DETNMEGL49022927012",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGL49022927011",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DETNMEGL49022927021",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49022927012",
       "connectors": [
         {
           "type": "ccs",

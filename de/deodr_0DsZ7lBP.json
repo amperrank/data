@@ -4,17 +4,6 @@
   "name": "Zeiss OBK Südwerk - Besucher LS 2",
   "evses": [
     {
-      "id": "DEODRE10000212",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEODRE10000213",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEODRE10000215",
+      "id": "DEODRE10000212",
       "connectors": [
         {
           "type": "type2",
@@ -38,6 +27,17 @@
     },
     {
       "id": "DEODRE10000214",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEODRE10000215",
       "connectors": [
         {
           "type": "type2",

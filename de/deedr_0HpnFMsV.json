@@ -1,0 +1,42 @@
+{
+  "operatorId": "DE*EDR",
+  "geohash": "0HpnFMsV",
+  "name": "Bad Segeberg, Am Wasserwerk ABB",
+  "evses": [
+    {
+      "id": "DEEDRE110001271",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 14.26
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEDRE110001272",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        },
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Bad Segeberg",
+    "street": "Am Wasserwerk",
+    "houseNumber": "5",
+    "postcode": "23795",
+    "province": null
+  },
+  "openingHours": null
+}

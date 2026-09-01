@@ -4,6 +4,17 @@
   "name": "CutPower CutPower Dietzenbach (HPC)",
   "evses": [
     {
+      "id": "DECPWE10000542021",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DECPWE10000542023",
       "connectors": [
         {
@@ -26,17 +37,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPWE10000542031",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DECPWE10000542032",
       "connectors": [
         {
@@ -48,7 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPWE10000542021",
+      "id": "DECPWE10000542031",
       "connectors": [
         {
           "type": "ccs",

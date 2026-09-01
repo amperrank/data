@@ -4,11 +4,22 @@
   "name": "Stadtwerke Stralsund D-18586 Sellin, B196, Seepark",
   "evses": [
     {
-      "id": "DEHSTE12346437172",
+      "id": "DEHSTE12347121671",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEHSTE12347121672",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
         }
       ],
       "authMethods": null,
@@ -26,22 +37,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEHSTE12347121671",
+      "id": "DEHSTE12346437172",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEHSTE12347121672",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

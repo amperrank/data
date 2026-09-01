@@ -4,7 +4,7 @@
   "name": "150kW Ladeweile",
   "evses": [
     {
-      "id": "CHECUEH3DMU8KHNBPRY2MVLYP97KLH5W",
+      "id": "CHECUEZMZ6V8GTY2B9WACEV2YCR2AQDZ",
       "connectors": [
         {
           "type": "ccs",
@@ -15,11 +15,11 @@
       "paymentMethods": null
     },
     {
-      "id": "CHECUEZMZ6V8GTY2B9WACEV2YCR2AQDZ",
+      "id": "CHECUELPTS3LNXJCQEXA98TR6B4RKFQX",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 200.0
+          "type": "type2",
+          "maxPowerKw": 12.8
         }
       ],
       "authMethods": null,
@@ -37,11 +37,11 @@
       "paymentMethods": null
     },
     {
-      "id": "CHECUELPTS3LNXJCQEXA98TR6B4RKFQX",
+      "id": "CHECUEH3DMU8KHNBPRY2MVLYP97KLH5W",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 12.8
+          "type": "ccs",
+          "maxPowerKw": 200.0
         }
       ],
       "authMethods": null,

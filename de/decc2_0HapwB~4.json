@@ -4,28 +4,6 @@
   "name": "Telekom (öffentliche Ladesäule)",
   "evses": [
     {
-      "id": "DECC2ECC22300006DLT02",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 200.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECC2ECC22300006DLT01",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 200.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DECC2ECC22300007DLT02",
       "connectors": [
         {
@@ -38,6 +16,28 @@
     },
     {
       "id": "DECC2ECC22300007DLT01",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECC2ECC22300006DLT02",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECC2ECC22300006DLT01",
       "connectors": [
         {
           "type": "ccs",

@@ -4,22 +4,22 @@
   "name": "Circle K I Berlin Margarete-Sommer-Str. 2",
   "evses": [
     {
-      "id": "DECKEEXD020487021",
+      "id": "DECKEEXD020487012",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 300.0
+          "type": "chademo",
+          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DECKEEXD020487012",
+      "id": "DECKEEXD020487021",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 100.0
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
@@ -81,6 +81,17 @@
       "paymentMethods": null
     },
     {
+      "id": "DECKEEXD020487011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DECKEEXD020487013",
       "connectors": [
         {
@@ -92,7 +103,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECKEEXD020487011",
+      "id": "DECKEEXD020487023",
       "connectors": [
         {
           "type": "ccs",
@@ -114,33 +125,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DECKEEXD020487023",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DECKEEXD020487022",
       "connectors": [
         {
           "type": "chademo",
           "maxPowerKw": 100.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECKEEXD020487023",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
@@ -159,28 +148,6 @@
     },
     {
       "id": "DECKEEXD020487011",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECKEEXD020487012",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 100.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECKEEXD020487013",
       "connectors": [
         {
           "type": "ccs",
@@ -202,28 +169,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DECKEEXD020487021",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECKEEXD020487022",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 100.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DECKEEXD020487012",
       "connectors": [
         {
@@ -235,7 +180,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECKEEXD020487011",
+      "id": "DECKEEXD020487013",
       "connectors": [
         {
           "type": "ccs",
@@ -247,28 +192,6 @@
     },
     {
       "id": "DECKEEXD020487023",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECKEEXD020487013",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECKEEXD020487013",
       "connectors": [
         {
           "type": "ccs",
@@ -301,7 +224,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECKEEXD020487023",
+      "id": "DECKEEXD020487013",
       "connectors": [
         {
           "type": "ccs",
@@ -323,7 +246,84 @@
       "paymentMethods": null
     },
     {
+      "id": "DECKEEXD020487023",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DECKEEXD020487011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECKEEXD020487011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECKEEXD020487012",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECKEEXD020487021",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECKEEXD020487023",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECKEEXD020487022",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECKEEXD020487013",
       "connectors": [
         {
           "type": "ccs",

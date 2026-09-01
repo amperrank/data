@@ -4,22 +4,22 @@
   "name": "T54HVIT14519041",
   "evses": [
     {
-      "id": "DEPOWE02913",
+      "id": "DEPOWE02914",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEPOWE02914",
+      "id": "DEPOWE02913",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

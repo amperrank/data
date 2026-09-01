@@ -4,6 +4,17 @@
   "name": "NEW Marie-Bernays-Ring 33, 41199 MG - DC-Lader",
   "evses": [
     {
+      "id": "DENEWE10001526661",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DENEWE10001526642",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DENEWE10001526662",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DENEWE10001526661",
       "connectors": [
         {
           "type": "ccs",

@@ -4,22 +4,22 @@
   "name": "Lidl Bochum-Wattenscheid",
   "evses": [
     {
-      "id": "DELDLE00006152",
+      "id": "DELDLE00006153",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 60.0
+          "type": "type2",
+          "maxPowerKw": 11.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DELDLE00006153",
+      "id": "DELDLE00006152",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 11.0
+          "type": "ccs",
+          "maxPowerKw": 60.0
         }
       ],
       "authMethods": null,

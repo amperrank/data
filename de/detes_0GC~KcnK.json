@@ -4,7 +4,18 @@
   "name": "ACHTUNG: Private Ladestation - kein öffentliches Laden!",
   "evses": [
     {
-      "id": "DETESE124208",
+      "id": "DETESE124212",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETESE124211",
       "connectors": [
         {
           "type": "type2",
@@ -48,18 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETESE124211",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETESE124212",
+      "id": "DETESE124208",
       "connectors": [
         {
           "type": "type2",

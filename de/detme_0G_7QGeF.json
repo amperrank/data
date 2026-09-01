@@ -4,7 +4,7 @@
   "name": "Lüchow, Seerauer Straße 41 LIS 2",
   "evses": [
     {
-      "id": "DETMEE30144",
+      "id": "DETMEE30145",
       "connectors": [
         {
           "type": "ccs",
@@ -16,6 +16,17 @@
     },
     {
       "id": "DETMEE30143",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETMEE30144",
       "connectors": [
         {
           "type": "ccs",
@@ -42,17 +53,6 @@
         {
           "type": "chademo",
           "maxPowerKw": 100.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETMEE30145",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,

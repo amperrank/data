@@ -4,6 +4,17 @@
   "name": "TMO LP3/4 Burger King",
   "evses": [
     {
+      "id": "DETMOE11068003",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DETMOE11068004",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DETMOE11068002",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETMOE11068003",
       "connectors": [
         {
           "type": "ccs",

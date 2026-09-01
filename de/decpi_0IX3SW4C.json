@@ -4,7 +4,7 @@
   "name": "SF_BA8 STATION 2",
   "evses": [
     {
-      "id": "DECPIE73380651",
+      "id": "DECPIE73380652",
       "connectors": [
         {
           "type": "type2",
@@ -15,11 +15,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE73380751",
+      "id": "DECPIE73380651",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 150.0
+          "type": "type2",
+          "maxPowerKw": 22.08
         }
       ],
       "authMethods": null,
@@ -37,11 +37,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE73380652",
+      "id": "DECPIE73380751",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.08
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,

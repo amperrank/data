@@ -4,7 +4,7 @@
   "name": "Aral pulse Holsterhauser Straße 2",
   "evses": [
     {
-      "id": "DEBPEE0F3550103",
+      "id": "DEBPEE0F3550206",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +15,29 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0F3550206",
+      "id": "DEBPEE0F3550204",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0F3550102",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0F3550103",
       "connectors": [
         {
           "type": "ccs",
@@ -38,28 +60,6 @@
     },
     {
       "id": "DEBPEE0F3550101",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0F3550102",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 100.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0F3550204",
       "connectors": [
         {
           "type": "ccs",

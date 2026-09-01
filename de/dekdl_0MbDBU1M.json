@@ -4,17 +4,6 @@
   "name": "Kaufland Berlin, Gutschmiedtstr.",
   "evses": [
     {
-      "id": "DEKDLE00004033",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEKDLE00004032",
       "connectors": [
         {
@@ -31,6 +20,17 @@
         {
           "type": "type2",
           "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEKDLE00004033",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

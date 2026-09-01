@@ -4,7 +4,7 @@
   "name": "Shell Recharge OBN 2228 - Shell Speyerer Strasse",
   "evses": [
     {
-      "id": "DETNMEGL49012228032",
+      "id": "DETNMEGL49012228021",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49012228041",
+      "id": "DETNMEGL49012228011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49012228022",
       "connectors": [
         {
           "type": "ccs",
@@ -59,7 +70,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49012228022",
+      "id": "DETNMEGL49012228041",
       "connectors": [
         {
           "type": "ccs",
@@ -70,18 +81,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49012228011",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49012228021",
+      "id": "DETNMEGL49012228032",
       "connectors": [
         {
           "type": "ccs",

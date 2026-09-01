@@ -4,6 +4,28 @@
   "name": "Circle K I Karlsruhe Durlacher Allee 102",
   "evses": [
     {
+      "id": "DECKEEXD040857021",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECKEEXD040857012",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DECKEEXD040857011",
       "connectors": [
         {
@@ -53,28 +75,6 @@
         {
           "type": "ccs",
           "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECKEEXD040857021",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECKEEXD040857012",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,

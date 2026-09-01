@@ -4,7 +4,7 @@
   "name": "Allego - MAXI Autohof Rhüden Seesen A7",
   "evses": [
     {
-      "id": "DEALLEGO0036252",
+      "id": "DEALLEGO0036311",
       "connectors": [
         {
           "type": "ccs",
@@ -37,6 +37,17 @@
       "paymentMethods": null
     },
     {
+      "id": "DEALLEGO0036252",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEALLEGO0036312",
       "connectors": [
         {
@@ -49,17 +60,6 @@
     },
     {
       "id": "DEALLEGO0036322",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEALLEGO0036311",
       "connectors": [
         {
           "type": "ccs",

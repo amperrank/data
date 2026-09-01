@@ -4,29 +4,29 @@
   "name": "Aral pulse Am Stadion 2a",
   "evses": [
     {
-      "id": "DEBPEE0FR830101",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0FR830206",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEBPEE0FR830103",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0FR830205",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0FR830101",
       "connectors": [
         {
           "type": "ccs",
@@ -48,7 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FR830204",
+      "id": "DEBPEE0FR830206",
       "connectors": [
         {
           "type": "ccs",
@@ -59,11 +59,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FR830205",
+      "id": "DEBPEE0FR830204",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 100.0
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,

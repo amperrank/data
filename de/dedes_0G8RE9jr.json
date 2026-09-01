@@ -4,22 +4,22 @@
   "name": "[FL-PUB] Gerd Hoyer Soltau - AC/DC - Eichrecht - DE*DES*E1004091",
   "evses": [
     {
-      "id": "DEDESE10040912",
+      "id": "DEDESE10040911",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEDESE10040911",
+      "id": "DEDESE10040912",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

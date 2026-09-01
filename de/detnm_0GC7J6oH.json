@@ -4,6 +4,17 @@
   "name": "Shell Recharge OBN 1201 - Godorfer Hauptstrasse",
   "evses": [
     {
+      "id": "DETNMEGLABBT1840017",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 180.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DETNMEGL4901120101",
       "connectors": [
         {
@@ -13,17 +24,6 @@
         {
           "type": "ccs",
           "maxPowerKw": 175.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGLABBT1840017",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 180.0
         }
       ],
       "authMethods": null,

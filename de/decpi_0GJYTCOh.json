@@ -4,6 +4,17 @@
   "name": "EWR GMBH STATION 007",
   "evses": [
     {
+      "id": "DECPIE65554752",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DECPIE65554652",
       "connectors": [
         {
@@ -15,7 +26,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE65554752",
+      "id": "DECPIE65555052",
       "connectors": [
         {
           "type": "type2",
@@ -37,18 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE65554952",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE65554751",
+      "id": "DECPIE65554651",
       "connectors": [
         {
           "type": "type2",
@@ -70,7 +70,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE65554651",
+      "id": "DECPIE65554751",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE65554952",
       "connectors": [
         {
           "type": "type2",
@@ -103,95 +114,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE65555052",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE71514952",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.08
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE65556051",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.08
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE69071152",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.08
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE65556052",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.08
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE69071151",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.08
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE71514951",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.08
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE65556151",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DECPIE65555152",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE65556152",
       "connectors": [
         {
           "type": "type2",
@@ -213,11 +147,77 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE65556152",
+      "id": "DECPIE65556151",
       "connectors": [
         {
           "type": "type2",
           "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE65556051",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.08
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE69071151",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.08
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE71514952",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.08
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE69071152",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.08
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE71514951",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.08
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE65556052",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.08
         }
       ],
       "authMethods": null,

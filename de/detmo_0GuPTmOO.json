@@ -1,30 +1,8 @@
 {
   "operatorId": "DE*TMO",
   "geohash": "0GuPTmOO",
-  "name": "TMO LP5/6 Ladepark McDonalds",
+  "name": "TMO LP3/4 Ladepark McDonalds",
   "evses": [
-    {
-      "id": "DETMOE11009004",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETMOE11009001",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DETMOE11009006",
       "connectors": [
@@ -37,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETMOE11009005",
+      "id": "DETMOE11009001",
       "connectors": [
         {
           "type": "ccs",
@@ -60,6 +38,28 @@
     },
     {
       "id": "DETMOE11009003",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETMOE11009005",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETMOE11009004",
       "connectors": [
         {
           "type": "ccs",

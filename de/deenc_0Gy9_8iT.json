@@ -1,21 +1,10 @@
 {
   "operatorId": "DE*ENC",
   "geohash": "0Gy9_8iT",
-  "name": "enercity AG enercity - Seelhorststraße/Scharnhorststraße - 001",
+  "name": "enercity AG enercity - Loebensteinstr./Scharnhorststr. - 001",
   "evses": [
     {
-      "id": "DEENCELA001442001A",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEENCELA001442001B",
+      "id": "DEENCELA000293001A",
       "connectors": [
         {
           "type": "type2",
@@ -37,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEENCELA000293001A",
+      "id": "DEENCELA001442001B",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEENCELA001442001A",
       "connectors": [
         {
           "type": "type2",
@@ -51,7 +51,7 @@
   "facilities": null,
   "address": {
     "city": "Hannover",
-    "street": "Seelhorststraße",
+    "street": "Loebensteinstraße",
     "houseNumber": null,
     "postcode": "30175",
     "province": null

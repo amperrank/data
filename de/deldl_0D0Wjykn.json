@@ -4,7 +4,7 @@
   "name": "Lidl Filiale Oberursel/Taunus",
   "evses": [
     {
-      "id": "DELDLE00006058",
+      "id": "DELDLE00006060",
       "connectors": [
         {
           "type": "ccs",
@@ -16,6 +16,17 @@
     },
     {
       "id": "DELDLE00010359",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELDLE00010357",
       "connectors": [
         {
           "type": "type2",
@@ -48,22 +59,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DELDLE00006060",
+      "id": "DELDLE00006058",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DELDLE00010357",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 11.0
         }
       ],
       "authMethods": null,

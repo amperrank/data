@@ -4,17 +4,6 @@
   "name": "JOLT M00980",
   "evses": [
     {
-      "id": "DEJEGEM009812",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEJEGEM009802",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DEJEGEM009811",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEJEGEM009812",
       "connectors": [
         {
           "type": "ccs",

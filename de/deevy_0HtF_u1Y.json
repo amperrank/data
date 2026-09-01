@@ -4,18 +4,7 @@
   "name": "Eviny Germany Kappeln",
   "evses": [
     {
-      "id": "DEEVYEKAP1A",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEVYEKAP2B",
+      "id": "DEEVYEKAP2A",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEVYEKAP2A",
+      "id": "DEEVYEKAP2B",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEVYEKAP1A",
       "connectors": [
         {
           "type": "ccs",

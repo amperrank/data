@@ -1,30 +1,8 @@
 {
   "operatorId": "DE*RBG",
   "geohash": "0JFrD2md",
-  "name": "Stadtwerke Kelheim - Einkaufscenter",
+  "name": "Stadtwerke Kelheim - Hypercharger Kelheimer Einkaufscenter",
   "evses": [
-    {
-      "id": "DEGUCERWG0334",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEGUCERWG0333",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DEGUCERWG1133",
       "connectors": [
@@ -42,6 +20,28 @@
         {
           "type": "ccs",
           "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGUCERWG0334",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGUCERWG0333",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

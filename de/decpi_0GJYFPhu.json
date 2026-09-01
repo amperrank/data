@@ -4,17 +4,6 @@
   "name": "REMSCHEID LADESTATION 5",
   "evses": [
     {
-      "id": "DECPIE28680851",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DECPIE73350652",
       "connectors": [
         {
@@ -26,11 +15,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE73350651",
+      "id": "DECPIE28680851",
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 22.08
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -42,6 +31,17 @@
         {
           "type": "type2",
           "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE73350651",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.08
         }
       ],
       "authMethods": null,

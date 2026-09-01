@@ -1,10 +1,10 @@
 {
   "operatorId": "DE*CIW",
   "geohash": "0JET2Boo",
-  "name": "CITYWATT Ingolstadt #04 - 300kW",
+  "name": "CITYWATT Ingolstadt #03 - 300kW",
   "evses": [
     {
-      "id": "DECIWE000609",
+      "id": "DECIWE000601",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECIWE000607",
+      "id": "DECIWE000602",
       "connectors": [
         {
           "type": "ccs",
@@ -26,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DECIWE000603",
+      "id": "DECIWE000606",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECIWE000605",
       "connectors": [
         {
           "type": "ccs",
@@ -38,6 +49,17 @@
     },
     {
       "id": "DECIWE000608",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECIWE000603",
       "connectors": [
         {
           "type": "ccs",
@@ -70,7 +92,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECIWE000601",
+      "id": "DECIWE000607",
       "connectors": [
         {
           "type": "ccs",
@@ -81,29 +103,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECIWE000602",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECIWE000605",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECIWE000606",
+      "id": "DECIWE000609",
       "connectors": [
         {
           "type": "ccs",

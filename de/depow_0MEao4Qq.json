@@ -4,6 +4,17 @@
   "name": "DE Eisleben 06295 Am Strohügel Skoda Autohaus Liebe Keba Master (mit 1 Slave) (öffentlich / hidden)",
   "evses": [
     {
+      "id": "DEPOWE02773",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEPOWE02800",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEPOWE02772",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEPOWE02773",
       "connectors": [
         {
           "type": "ccs",

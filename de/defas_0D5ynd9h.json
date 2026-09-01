@@ -4,28 +4,6 @@
   "name": "Fastned Wiesentheid",
   "evses": [
     {
-      "id": "DEFASE4904201",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEFASE4904203",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEFASE4904202",
       "connectors": [
         {
@@ -47,6 +25,28 @@
           "type": "chademo",
           "maxPowerKw": 50.0
         },
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEFASE4904201",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEFASE4904203",
+      "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 300.0

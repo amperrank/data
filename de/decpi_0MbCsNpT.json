@@ -4,7 +4,7 @@
   "name": "MERCEDES-BENZ HYC 5",
   "evses": [
     {
-      "id": "DECPIE28308952",
+      "id": "DECPIE28308751",
       "connectors": [
         {
           "type": "type2",
@@ -26,7 +26,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE28308751",
+      "id": "DECPIE28308952",
       "connectors": [
         {
           "type": "type2",
@@ -70,11 +70,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE66421451",
+      "id": "DECPIE66461251",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE28308752",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -92,7 +103,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE66461251",
+      "id": "DECPIE66421451",
       "connectors": [
         {
           "type": "ccs",
@@ -108,17 +119,6 @@
         {
           "type": "ccs",
           "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE28308752",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

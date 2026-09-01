@@ -4,17 +4,6 @@
   "name": "Porsche Sales & Marketplace PASZ HAMBURG NORDOST WALLBOX 1",
   "evses": [
     {
-      "id": "DE911EDE00164100000010000001",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 12.8
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DE911EPPCDE10000070000004",
       "connectors": [
         {
@@ -37,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DE911EPPCDE10000070000002",
+      "id": "DE911EDE00164100000010000001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 12.8
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE911EPPCDE10000070000001",
       "connectors": [
         {
           "type": "ccs",
@@ -48,7 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DE911EPPCDE10000070000001",
+      "id": "DE911EPPCDE10000070000002",
       "connectors": [
         {
           "type": "ccs",

@@ -4,6 +4,17 @@
   "name": "Circle K | Rostock Roevershaeger Chaussee 3",
   "evses": [
     {
+      "id": "DECKEEXD031682021",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DECKEEXD031682022",
       "connectors": [
         {
@@ -15,7 +26,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECKEEXD031682021",
+      "id": "DECKEEXD031682013",
       "connectors": [
         {
           "type": "ccs",
@@ -31,17 +42,6 @@
         {
           "type": "chademo",
           "maxPowerKw": 100.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECKEEXD031682013",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
         }
       ],
       "authMethods": null,

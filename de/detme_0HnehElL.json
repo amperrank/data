@@ -4,18 +4,7 @@
   "name": "Flensburg, Marie-Curie-Ring 45 LIS 1",
   "evses": [
     {
-      "id": "DETMEE30001",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETMEE30002",
+      "id": "DETMEE30000",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +26,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETMEE30000",
+      "id": "DETMEE30002",
       "connectors": [
         {
           "type": "ccs",
@@ -60,6 +49,17 @@
     },
     {
       "id": "DETMEE30003",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETMEE30001",
       "connectors": [
         {
           "type": "ccs",

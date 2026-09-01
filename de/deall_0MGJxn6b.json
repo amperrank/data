@@ -4,17 +4,6 @@
   "name": "Allego - 24-Autohof Leipzig/Flughafen A9",
   "evses": [
     {
-      "id": "DEALLEGO0026451",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEALLEGO0026452",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0026691",
+      "id": "DEALLEGO0026451",
       "connectors": [
         {
           "type": "ccs",
@@ -38,6 +27,17 @@
     },
     {
       "id": "DEALLEGO0026692",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEALLEGO0026691",
       "connectors": [
         {
           "type": "ccs",

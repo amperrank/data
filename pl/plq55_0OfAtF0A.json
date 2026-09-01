@@ -1,0 +1,44 @@
+{
+  "operatorId": "PL*Q55",
+  "geohash": "0OfAtF0A",
+  "name": "Lidl Golub-Dobrzyń",
+  "evses": [
+    {
+      "id": "PLQ55E01137501",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLQ55E01137502",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        },
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Golub-Dobrzyń",
+    "street": "Tadeusza Kościuszki",
+    "houseNumber": "28",
+    "postcode": "87-400",
+    "province": null
+  },
+  "openingHours": null
+}

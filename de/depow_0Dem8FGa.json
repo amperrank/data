@@ -4,22 +4,22 @@
   "name": "DE_Auto - Göller GmbH 0024691 öffentlich",
   "evses": [
     {
-      "id": "DEPOWE03144",
+      "id": "DEPOWE03143",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEPOWE03143",
+      "id": "DEPOWE03144",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

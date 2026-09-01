@@ -4,11 +4,22 @@
   "name": "Eviny Germany Bad Windsheim",
   "evses": [
     {
-      "id": "DEEVYEBW2B",
+      "id": "DEEVYEBW2A",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEVYEBW1A",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
         }
       ],
       "authMethods": null,
@@ -26,22 +37,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEVYEBW2A",
+      "id": "DEEVYEBW2B",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEVYEBW1A",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 200.0
         }
       ],
       "authMethods": null,

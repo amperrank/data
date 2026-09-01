@@ -4,18 +4,7 @@
   "name": "Mer Germany GmbH Mer Germany GmbH - Straubing - Geiselhöringer Str. 59 - 65 #1",
   "evses": [
     {
-      "id": "DEMERE00380601",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE00380402",
+      "id": "DEMERE00380401",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMERE00380401",
+      "id": "DEMERE00380402",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00380601",
       "connectors": [
         {
           "type": "ccs",

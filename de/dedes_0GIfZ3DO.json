@@ -4,18 +4,7 @@
   "name": "[FL-PUB] Kaltenbach Automobile Overath - DC - Eichrecht - DE*DES*E1003397",
   "evses": [
     {
-      "id": "DEDESE10033971",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEDESE10033981",
+      "id": "DEDESE10033972",
       "connectors": [
         {
           "type": "type2",
@@ -37,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEDESE10033972",
+      "id": "DEDESE10033971",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEDESE10033981",
       "connectors": [
         {
           "type": "type2",

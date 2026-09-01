@@ -4,6 +4,17 @@
   "name": "enercity AG enercity - hanova Parkhaus Nordstadt - 002",
   "evses": [
     {
+      "id": "DEENCELA000662001A",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 3.68
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEENCELA000662003A",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DEENCELA000662002A",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 3.68
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEENCELA000662001A",
       "connectors": [
         {
           "type": "type2",

@@ -4,17 +4,6 @@
   "name": "Ladesäule 2*50kw",
   "evses": [
     {
-      "id": "ATHTBE1004585",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 11.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "ATHTBE1264101",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "ATHTBE1004586",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "ATHTBE1004585",
       "connectors": [
         {
           "type": "type2",

@@ -4,22 +4,22 @@
   "name": "Lidl Filiale Freiburg-Wiehre",
   "evses": [
     {
-      "id": "DELDLE000009518",
+      "id": "DELDLE00009520",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DELDLE00009520",
+      "id": "DELDLE000009518",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

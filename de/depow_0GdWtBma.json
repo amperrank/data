@@ -4,17 +4,6 @@
   "name": "DE Emden 26723 Teutonenstraße 11 AH Gebr.Schwarte GmbH & Co.KG (230222407 LP2) öffentlich",
   "evses": [
     {
-      "id": "DEPOWE03291",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEPOWE03292",
       "connectors": [
         {
@@ -31,6 +20,17 @@
         {
           "type": "type2",
           "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE03291",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

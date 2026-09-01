@@ -4,22 +4,22 @@
   "name": "Lidl Filiale Ellwangen",
   "evses": [
     {
-      "id": "DELDLE00006044",
+      "id": "DELDLE00006045",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 11.0
+          "type": "ccs",
+          "maxPowerKw": 60.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DELDLE00006045",
+      "id": "DELDLE00006044",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 60.0
+          "type": "type2",
+          "maxPowerKw": 11.0
         }
       ],
       "authMethods": null,

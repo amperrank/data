@@ -4,17 +4,6 @@
   "name": "KLUMPP001 PARKPLATZ1",
   "evses": [
     {
-      "id": "DECPIE68981051",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.08
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DECPIE68981052",
       "connectors": [
         {
@@ -27,6 +16,28 @@
     },
     {
       "id": "DECPIE68981051",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.08
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE68960351",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE68981052",
       "connectors": [
         {
           "type": "type2",
@@ -48,22 +59,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE68981052",
+      "id": "DECPIE68981051",
       "connectors": [
         {
           "type": "type2",
           "maxPowerKw": 22.08
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE68960351",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,

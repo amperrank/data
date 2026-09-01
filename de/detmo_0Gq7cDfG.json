@@ -4,17 +4,6 @@
   "name": "Avenida-Therme LP1/2 Hohenfelden",
   "evses": [
     {
-      "id": "DETMOE22030002",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETMOE22030004",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DETMOE22030001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETMOE22030002",
       "connectors": [
         {
           "type": "type2",

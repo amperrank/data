@@ -4,17 +4,6 @@
   "name": "Mer Germany GmbH Nienburg GmbH - Nienburg Weser - Bahnhofstraße 7",
   "evses": [
     {
-      "id": "DEMERE00415804",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEMERE00415806",
       "connectors": [
         {
@@ -60,6 +49,17 @@
     },
     {
       "id": "DEMERE00415805",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00415804",
       "connectors": [
         {
           "type": "type2",

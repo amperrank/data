@@ -4,11 +4,11 @@
   "name": "DE_Habinghorst_Castrop_Rauxel_22BZ3633A _öffentlich (KKT)",
   "evses": [
     {
-      "id": "DEPOWE03175",
+      "id": "DEPOWE03176",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -26,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPOWE03176",
+      "id": "DEPOWE03175",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

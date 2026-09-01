@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*384",
+  "geohash": "0GeDPJz~",
+  "name": "EDEKA Ladestation",
+  "evses": [
+    {
+      "id": "DE384E166991CS00011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE384E166991CS00012",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Lastrup",
+    "street": "Ladestraße",
+    "houseNumber": null,
+    "postcode": "49688",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

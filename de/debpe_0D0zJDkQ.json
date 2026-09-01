@@ -4,7 +4,18 @@
   "name": "Aral pulse Maintaler Straße 20",
   "evses": [
     {
-      "id": "DEBPEE0FG270306",
+      "id": "DEBPEE0FG270101",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0FG270203",
       "connectors": [
         {
           "type": "ccs",
@@ -37,29 +48,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FG270101",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0FG270203",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEBPEE0FG270305",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0FG270306",
       "connectors": [
         {
           "type": "ccs",

@@ -4,6 +4,17 @@
   "name": "GKS_00055_Untermarkt_Mitarbeiterparkplatz",
   "evses": [
     {
+      "id": "DEGKSE000023",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEGKSE000022",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEGKSE000020",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 11.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEGKSE000023",
       "connectors": [
         {
           "type": "type2",

@@ -4,17 +4,6 @@
   "name": "[FL-Pub] Rhenus Port Logistics Rhein Neckar GmbH - Heilbronn - AC - Eichrecht - DE*DES*E1004574",
   "evses": [
     {
-      "id": "DEDESE10045812",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEDESE10045741",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DEDESE10045811",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEDESE10045812",
       "connectors": [
         {
           "type": "type2",

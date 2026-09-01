@@ -1,8 +1,19 @@
 {
   "operatorId": "DE*EAM",
   "geohash": "0Gjo4zqM",
-  "name": "360 022 Rotenburg Im Heienbach",
+  "name": "360 023 Rotenburg Im Heienbach",
   "evses": [
+    {
+      "id": "DEEAME1011",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DEEAME1010",
       "connectors": [
@@ -31,17 +42,6 @@
         {
           "type": "ccs",
           "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEAME1011",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

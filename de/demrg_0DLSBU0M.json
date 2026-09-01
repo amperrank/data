@@ -1,8 +1,30 @@
 {
   "operatorId": "DE*MRG",
   "geohash": "0DLSBU0M",
-  "name": "Lahr Möbel Hugelmann GCG001802",
+  "name": "Lahr Möbel Hugelmann GCG001801",
   "evses": [
+    {
+      "id": "DEMRGE0018102",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMRGE0018101",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DEMRGE0018202",
       "connectors": [
@@ -27,28 +49,6 @@
     },
     {
       "id": "DEMRGE0018201",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMRGE0018102",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMRGE0018101",
       "connectors": [
         {
           "type": "ccs",

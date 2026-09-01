@@ -4,17 +4,6 @@
   "name": "Allego - ATU Weil am Rhein",
   "evses": [
     {
-      "id": "DEALLEGO0032091",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEALLEGO0033252",
       "connectors": [
         {
@@ -49,6 +38,17 @@
     },
     {
       "id": "DEALLEGO0032092",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEALLEGO0032091",
       "connectors": [
         {
           "type": "ccs",

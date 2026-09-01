@@ -4,11 +4,22 @@
   "name": "Eviny Germany Düren",
   "evses": [
     {
-      "id": "DEEVYEDUR1B",
+      "id": "DEEVYEDUR2A",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 400.0
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEVYEDUR2B",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
         }
       ],
       "authMethods": null,
@@ -26,22 +37,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEVYEDUR2A",
+      "id": "DEEVYEDUR1B",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 200.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEVYEDUR2B",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 200.0
+          "maxPowerKw": 400.0
         }
       ],
       "authMethods": null,

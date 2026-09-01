@@ -4,6 +4,17 @@
   "name": "Abel+Ruf - HPC 150kW",
   "evses": [
     {
+      "id": "DEODRE10000418",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEODRE10000419",
       "connectors": [
         {
@@ -15,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEODRE10000418",
+      "id": "DEODRE10000446",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 150.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -49,17 +60,6 @@
     },
     {
       "id": "DEODRE10000445",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEODRE10000446",
       "connectors": [
         {
           "type": "type2",

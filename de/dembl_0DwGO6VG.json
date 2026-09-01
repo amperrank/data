@@ -4,33 +4,11 @@
   "name": "mblty Am Hockenheimring West",
   "evses": [
     {
-      "id": "DEMBLESO1014DC0022",
+      "id": "DEMBLESO1014DC0011",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 75.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMBLESO1014DC0021",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMBLESO1014DC0013",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 43.0
         }
       ],
       "authMethods": null,
@@ -48,11 +26,33 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMBLESO1014DC0011",
+      "id": "DEMBLESO1014DC0013",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 43.0
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMBLESO1014DC0021",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMBLESO1014DC0022",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 75.0
         }
       ],
       "authMethods": null,

@@ -4,17 +4,6 @@
   "name": "öffentlich_ACE0135064",
   "evses": [
     {
-      "id": "DEPOWE2227",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 11.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEPOWE2224",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPOWE2228",
+      "id": "DEPOWE2227",
       "connectors": [
         {
           "type": "type2",
@@ -42,6 +31,17 @@
         {
           "type": "ccs",
           "maxPowerKw": 120.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE2228",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
         }
       ],
       "authMethods": null,

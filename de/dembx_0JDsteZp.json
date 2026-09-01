@@ -4,17 +4,6 @@
   "name": "Mercedes-Benz Charging Hub Erharting",
   "evses": [
     {
-      "id": "DEMBXE002304",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEMBXE002303",
       "connectors": [
         {
@@ -59,7 +48,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMBXE002302",
+      "id": "DEMBXE002305",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMBXE002304",
       "connectors": [
         {
           "type": "ccs",
@@ -81,7 +81,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMBXE002305",
+      "id": "DEMBXE002302",
       "connectors": [
         {
           "type": "ccs",

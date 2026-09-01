@@ -4,17 +4,6 @@
   "name": "Shell Recharge OBN 2058 - Shell Trift",
   "evses": [
     {
-      "id": "DETNMEGL49012058021",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGL49012058012",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49012058022",
+      "id": "DETNMEGL49012058021",
       "connectors": [
         {
           "type": "ccs",
@@ -38,6 +27,17 @@
     },
     {
       "id": "DETNMEGL49012058011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49012058022",
       "connectors": [
         {
           "type": "ccs",

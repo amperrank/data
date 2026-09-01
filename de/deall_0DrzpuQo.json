@@ -4,18 +4,29 @@
   "name": "Allego - SPIELSTATION Dasing A8",
   "evses": [
     {
-      "id": "DEALLEGO0034492",
+      "id": "DEALLEGO0034322",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 150.0
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0034322",
+      "id": "DEALLEGO0034321",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEALLEGO0034281",
       "connectors": [
         {
           "type": "ccs",
@@ -48,17 +59,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0034392",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEALLEGO0034391",
       "connectors": [
         {
@@ -70,7 +70,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0034321",
+      "id": "DEALLEGO0034392",
       "connectors": [
         {
           "type": "ccs",
@@ -81,11 +81,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0034281",
+      "id": "DEALLEGO0034492",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 300.0
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,

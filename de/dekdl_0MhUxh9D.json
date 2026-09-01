@@ -4,6 +4,17 @@
   "name": "Kaufland Kamenz",
   "evses": [
     {
+      "id": "DEKDLE00001716",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEKDLE00001962",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEKDLE00001714",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 60.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEKDLE00001716",
       "connectors": [
         {
           "type": "ccs",

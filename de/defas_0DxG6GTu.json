@@ -4,17 +4,6 @@
   "name": "Fastned Berliner Ring (REWE)",
   "evses": [
     {
-      "id": "DEFASE4970604",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEFASE4970601",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DEFASE4970602",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEFASE4970604",
       "connectors": [
         {
           "type": "ccs",

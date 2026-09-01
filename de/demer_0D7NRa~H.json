@@ -4,18 +4,29 @@
   "name": "Mer Germany GmbH Mer Germany (TuR) - Wachenroth - Steigerwald Nord #1",
   "evses": [
     {
-      "id": "DEMERE00113601",
+      "id": "DEMERE00113504",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 225.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEMERE00113501",
+      "id": "DEMERE00113502",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00113602",
       "connectors": [
         {
           "type": "ccs",
@@ -37,29 +48,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMERE00113502",
+      "id": "DEMERE00113501",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 50.0
+          "type": "ccs",
+          "maxPowerKw": 225.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEMERE00113504",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE00113602",
+      "id": "DEMERE00113601",
       "connectors": [
         {
           "type": "ccs",

@@ -4,17 +4,6 @@
   "name": "BMW - AHAG Coesfeld GmbH",
   "evses": [
     {
-      "id": "DEDESE10045651",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 75.2
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEDESEBMW05551",
       "connectors": [
         {
@@ -31,6 +20,17 @@
         {
           "type": "type2",
           "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEDESE10045651",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 75.2
         }
       ],
       "authMethods": null,

@@ -4,17 +4,6 @@
   "name": "Voets Autozentrum Magdeburg Süd",
   "evses": [
     {
-      "id": "DEVIRE243702",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEVIRE243703",
       "connectors": [
         {
@@ -24,6 +13,17 @@
         {
           "type": "ccs",
           "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEVIRE243702",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
         }
       ],
       "authMethods": null,

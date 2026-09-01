@@ -4,6 +4,17 @@
   "name": "enercity AG enercity - Feodor-Lynen-Straße 35 - 002",
   "evses": [
     {
+      "id": "DEENCELA000168002B",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEENCELA000168001A",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEENCELA000168002A",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEENCELA000168002B",
       "connectors": [
         {
           "type": "type2",

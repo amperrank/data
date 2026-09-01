@@ -1,8 +1,19 @@
 {
   "operatorId": "DE*811",
   "geohash": "0D0mMAEf",
-  "name": "AX10127117",
+  "name": "ALF_ACE0803017",
   "evses": [
+    {
+      "id": "DE811E612345671",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DE811E1BAB03651001",
       "connectors": [
@@ -20,17 +31,6 @@
         {
           "type": "ccs",
           "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE811E612345671",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 11.0
         }
       ],
       "authMethods": null,

@@ -4,22 +4,22 @@
   "name": "CutPower CutPower Sylt (HPC)",
   "evses": [
     {
-      "id": "DECPWE10000434121",
+      "id": "DECPWE10000434122",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 150.0
+          "type": "chademo",
+          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DECPWE10000434122",
+      "id": "DECPWE10000434121",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 100.0
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,

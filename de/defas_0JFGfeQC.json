@@ -4,33 +4,7 @@
   "name": "Fastned Altmühltal",
   "evses": [
     {
-      "id": "DEFASE4905401",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEFASE4905402",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        },
-        {
-          "type": "chademo",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEFASE4905405",
+      "id": "DEFASE4905406",
       "connectors": [
         {
           "type": "ccs",
@@ -56,6 +30,17 @@
       "paymentMethods": null
     },
     {
+      "id": "DEFASE4905405",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEFASE4905403",
       "connectors": [
         {
@@ -67,11 +52,26 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFASE4905406",
+      "id": "DEFASE4905401",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 400.0
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEFASE4905402",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        },
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

@@ -1,21 +1,10 @@
 {
   "operatorId": "DE*ORA",
   "geohash": "0MconUIs",
-  "name": "Fischerstr. e-MOBI  03+04",
+  "name": "Fischerstr. e-MOBI 09+10",
   "evses": [
     {
-      "id": "DEORAE0004",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEORAE0003",
+      "id": "DEORAE0009",
       "connectors": [
         {
           "type": "type2",
@@ -37,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEORAE0009",
+      "id": "DEORAE0003",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEORAE0004",
       "connectors": [
         {
           "type": "type2",
@@ -51,7 +51,7 @@
   "facilities": null,
   "address": {
     "city": "Oranienburg",
-    "street": "Fischer Straße",
+    "street": "Fischerstr.",
     "houseNumber": null,
     "postcode": "16515",
     "province": null

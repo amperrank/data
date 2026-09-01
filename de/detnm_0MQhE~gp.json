@@ -4,17 +4,6 @@
   "name": "Shell Recharge OBN 2638 - Rewe Lunochod-Strasse",
   "evses": [
     {
-      "id": "DETNMEGLELLI00132",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGLELLI00102",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGLELLI00131",
+      "id": "DETNMEGLELLI00132",
       "connectors": [
         {
           "type": "ccs",
@@ -38,6 +27,17 @@
     },
     {
       "id": "DETNMEGLELLI00101",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGLELLI00131",
       "connectors": [
         {
           "type": "ccs",

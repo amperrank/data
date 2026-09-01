@@ -4,6 +4,17 @@
   "name": "Wahlstedt, Kronsheider Str.45a LIS 1",
   "evses": [
     {
+      "id": "DETMEE30239",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DETMEE30147",
       "connectors": [
         {
@@ -20,17 +31,6 @@
         {
           "type": "ccs",
           "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETMEE30239",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,

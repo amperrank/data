@@ -4,6 +4,17 @@
   "name": "Shell Recharge OBN 1768 - Shell Buergermeister-Mueller-Str",
   "evses": [
     {
+      "id": "DETNMEGL49011768022",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DETNMEGL49011768011",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DETNMEGL49011768012",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49011768022",
       "connectors": [
         {
           "type": "ccs",

@@ -4,6 +4,17 @@
   "name": "TMO LP3/4 Herkules",
   "evses": [
     {
+      "id": "DETMOE11267003",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DETMOE11267002",
       "connectors": [
         {
@@ -26,17 +37,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DETMOE11267003",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETMOE11267001",
       "connectors": [
         {
@@ -48,7 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETMOE11267004",
+      "id": "DETMOE11267005",
       "connectors": [
         {
           "type": "ccs",
@@ -59,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETMOE11267005",
+      "id": "DETMOE11267004",
       "connectors": [
         {
           "type": "ccs",

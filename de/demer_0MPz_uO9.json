@@ -4,6 +4,17 @@
   "name": "Mer Germany GmbH Mer Germany (DNetz) - Lübben - Weinbergstraße 1 #1",
   "evses": [
     {
+      "id": "DEMERE01784402",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEMERE01784502",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DEMERE01784501",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE01784402",
       "connectors": [
         {
           "type": "ccs",

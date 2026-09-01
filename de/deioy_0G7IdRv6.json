@@ -4,7 +4,7 @@
   "name": "IONITY GmbH IONITY Wolfsburg Forum AutoVision",
   "evses": [
     {
-      "id": "DEIOYE218403",
+      "id": "DEIOYE218406",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +37,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE218406",
+      "id": "DEIOYE218405",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE218403",
       "connectors": [
         {
           "type": "ccs",
@@ -49,17 +60,6 @@
     },
     {
       "id": "DEIOYE218404",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE218405",
       "connectors": [
         {
           "type": "ccs",

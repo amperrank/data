@@ -1,0 +1,35 @@
+{
+  "operatorId": "DE*EDR",
+  "geohash": "0JBK7GpB",
+  "name": "Virtual Charger Munich 2 - not public",
+  "evses": [
+    {
+      "id": "DEEDRE2527",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        },
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        },
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "München",
+    "street": "Elisabeth-Selbert-Straße",
+    "houseNumber": "1",
+    "postcode": "80939",
+    "province": null
+  },
+  "openingHours": null
+}

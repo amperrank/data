@@ -4,18 +4,7 @@
   "name": "DE Frechen 50226 Kölner Str. 199-201 AH Hans Westkamp GmbH & Co. KG HYC_150 (23BZ8849A) KKT öffentlich",
   "evses": [
     {
-      "id": "DEPOWE03185",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEPOWE03183",
+      "id": "DEPOWE03184",
       "connectors": [
         {
           "type": "ccs",
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPOWE03184",
+      "id": "DEPOWE03183",
       "connectors": [
         {
           "type": "ccs",
@@ -64,6 +53,17 @@
         {
           "type": "ccs",
           "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE03185",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

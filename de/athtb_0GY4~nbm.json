@@ -4,7 +4,18 @@
   "name": "Gaststätte Feldmann",
   "evses": [
     {
-      "id": "ATHTBE1016075",
+      "id": "ATHTBE1016073",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "ATHTBE1016074",
       "connectors": [
         {
           "type": "type2",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "ATHTBE1016073",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "ATHTBE1016074",
+      "id": "ATHTBE1016075",
       "connectors": [
         {
           "type": "type2",

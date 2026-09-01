@@ -1,8 +1,19 @@
 {
   "operatorId": "DE*911",
   "geohash": "0MZoQL_L",
-  "name": "Porsche Sales & Marketplace PZ Berlin Potsdam - Wallbox 10 Fassade PNBP",
+  "name": "Porsche Sales & Marketplace PZ Berlin Potsdam - Wallbox Einfahrt PNBP",
   "evses": [
+    {
+      "id": "DE911EDE00158300000010000001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 12.8
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DE911EDE00158000000010000001",
       "connectors": [

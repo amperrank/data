@@ -4,17 +4,6 @@
   "name": "Shell Recharge OBN 1971 - Shell Prof Porsche Strasse",
   "evses": [
     {
-      "id": "DETNMEGL49011971012",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGL49011971021",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49011971022",
+      "id": "DETNMEGL49011971012",
       "connectors": [
         {
           "type": "ccs",
@@ -38,6 +27,17 @@
     },
     {
       "id": "DETNMEGL49011971011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49011971022",
       "connectors": [
         {
           "type": "ccs",

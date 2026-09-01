@@ -1,8 +1,19 @@
 {
   "operatorId": "DE*ENC",
   "geohash": "0Gy97n~I",
-  "name": "enercity AG enercity - Detmoldstraße/Sallstraße - 001",
+  "name": "enercity AG enercity - Detmoldstraße - 001",
   "evses": [
+    {
+      "id": "DEENCELA000225001A",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 3.68
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DEENCELA000929001B",
       "connectors": [
@@ -20,17 +31,6 @@
         {
           "type": "type2",
           "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEENCELA000225001A",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 3.68
         }
       ],
       "authMethods": null,

@@ -1,19 +1,8 @@
 {
   "operatorId": "DE*TMO",
   "geohash": "0GjnrPiS",
-  "name": "TMO LP3/4 EDEKA - Lochmühle",
+  "name": "TMO LP3/4 EDEKA Lochmühle",
   "evses": [
-    {
-      "id": "DETMOE11407003",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DETMOE11407002",
       "connectors": [
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETMOE11407004",
+      "id": "DETMOE11407003",
       "connectors": [
         {
           "type": "ccs",
@@ -38,6 +27,17 @@
     },
     {
       "id": "DETMOE11407001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETMOE11407004",
       "connectors": [
         {
           "type": "ccs",

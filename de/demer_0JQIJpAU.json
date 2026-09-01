@@ -4,6 +4,17 @@
   "name": "Mer Germany GmbH Mer Germany GmbH - Sengenthal - Schlierfer Holz 4 #2",
   "evses": [
     {
+      "id": "DEMERE00684502",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEMERE00117602",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEMERE00684501",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE00684502",
       "connectors": [
         {
           "type": "ccs",

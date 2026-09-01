@@ -4,17 +4,6 @@
   "name": "Shell Recharge OBN 5684 - Shell Rheinstrasse",
   "evses": [
     {
-      "id": "DETNMEGL49015684022",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 360.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGL49015684012",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DETNMEGL49015684011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 360.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49015684022",
       "connectors": [
         {
           "type": "ccs",

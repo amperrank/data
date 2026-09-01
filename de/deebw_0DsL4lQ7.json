@@ -4,28 +4,6 @@
   "name": "Unknown",
   "evses": [
     {
-      "id": "DEEBWE9042331",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEBWE9042332",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 75.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEEBWE9042321",
       "connectors": [
         {
@@ -57,12 +35,34 @@
       ],
       "authMethods": null,
       "paymentMethods": null
+    },
+    {
+      "id": "DEEBWE9042331",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEBWE9042332",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 75.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Giengen an der Brenz",
-    "street": "BAB7, Autobahnraststätte Lonetal Ost",
+    "street": "A7, Raststätte Lonetal Ost",
     "houseNumber": null,
     "postcode": "89537",
     "province": null

@@ -4,7 +4,7 @@
   "name": "Allego - Euro Rastpark Regensburg-Ost A3",
   "evses": [
     {
-      "id": "DEALLEGO0027112",
+      "id": "DEALLEGO0027101",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0027111",
+      "id": "DEALLEGO0027102",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEALLEGO0027112",
       "connectors": [
         {
           "type": "ccs",
@@ -37,18 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0027101",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEALLEGO0027102",
+      "id": "DEALLEGO0027111",
       "connectors": [
         {
           "type": "ccs",

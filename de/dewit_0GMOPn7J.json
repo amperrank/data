@@ -1,10 +1,21 @@
 {
   "operatorId": "DE*WIT",
   "geohash": "0GMOPn7J",
-  "name": "STWW_Schillerstr. 11, 58452 Witten_Oe",
+  "name": "ALT_STWW_Schillerstr. 11, 58452 Witten_Oe",
   "evses": [
     {
       "id": "DEWITE0104",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEWITE00000",
       "connectors": [
         {
           "type": "type2",
@@ -27,17 +38,6 @@
     },
     {
       "id": "DEWITE0000",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEWITE00000",
       "connectors": [
         {
           "type": "type2",

@@ -4,11 +4,11 @@
   "name": "Autohaus Seitz",
   "evses": [
     {
-      "id": "DEVIRE208547",
+      "id": "DEVIRE208548",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 160.0
+          "type": "type2",
+          "maxPowerKw": 7.36
         }
       ],
       "authMethods": null,
@@ -26,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEVIRE208548",
+      "id": "DEVIRE208547",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 7.36
+          "type": "ccs",
+          "maxPowerKw": 160.0
         }
       ],
       "authMethods": null,

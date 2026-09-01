@@ -4,6 +4,17 @@
   "name": "Spraying Systems - Standort Schorndorf Stationsgruppe 1",
   "evses": [
     {
+      "id": "DEODRE10001829",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEODRE10001828",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEODRE10001831",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 11.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEODRE10001829",
       "connectors": [
         {
           "type": "type2",

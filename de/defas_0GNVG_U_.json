@@ -4,6 +4,17 @@
   "name": "Fastned Holtwicker Mark",
   "evses": [
     {
+      "id": "DEFASE4933204",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEFASE4933202",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DEFASE4933201",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEFASE4933204",
       "connectors": [
         {
           "type": "ccs",

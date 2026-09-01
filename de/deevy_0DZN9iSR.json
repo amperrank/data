@@ -4,6 +4,17 @@
   "name": "Eviny Germany Idar-Oberstein Netto",
   "evses": [
     {
+      "id": "DEEVYEIO1A",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEEVYEIO1B",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEEVYEIO2B",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEVYEIO1A",
       "connectors": [
         {
           "type": "ccs",

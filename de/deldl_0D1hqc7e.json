@@ -4,22 +4,22 @@
   "name": "Lidl Florstadt",
   "evses": [
     {
-      "id": "DELDLE00010113",
+      "id": "DELDLE00010112",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 60.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DELDLE00010112",
+      "id": "DELDLE00010113",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 60.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

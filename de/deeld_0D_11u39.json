@@ -4,6 +4,17 @@
   "name": "Electra Coburg - Netto Callenbergerstraße",
   "evses": [
     {
+      "id": "DEELDERV6H",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEELDEFQ6U",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEELDEKTDU",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEELDERV6H",
       "connectors": [
         {
           "type": "ccs",

@@ -4,6 +4,17 @@
   "name": "IONITY GmbH IONITY Altdorf bei Nürnberg",
   "evses": [
     {
+      "id": "DEIOYE230975",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEIOYE230901",
       "connectors": [
         {
@@ -37,7 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE230975",
+      "id": "DEIOYE230976",
       "connectors": [
         {
           "type": "ccs",
@@ -48,18 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE230902",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE230976",
+      "id": "DEIOYE230972",
       "connectors": [
         {
           "type": "ccs",
@@ -81,11 +81,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE230972",
+      "id": "DEIOYE230902",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 400.0
+          "maxPowerKw": 350.0
         }
       ],
       "authMethods": null,

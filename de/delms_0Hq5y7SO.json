@@ -4,22 +4,22 @@
   "name": "WEMAG DC-Charger AH Brandt",
   "evses": [
     {
-      "id": "DELMSE520000761",
+      "id": "DELMSE520000762",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 22.0
+          "type": "type2",
+          "maxPowerKw": 3.68
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DELMSE520000762",
+      "id": "DELMSE520000761",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 3.68
+          "type": "ccs",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

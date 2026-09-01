@@ -4,7 +4,7 @@
   "name": "Aral pulse Industriestraße 5A",
   "evses": [
     {
-      "id": "DEBPEE0F1570101",
+      "id": "DEBPEE0F1570102",
       "connectors": [
         {
           "type": "ccs",
@@ -26,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0F1570102",
+      "id": "DEBPEE0F1570101",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0F1570305",
       "connectors": [
         {
           "type": "ccs",
@@ -49,17 +60,6 @@
     },
     {
       "id": "DEBPEE0F1570204",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0F1570305",
       "connectors": [
         {
           "type": "ccs",

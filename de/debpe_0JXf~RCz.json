@@ -4,7 +4,7 @@
   "name": "Aral pulse Goethestraße 30",
   "evses": [
     {
-      "id": "DEBPEE3EF1650203",
+      "id": "DEBPEE3EF1650102",
       "connectors": [
         {
           "type": "ccs",
@@ -26,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE3EF1650102",
+      "id": "DEBPEE3EF1650101",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE3EF1650203",
       "connectors": [
         {
           "type": "ccs",
@@ -42,17 +53,6 @@
         {
           "type": "chademo",
           "maxPowerKw": 100.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE3EF1650101",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,

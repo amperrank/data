@@ -4,18 +4,7 @@
   "name": "Shell Recharge OBN 3698 - Shell Hauptstrasse",
   "evses": [
     {
-      "id": "DETNMEGL49013698011",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49013698022",
+      "id": "DETNMEGL49013698021",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49013698021",
+      "id": "DETNMEGL49013698022",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49013698011",
       "connectors": [
         {
           "type": "ccs",

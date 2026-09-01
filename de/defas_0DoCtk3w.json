@@ -4,17 +4,6 @@
   "name": "Fastned Leutkirch-West",
   "evses": [
     {
-      "id": "DEFASE4907003",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEFASE4907004",
       "connectors": [
         {
@@ -24,6 +13,17 @@
         {
           "type": "chademo",
           "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEFASE4907003",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,

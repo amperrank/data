@@ -4,6 +4,17 @@
   "name": "Lidl Filiale Korbach",
   "evses": [
     {
+      "id": "DELDLE00004934",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DELDLE00004933",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DELDLE00004932",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 60.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DELDLE00004934",
       "connectors": [
         {
           "type": "ccs",

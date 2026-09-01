@@ -4,22 +4,11 @@
   "name": "Stadtwerke Bochum, HPC Bleichstraße 16 am St. Elisabeth-Hospital",
   "evses": [
     {
-      "id": "DEBOXEAC0969",
+      "id": "DEBOXEAC0966",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 100.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBOXEAC0968",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 100.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -37,11 +26,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBOXEAC0966",
+      "id": "DEBOXEAC0968",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBOXEAC0969",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,

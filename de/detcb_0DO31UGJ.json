@@ -4,6 +4,17 @@
   "name": "TotalEnergies | RewePenny | Rastatt | Biblisweg 6a",
   "evses": [
     {
+      "id": "DETCBE3D9CS151010021",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DETCBE3D9CS151010012",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DETCBE3D9CS151010022",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETCBE3D9CS151010021",
       "connectors": [
         {
           "type": "ccs",

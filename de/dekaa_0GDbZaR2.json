@@ -4,7 +4,7 @@
   "name": "SWKAA_Am Neumarkt 2_HPC_Oe",
   "evses": [
     {
-      "id": "DEKAAEAC1023",
+      "id": "DEKAAEAC1024",
       "connectors": [
         {
           "type": "type2",
@@ -15,11 +15,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKAAEAC1024",
+      "id": "DEKAAEAC1037",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,
@@ -37,11 +37,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKAAEAC1037",
+      "id": "DEKAAEAC1023",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 150.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

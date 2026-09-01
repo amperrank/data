@@ -4,6 +4,17 @@
   "name": "Lidl Filiale Bamberg",
   "evses": [
     {
+      "id": "DELDLE00005251",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DELDLE00005252",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DELDLE00005253",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 60.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DELDLE00005251",
       "connectors": [
         {
           "type": "ccs",

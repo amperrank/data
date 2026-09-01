@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*384",
+  "geohash": "0G1LKflY",
+  "name": "EDEKA Ladestation",
+  "evses": [
+    {
+      "id": "DE384E177002CS00012",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE384E177002CS00011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Bremen",
+    "street": "Ritterhuder Heerstraße",
+    "houseNumber": null,
+    "postcode": "28239",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

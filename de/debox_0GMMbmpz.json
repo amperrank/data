@@ -4,17 +4,6 @@
   "name": "VISUS Health IT GmbH Vorne - Linke Säule",
   "evses": [
     {
-      "id": "DEBOXEAC0107",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEBOXEAC0317",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DEBOXEAC0324",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBOXEAC0107",
       "connectors": [
         {
           "type": "type2",

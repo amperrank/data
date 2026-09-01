@@ -4,7 +4,7 @@
   "name": "FROLI STATION_1",
   "evses": [
     {
-      "id": "DECPIE67106552",
+      "id": "DECPIE67106652",
       "connectors": [
         {
           "type": "type2",
@@ -26,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE67106652",
+      "id": "DECPIE67106552",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE67106551",
       "connectors": [
         {
           "type": "type2",
@@ -49,17 +60,6 @@
     },
     {
       "id": "DECPIE67106452",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE67106551",
       "connectors": [
         {
           "type": "type2",

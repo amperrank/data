@@ -1,0 +1,42 @@
+{
+  "operatorId": "DE*EDR",
+  "geohash": "0JOS6n2w",
+  "name": "Röhrnbach, Aussernbrünst, Karl Bachl Autohaus",
+  "evses": [
+    {
+      "id": "DEEDRE110001611",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 14.26
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEDRE110001612",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        },
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Röhrnbach",
+    "street": "Bayerwald Rasthof B12",
+    "houseNumber": null,
+    "postcode": "94133",
+    "province": null
+  },
+  "openingHours": null
+}

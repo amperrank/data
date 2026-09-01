@@ -4,7 +4,18 @@
   "name": "Mercedes-Benz Charging Hub Berlin",
   "evses": [
     {
-      "id": "DEMBXE001504",
+      "id": "DEMBXE001501",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMBXE001506",
       "connectors": [
         {
           "type": "ccs",
@@ -16,28 +27,6 @@
     },
     {
       "id": "DEMBXE001503",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMBXE001508",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMBXE001505",
       "connectors": [
         {
           "type": "ccs",
@@ -70,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMBXE001506",
+      "id": "DEMBXE001505",
       "connectors": [
         {
           "type": "ccs",
@@ -81,7 +70,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMBXE001501",
+      "id": "DEMBXE001508",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMBXE001504",
       "connectors": [
         {
           "type": "ccs",

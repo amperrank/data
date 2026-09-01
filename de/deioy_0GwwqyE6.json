@@ -4,7 +4,18 @@
   "name": "IONITY GmbH IONITY Porta Westfalica",
   "evses": [
     {
-      "id": "DEIOYE223604",
+      "id": "DEIOYE223606",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE223602",
       "connectors": [
         {
           "type": "ccs",
@@ -26,29 +37,18 @@
       "paymentMethods": null
     },
     {
+      "id": "DEIOYE223604",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEIOYE223601",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE223606",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE223602",
       "connectors": [
         {
           "type": "ccs",

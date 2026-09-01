@@ -4,11 +4,11 @@
   "name": "Kaufland Aue",
   "evses": [
     {
-      "id": "DEKDLE00003029",
+      "id": "DEKDLE00003028",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 60.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -26,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00003028",
+      "id": "DEKDLE00003029",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 60.0
         }
       ],
       "authMethods": null,

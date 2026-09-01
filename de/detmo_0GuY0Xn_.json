@@ -1,8 +1,19 @@
 {
   "operatorId": "DE*TMO",
   "geohash": "0GuY0Xn_",
-  "name": "TMO LP1/2 Herkules",
+  "name": "TMO LP3/4 Herkules",
   "evses": [
+    {
+      "id": "DETMOE11149004",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DETMOE11149002",
       "connectors": [
@@ -27,17 +38,6 @@
     },
     {
       "id": "DETMOE11149001",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETMOE11149004",
       "connectors": [
         {
           "type": "ccs",

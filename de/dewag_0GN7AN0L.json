@@ -4,28 +4,6 @@
   "name": "Westfalen Ladestation Surventis BASF",
   "evses": [
     {
-      "id": "DEWAGE310221",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 3.68
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEWAGEE1068",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 3.68
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEWAGE310220",
       "connectors": [
         {
@@ -48,6 +26,17 @@
       "paymentMethods": null
     },
     {
+      "id": "DEWAGEE0032",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEWAGEE0021",
       "connectors": [
         {
@@ -59,11 +48,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEWAGEE0032",
+      "id": "DEWAGE310219",
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 7.36
+          "maxPowerKw": 3.68
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEWAGEE1067",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 3.68
         }
       ],
       "authMethods": null,
@@ -92,7 +92,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEWAGE310219",
+      "id": "DEWAGE310221",
       "connectors": [
         {
           "type": "type2",
@@ -103,7 +103,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEWAGEE1067",
+      "id": "DEWAGEE1068",
       "connectors": [
         {
           "type": "type2",

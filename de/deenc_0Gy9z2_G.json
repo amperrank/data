@@ -4,7 +4,7 @@
   "name": "enercity AG enercity - Leibnizufer/Schloßstraße - A01",
   "evses": [
     {
-      "id": "DEENCELA000405A02A",
+      "id": "DEENCELA000405A01B",
       "connectors": [
         {
           "type": "ccs",
@@ -26,6 +26,17 @@
       "paymentMethods": null
     },
     {
+      "id": "DEENCELA000405B02A",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEENCELA000405A02B",
       "connectors": [
         {
@@ -37,18 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEENCELA000405A01B",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEENCELA000405B01A",
+      "id": "DEENCELA000405B01B",
       "connectors": [
         {
           "type": "type2",
@@ -59,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEENCELA000405B01B",
+      "id": "DEENCELA000405B01A",
       "connectors": [
         {
           "type": "type2",
@@ -81,11 +81,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEENCELA000405B02A",
+      "id": "DEENCELA000405A02A",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 7.36
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,

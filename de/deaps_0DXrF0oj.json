@@ -15,17 +15,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DEAPSE160003",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEAPSE160001",
       "connectors": [
         {
@@ -37,7 +26,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEAPSE160004",
+      "id": "DEAPSE160003",
       "connectors": [
         {
           "type": "ccs",
@@ -53,6 +42,17 @@
         {
           "type": "chademo",
           "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEAPSE160004",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
         }
       ],
       "authMethods": null,

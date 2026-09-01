@@ -4,7 +4,18 @@
   "name": "Allego - REWE Hannover",
   "evses": [
     {
-      "id": "DEALLEGO0033621",
+      "id": "DEALLEGO0033631",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEALLEGO0033632",
       "connectors": [
         {
           "type": "ccs",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0033631",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEALLEGO0033632",
+      "id": "DEALLEGO0033621",
       "connectors": [
         {
           "type": "ccs",

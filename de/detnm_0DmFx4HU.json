@@ -4,18 +4,7 @@
   "name": "Shell Recharge OBN 7806 - Shell Echterdinger Strasse",
   "evses": [
     {
-      "id": "DETNMEGL49017806011",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49017806012",
+      "id": "DETNMEGL49017806022",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49017806022",
+      "id": "DETNMEGL49017806012",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49017806011",
       "connectors": [
         {
           "type": "ccs",

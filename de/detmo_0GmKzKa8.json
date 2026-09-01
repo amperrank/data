@@ -15,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DETMOE11027002",
+      "id": "DETMOE11027005",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 225.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETMOE11027001",
       "connectors": [
         {
           "type": "ccs",
@@ -48,18 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETMOE11027001",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 225.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETMOE11027005",
+      "id": "DETMOE11027002",
       "connectors": [
         {
           "type": "ccs",

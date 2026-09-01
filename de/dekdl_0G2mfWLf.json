@@ -4,6 +4,17 @@
   "name": "Kaufland Walsrode",
   "evses": [
     {
+      "id": "DEKDLE00002136",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEKDLE00002134",
       "connectors": [
         {
@@ -15,11 +26,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00002136",
+      "id": "DEKDLE00002142",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEKDLE00002135",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -42,28 +64,6 @@
         {
           "type": "type2",
           "maxPowerKw": 11.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEKDLE00002135",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEKDLE00002142",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 60.0
         }
       ],
       "authMethods": null,

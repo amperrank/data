@@ -4,29 +4,7 @@
   "name": "enercity AG enercity - Constantinstraße/Am Listholze - A01",
   "evses": [
     {
-      "id": "DEENCELA000476A02A",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEENCELA000476A01B",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEENCELA000476A01A",
       "connectors": [
         {
           "type": "ccs",
@@ -48,22 +26,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEENCELA000476F01B",
+      "id": "DEENCELA000476A01A",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 7.36
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEENCELA000476F02B",
+      "id": "DEENCELA000476A02A",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 7.36
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,
@@ -81,7 +59,29 @@
       "paymentMethods": null
     },
     {
+      "id": "DEENCELA000476F01B",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEENCELA000476F01A",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEENCELA000476F02B",
       "connectors": [
         {
           "type": "type2",

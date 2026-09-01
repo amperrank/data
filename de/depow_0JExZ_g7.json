@@ -4,11 +4,11 @@
   "name": "DE_Ruhfass_Vohburg_Gewerberstr_85088_PP01 öffentlich KKT",
   "evses": [
     {
-      "id": "DEPOWE02105",
+      "id": "DEPOWEE02107",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 150.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -26,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPOWEE02107",
+      "id": "DEPOWE02105",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,

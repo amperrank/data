@@ -4,6 +4,17 @@
   "name": "Fastned Kurt-Schumacher-Ring (REWE)",
   "evses": [
     {
+      "id": "DEFASE4940703",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEFASE4940701",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEFASE4940702",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEFASE4940703",
       "connectors": [
         {
           "type": "ccs",

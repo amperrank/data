@@ -4,6 +4,17 @@
   "name": "Mer Germany GmbH Mer Germany (DNetz) - Schramberg - Heiligenbronner Straße 26 #1",
   "evses": [
     {
+      "id": "DEMERE00733601",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEMERE00730601",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DEMERE00730602",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE00733601",
       "connectors": [
         {
           "type": "ccs",

@@ -4,6 +4,17 @@
   "name": "Eni Station - MANCHINGER STR. 115",
   "evses": [
     {
+      "id": "DEPLNEH0016313",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEPLNEH0016412",
       "connectors": [
         {
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPLNEH0016313",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEPLNEH0016411",
+      "id": "DEPLNEH0016413",
       "connectors": [
         {
           "type": "ccs",
@@ -59,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPLNEH0016413",
+      "id": "DEPLNEH0016411",
       "connectors": [
         {
           "type": "ccs",

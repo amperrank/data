@@ -4,7 +4,18 @@
   "name": "UE_2012510_KEBA_P90038",
   "evses": [
     {
-      "id": "DEFKUEUE90038",
+      "id": "DEFKUEUE90040",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEFKUEUE90041",
       "connectors": [
         {
           "type": "type2",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFKUEUE90040",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEFKUEUE90041",
+      "id": "DEFKUEUE90038",
       "connectors": [
         {
           "type": "type2",

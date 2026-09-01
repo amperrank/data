@@ -1,21 +1,21 @@
 {
   "operatorId": "DE*TMO",
   "geohash": "0GqJVKXI",
-  "name": "TMO LP3/4 Kurpark",
+  "name": "TMO LP5/6 Kurpark",
   "evses": [
     {
-      "id": "DETMOE11260002",
+      "id": "DETMOE11260005",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DETMOE11260006",
+      "id": "DETMOE11260003",
       "connectors": [
         {
           "type": "type2",
@@ -37,17 +37,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DETMOE11260003",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETMOE11260004",
       "connectors": [
         {
@@ -59,11 +48,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DETMOE11260005",
+      "id": "DETMOE11260006",
       "connectors": [
         {
           "type": "type2",
           "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETMOE11260002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

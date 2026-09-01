@@ -4,11 +4,11 @@
   "name": "Backcharge GmbH Backcharge",
   "evses": [
     {
-      "id": "DEBCKE10001317141",
+      "id": "DEBCKE10001449081",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 7.36
+          "type": "ccs",
+          "maxPowerKw": 90.0
         }
       ],
       "authMethods": null,
@@ -26,18 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBCKE10001449081",
+      "id": "DEBCKE10001317142",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 90.0
+          "type": "type2",
+          "maxPowerKw": 7.36
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEBCKE10001317142",
+      "id": "DEBCKE10001317141",
       "connectors": [
         {
           "type": "type2",

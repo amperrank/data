@@ -4,6 +4,17 @@
   "name": "Kaufland Sulzbach-Rosenberg",
   "evses": [
     {
+      "id": "DEKDLE00001362",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEKDLE00001361",
       "connectors": [
         {
@@ -19,17 +30,6 @@
       "connectors": [
         {
           "type": "chademo",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEKDLE00001362",
-      "connectors": [
-        {
-          "type": "ccs",
           "maxPowerKw": 50.0
         }
       ],

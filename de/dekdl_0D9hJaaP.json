@@ -4,22 +4,22 @@
   "name": "Kaufland Bad Neustadt",
   "evses": [
     {
-      "id": "DEKDLE00000207",
+      "id": "DEKDLE00000208",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00000208",
+      "id": "DEKDLE00000207",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

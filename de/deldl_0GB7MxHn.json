@@ -4,6 +4,17 @@
   "name": "Lidl Filiale Schwalmtal",
   "evses": [
     {
+      "id": "DELDLE00002731",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DELDLE00002732",
       "connectors": [
         {
@@ -19,17 +30,6 @@
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DELDLE00002731",
-      "connectors": [
-        {
-          "type": "chademo",
           "maxPowerKw": 50.0
         }
       ],

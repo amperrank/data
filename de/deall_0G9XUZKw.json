@@ -4,7 +4,18 @@
   "name": "Allego - Garten von Ehren Hamburg",
   "evses": [
     {
-      "id": "DEALLEGO0028801",
+      "id": "DEALLEGO0028811",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEALLEGO0028802",
       "connectors": [
         {
           "type": "ccs",
@@ -26,29 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0017102",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEALLEGO0028802",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEALLEGO0028812",
+      "id": "DEALLEGO0028801",
       "connectors": [
         {
           "type": "ccs",
@@ -81,7 +70,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0028811",
+      "id": "DEALLEGO0017102",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEALLEGO0028812",
       "connectors": [
         {
           "type": "ccs",

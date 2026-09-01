@@ -4,7 +4,18 @@
   "name": "CITYWATT Projects (HYC50)",
   "evses": [
     {
-      "id": "DECIWE000034",
+      "id": "DECIWE001168",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECIWE000033",
       "connectors": [
         {
           "type": "type2",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECIWE001168",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECIWE000033",
+      "id": "DECIWE000034",
       "connectors": [
         {
           "type": "type2",

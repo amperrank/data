@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*384",
+  "geohash": "0G4u7y~Y",
+  "name": "EDEKA Ladestation",
+  "evses": [
+    {
+      "id": "DE384E179215CS00011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE384E179215CS00012",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Wolfenbüttel",
+    "street": "Am Wasserwerk",
+    "houseNumber": null,
+    "postcode": "38304",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

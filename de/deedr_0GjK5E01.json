@@ -1,0 +1,42 @@
+{
+  "operatorId": "DE*EDR",
+  "geohash": "0GjK5E01",
+  "name": "Knüllwald, Blumenfeld",
+  "evses": [
+    {
+      "id": "DEEDRE110001251",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEDRE110001252",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        },
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Knüllwald-Remsfeld",
+    "street": "Im Blumenfeld",
+    "houseNumber": "1",
+    "postcode": "34593",
+    "province": null
+  },
+  "openingHours": null
+}

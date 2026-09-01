@@ -4,17 +4,6 @@
   "name": "e-mobilio Autohaus Michel GmbH & Co. KG Zeppelinstr",
   "evses": [
     {
-      "id": "DEEMCE12347403653",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEEMCE12347403662",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEMCE12347403651",
+      "id": "DEEMCE12347403652",
       "connectors": [
         {
           "type": "ccs",
@@ -37,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEMCE12347403652",
+      "id": "DEEMCE12347403653",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 160.0
+          "type": "type2",
+          "maxPowerKw": 7.36
         }
       ],
       "authMethods": null,
@@ -64,6 +53,17 @@
         {
           "type": "ccs",
           "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEMCE12347403651",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 160.0
         }
       ],
       "authMethods": null,

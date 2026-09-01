@@ -4,17 +4,6 @@
   "name": "KCS. HPC IFFELDORF",
   "evses": [
     {
-      "id": "DECPIE73160452",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DECPIE73160451",
       "connectors": [
         {
@@ -26,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE69520851",
+      "id": "DECPIE73160452",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE69520852",
       "connectors": [
         {
           "type": "type2",
@@ -37,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE69520852",
+      "id": "DECPIE69520851",
       "connectors": [
         {
           "type": "type2",

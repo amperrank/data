@@ -1,8 +1,19 @@
 {
   "operatorId": "DE*Q1A",
   "geohash": "0GaafIWK",
-  "name": "Osnabrück, ATG - W - rechts",
+  "name": "Osnabrück, ATG - W - links",
   "evses": [
+    {
+      "id": "DEQ1AE50009446",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DEQ1AE50009447",
       "connectors": [
@@ -31,17 +42,6 @@
         {
           "type": "ccs",
           "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEQ1AE50009446",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

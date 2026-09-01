@@ -4,17 +4,6 @@
   "name": "BRAWO GE Solution LIS GmbH Brawo Ölper Knoten",
   "evses": [
     {
-      "id": "DEEDGE43062",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEEDGE2",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DEEDGE43061",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEDGE43062",
       "connectors": [
         {
           "type": "type2",

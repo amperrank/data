@@ -4,40 +4,7 @@
   "name": "mblty Illertal West",
   "evses": [
     {
-      "id": "DEMBLESO1151DC0032",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEMBLESO1151DC0051",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMBLESO1151DC0023",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMBLESO1151DC0042",
       "connectors": [
         {
           "type": "ccs",
@@ -59,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMBLESO1151DC0011",
+      "id": "DEMBLESO1151DC0042",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 150.0
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
@@ -75,6 +42,28 @@
         {
           "type": "ccs",
           "maxPowerKw": 75.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMBLESO1151DC0011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMBLESO1151DC0022",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -103,11 +92,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMBLESO1151DC0022",
+      "id": "DEMBLESO1151DC0032",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 50.0
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
@@ -119,6 +108,17 @@
         {
           "type": "ccs",
           "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMBLESO1151DC0023",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

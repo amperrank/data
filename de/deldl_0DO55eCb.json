@@ -4,11 +4,11 @@
   "name": "Lidl Filiale Gernsbach",
   "evses": [
     {
-      "id": "DELDLE00005831",
+      "id": "DELDLE00005830",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 11.0
+          "type": "ccs",
+          "maxPowerKw": 60.0
         }
       ],
       "authMethods": null,
@@ -26,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DELDLE00005830",
+      "id": "DELDLE00005831",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 60.0
+          "type": "type2",
+          "maxPowerKw": 11.0
         }
       ],
       "authMethods": null,

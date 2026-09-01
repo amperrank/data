@@ -15,22 +15,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEAPSE130003",
+      "id": "DEAPSE130005",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEAPSE130007",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -48,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEAPSE130005",
+      "id": "DEAPSE130006",
       "connectors": [
         {
           "type": "type2",
@@ -59,11 +48,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEAPSE130006",
+      "id": "DEAPSE130007",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEAPSE130003",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
         }
       ],
       "authMethods": null,

@@ -4,17 +4,6 @@
   "name": "Aral pulse Im Birkengrund 1",
   "evses": [
     {
-      "id": "DEBPEE0FR230103",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEBPEE0FR230204",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FR230205",
+      "id": "DEBPEE0FR230102",
       "connectors": [
         {
           "type": "chademo",
@@ -37,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FR230102",
+      "id": "DEBPEE0FR230103",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 100.0
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
@@ -64,6 +53,17 @@
         {
           "type": "ccs",
           "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0FR230205",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,

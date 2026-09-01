@@ -4,7 +4,7 @@
   "name": "Kaufland Karlsruhe",
   "evses": [
     {
-      "id": "DEKDLE00001583",
+      "id": "DEKDLE00001561",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00001568",
+      "id": "DEKDLE00001569",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEKDLE00001573",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00001561",
+      "id": "DEKDLE00001568",
       "connectors": [
         {
           "type": "ccs",
@@ -48,22 +59,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00001573",
+      "id": "DEKDLE00001583",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 60.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEKDLE00001569",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

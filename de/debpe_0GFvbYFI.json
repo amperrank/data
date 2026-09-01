@@ -4,6 +4,17 @@
   "name": "Aral pulse Marie-Curie-Straße 2-6",
   "evses": [
     {
+      "id": "DEBPEE0FO640102",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEBPEE0FO640101",
       "connectors": [
         {
@@ -60,17 +71,6 @@
     },
     {
       "id": "DEBPEE0FO640203",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0FO640102",
       "connectors": [
         {
           "type": "ccs",

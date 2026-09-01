@@ -1,8 +1,30 @@
 {
   "operatorId": "DE*EHT",
   "geohash": "0GY7rRLh",
-  "name": "DEEHTE10000201",
+  "name": "DEEHTE10000204",
   "evses": [
+    {
+      "id": "DEEHTE64810510",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEHTE6481059",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DEEHTE6481048",
       "connectors": [
@@ -38,28 +60,6 @@
     },
     {
       "id": "DEEHTE6481023",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEHTE64810510",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEHTE6481059",
       "connectors": [
         {
           "type": "ccs",

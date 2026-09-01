@@ -1,8 +1,30 @@
 {
   "operatorId": "DE*AUP",
   "geohash": "0Dk2XVRJ",
-  "name": "15502",
+  "name": "15501",
   "evses": [
+    {
+      "id": "DEAUPE1550102",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEAUPE1550101",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DEAUPE1550202",
       "connectors": [
@@ -27,28 +49,6 @@
     },
     {
       "id": "DEAUPE1550201",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEAUPE1550102",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEAUPE1550101",
       "connectors": [
         {
           "type": "ccs",

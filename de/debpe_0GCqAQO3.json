@@ -4,17 +4,6 @@
   "name": "Aral pulse An d. Alten Molkerei",
   "evses": [
     {
-      "id": "DEBPEE3EF1110203",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEBPEE3EF1110205",
       "connectors": [
         {
@@ -49,6 +38,17 @@
     },
     {
       "id": "DEBPEE3EF1110101",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE3EF1110203",
       "connectors": [
         {
           "type": "ccs",

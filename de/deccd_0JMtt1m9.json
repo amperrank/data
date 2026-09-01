@@ -4,17 +4,6 @@
   "name": "Gautzsch_Windorf_ABL",
   "evses": [
     {
-      "id": "DECCDEAC0053",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 11.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DECCDEAC0052",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DECCDEAC0054",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECCDEAC0053",
       "connectors": [
         {
           "type": "type2",

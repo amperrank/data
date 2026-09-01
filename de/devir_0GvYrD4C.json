@@ -4,22 +4,22 @@
   "name": "Autohaus Bergmann Reddeber",
   "evses": [
     {
-      "id": "DEVIRE64702",
+      "id": "DEVIRE64701",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 7.36
+          "type": "ccs",
+          "maxPowerKw": 90.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEVIRE64701",
+      "id": "DEVIRE64702",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 90.0
+          "type": "type2",
+          "maxPowerKw": 7.36
         }
       ],
       "authMethods": null,

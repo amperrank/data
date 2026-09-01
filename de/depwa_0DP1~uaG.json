@@ -4,6 +4,28 @@
   "name": "Pfalzwerke Ladestation (HORNBACH)",
   "evses": [
     {
+      "id": "DEPWAEALP22267X0059002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPWAEALP22267X0059001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEPWAEALP22267X0058901",
       "connectors": [
         {
@@ -27,28 +49,6 @@
     },
     {
       "id": "DEPWAEALP22267X0058902",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEPWAEALP22267X0059002",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEPWAEALP22267X0059001",
       "connectors": [
         {
           "type": "ccs",

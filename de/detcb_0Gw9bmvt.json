@@ -4,7 +4,18 @@
   "name": "658560-DN | Petershagen | Bahnhofstrasse 71",
   "evses": [
     {
-      "id": "DETCBE3D9CS500640022",
+      "id": "DETCBE3D9CS500640011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETCBE3D9CS500640012",
       "connectors": [
         {
           "type": "ccs",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETCBE3D9CS500640011",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETCBE3D9CS500640012",
+      "id": "DETCBE3D9CS500640022",
       "connectors": [
         {
           "type": "ccs",

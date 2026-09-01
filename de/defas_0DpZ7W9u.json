@@ -4,15 +4,15 @@
   "name": "Fastned Nersingen",
   "evses": [
     {
-      "id": "DEFASE4904102",
+      "id": "DEFASE4904104",
       "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 50.0
-        },
         {
           "type": "ccs",
           "maxPowerKw": 300.0
+        },
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -30,8 +30,12 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFASE4904103",
+      "id": "DEFASE4904102",
       "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        },
         {
           "type": "ccs",
           "maxPowerKw": 300.0
@@ -41,15 +45,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFASE4904104",
+      "id": "DEFASE4904103",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 300.0
-        },
-        {
-          "type": "chademo",
-          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

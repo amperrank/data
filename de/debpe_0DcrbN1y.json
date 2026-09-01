@@ -4,6 +4,28 @@
   "name": "Aral pulse Bahnhofstraße 53",
   "evses": [
     {
+      "id": "DEBPEE0F1500513",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0F1500617",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEBPEE0F1500514",
       "connectors": [
         {
@@ -26,44 +48,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0F1500617",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 100.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0F1500309",
+      "id": "DEBPEE0F1500618",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0F1500307",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0F1500308",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,
@@ -92,7 +81,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0F1500618",
+      "id": "DEBPEE0F1500308",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0F1500412",
       "connectors": [
         {
           "type": "ccs",
@@ -103,7 +103,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0F1500513",
+      "id": "DEBPEE0F1500307",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0F1500309",
       "connectors": [
         {
           "type": "ccs",
@@ -115,17 +126,6 @@
     },
     {
       "id": "DEBPEE0F1500616",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0F1500412",
       "connectors": [
         {
           "type": "ccs",

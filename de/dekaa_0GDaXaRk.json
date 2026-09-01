@@ -4,17 +4,6 @@
   "name": "SWKAA_Berliner Platz_Station 2_HPC_Oe",
   "evses": [
     {
-      "id": "DEKAAEAC1032",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 200.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEKAAEAC1029",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DEKAAEAC1030",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEKAAEAC1032",
       "connectors": [
         {
           "type": "ccs",

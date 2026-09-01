@@ -4,7 +4,7 @@
   "name": "SCHOLZ BAYREUTH SCHNELLLADER 2",
   "evses": [
     {
-      "id": "DECPIE65298252",
+      "id": "DECPIE65298352",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE65298352",
+      "id": "DECPIE65298252",
       "connectors": [
         {
           "type": "ccs",
@@ -48,18 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE65024151",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE65024152",
+      "id": "DECPIE65029151",
       "connectors": [
         {
           "type": "type2",
@@ -92,7 +81,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE65029151",
+      "id": "DECPIE65024152",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE65024151",
       "connectors": [
         {
           "type": "type2",

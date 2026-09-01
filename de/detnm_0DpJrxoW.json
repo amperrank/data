@@ -4,6 +4,17 @@
   "name": "Shell Recharge OBN 1808 - Shell Memminger Strasse",
   "evses": [
     {
+      "id": "DETNMEGL49011808011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DETNMEGL49011808021",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DETNMEGL49011808012",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49011808011",
       "connectors": [
         {
           "type": "ccs",

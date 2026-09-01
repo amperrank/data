@@ -4,17 +4,6 @@
   "name": "Kaufland Konstanz",
   "evses": [
     {
-      "id": "DEKDLE00000854",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 60.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEKDLE00001883",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00000852",
+      "id": "DEKDLE00001882",
       "connectors": [
         {
           "type": "ccs",
@@ -48,7 +37,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00001882",
+      "id": "DEKDLE00000852",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEKDLE00000854",
       "connectors": [
         {
           "type": "ccs",

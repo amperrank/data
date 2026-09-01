@@ -4,6 +4,17 @@
   "name": "Waren, Strelitzer Straße 141 LIS 2",
   "evses": [
     {
+      "id": "DETMEE30232",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DETMEE30098",
       "connectors": [
         {
@@ -26,17 +37,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DETMEE30099",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETMEE30101",
       "connectors": [
         {
@@ -48,11 +48,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DETMEE30232",
+      "id": "DETMEE30099",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 100.0
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,

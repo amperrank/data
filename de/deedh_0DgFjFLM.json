@@ -4,6 +4,17 @@
   "name": "NaturEnergie Community - Donaueschingen Donauhallen",
   "evses": [
     {
+      "id": "DEEDHE001454",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEEDHE001455",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEEDHE001456",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEDHE001454",
       "connectors": [
         {
           "type": "type2",

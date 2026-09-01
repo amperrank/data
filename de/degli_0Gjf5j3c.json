@@ -1,8 +1,19 @@
 {
   "operatorId": "DE*GLI",
   "geohash": "0Gjf5j3c",
-  "name": "Kassel Glinicke Königstor 40kW DC",
+  "name": "Kassel Glinicke Königstor 22kW/AC",
   "evses": [
+    {
+      "id": "DEGLIE100100229",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DEGLIE100100230",
       "connectors": [
@@ -26,51 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEGLIE100100229",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEGLIE100100274",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEGLIE100100271",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEGLIE100100272",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEGLIE100100273",
       "connectors": [
         {
           "type": "type2",
@@ -92,7 +59,29 @@
       "paymentMethods": null
     },
     {
-      "id": "DEGLIE100100233",
+      "id": "DEGLIE100100273",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGLIE100100272",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGLIE100100271",
       "connectors": [
         {
           "type": "type2",
@@ -108,6 +97,17 @@
         {
           "type": "ccs",
           "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGLIE100100233",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -173,7 +173,7 @@
   "address": {
     "city": "Kassel",
     "street": "Königstor",
-    "houseNumber": "61",
+    "houseNumber": "68-72",
     "postcode": "34119",
     "province": null
   },

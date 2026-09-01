@@ -4,11 +4,11 @@
   "name": "Lidl Filiale Lindenberg",
   "evses": [
     {
-      "id": "DELDLE00007502",
+      "id": "DELDLE00007503",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 11.0
+          "type": "ccs",
+          "maxPowerKw": 60.0
         }
       ],
       "authMethods": null,
@@ -26,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DELDLE00007503",
+      "id": "DELDLE00007502",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 60.0
+          "type": "type2",
+          "maxPowerKw": 11.0
         }
       ],
       "authMethods": null,

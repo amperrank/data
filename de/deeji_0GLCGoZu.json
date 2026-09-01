@@ -4,7 +4,18 @@
   "name": "e-jin e-jIn Ladestation Magic Spielhalle Wenden",
   "evses": [
     {
-      "id": "DEEJIE12345908321",
+      "id": "DEEJIE12345908312",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 500.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEJIE12345908311",
       "connectors": [
         {
           "type": "ccs",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEJIE12345908312",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 500.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEJIE12345908311",
+      "id": "DEEJIE12345908321",
       "connectors": [
         {
           "type": "ccs",

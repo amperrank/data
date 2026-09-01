@@ -4,7 +4,7 @@
   "name": "Shell Recharge OBN 6774 - Shell Bahnhofstrasse",
   "evses": [
     {
-      "id": "DETNMEGL49016774011",
+      "id": "DETNMEGL49016774012",
       "connectors": [
         {
           "type": "ccs",
@@ -30,6 +30,17 @@
       "paymentMethods": null
     },
     {
+      "id": "DETNMEGL49016774011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DETNMEGL4901677403",
       "connectors": [
         {
@@ -39,17 +50,6 @@
         {
           "type": "chademo",
           "maxPowerKw": 70.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49016774012",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,

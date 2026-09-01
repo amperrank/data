@@ -1,8 +1,30 @@
 {
   "operatorId": "DE*EHT",
   "geohash": "0GDxIzNp",
-  "name": "DEEHTE10000142",
+  "name": "DEEHTE10000144",
   "evses": [
+    {
+      "id": "DEEHTE6484024",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEHTE6484023",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DEEHTE6484011",
       "connectors": [
@@ -68,34 +90,12 @@
       ],
       "authMethods": null,
       "paymentMethods": null
-    },
-    {
-      "id": "DEEHTE6484024",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEHTE6484023",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Neuss",
-    "street": "Langemarckstraße",
+    "street": "Am Königsmorgen",
     "houseNumber": null,
     "postcode": "41460",
     "province": null

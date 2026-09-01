@@ -1,8 +1,19 @@
 {
   "operatorId": "DE*VAT",
   "geohash": "0HoNNhRU",
-  "name": "DE*VAT*EACE*0721722*1",
+  "name": "DE*VAT*EACE*0721725*2",
   "evses": [
+    {
+      "id": "DEVATEACE07217352",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.08
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DEVATEACE07217351",
       "connectors": [
@@ -26,28 +37,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DEVATEACE07217222",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.08
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEVATEACE07217352",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.08
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEVATEACE07217221",
       "connectors": [
         {
@@ -60,6 +49,17 @@
     },
     {
       "id": "DEVATEACE07217251",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.08
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEVATEACE07217222",
       "connectors": [
         {
           "type": "type2",

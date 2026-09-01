@@ -4,6 +4,17 @@
   "name": "Shell Recharge OBN 7526 - Shell Hermann-Wandersleb-Ring",
   "evses": [
     {
+      "id": "DETNMEGL49017526022",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DETNMEGL49017526011",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DETNMEGL49017526021",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49017526022",
       "connectors": [
         {
           "type": "ccs",

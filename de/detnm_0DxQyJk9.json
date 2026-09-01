@@ -4,17 +4,6 @@
   "name": "Shell Recharge OBN 4402 - Shell Robert Bunsen Strasse",
   "evses": [
     {
-      "id": "DETNMEGL49014402022",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGL49014402011",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DETNMEGL49014402012",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49014402022",
       "connectors": [
         {
           "type": "ccs",

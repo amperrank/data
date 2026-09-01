@@ -4,6 +4,17 @@
   "name": "WEMAG Wallboxen Schule Lübstorf",
   "evses": [
     {
+      "id": "DELMSE520000411",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 3.68
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DELMSE520000441",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DELMSE520000431",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 3.68
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DELMSE520000411",
       "connectors": [
         {
           "type": "type2",

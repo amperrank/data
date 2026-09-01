@@ -4,6 +4,17 @@
   "name": "IONITY GmbH IONITY Buddikate Ost",
   "evses": [
     {
+      "id": "DEIOYE202204",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEIOYE202203",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEIOYE202202",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE202204",
       "connectors": [
         {
           "type": "ccs",

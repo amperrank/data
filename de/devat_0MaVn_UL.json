@@ -4,17 +4,6 @@
   "name": "DE*VAT*ET184*IT1*3023*054*2",
   "evses": [
     {
-      "id": "DEVATET184IT131230071",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 180.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEVATET184IT131230072",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DEVATET184IT130230541",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 180.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEVATET184IT131230071",
       "connectors": [
         {
           "type": "ccs",

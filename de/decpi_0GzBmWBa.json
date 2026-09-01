@@ -4,17 +4,6 @@
   "name": "FW MHG STATION 01",
   "evses": [
     {
-      "id": "DECPIE65496251",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DECPIE65509051",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DECPIE65509052",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE65496251",
       "connectors": [
         {
           "type": "type2",

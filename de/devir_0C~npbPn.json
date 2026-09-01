@@ -4,7 +4,7 @@
   "name": "V-Markt Oberammergau",
   "evses": [
     {
-      "id": "DEVIRE154324",
+      "id": "DEVIRE154322",
       "connectors": [
         {
           "type": "type2",
@@ -16,6 +16,17 @@
     },
     {
       "id": "DEVIRE154354",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEVIRE154324",
       "connectors": [
         {
           "type": "type2",
@@ -49,17 +60,6 @@
     },
     {
       "id": "DEVIRE224124",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEVIRE154322",
       "connectors": [
         {
           "type": "type2",

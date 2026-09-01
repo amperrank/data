@@ -4,28 +4,6 @@
   "name": "mblty Pfalzfeld",
   "evses": [
     {
-      "id": "DEMBTESO1709DC0011",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 175.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMBTESO1709DC0012",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 100.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEMBTESO1709DC0021",
       "connectors": [
         {
@@ -59,17 +37,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMBTESO1709DC0031",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 175.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEMBTESO1709DC0042",
       "connectors": [
         {
@@ -81,7 +48,40 @@
       "paymentMethods": null
     },
     {
+      "id": "DEMBTESO1709DC0011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 175.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMBTESO1709DC0031",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 175.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEMBTESO1709DC0022",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMBTESO1709DC0012",
       "connectors": [
         {
           "type": "chademo",

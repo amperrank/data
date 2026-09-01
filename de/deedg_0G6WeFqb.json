@@ -4,17 +4,6 @@
   "name": "BRAWO GE Solution LIS GmbH Brawo Lehre",
   "evses": [
     {
-      "id": "DEEDGE41591",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEEDGE1",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEDGE41592",
+      "id": "DEEDGE2",
       "connectors": [
         {
           "type": "type2",
@@ -37,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEDGE2",
+      "id": "DEEDGE41591",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEDGE41592",
       "connectors": [
         {
           "type": "type2",

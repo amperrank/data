@@ -4,6 +4,17 @@
   "name": "Kaufland Naumburg",
   "evses": [
     {
+      "id": "DEKDLE00002007",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEKDLE00002005",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEKDLE00002006",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 60.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEKDLE00002007",
       "connectors": [
         {
           "type": "ccs",

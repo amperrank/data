@@ -4,7 +4,7 @@
   "name": "Shell Recharge OBN 1948 - CRT - Shell Georgswerder Bogen",
   "evses": [
     {
-      "id": "DETNMEGL49011948031",
+      "id": "DETNMEGL49011948041",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49011948042",
+      "id": "DETNMEGL49011948032",
       "connectors": [
         {
           "type": "ccs",
@@ -41,18 +41,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49011948032",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49011948041",
+      "id": "DETNMEGL49011948042",
       "connectors": [
         {
           "type": "ccs",
@@ -72,6 +61,17 @@
         {
           "type": "chademo",
           "maxPowerKw": 70.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49011948031",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
         }
       ],
       "authMethods": null,

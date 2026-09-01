@@ -15,17 +15,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0017341",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEALLEGO0031991",
       "connectors": [
         {
@@ -48,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0032001",
+      "id": "DEALLEGO0032002",
       "connectors": [
         {
           "type": "ccs",
@@ -70,6 +59,17 @@
       "paymentMethods": null
     },
     {
+      "id": "DEALLEGO0032001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEALLEGO0017291",
       "connectors": [
         {
@@ -81,11 +81,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0032002",
+      "id": "DEALLEGO0017341",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 300.0
+          "type": "type2",
+          "maxPowerKw": 7.36
         }
       ],
       "authMethods": null,

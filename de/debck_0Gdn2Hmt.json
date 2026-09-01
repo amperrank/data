@@ -4,22 +4,22 @@
   "name": "Backcharge GmbH Backcharge: Völcker und Peters",
   "evses": [
     {
-      "id": "DEBCKE12346275812",
+      "id": "DEBCKE12346275811",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 7.36
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEBCKE12346275811",
+      "id": "DEBCKE12346275812",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 7.36
         }
       ],
       "authMethods": null,

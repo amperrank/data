@@ -4,6 +4,17 @@
   "name": "FS_50672_KEBA_P90020",
   "evses": [
     {
+      "id": "DEFKUEFS90020",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEFKUEFS90031",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEFKUEFS90019",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEFKUEFS90020",
       "connectors": [
         {
           "type": "type2",

@@ -1,30 +1,8 @@
 {
   "operatorId": "DE*ORA",
   "geohash": "0McowoXY",
-  "name": "Parkstr. e-MOBI  25+26",
+  "name": "Parkstraße e-MOBI  07+08",
   "evses": [
-    {
-      "id": "DEORAE0025",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEORAE0026",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DEORAE0007",
       "connectors": [
@@ -46,12 +24,34 @@
       ],
       "authMethods": null,
       "paymentMethods": null
+    },
+    {
+      "id": "DEORAE0025",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEORAE0026",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Oranienburg",
-    "street": "Parkstr",
+    "street": "Parkstr.",
     "houseNumber": null,
     "postcode": "16515",
     "province": null

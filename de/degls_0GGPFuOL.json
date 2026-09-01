@@ -1,19 +1,8 @@
 {
   "operatorId": "DE*GLS",
   "geohash": "0GGPFuOL",
-  "name": "VOLT7003",
+  "name": "VOLT7000",
   "evses": [
-    {
-      "id": "DEGLSEMOMM0101",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DEGLSEMOMM0102",
       "connectors": [
@@ -27,6 +16,17 @@
     },
     {
       "id": "DEGLSEMOMM0103",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGLSEMOMM0101",
       "connectors": [
         {
           "type": "type2",

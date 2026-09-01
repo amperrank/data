@@ -4,6 +4,17 @@
   "name": "Eviny Germany Roding",
   "evses": [
     {
+      "id": "DEEVYEROD2B",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEEVYEROD2A",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DEEVYEROD1A",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEVYEROD2B",
       "connectors": [
         {
           "type": "ccs",

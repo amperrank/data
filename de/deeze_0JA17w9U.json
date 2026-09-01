@@ -1,8 +1,30 @@
 {
   "operatorId": "DE*EZE",
   "geohash": "0JA17w9U",
-  "name": "TWA000003",
+  "name": "TWA000001",
   "evses": [
+    {
+      "id": "DEEZEETWA00000102",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEZEETWA00000101",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DEEZEETWA00000301",
       "connectors": [
@@ -38,28 +60,6 @@
     },
     {
       "id": "DEEZEETWA00000401",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEZEETWA00000102",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEZEETWA00000101",
       "connectors": [
         {
           "type": "type2",

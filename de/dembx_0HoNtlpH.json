@@ -4,18 +4,7 @@
   "name": "Mercedes-Benz Charging Hub Hamburg FED",
   "evses": [
     {
-      "id": "DEMBXE003404",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 600.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMBXE003406",
+      "id": "DEMBXE003402",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +26,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMBXE003402",
+      "id": "DEMBXE003406",
       "connectors": [
         {
           "type": "ccs",
@@ -60,6 +49,17 @@
     },
     {
       "id": "DEMBXE003403",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 600.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMBXE003404",
       "connectors": [
         {
           "type": "ccs",

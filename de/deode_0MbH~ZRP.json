@@ -4,17 +4,6 @@
   "name": "DC-10042-01",
   "evses": [
     {
-      "id": "DEODEEDC100420204",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEODEEDC100420101",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEODEEDC100420203",
+      "id": "DEODEEDC100420204",
       "connectors": [
         {
           "type": "ccs",
@@ -38,6 +27,17 @@
     },
     {
       "id": "DEODEEDC100420102",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEODEEDC100420203",
       "connectors": [
         {
           "type": "ccs",

@@ -4,40 +4,7 @@
   "name": "Mer Germany GmbH Mer Germany (TuR) - Hepberg - Köschinger Forst Ost",
   "evses": [
     {
-      "id": "DEMERE00011301",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE00011402",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE00011202",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE00011403",
+      "id": "DEMERE00011203",
       "connectors": [
         {
           "type": "ccs",
@@ -48,7 +15,40 @@
       "paymentMethods": null
     },
     {
+      "id": "DEMERE00011401",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEMERE00011303",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00011201",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00011403",
       "connectors": [
         {
           "type": "ccs",
@@ -70,7 +70,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMERE00011201",
+      "id": "DEMERE00011301",
       "connectors": [
         {
           "type": "type2",
@@ -81,10 +81,10 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMERE00011203",
+      "id": "DEMERE00011202",
       "connectors": [
         {
-          "type": "ccs",
+          "type": "chademo",
           "maxPowerKw": 50.0
         }
       ],
@@ -92,11 +92,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMERE00011401",
+      "id": "DEMERE00011402",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "chademo",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

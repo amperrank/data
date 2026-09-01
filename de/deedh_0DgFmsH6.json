@@ -4,6 +4,17 @@
   "name": "NaturEnergie Community - Donaueschingen Suedstern",
   "evses": [
     {
+      "id": "DEEDHE000645",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEEDHE000646",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEEDHE000689",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEDHE000645",
       "connectors": [
         {
           "type": "type2",

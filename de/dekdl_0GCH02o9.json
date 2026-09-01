@@ -4,11 +4,11 @@
   "name": "Kaufland Düren",
   "evses": [
     {
-      "id": "DEKDLE00001620",
+      "id": "DEKDLE00001619",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 11.0
+          "type": "ccs",
+          "maxPowerKw": 60.0
         }
       ],
       "authMethods": null,
@@ -26,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00001619",
+      "id": "DEKDLE00001620",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 60.0
+          "type": "type2",
+          "maxPowerKw": 11.0
         }
       ],
       "authMethods": null,

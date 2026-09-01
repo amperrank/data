@@ -4,17 +4,6 @@
   "name": "Eni Station - ADLERGESTELL 289 A",
   "evses": [
     {
-      "id": "DEPLNEH0016323",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEPLNEH0013012",
       "connectors": [
         {
@@ -26,18 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPLNEH0013013",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEPLNEH0016321",
+      "id": "DEPLNEH0016323",
       "connectors": [
         {
           "type": "ccs",
@@ -59,11 +37,33 @@
       "paymentMethods": null
     },
     {
+      "id": "DEPLNEH0016321",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEPLNEH0016322",
       "connectors": [
         {
           "type": "chademo",
           "maxPowerKw": 51.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPLNEH0013013",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,

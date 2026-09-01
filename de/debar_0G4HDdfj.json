@@ -1,30 +1,8 @@
 {
   "operatorId": "DE*BAR",
   "geohash": "0G4HDdfj",
-  "name": "PARDE0906S002",
+  "name": "PARDE0906S001",
   "evses": [
-    {
-      "id": "DEBAREPARDE0906S0022",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBAREPARDE0906S0021",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DEBAREPARDE0906S0012",
       "connectors": [
@@ -38,6 +16,28 @@
     },
     {
       "id": "DEBAREPARDE0906S0011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBAREPARDE0906S0022",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBAREPARDE0906S0021",
       "connectors": [
         {
           "type": "ccs",

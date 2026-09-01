@@ -4,17 +4,6 @@
   "name": "323290-DN | Suhl | Am Steinsfelder Wasser 3",
   "evses": [
     {
-      "id": "DETCBE3D9CS501290012",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETCBE3D9CS501290021",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETCBE3D9CS501290022",
+      "id": "DETCBE3D9CS501290012",
       "connectors": [
         {
           "type": "ccs",
@@ -38,6 +27,17 @@
     },
     {
       "id": "DETCBE3D9CS501290011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETCBE3D9CS501290022",
       "connectors": [
         {
           "type": "ccs",

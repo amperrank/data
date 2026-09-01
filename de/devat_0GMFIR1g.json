@@ -1,19 +1,8 @@
 {
   "operatorId": "DE*VAT",
   "geohash": "0GMFIR1g",
-  "name": "DE*VAT*EKBA*26336975*1",
+  "name": "DE*VAT*EKBA*26336960*1",
   "evses": [
-    {
-      "id": "DEVATEKBA263369661",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 11.04
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DEVATEKBA263369591",
       "connectors": [
@@ -26,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEVATEKBA263370121",
+      "id": "DEVATEKBA263369601",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.04
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEVATEKBA263369661",
       "connectors": [
         {
           "type": "type2",
@@ -48,7 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEVATEKBA263369601",
+      "id": "DEVATEKBA263370121",
       "connectors": [
         {
           "type": "type2",
@@ -79,7 +79,63 @@
     "province": null
   },
   "openingHours": {
-    "isOpen247": true,
-    "regularHours": null
+    "isOpen247": false,
+    "regularHours": [
+      {
+        "weekday": 1,
+        "periodBegin": {
+          "hour": 8,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 16,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 2,
+        "periodBegin": {
+          "hour": 8,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 16,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 3,
+        "periodBegin": {
+          "hour": 8,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 16,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 4,
+        "periodBegin": {
+          "hour": 8,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 16,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 5,
+        "periodBegin": {
+          "hour": 8,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 14,
+          "minute": 30
+        }
+      }
+    ]
   }
 }

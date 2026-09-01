@@ -4,7 +4,7 @@
   "name": "Pfalzwerke Ladestation (GLOBUS Baumarkt)",
   "evses": [
     {
-      "id": "DEPWAEALP22541X0159501",
+      "id": "DEPWAEALP22541X0159402",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPWAEALP22541X0159502",
+      "id": "230ABE67B18F0C464756A90A58C66D8C",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPWAEALP22541X0159401",
       "connectors": [
         {
           "type": "ccs",
@@ -70,7 +81,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPWAEALP22541X0159402",
+      "id": "DEPWAEALP22541X0159501",
       "connectors": [
         {
           "type": "ccs",
@@ -81,18 +92,7 @@
       "paymentMethods": null
     },
     {
-      "id": "230ABE67B18F0C464756A90A58C66D8C",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEPWAEALP22541X0159401",
+      "id": "DEPWAEALP22541X0159502",
       "connectors": [
         {
           "type": "ccs",

@@ -4,7 +4,18 @@
   "name": "IONITY GmbH IONITY Altenburger Land Nord",
   "evses": [
     {
-      "id": "DEIOYE208204",
+      "id": "DEIOYE208206",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE208201",
       "connectors": [
         {
           "type": "ccs",
@@ -16,6 +27,17 @@
     },
     {
       "id": "DEIOYE208205",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE208204",
       "connectors": [
         {
           "type": "ccs",
@@ -38,28 +60,6 @@
     },
     {
       "id": "DEIOYE208202",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE208201",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE208206",
       "connectors": [
         {
           "type": "ccs",

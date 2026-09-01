@@ -4,17 +4,6 @@
   "name": "Ladestation Altenkunstadt",
   "evses": [
     {
-      "id": "DEBEME0010350",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEBEME0010351",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBEME0010349",
+      "id": "DEBEME0010350",
       "connectors": [
         {
           "type": "type2",
@@ -38,6 +27,17 @@
     },
     {
       "id": "DEBEME0010348",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBEME0010349",
       "connectors": [
         {
           "type": "type2",

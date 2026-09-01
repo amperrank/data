@@ -4,6 +4,17 @@
   "name": "Mercedes-Benz Charging Hub Essen",
   "evses": [
     {
+      "id": "DEMBXE001405",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEMBXE001403",
       "connectors": [
         {
@@ -26,17 +37,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMBXE001404",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEMBXE001401",
       "connectors": [
         {
@@ -48,7 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMBXE001405",
+      "id": "DEMBXE001404",
       "connectors": [
         {
           "type": "ccs",

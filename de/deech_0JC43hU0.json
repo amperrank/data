@@ -1,19 +1,8 @@
 {
   "operatorId": "DE*ECH",
   "geohash": "0JC43hU0",
-  "name": "ECH1008",
+  "name": "ECH1009",
   "evses": [
-    {
-      "id": "DEECHEECH100801",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DEECHEECH100901",
       "connectors": [
@@ -27,6 +16,17 @@
     },
     {
       "id": "DEECHEECH100701",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEECHEECH100801",
       "connectors": [
         {
           "type": "type2",
