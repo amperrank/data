@@ -4,6 +4,17 @@
   "name": "IONITY GmbH IONITY Thüringer Wald Nord",
   "evses": [
     {
+      "id": "DEIOYE208402",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEIOYE208401",
       "connectors": [
         {
@@ -37,7 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE208402",
+      "id": "DEIOYE208404",
       "connectors": [
         {
           "type": "ccs",
@@ -57,17 +68,6 @@
       ],
       "authMethods": null,
       "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE208404",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
     }
   ],
   "facilities": null,
@@ -78,5 +78,8 @@
     "postcode": "98716",
     "province": null
   },
-  "openingHours": null
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
 }

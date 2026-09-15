@@ -4,6 +4,17 @@
   "name": "IONITY GmbH IONITY Dammer Berge West",
   "evses": [
     {
+      "id": "DEIOYE103606",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEIOYE103603",
       "connectors": [
         {
@@ -15,7 +26,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE103604",
+      "id": "DEIOYE103602",
       "connectors": [
         {
           "type": "ccs",
@@ -37,18 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE103606",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE103602",
+      "id": "DEIOYE103604",
       "connectors": [
         {
           "type": "ccs",
@@ -78,5 +78,8 @@
     "postcode": "49451",
     "province": null
   },
-  "openingHours": null
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
 }

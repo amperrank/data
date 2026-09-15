@@ -1,32 +1,10 @@
 {
   "operatorId": "DE*CPI",
   "geohash": "0IVWbwOo",
-  "name": "KCS. HPC BERGGEIST",
+  "name": "KCS BERGGEIST 2",
   "evses": [
     {
-      "id": "DECPIE73935951",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE73935952",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE68673351",
+      "id": "DECPIE68673251",
       "connectors": [
         {
           "type": "type2",
@@ -59,11 +37,33 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE68673251",
+      "id": "DECPIE68673351",
       "connectors": [
         {
           "type": "type2",
           "maxPowerKw": 22.08
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE73935951",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE73935952",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,
@@ -73,8 +73,8 @@
   "facilities": null,
   "address": {
     "city": "Penzberg",
-    "street": "Karl-Steinbauer-Weg ggü",
-    "houseNumber": "5",
+    "street": "Bahnhofstraße",
+    "houseNumber": "47",
     "postcode": "82377",
     "province": null
   },

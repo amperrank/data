@@ -4,7 +4,51 @@
   "name": "IONITY GmbH IONITY Kamp-Lintfort",
   "evses": [
     {
+      "id": "DEIOYE229208",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE229201",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE229202",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEIOYE229272",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE229274",
       "connectors": [
         {
           "type": "ccs",
@@ -48,7 +92,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE229201",
+      "id": "DEIOYE229203",
       "connectors": [
         {
           "type": "ccs",
@@ -59,33 +103,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE229202",
+      "id": "DEIOYE229204",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE229208",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE229274",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
         }
       ],
       "authMethods": null,
@@ -112,28 +134,6 @@
       ],
       "authMethods": null,
       "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE229203",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE229204",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
     }
   ],
   "facilities": null,
@@ -144,5 +144,8 @@
     "postcode": "47475",
     "province": null
   },
-  "openingHours": null
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
 }

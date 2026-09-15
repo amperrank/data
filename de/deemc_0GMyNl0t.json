@@ -4,22 +4,22 @@
   "name": "e-mobilio Mosecker_DO",
   "evses": [
     {
-      "id": "DEEMCE12346056632",
+      "id": "DEEMCE12346056662",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 3.68
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEEMCE12346056662",
+      "id": "DEEMCE12346056632",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 150.0
+          "type": "type2",
+          "maxPowerKw": 3.68
         }
       ],
       "authMethods": null,
@@ -48,7 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEMCE12346056631",
+      "id": "DEEMCE12346056622",
       "connectors": [
         {
           "type": "type2",
@@ -59,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEMCE12346056622",
+      "id": "DEEMCE12346056631",
       "connectors": [
         {
           "type": "type2",

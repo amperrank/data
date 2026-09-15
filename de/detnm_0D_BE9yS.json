@@ -4,7 +4,7 @@
   "name": "Shell Recharge OBN 1214 - Shell Steinbruch",
   "evses": [
     {
-      "id": "DETNMEGL49011214031",
+      "id": "DETNMEGL49011214012",
       "connectors": [
         {
           "type": "ccs",
@@ -37,17 +37,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49011214022",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGL49011214032",
       "connectors": [
         {
@@ -59,7 +48,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49011214012",
+      "id": "DETNMEGL49011214022",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49011214031",
       "connectors": [
         {
           "type": "ccs",

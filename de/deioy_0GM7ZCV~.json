@@ -4,11 +4,11 @@
   "name": "IONITY GmbH IONITY Kamen",
   "evses": [
     {
-      "id": "DEIOYE228404",
+      "id": "DEIOYE228473",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 350.0
+          "maxPowerKw": 400.0
         }
       ],
       "authMethods": null,
@@ -26,40 +26,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE228473",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE228472",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE228408",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE228401",
+      "id": "DEIOYE228404",
       "connectors": [
         {
           "type": "ccs",
@@ -71,17 +38,6 @@
     },
     {
       "id": "DEIOYE228402",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE228407",
       "connectors": [
         {
           "type": "ccs",
@@ -104,6 +60,50 @@
     },
     {
       "id": "DEIOYE228474",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE228407",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE228401",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE228408",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE228472",
       "connectors": [
         {
           "type": "ccs",
@@ -144,5 +144,8 @@
     "postcode": "59174",
     "province": null
   },
-  "openingHours": null
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
 }

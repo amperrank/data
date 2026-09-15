@@ -4,17 +4,6 @@
   "name": "DE_GC_Stahlberg_59510_PP02_öffentlich(230222520)",
   "evses": [
     {
-      "id": "DEPOWE02127",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEPOWE02126",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DEPOWE02125",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE02127",
       "connectors": [
         {
           "type": "type2",

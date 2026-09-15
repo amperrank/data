@@ -4,18 +4,18 @@
   "name": "Aral pulse Leipziger Straße 43",
   "evses": [
     {
-      "id": "DEBPEE0FC990205",
+      "id": "DEBPEE0FC990204",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 100.0
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FC990102",
+      "id": "DEBPEE0FC990205",
       "connectors": [
         {
           "type": "chademo",
@@ -37,7 +37,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FC990204",
+      "id": "DEBPEE0FC990102",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0FC990307",
       "connectors": [
         {
           "type": "ccs",
@@ -48,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FC990410",
+      "id": "DEBPEE0FC990101",
       "connectors": [
         {
           "type": "ccs",
@@ -92,18 +103,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FC990101",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0FC990307",
+      "id": "DEBPEE0FC990410",
       "connectors": [
         {
           "type": "ccs",

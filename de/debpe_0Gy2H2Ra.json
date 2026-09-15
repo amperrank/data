@@ -4,17 +4,6 @@
   "name": "Aral pulse Nordstraße 2",
   "evses": [
     {
-      "id": "DEBPEE3EF3140101",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEBPEE3EF3140204",
       "connectors": [
         {
@@ -60,6 +49,17 @@
     },
     {
       "id": "DEBPEE3EF3140102",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE3EF3140101",
       "connectors": [
         {
           "type": "ccs",

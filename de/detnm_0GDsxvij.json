@@ -4,18 +4,7 @@
   "name": "Shell Recharge OBN 7524 - Shell Opladener Strasse",
   "evses": [
     {
-      "id": "DETNMEGL49017524021",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49017524012",
+      "id": "DETNMEGL49017524011",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49017524011",
+      "id": "DETNMEGL49017524012",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49017524021",
       "connectors": [
         {
           "type": "ccs",

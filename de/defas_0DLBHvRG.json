@@ -4,7 +4,7 @@
   "name": "Fastned Herbolzheim",
   "evses": [
     {
-      "id": "DEFASE4902906",
+      "id": "DEFASE4902903",
       "connectors": [
         {
           "type": "ccs",
@@ -15,8 +15,12 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFASE4902903",
+      "id": "DEFASE4902902",
       "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        },
         {
           "type": "ccs",
           "maxPowerKw": 300.0
@@ -41,7 +45,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFASE4902901",
+      "id": "DEFASE4902906",
       "connectors": [
         {
           "type": "ccs",
@@ -52,12 +56,8 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFASE4902902",
+      "id": "DEFASE4902901",
       "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 50.0
-        },
         {
           "type": "ccs",
           "maxPowerKw": 300.0

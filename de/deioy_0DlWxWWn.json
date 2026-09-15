@@ -4,7 +4,7 @@
   "name": "IONITY GmbH IONITY Bruchsal Ost",
   "evses": [
     {
-      "id": "DEIOYE209403",
+      "id": "DEIOYE209401",
       "connectors": [
         {
           "type": "ccs",
@@ -26,7 +26,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE209406",
+      "id": "DEIOYE209403",
       "connectors": [
         {
           "type": "ccs",
@@ -48,7 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE209401",
+      "id": "DEIOYE209406",
       "connectors": [
         {
           "type": "ccs",
@@ -78,5 +78,8 @@
     "postcode": "76694",
     "province": null
   },
-  "openingHours": null
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
 }

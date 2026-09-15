@@ -4,17 +4,6 @@
   "name": "Shell Recharge OBN 2405 - Shell Rosengartenweg",
   "evses": [
     {
-      "id": "DETNMEGL49012405021",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGL49012405032",
       "connectors": [
         {
@@ -37,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49012405022",
+      "id": "DETNMEGL49012405021",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49012405031",
       "connectors": [
         {
           "type": "ccs",
@@ -59,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49012405031",
+      "id": "DETNMEGL49012405022",
       "connectors": [
         {
           "type": "ccs",

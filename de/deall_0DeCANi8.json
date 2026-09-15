@@ -4,6 +4,17 @@
   "name": "Allego - Euro Rastpark Waldlaubersheim A61",
   "evses": [
     {
+      "id": "DEALLEGO0034452",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEALLEGO0034471",
       "connectors": [
         {
@@ -37,17 +48,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0034451",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEALLEGO0034461",
       "connectors": [
         {
@@ -59,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0034452",
+      "id": "DEALLEGO0034451",
       "connectors": [
         {
           "type": "ccs",

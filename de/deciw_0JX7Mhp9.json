@@ -4,6 +4,17 @@
   "name": "Hotel Am Bühl GmbH #01",
   "evses": [
     {
+      "id": "DECIWE000515",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DECIWE000516",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DECIWE000517",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECIWE000515",
       "connectors": [
         {
           "type": "type2",

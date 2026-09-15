@@ -37,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "ATHTBE1024632",
+      "id": "ATHTBE1024611",
       "connectors": [
         {
           "type": "ccs",
@@ -59,7 +59,18 @@
       "paymentMethods": null
     },
     {
-      "id": "ATHTBE1024611",
+      "id": "ATHTBE1024622",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "ATHTBE1024632",
       "connectors": [
         {
           "type": "ccs",
@@ -70,11 +81,11 @@
       "paymentMethods": null
     },
     {
-      "id": "ATHTBE1024622",
+      "id": "ATHTBE10224623",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "unknown",
+          "maxPowerKw": 3.68
         }
       ],
       "authMethods": null,
@@ -97,17 +108,6 @@
         {
           "type": "ccs",
           "maxPowerKw": 120.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "ATHTBE10224623",
-      "connectors": [
-        {
-          "type": "unknown",
-          "maxPowerKw": 3.68
         }
       ],
       "authMethods": null,

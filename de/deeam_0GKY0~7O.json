@@ -1,36 +1,25 @@
 {
   "operatorId": "DE*EAM",
   "geohash": "0GKY0~7O",
-  "name": "480 014S Mudersbach Kölner Str.",
+  "name": "480 015 Mudersbach Kölner Str.",
   "evses": [
-    {
-      "id": "DEEAME1070",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEAME1069",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DEEAME1071",
       "connectors": [
         {
           "type": "type2",
           "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEAME1067",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
@@ -48,7 +37,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEAME1067",
+      "id": "DEEAME1070",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEAME1069",
       "connectors": [
         {
           "type": "ccs",

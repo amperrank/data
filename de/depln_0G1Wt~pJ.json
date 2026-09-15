@@ -4,29 +4,7 @@
   "name": "Parkplatz Schatzgrube Weißenberg1b",
   "evses": [
     {
-      "id": "DEPLNEH0021973",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEPLNEH0022011",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEPLNEH0021972",
+      "id": "DEPLNEH0022012",
       "connectors": [
         {
           "type": "chademo",
@@ -48,7 +26,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPLNEH0022012",
+      "id": "DEPLNEH0021972",
       "connectors": [
         {
           "type": "chademo",
@@ -68,6 +46,28 @@
       ],
       "authMethods": null,
       "paymentMethods": null
+    },
+    {
+      "id": "DEPLNEH0022011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPLNEH0021973",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
     }
   ],
   "facilities": null,
@@ -79,63 +79,7 @@
     "province": null
   },
   "openingHours": {
-    "isOpen247": false,
-    "regularHours": [
-      {
-        "weekday": 1,
-        "periodBegin": {
-          "hour": 6,
-          "minute": 0
-        },
-        "periodEnd": {
-          "hour": 18,
-          "minute": 0
-        }
-      },
-      {
-        "weekday": 2,
-        "periodBegin": {
-          "hour": 6,
-          "minute": 0
-        },
-        "periodEnd": {
-          "hour": 18,
-          "minute": 0
-        }
-      },
-      {
-        "weekday": 3,
-        "periodBegin": {
-          "hour": 6,
-          "minute": 0
-        },
-        "periodEnd": {
-          "hour": 18,
-          "minute": 0
-        }
-      },
-      {
-        "weekday": 4,
-        "periodBegin": {
-          "hour": 6,
-          "minute": 0
-        },
-        "periodEnd": {
-          "hour": 18,
-          "minute": 0
-        }
-      },
-      {
-        "weekday": 5,
-        "periodBegin": {
-          "hour": 6,
-          "minute": 0
-        },
-        "periodEnd": {
-          "hour": 18,
-          "minute": 0
-        }
-      }
-    ]
+    "isOpen247": true,
+    "regularHours": null
   }
 }

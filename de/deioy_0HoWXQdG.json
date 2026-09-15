@@ -4,6 +4,28 @@
   "name": "IONITY GmbH IONITY Quickborn",
   "evses": [
     {
+      "id": "DEIOYE226904",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE226909",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEIOYE226906",
       "connectors": [
         {
@@ -59,29 +81,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE226901",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE226902",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE226908",
+      "id": "DEIOYE226911",
       "connectors": [
         {
           "type": "ccs",
@@ -103,7 +103,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE226904",
+      "id": "DEIOYE226902",
       "connectors": [
         {
           "type": "ccs",
@@ -114,7 +114,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE226909",
+      "id": "DEIOYE226901",
       "connectors": [
         {
           "type": "ccs",
@@ -125,7 +125,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE226911",
+      "id": "DEIOYE226908",
       "connectors": [
         {
           "type": "ccs",
@@ -144,5 +144,8 @@
     "postcode": "25451",
     "province": null
   },
-  "openingHours": null
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
 }

@@ -4,21 +4,21 @@
   "name": "Kaufland Bad Saulgau",
   "evses": [
     {
-      "id": "DEKDLE00000062",
+      "id": "DEKDLE00000061",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 43.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00000084",
+      "id": "DEKDLE00000072",
       "connectors": [
         {
-          "type": "chademo",
+          "type": "ccs",
           "maxPowerKw": 50.0
         }
       ],
@@ -48,7 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00000072",
+      "id": "DEKDLE00000062",
       "connectors": [
         {
           "type": "ccs",
@@ -59,11 +59,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00000061",
+      "id": "DEKDLE00000084",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 43.0
+          "type": "chademo",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

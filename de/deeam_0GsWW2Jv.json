@@ -1,8 +1,19 @@
 {
   "operatorId": "DE*EAM",
   "geohash": "0GsWW2Jv",
-  "name": "200 014 Nörten-Hardenberg Relais & Chateaux BurgHotel",
+  "name": "200 026 Nörten-Hardenberg Relais & Chateaux BurgHotel",
   "evses": [
+    {
+      "id": "DEEAME0331",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DEEAME0281",
       "connectors": [
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEEAME0283",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 11.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEAME0331",
       "connectors": [
         {
           "type": "type2",

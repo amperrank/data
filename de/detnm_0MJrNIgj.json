@@ -4,7 +4,18 @@
   "name": "Shell Recharge OBN 9478 - Shell Augustusberg",
   "evses": [
     {
-      "id": "DETNMEGL49019478041",
+      "id": "DETNMEGL49019478021",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49019478011",
       "connectors": [
         {
           "type": "ccs",
@@ -37,18 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49019478011",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49019478021",
+      "id": "DETNMEGL49019478032",
       "connectors": [
         {
           "type": "ccs",
@@ -60,6 +60,28 @@
     },
     {
       "id": "DETNMEGL49019478042",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49019478041",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49019478031",
       "connectors": [
         {
           "type": "ccs",

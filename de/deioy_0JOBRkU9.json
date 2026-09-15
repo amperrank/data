@@ -4,7 +4,7 @@
   "name": "IONITY GmbH IONITY Donautal West",
   "evses": [
     {
-      "id": "DEIOYE201301",
+      "id": "DEIOYE201303",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE201306",
+      "id": "DEIOYE201301",
       "connectors": [
         {
           "type": "ccs",
@@ -37,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE201305",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE201303",
+      "id": "DEIOYE201306",
       "connectors": [
         {
           "type": "ccs",
@@ -68,6 +57,17 @@
       ],
       "authMethods": null,
       "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE201305",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
     }
   ],
   "facilities": null,
@@ -78,5 +78,8 @@
     "postcode": "94036",
     "province": null
   },
-  "openingHours": null
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
 }

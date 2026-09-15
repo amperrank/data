@@ -4,11 +4,11 @@
   "name": "WENNTEC CHARGE AMPEREWEG 1",
   "evses": [
     {
-      "id": "DECPIE68442151",
+      "id": "DECPIE68441751",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.08
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,
@@ -26,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE68441751",
+      "id": "DECPIE68442151",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 150.0
+          "type": "type2",
+          "maxPowerKw": 22.08
         }
       ],
       "authMethods": null,

@@ -4,17 +4,6 @@
   "name": "Fastned Jalm",
   "evses": [
     {
-      "id": "DEFASE4930303",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEFASE4930305",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFASE4930302",
+      "id": "DEFASE4930303",
       "connectors": [
         {
           "type": "ccs",
@@ -49,6 +38,17 @@
     },
     {
       "id": "DEFASE4930301",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEFASE4930302",
       "connectors": [
         {
           "type": "ccs",

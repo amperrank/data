@@ -4,17 +4,6 @@
   "name": "Ladestation Telesys Kommunikationstechnik GmbH",
   "evses": [
     {
-      "id": "DEBEME0010399",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEBEME0010398",
       "connectors": [
         {
@@ -37,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBEME0010403",
+      "id": "DEBEME0010399",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBEME0010405",
       "connectors": [
         {
           "type": "type2",
@@ -59,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBEME0010405",
+      "id": "DEBEME0010403",
       "connectors": [
         {
           "type": "type2",

@@ -1,0 +1,51 @@
+{
+  "operatorId": "PL*J45",
+  "geohash": "0ORCRFVz",
+  "name": "Małachowskiego 15, 61-129 Poznań",
+  "evses": [
+    {
+      "id": "PLJ45ECB996122",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 120.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLJ45E41C47A27",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 120.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "PLJ45E3049DB87",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": [
+    "energy"
+  ],
+  "address": {
+    "city": "Poznań",
+    "street": "Małachowskiego",
+    "houseNumber": "15",
+    "postcode": "61-129",
+    "province": null
+  },
+  "openingHours": null
+}

@@ -4,6 +4,17 @@
   "name": "PAUL DAUT GMBH STATION 5",
   "evses": [
     {
+      "id": "DECPIE72974652",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.08
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DECPIE68101151",
       "connectors": [
         {
@@ -31,17 +42,6 @@
         {
           "type": "type2",
           "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE72974652",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.08
         }
       ],
       "authMethods": null,

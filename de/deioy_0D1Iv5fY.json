@@ -4,17 +4,6 @@
   "name": "IONITY GmbH IONITY Rosbach v. d. Höhe",
   "evses": [
     {
-      "id": "DEIOYE232903",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEIOYE232901",
       "connectors": [
         {
@@ -48,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE232902",
+      "id": "DEIOYE232903",
       "connectors": [
         {
           "type": "ccs",
@@ -68,6 +57,17 @@
       ],
       "authMethods": null,
       "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE232902",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
     }
   ],
   "facilities": null,
@@ -78,5 +78,8 @@
     "postcode": "61191",
     "province": null
   },
-  "openingHours": null
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
 }

@@ -15,17 +15,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE237372",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEIOYE237302",
       "connectors": [
         {
@@ -37,18 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE237301",
+      "id": "DEIOYE237372",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 350.0
+          "maxPowerKw": 400.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE237303",
+      "id": "DEIOYE237301",
       "connectors": [
         {
           "type": "ccs",
@@ -68,6 +57,17 @@
       ],
       "authMethods": null,
       "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE237303",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
     }
   ],
   "facilities": null,
@@ -78,5 +78,8 @@
     "postcode": "97424",
     "province": null
   },
-  "openingHours": null
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
 }

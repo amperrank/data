@@ -1,10 +1,32 @@
 {
   "operatorId": "DE*EDR",
   "geohash": "0GNFF9Mr",
-  "name": "Reken, Velener Straße_SBD1",
+  "name": "Reken, Velener Straße_HYC150, 100kW max.",
   "evses": [
     {
-      "id": "DEEDRE220139662",
+      "id": "DEEDRE202996",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEDRE320002872",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEDRE220139661",
       "connectors": [
         {
           "type": "type2",
@@ -37,29 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEDRE202996",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 100.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEDRE320002872",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 100.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEDRE220139661",
+      "id": "DEEDRE220139662",
       "connectors": [
         {
           "type": "type2",

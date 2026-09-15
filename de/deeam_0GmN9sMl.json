@@ -1,10 +1,21 @@
 {
   "operatorId": "DE*EAM",
   "geohash": "0GmN9sMl",
-  "name": "300 006S Hofgeismar, Tegut Löber 3",
+  "name": "300 005S Hofgeismar, Tegut Löber 2",
   "evses": [
     {
-      "id": "DEEAME0527",
+      "id": "DEEAME0524",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEAME0525",
       "connectors": [
         {
           "type": "ccs",
@@ -16,6 +27,17 @@
     },
     {
       "id": "DEEAME0526",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEAME0527",
       "connectors": [
         {
           "type": "ccs",
@@ -38,28 +60,6 @@
     },
     {
       "id": "DEEAME0522",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEAME0524",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEAME0525",
       "connectors": [
         {
           "type": "ccs",

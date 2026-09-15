@@ -4,29 +4,7 @@
   "name": "Mer Germany GmbH Mer Germany GmbH - München - Schatzbogen 50-62 #1",
   "evses": [
     {
-      "id": "DEMERE00433601",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEMERE00433602",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE00433502",
       "connectors": [
         {
           "type": "type2",
@@ -48,6 +26,17 @@
       "paymentMethods": null
     },
     {
+      "id": "DEMERE00430001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEMERE00433501",
       "connectors": [
         {
@@ -59,11 +48,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMERE00430001",
+      "id": "DEMERE00433601",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 150.0
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00433502",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

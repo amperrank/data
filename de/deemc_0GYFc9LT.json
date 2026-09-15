@@ -4,6 +4,17 @@
   "name": "e-mobilio Ladepark Gronau",
   "evses": [
     {
+      "id": "DEEMCE12346952391",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEEMCE12346952392",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DEEMCE12346952402",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEMCE12346952391",
       "connectors": [
         {
           "type": "ccs",

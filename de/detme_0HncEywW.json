@@ -4,6 +4,17 @@
   "name": "Handewitt, Raiffeisenstraße 3d LIS 1",
   "evses": [
     {
+      "id": "DETMEE30026",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DETMEE30029",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DETMEE30028",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETMEE30026",
       "connectors": [
         {
           "type": "ccs",

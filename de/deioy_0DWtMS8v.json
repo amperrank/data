@@ -4,18 +4,7 @@
   "name": "IONITY GmbH IONITY Eifel West",
   "evses": [
     {
-      "id": "DEIOYE211702",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE211704",
+      "id": "DEIOYE211706",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +26,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE211706",
+      "id": "DEIOYE211704",
       "connectors": [
         {
           "type": "ccs",
@@ -68,6 +57,17 @@
       ],
       "authMethods": null,
       "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE211702",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
     }
   ],
   "facilities": null,
@@ -78,5 +78,8 @@
     "postcode": "54533",
     "province": null
   },
-  "openingHours": null
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
 }

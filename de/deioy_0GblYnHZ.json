@@ -15,18 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE103502",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE103505",
+      "id": "DEIOYE103506",
       "connectors": [
         {
           "type": "ccs",
@@ -48,7 +37,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE103506",
+      "id": "DEIOYE103502",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE103505",
       "connectors": [
         {
           "type": "ccs",
@@ -78,5 +78,8 @@
     "postcode": "49451",
     "province": null
   },
-  "openingHours": null
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
 }

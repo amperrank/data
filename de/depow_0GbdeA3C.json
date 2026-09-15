@@ -4,22 +4,22 @@
   "name": "DE Essen 49632 Bahnhofstraße 4 (SN:23BZ8994A) öffentlich KKT",
   "evses": [
     {
-      "id": "DEPOWE02434",
+      "id": "DEPOWE02433",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 75.2
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEPOWE02433",
+      "id": "DEPOWE02434",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 75.2
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

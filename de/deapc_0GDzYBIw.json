@@ -1,7 +1,7 @@
 {
   "operatorId": "DE*APC",
   "geohash": "0GDzYBIw",
-  "name": "Düsseldorf, Hartkortstraße, Single 22kW, WB3",
+  "name": "Düsseldorf, Hartkortstraße, Single 22kW, WB6",
   "evses": [
     {
       "id": "DEAPCE290001541",
@@ -26,6 +26,17 @@
       "paymentMethods": null
     },
     {
+      "id": "DEAPCE290001931",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 3.68
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEAPCE290001941",
       "connectors": [
         {
@@ -38,17 +49,6 @@
     },
     {
       "id": "DEAPCE290001561",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 3.68
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEAPCE290001931",
       "connectors": [
         {
           "type": "type2",

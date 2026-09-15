@@ -1,10 +1,21 @@
 {
   "operatorId": "CH*ECU",
   "geohash": "0JBlkQYs",
-  "name": "Station 3 - ECH",
+  "name": "Station 1 - ECH",
   "evses": [
     {
-      "id": "CHECUE5CM25847HBZJGZ5TZAPU9YRBG3",
+      "id": "CHECUEKJCKMA74BFTMSEPBCQ472RMHHS",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 12.8
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "CHECUE84PBX3BT74G3H6EETY3YE75QJZ",
       "connectors": [
         {
           "type": "type2",
@@ -24,22 +35,11 @@
       ],
       "authMethods": null,
       "paymentMethods": null
-    },
-    {
-      "id": "CHECUEKJCKMA74BFTMSEPBCQ472RMHHS",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 12.8
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
-    "city": "Eching",
+    "city": "Eching-Ost",
     "street": "Dieselstraße",
     "houseNumber": "26",
     "postcode": "85386",

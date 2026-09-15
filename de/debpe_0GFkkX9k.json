@@ -4,28 +4,6 @@
   "name": "Aral pulse Klever Straße 85",
   "evses": [
     {
-      "id": "DEBPEE0F3670101",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0F3670205",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 100.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEBPEE0F3670102",
       "connectors": [
         {
@@ -37,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0F3670204",
+      "id": "DEBPEE0F3670101",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0F3670103",
       "connectors": [
         {
           "type": "ccs",
@@ -59,11 +48,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0F3670103",
+      "id": "DEBPEE0F3670204",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0F3670205",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,

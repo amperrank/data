@@ -4,7 +4,7 @@
   "name": "Ladestation Wildfreizeitpark Oberreith",
   "evses": [
     {
-      "id": "DEBEME0010875",
+      "id": "DEBEME0010873",
       "connectors": [
         {
           "type": "type2",
@@ -15,11 +15,44 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBEME0010864",
+      "id": "DEBEME0010870",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 150.0
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBEME0010868",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBEME0010869",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBEME0010867",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -48,40 +81,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBEME0010867",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBEME0010869",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBEME0010868",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBEME0010870",
+      "id": "DEBEME0010871",
       "connectors": [
         {
           "type": "type2",
@@ -114,18 +114,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBEME0010873",
+      "id": "DEBEME0010864",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEBEME0010871",
+      "id": "DEBEME0010875",
       "connectors": [
         {
           "type": "type2",

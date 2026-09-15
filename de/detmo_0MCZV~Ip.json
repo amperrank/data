@@ -4,29 +4,18 @@
   "name": "TMO LP4/5 Globus",
   "evses": [
     {
+      "id": "DETMOE11017001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DETMOE11017008",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETMOE11017004",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETMOE11017007",
       "connectors": [
         {
           "type": "ccs",
@@ -48,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETMOE11017011",
+      "id": "DETMOE11017010",
       "connectors": [
         {
           "type": "ccs",
@@ -59,7 +48,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DETMOE11017001",
+      "id": "DETMOE11017007",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETMOE11017004",
       "connectors": [
         {
           "type": "ccs",
@@ -81,7 +81,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETMOE11017010",
+      "id": "DETMOE11017011",
       "connectors": [
         {
           "type": "ccs",

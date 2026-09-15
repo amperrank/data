@@ -4,15 +4,11 @@
   "name": "Ahrensburg, Kornkamp AC",
   "evses": [
     {
-      "id": "DEEDRE110001282",
+      "id": "DEEDRE110001281",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 50.0
-        },
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 14.26
         }
       ],
       "authMethods": null,
@@ -30,11 +26,15 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEDRE110001281",
+      "id": "DEEDRE110001282",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 14.26
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        },
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

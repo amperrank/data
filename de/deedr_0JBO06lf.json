@@ -1,19 +1,8 @@
 {
   "operatorId": "DE*EDR",
   "geohash": "0JBO06lf",
-  "name": "Unterschleissheim, Ohmstraße, 22kW Safe2Office WB5",
+  "name": "Unterschleissheim, Ohmstraße, 22kW Safe2Office WB3",
   "evses": [
-    {
-      "id": "DEEDRE220037561",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DEEDRE220037521",
       "connectors": [
@@ -27,6 +16,17 @@
     },
     {
       "id": "DEEDRE220037631",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEDRE220037561",
       "connectors": [
         {
           "type": "type2",

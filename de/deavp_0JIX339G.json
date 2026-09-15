@@ -4,22 +4,22 @@
   "name": "X - AVP - 0020 - BGH 22/50kW",
   "evses": [
     {
-      "id": "DEAVPE0000010",
+      "id": "DEAVPE0000009",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEAVPE0000009",
+      "id": "DEAVPE0000010",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

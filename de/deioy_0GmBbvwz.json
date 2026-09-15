@@ -4,7 +4,7 @@
   "name": "IONITY GmbH IONITY Breuna",
   "evses": [
     {
-      "id": "DEIOYE227806",
+      "id": "DEIOYE227808",
       "connectors": [
         {
           "type": "ccs",
@@ -15,18 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE227873",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE227805",
+      "id": "DEIOYE227803",
       "connectors": [
         {
           "type": "ccs",
@@ -92,6 +81,17 @@
       "paymentMethods": null
     },
     {
+      "id": "DEIOYE227872",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEIOYE227801",
       "connectors": [
         {
@@ -103,7 +103,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE227808",
+      "id": "DEIOYE227873",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE227805",
       "connectors": [
         {
           "type": "ccs",
@@ -114,18 +125,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE227803",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE227872",
+      "id": "DEIOYE227806",
       "connectors": [
         {
           "type": "ccs",
@@ -144,5 +144,8 @@
     "postcode": "34466",
     "province": null
   },
-  "openingHours": null
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
 }

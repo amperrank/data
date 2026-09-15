@@ -4,22 +4,22 @@
   "name": "DC-Charger Mc Donald's Obertraubling",
   "evses": [
     {
-      "id": "DERBGE0607",
+      "id": "DERBGE0610",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 60.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DERBGE0610",
+      "id": "DERBGE0607",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 60.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

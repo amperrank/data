@@ -4,6 +4,17 @@
   "name": "NaturEnergie Community - Grafenhausen Rothaus Links",
   "evses": [
     {
+      "id": "DEEDHE000304",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEEDHE000782",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DEEDHE000781",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEDHE000304",
       "connectors": [
         {
           "type": "type2",

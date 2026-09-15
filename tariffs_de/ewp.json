@@ -1,0 +1,228 @@
+[
+  {
+    "operatorId": {
+      "countryCode": "DE",
+      "cpo": "EWP"
+    },
+    "currency": "EUR",
+    "validFrom": "2024-05-01T00:00:00.000",
+    "validTo": null,
+    "updatedAt": "2026-09-15T00:00:00.000",
+    "description": "Energie und Wasser Potsdam (EWP EchtMobil) ad-hoc tariff at EWP’s own public stations, valid from 01.05.2024. Blocking fee 10 Cent/min (AC after 240 min, DC after 90 min), capped at 30 EUR per session, waived daily 20:00–06:00 for EchtMobil contract customers at EWP stations. Roaming at other operators’ stations costs more (AC 59–89 Cent/kWh, DC 69–99 Cent/kWh) and is not modelled as a separate tier. A one-off 10 EUR (brutto) fee applies for issuing a physical charging card.",
+    "tiers": [
+      {
+        "id": "standard",
+        "name": "EchtMobil (EWP stations)",
+        "role": "standard",
+        "subscriptionFee": null,
+        "requiresMembership": false,
+        "applicableHours": null,
+        "description": null,
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 0.52,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 0.62,
+            "unit": "kWh",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.1,
+            "unit": "min",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": 240,
+            "condition": "max 30.00 EUR per session",
+            "applicableHours": {
+              "isOpen247": false,
+              "regularHours": [
+                {
+                  "weekday": 1,
+                  "periodBegin": {
+                    "hour": 6,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 2,
+                  "periodBegin": {
+                    "hour": 6,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 3,
+                  "periodBegin": {
+                    "hour": 6,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 4,
+                  "periodBegin": {
+                    "hour": 6,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 5,
+                  "periodBegin": {
+                    "hour": 6,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 6,
+                  "periodBegin": {
+                    "hour": 6,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 7,
+                  "periodBegin": {
+                    "hour": 6,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.1,
+            "unit": "min",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": 90,
+            "condition": "max 30.00 EUR per session",
+            "applicableHours": {
+              "isOpen247": false,
+              "regularHours": [
+                {
+                  "weekday": 1,
+                  "periodBegin": {
+                    "hour": 6,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 2,
+                  "periodBegin": {
+                    "hour": 6,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 3,
+                  "periodBegin": {
+                    "hour": 6,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 4,
+                  "periodBegin": {
+                    "hour": 6,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 5,
+                  "periodBegin": {
+                    "hour": 6,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 6,
+                  "periodBegin": {
+                    "hour": 6,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 7,
+                  "periodBegin": {
+                    "hour": 6,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

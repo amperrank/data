@@ -4,17 +4,6 @@
   "name": "Shell Recharge OBN 2669 - Rewe Friedrich-Ebert-Strasse",
   "evses": [
     {
-      "id": "DETNMEGLABBT12400131",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 120.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGLABBT12400121",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DETNMEGLABBT12400122",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 120.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGLABBT12400131",
       "connectors": [
         {
           "type": "ccs",

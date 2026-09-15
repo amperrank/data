@@ -1,10 +1,21 @@
 {
   "operatorId": "DE*EAM",
   "geohash": "0GgKEZUe",
-  "name": "420 013S Lollar Deichmann 1",
+  "name": "420 014S Lollar Deichmann 2",
   "evses": [
     {
-      "id": "DEEAME0786",
+      "id": "DEEAME0789",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEAME0788",
       "connectors": [
         {
           "type": "ccs",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEAME0789",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEAME0788",
+      "id": "DEEAME0786",
       "connectors": [
         {
           "type": "ccs",

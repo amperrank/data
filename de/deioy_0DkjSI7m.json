@@ -4,17 +4,6 @@
   "name": "IONITY GmbH IONITY Herrenberg",
   "evses": [
     {
-      "id": "DEIOYE220702",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEIOYE220775",
       "connectors": [
         {
@@ -26,18 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE220705",
+      "id": "DEIOYE220776",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 350.0
+          "maxPowerKw": 400.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE220774",
+      "id": "DEIOYE220772",
       "connectors": [
         {
           "type": "ccs",
@@ -53,17 +42,6 @@
         {
           "type": "ccs",
           "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE220772",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
         }
       ],
       "authMethods": null,
@@ -92,7 +70,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE220706",
+      "id": "DEIOYE220702",
       "connectors": [
         {
           "type": "ccs",
@@ -103,7 +81,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE220701",
+      "id": "DEIOYE220706",
       "connectors": [
         {
           "type": "ccs",
@@ -125,11 +103,33 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE220776",
+      "id": "DEIOYE220701",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE220774",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE220705",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
         }
       ],
       "authMethods": null,
@@ -144,5 +144,8 @@
     "postcode": "71083",
     "province": null
   },
-  "openingHours": null
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
 }

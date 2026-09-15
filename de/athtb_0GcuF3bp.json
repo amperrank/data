@@ -4,17 +4,6 @@
   "name": "Futuregmbh Werlte 360kW Ladestation 3",
   "evses": [
     {
-      "id": "ATHTBE1017198",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 360.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "ATHTBE1017199",
       "connectors": [
         {
@@ -26,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "ATHTBE1017745",
+      "id": "ATHTBE1017198",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 360.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "ATHTBE1017747",
       "connectors": [
         {
           "type": "ccs",
@@ -48,7 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "ATHTBE1017747",
+      "id": "ATHTBE1017748",
       "connectors": [
         {
           "type": "ccs",
@@ -59,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "ATHTBE1017748",
+      "id": "ATHTBE1017745",
       "connectors": [
         {
           "type": "ccs",

@@ -4,6 +4,17 @@
   "name": "Eviny Germany Thurnau",
   "evses": [
     {
+      "id": "DEEVYETHU2B",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEEVYETHU2A",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DEEVYETHU1A",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEVYETHU2B",
       "connectors": [
         {
           "type": "ccs",

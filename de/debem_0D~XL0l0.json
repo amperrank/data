@@ -4,11 +4,11 @@
   "name": "Ladestation SUNLIFE-Service",
   "evses": [
     {
-      "id": "DEBEME0011060",
+      "id": "DEBEME0011055",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -26,18 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBEME0011055",
+      "id": "DEBEME0011061",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEBEME0011061",
+      "id": "DEBEME0011060",
       "connectors": [
         {
           "type": "ccs",

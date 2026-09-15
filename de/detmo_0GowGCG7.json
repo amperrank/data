@@ -4,7 +4,7 @@
   "name": "TMO 2LP Quartier Herkules",
   "evses": [
     {
-      "id": "DETMOE11035008",
+      "id": "DETMOE11035007",
       "connectors": [
         {
           "type": "type2",
@@ -15,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETMOE11035007",
+      "id": "DETMOE11035008",
       "connectors": [
         {
           "type": "type2",
@@ -37,11 +37,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DETMOE11035004",
+      "id": "DETMOE11035008",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 150.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -49,28 +49,6 @@
     },
     {
       "id": "DETMOE11035003",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETMOE11035002",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETMOE11035006",
       "connectors": [
         {
           "type": "ccs",
@@ -103,11 +81,33 @@
       "paymentMethods": null
     },
     {
-      "id": "DETMOE11035008",
+      "id": "DETMOE11035006",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETMOE11035004",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETMOE11035002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,

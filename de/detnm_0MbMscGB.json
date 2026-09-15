@@ -4,17 +4,6 @@
   "name": "Shell Recharge OBN 3383 - Shell Hultschiner Damm",
   "evses": [
     {
-      "id": "DETNMEGL49013383032",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 360.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGL4901338301",
       "connectors": [
         {
@@ -24,6 +13,21 @@
         {
           "type": "chademo",
           "maxPowerKw": 70.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL4901338302",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 70.0
+        },
+        {
+          "type": "ccs",
+          "maxPowerKw": 175.0
         }
       ],
       "authMethods": null,
@@ -41,15 +45,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL4901338302",
+      "id": "DETNMEGL49013383032",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 175.0
-        },
-        {
-          "type": "chademo",
-          "maxPowerKw": 70.0
+          "maxPowerKw": 360.0
         }
       ],
       "authMethods": null,

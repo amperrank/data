@@ -4,6 +4,17 @@
   "name": "Allego - porta (Möbel Boss) Wittenberg",
   "evses": [
     {
+      "id": "DEALLEGO0038532",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEALLEGO0035382",
       "connectors": [
         {
@@ -15,22 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0038501",
+      "id": "DEALLEGO0035571",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEALLEGO0038532",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,
@@ -59,18 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0035571",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEALLEGO0038531",
+      "id": "DEALLEGO0038501",
       "connectors": [
         {
           "type": "ccs",
@@ -81,11 +70,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0035381",
+      "id": "DEALLEGO0038522",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 150.0
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -103,7 +92,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0038522",
+      "id": "DEALLEGO0035381",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEALLEGO0038531",
       "connectors": [
         {
           "type": "ccs",

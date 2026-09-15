@@ -1,8 +1,19 @@
 {
   "operatorId": "DE*WAG",
   "geohash": "0GMsUMf4",
-  "name": "Autohaus Schmidt - Schwerte",
+  "name": "Autohaus Schmidt VW - Schwerte",
   "evses": [
+    {
+      "id": "DEWAGEE0344",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DEWAGEE0343",
       "connectors": [
@@ -13,17 +24,6 @@
         {
           "type": "chademo",
           "maxPowerKw": 24.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEWAGEE0344",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
         }
       ],
       "authMethods": null,

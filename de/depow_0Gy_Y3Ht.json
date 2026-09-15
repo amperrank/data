@@ -4,22 +4,22 @@
   "name": "DE Hannover 30519 Hildesheimer Straße VGRD PP01 LP1 (öffentlich)",
   "evses": [
     {
-      "id": "DEPOWE02153",
+      "id": "DEPOWE02463",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 11.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEPOWE02463",
+      "id": "DEPOWE02153",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 11.0
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

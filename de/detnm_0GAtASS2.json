@@ -4,6 +4,17 @@
   "name": "Shell Recharge OBN 3147 - Redevco Debyestrasse",
   "evses": [
     {
+      "id": "DETNMEGL49023147031",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DETNMEGL49023147032",
       "connectors": [
         {
@@ -26,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "CE20FEA14BBE4D8B87F628B1AEA8BA181",
+      "id": "CE20FEA14BBE4D8B87F628B1AEA8BA182",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49023147011",
+      "id": "DETNMEGL49023147012",
       "connectors": [
         {
           "type": "ccs",
@@ -59,18 +70,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49023147031",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "CE20FEA14BBE4D8B87F628B1AEA8BA182",
+      "id": "CE20FEA14BBE4D8B87F628B1AEA8BA181",
       "connectors": [
         {
           "type": "ccs",
@@ -81,7 +81,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49023147012",
+      "id": "DETNMEGL49023147011",
       "connectors": [
         {
           "type": "ccs",

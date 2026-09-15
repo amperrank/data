@@ -4,11 +4,11 @@
   "name": "Frascoia HYC",
   "evses": [
     {
-      "id": "DEEWME0000276",
+      "id": "DEEWME0000275",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 11.0
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,
@@ -26,18 +26,29 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEWME0000275",
+      "id": "DEEWME0000277",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 150.0
+          "type": "type2",
+          "maxPowerKw": 11.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEEWME0000278",
+      "id": "DEEWME0000279",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEWME0000276",
       "connectors": [
         {
           "type": "type2",
@@ -59,7 +70,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEWME0000277",
+      "id": "DEEWME0000278",
       "connectors": [
         {
           "type": "type2",
@@ -71,17 +82,6 @@
     },
     {
       "id": "DEEWME0000281",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 11.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEWME0000279",
       "connectors": [
         {
           "type": "type2",

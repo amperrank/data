@@ -4,18 +4,7 @@
   "name": "Aral pulse Lütticher Straße 108",
   "evses": [
     {
-      "id": "DEBPEE0FH760101",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0FH760102",
+      "id": "DEBPEE0FH760205",
       "connectors": [
         {
           "type": "chademo",
@@ -59,11 +48,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FH760205",
+      "id": "DEBPEE0FH760102",
       "connectors": [
         {
           "type": "chademo",
           "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0FH760101",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,

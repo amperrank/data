@@ -4,33 +4,11 @@
   "name": "IONITY GmbH IONITY Bad Camberg West",
   "evses": [
     {
-      "id": "DEIOYE204901",
+      "id": "DEIOYE204906",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE204902",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE204903",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
+          "maxPowerKw": 250.0
         }
       ],
       "authMethods": null,
@@ -59,11 +37,33 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE204906",
+      "id": "DEIOYE204903",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 250.0
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE204901",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE204902",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
         }
       ],
       "authMethods": null,
@@ -78,5 +78,8 @@
     "postcode": "65520",
     "province": null
   },
-  "openingHours": null
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
 }

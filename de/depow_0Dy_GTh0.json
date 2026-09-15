@@ -4,22 +4,22 @@
   "name": "DE_Auto Koch GmbH_24BZ2114A_öffentlich",
   "evses": [
     {
-      "id": "DEPOWE02958",
+      "id": "DEPOWE02957",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEPOWE02957",
+      "id": "DEPOWE02958",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

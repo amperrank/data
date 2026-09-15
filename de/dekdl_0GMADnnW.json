@@ -4,11 +4,11 @@
   "name": "Kaufland Velbert",
   "evses": [
     {
-      "id": "DEKDLE00000173",
+      "id": "DEKDLE00000174",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "chademo",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -16,6 +16,17 @@
     },
     {
       "id": "DEKDLE00001518",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEKDLE00000175",
       "connectors": [
         {
           "type": "ccs",
@@ -37,22 +48,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00000174",
+      "id": "DEKDLE00000173",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEKDLE00000175",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

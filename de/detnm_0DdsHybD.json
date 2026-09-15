@@ -4,18 +4,7 @@
   "name": "Shell Recharge OBN 1228 - Shell Friedrich-Mohr-Strasse",
   "evses": [
     {
-      "id": "DETNMEGL49011228012",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49011228022",
+      "id": "DETNMEGL49011228011",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49011228011",
+      "id": "DETNMEGL49011228022",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49011228012",
       "connectors": [
         {
           "type": "ccs",

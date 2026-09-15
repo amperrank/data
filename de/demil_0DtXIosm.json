@@ -4,17 +4,6 @@
   "name": "Milence Truck Charging Station Kirchberg",
   "evses": [
     {
-      "id": "DEMILE0000651",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEMILE0000641",
       "connectors": [
         {
@@ -48,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMILE0000642",
+      "id": "DEMILE0000651",
       "connectors": [
         {
           "type": "ccs",
@@ -71,6 +60,17 @@
     },
     {
       "id": "DEMILE0000661",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMILE0000642",
       "connectors": [
         {
           "type": "ccs",

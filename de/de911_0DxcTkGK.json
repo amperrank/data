@@ -1,10 +1,10 @@
 {
   "operatorId": "DE*911",
   "geohash": "0DxcTkGK",
-  "name": "Porsche Sales & Marketplace PZ_Darmstadt_1",
+  "name": "Porsche Sales & Marketplace Porsche Zentrum Darmstadt Ladesäule 1",
   "evses": [
     {
-      "id": "DE911EDE00080900000010000001",
+      "id": "DE911EDE00081000000010000001",
       "connectors": [
         {
           "type": "type2",
@@ -15,11 +15,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DE911EDE00081000000010000001",
+      "id": "DE911EDE00016800000010000001",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 12.8
+          "type": "ccs",
+          "maxPowerKw": 320.16
         }
       ],
       "authMethods": null,
@@ -37,11 +37,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DE911EDE00016800000010000001",
+      "id": "DE911EDE00080900000010000001",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 320.16
+          "type": "type2",
+          "maxPowerKw": 12.8
         }
       ],
       "authMethods": null,

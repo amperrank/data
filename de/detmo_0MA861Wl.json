@@ -4,18 +4,7 @@
   "name": "TMO 2LP Quartier Moritzklinik",
   "evses": [
     {
-      "id": "DETMOE11122002",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETMOE11273003",
+      "id": "DETMOE11273004",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DETMOE11273004",
+      "id": "DETMOE11122002",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETMOE11273003",
       "connectors": [
         {
           "type": "ccs",

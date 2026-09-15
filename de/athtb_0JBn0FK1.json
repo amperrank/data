@@ -4,11 +4,11 @@
   "name": "Hypercharger Lilienthalstraße",
   "evses": [
     {
-      "id": "ATHTBE1003371",
+      "id": "ATHTBE1003369",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
@@ -26,18 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "ATHTBE1003369",
+      "id": "ATHTBE1003372",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 300.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "ATHTBE1003372",
+      "id": "ATHTBE1003371",
       "connectors": [
         {
           "type": "type2",

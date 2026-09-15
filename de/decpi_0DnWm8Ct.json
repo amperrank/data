@@ -4,22 +4,22 @@
   "name": "VOLLERT STATION HYC",
   "evses": [
     {
-      "id": "DECPIE67982751",
+      "id": "DECPIE68933351",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DECPIE67986352",
+      "id": "DECPIE68933352",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,
@@ -48,18 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE68933352",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE68182452",
+      "id": "DECPIE67982751",
       "connectors": [
         {
           "type": "type2",
@@ -81,11 +70,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE68933351",
+      "id": "DECPIE67986352",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 150.0
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE68182452",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

@@ -4,7 +4,18 @@
   "name": "RMA Rheinau GmbH & Co. KG",
   "evses": [
     {
-      "id": "DEEWME0000675",
+      "id": "DEEWME0000674",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEWME0000059",
       "connectors": [
         {
           "type": "type2",
@@ -37,29 +48,18 @@
       "paymentMethods": null
     },
     {
+      "id": "DEEWME0000675",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEEWME0000198",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 11.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEWME0000059",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 11.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEWME0000674",
       "connectors": [
         {
           "type": "type2",

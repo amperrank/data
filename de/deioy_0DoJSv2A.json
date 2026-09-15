@@ -4,7 +4,18 @@
   "name": "IONITY GmbH IONITY Aichstetten",
   "evses": [
     {
-      "id": "DEIOYE225211",
+      "id": "DEIOYE225204",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE225208",
       "connectors": [
         {
           "type": "ccs",
@@ -37,18 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE225208",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE225209",
+      "id": "DEIOYE225211",
       "connectors": [
         {
           "type": "ccs",
@@ -70,6 +70,17 @@
       "paymentMethods": null
     },
     {
+      "id": "DEIOYE225209",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEIOYE225202",
       "connectors": [
         {
@@ -81,7 +92,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE225204",
+      "id": "DEIOYE225206",
       "connectors": [
         {
           "type": "ccs",
@@ -93,17 +104,6 @@
     },
     {
       "id": "DEIOYE225201",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE225206",
       "connectors": [
         {
           "type": "ccs",
@@ -144,5 +144,8 @@
     "postcode": "88317",
     "province": null
   },
-  "openingHours": null
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
 }

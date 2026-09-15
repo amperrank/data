@@ -4,6 +4,17 @@
   "name": "SZ_Skoda Zentrum_Seitz_Memmingerstraße 132_87439_Kempten_7421025915_LM",
   "evses": [
     {
+      "id": "DEPOWE03262",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 49.9
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEPOWE03263",
       "connectors": [
         {
@@ -20,17 +31,6 @@
         {
           "type": "type2",
           "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEPOWE03262",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 49.9
         }
       ],
       "authMethods": null,

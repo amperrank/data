@@ -4,7 +4,18 @@
   "name": "ZOSSEDER1 LADESTATION1",
   "evses": [
     {
-      "id": "DECPIE72627152",
+      "id": "DECPIE72706252",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.08
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE72627151",
       "connectors": [
         {
           "type": "ccs",
@@ -26,17 +37,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE72465452",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.08
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DECPIE72465451",
       "connectors": [
         {
@@ -48,22 +48,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE72706252",
+      "id": "DECPIE72627152",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.08
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DECPIE72627151",
+      "id": "DECPIE72465452",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 150.0
+          "type": "type2",
+          "maxPowerKw": 22.08
         }
       ],
       "authMethods": null,

@@ -4,6 +4,17 @@
   "name": "10359045",
   "evses": [
     {
+      "id": "CHECUEVCLEGNQT7QTJYWLH7LVSXLABCX",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 12.8
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "CHECUEEDGKM2MQXUHVWQBX8AUW8DLLN3",
       "connectors": [
         {
@@ -15,22 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "CHECUESZT8FMCPVGFVSEZLWQQEA8AABX",
+      "id": "CHECUEBXRZCZATU4UAY2ZMRMHE7YFKXW",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 200.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "CHECUEVCLEGNQT7QTJYWLH7LVSXLABCX",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 12.8
         }
       ],
       "authMethods": null,
@@ -70,7 +70,7 @@
       "paymentMethods": null
     },
     {
-      "id": "CHECUEBA8LST2WWWURQXVNCJX25CF7WQ",
+      "id": "CHECUESZT8FMCPVGFVSEZLWQQEA8AABX",
       "connectors": [
         {
           "type": "ccs",
@@ -81,7 +81,7 @@
       "paymentMethods": null
     },
     {
-      "id": "CHECUEBXRZCZATU4UAY2ZMRMHE7YFKXW",
+      "id": "CHECUEBA8LST2WWWURQXVNCJX25CF7WQ",
       "connectors": [
         {
           "type": "ccs",

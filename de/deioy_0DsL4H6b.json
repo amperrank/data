@@ -4,29 +4,7 @@
   "name": "IONITY GmbH IONITY Lonetal West",
   "evses": [
     {
-      "id": "DEIOYE200506",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE200503",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE200502",
+      "id": "DEIOYE200501",
       "connectors": [
         {
           "type": "ccs",
@@ -48,6 +26,17 @@
       "paymentMethods": null
     },
     {
+      "id": "DEIOYE200502",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEIOYE200504",
       "connectors": [
         {
@@ -59,7 +48,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE200501",
+      "id": "DEIOYE200503",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE200506",
       "connectors": [
         {
           "type": "ccs",
@@ -78,5 +78,8 @@
     "postcode": "89537",
     "province": null
   },
-  "openingHours": null
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
 }

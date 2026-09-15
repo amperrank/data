@@ -4,22 +4,22 @@
   "name": "DE_VGRD_MA_VW_Kaefertal_68309_Trafo04_19BZ00805_öffentlich",
   "evses": [
     {
-      "id": "DEPOWE01706",
+      "id": "DEPOWE01705",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 75.2
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEPOWE01705",
+      "id": "DEPOWE01706",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 75.2
         }
       ],
       "authMethods": null,

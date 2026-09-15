@@ -4,22 +4,11 @@
   "name": "DE 04347 Leipzig Karolusstraße 10 Arcus Park HYC49,9 (100144357) öffentlich",
   "evses": [
     {
-      "id": "DEPOWE03338",
+      "id": "DEPOWE03337",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEPOWE03339",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 49.9
         }
       ],
       "authMethods": null,
@@ -37,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPOWE03337",
+      "id": "DEPOWE03339",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 49.9
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE03338",
       "connectors": [
         {
           "type": "ccs",

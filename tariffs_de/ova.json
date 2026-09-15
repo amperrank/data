@@ -1,0 +1,411 @@
+[
+  {
+    "operatorId": {
+      "countryCode": "DE",
+      "cpo": "OVA"
+    },
+    "currency": "EUR",
+    "validFrom": null,
+    "validTo": null,
+    "updatedAt": "2026-09-15T00:00:00.000",
+    "description": "ovag Energie AG tariff (Elektromobilität page, brutto incl. 19% VAT). Normaltarif (OVAG E-Mobil app, no energy contract): AC 0,52 EUR/kWh, DC 0,59 EUR/kWh. Ermäßigter Tarif (existing OVAG electricity/gas customers): AC 0,48 EUR/kWh, DC 0,55 EUR/kWh. adhoc-Tarif (no app registration, QR code): AC 0,59 EUR/kWh, DC 0,59 EUR/kWh. Idle fee: AC 0,02 EUR/min from minute 241 (valid 07:00-23:00), DC 0,10 EUR/min from minute 46 (no time restriction). Different prices apply with a third-party card/app or at roaming partner stations — not part of OVAG's own tariff.",
+    "tiers": [
+      {
+        "id": "app",
+        "name": "OVAG E-Mobil App",
+        "role": "standard",
+        "subscriptionFee": null,
+        "requiresMembership": true,
+        "applicableHours": null,
+        "description": "Requires the free OVAG E-Mobil app (registration + SEPA mandate for monthly billing); no OVAG electricity or gas contract needed.",
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 0.52,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 0.59,
+            "unit": "kWh",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.02,
+            "unit": "min",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": 241,
+            "condition": null,
+            "applicableHours": {
+              "isOpen247": false,
+              "regularHours": [
+                {
+                  "weekday": 1,
+                  "periodBegin": {
+                    "hour": 7,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 23,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 2,
+                  "periodBegin": {
+                    "hour": 7,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 23,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 3,
+                  "periodBegin": {
+                    "hour": 7,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 23,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 4,
+                  "periodBegin": {
+                    "hour": 7,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 23,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 5,
+                  "periodBegin": {
+                    "hour": 7,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 23,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 6,
+                  "periodBegin": {
+                    "hour": 7,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 23,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 7,
+                  "periodBegin": {
+                    "hour": 7,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 23,
+                    "minute": 0
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.1,
+            "unit": "min",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": 46,
+            "condition": null,
+            "applicableHours": null
+          }
+        ]
+      },
+      {
+        "id": "adhoc",
+        "name": "Ad-hoc (ohne App-Registrierung)",
+        "role": "secondary",
+        "subscriptionFee": null,
+        "requiresMembership": false,
+        "applicableHours": null,
+        "description": "QR-code ad-hoc charging at the station without app registration; slightly more expensive than the app tariff for AC (DC is the same price).",
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 0.59,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 0.59,
+            "unit": "kWh",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.02,
+            "unit": "min",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": 241,
+            "condition": null,
+            "applicableHours": {
+              "isOpen247": false,
+              "regularHours": [
+                {
+                  "weekday": 1,
+                  "periodBegin": {
+                    "hour": 7,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 23,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 2,
+                  "periodBegin": {
+                    "hour": 7,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 23,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 3,
+                  "periodBegin": {
+                    "hour": 7,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 23,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 4,
+                  "periodBegin": {
+                    "hour": 7,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 23,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 5,
+                  "periodBegin": {
+                    "hour": 7,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 23,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 6,
+                  "periodBegin": {
+                    "hour": 7,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 23,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 7,
+                  "periodBegin": {
+                    "hour": 7,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 23,
+                    "minute": 0
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.1,
+            "unit": "min",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": 46,
+            "condition": null,
+            "applicableHours": null
+          }
+        ]
+      },
+      {
+        "id": "ovagkunde",
+        "name": "Ermäßigter Tarif für OVAG-Kunden",
+        "role": "promoRestricted",
+        "subscriptionFee": null,
+        "requiresMembership": true,
+        "applicableHours": null,
+        "description": "Reduced rate for existing OVAG electricity or gas customers, used via the same OVAG E-Mobil app.",
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 0.48,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 0.55,
+            "unit": "kWh",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.02,
+            "unit": "min",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": 241,
+            "condition": null,
+            "applicableHours": {
+              "isOpen247": false,
+              "regularHours": [
+                {
+                  "weekday": 1,
+                  "periodBegin": {
+                    "hour": 7,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 23,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 2,
+                  "periodBegin": {
+                    "hour": 7,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 23,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 3,
+                  "periodBegin": {
+                    "hour": 7,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 23,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 4,
+                  "periodBegin": {
+                    "hour": 7,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 23,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 5,
+                  "periodBegin": {
+                    "hour": 7,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 23,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 6,
+                  "periodBegin": {
+                    "hour": 7,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 23,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 7,
+                  "periodBegin": {
+                    "hour": 7,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 23,
+                    "minute": 0
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.1,
+            "unit": "min",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": 46,
+            "condition": null,
+            "applicableHours": null
+          }
+        ]
+      }
+    ]
+  }
+]

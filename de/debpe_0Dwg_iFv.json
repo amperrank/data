@@ -1,8 +1,19 @@
 {
   "operatorId": "DE*BPE",
   "geohash": "0Dwg_iFv",
-  "name": "Aral pulse Muthstraße 25",
+  "name": "Aral pulse Muthstraße 25, 74889 Sinsheim",
   "evses": [
+    {
+      "id": "DEBPEE3EF2760101",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DEBPEE3EF2760102",
       "connectors": [
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEBPEE3EF2760203",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE3EF2760101",
       "connectors": [
         {
           "type": "ccs",

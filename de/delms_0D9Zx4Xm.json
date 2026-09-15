@@ -4,6 +4,17 @@
   "name": "Überlandwerk Rhön GmbH ÜWRM Schwarzes Moor",
   "evses": [
     {
+      "id": "DELMSE12347883792",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DELMSE12347883791",
       "connectors": [
         {
@@ -31,17 +42,6 @@
         {
           "type": "type2",
           "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DELMSE12347883792",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

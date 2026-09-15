@@ -4,6 +4,28 @@
   "name": "Eni Station - Mercedesring 2",
   "evses": [
     {
+      "id": "DEPLNEH0014721",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPLNEH0014853",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEPLNEH0014971",
       "connectors": [
         {
@@ -26,55 +48,22 @@
       "paymentMethods": null
     },
     {
+      "id": "DEPLNEH0014722",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 51.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEPLNEH0014972",
       "connectors": [
         {
           "type": "chademo",
           "maxPowerKw": 51.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEPLNEH0014852",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 51.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEPLNEH0014723",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEPLNEH0014721",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEPLNEH0014853",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
@@ -125,7 +114,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPLNEH0014722",
+      "id": "DEPLNEH0014723",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPLNEH0014852",
       "connectors": [
         {
           "type": "chademo",
@@ -145,63 +145,7 @@
     "province": null
   },
   "openingHours": {
-    "isOpen247": false,
-    "regularHours": [
-      {
-        "weekday": 1,
-        "periodBegin": {
-          "hour": 6,
-          "minute": 0
-        },
-        "periodEnd": {
-          "hour": 18,
-          "minute": 0
-        }
-      },
-      {
-        "weekday": 2,
-        "periodBegin": {
-          "hour": 6,
-          "minute": 0
-        },
-        "periodEnd": {
-          "hour": 18,
-          "minute": 0
-        }
-      },
-      {
-        "weekday": 3,
-        "periodBegin": {
-          "hour": 6,
-          "minute": 0
-        },
-        "periodEnd": {
-          "hour": 18,
-          "minute": 0
-        }
-      },
-      {
-        "weekday": 4,
-        "periodBegin": {
-          "hour": 6,
-          "minute": 0
-        },
-        "periodEnd": {
-          "hour": 18,
-          "minute": 0
-        }
-      },
-      {
-        "weekday": 5,
-        "periodBegin": {
-          "hour": 6,
-          "minute": 0
-        },
-        "periodEnd": {
-          "hour": 18,
-          "minute": 0
-        }
-      }
-    ]
+    "isOpen247": true,
+    "regularHours": null
   }
 }

@@ -4,6 +4,17 @@
   "name": "TotalEnergies | RewePenny | Halle | Torstrasse 38",
   "evses": [
     {
+      "id": "DETCBE3D9CS151230021",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DETCBE3D9CS151230011",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DETCBE3D9CS151230012",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETCBE3D9CS151230021",
       "connectors": [
         {
           "type": "ccs",

@@ -4,33 +4,22 @@
   "name": "Unknown",
   "evses": [
     {
-      "id": "DEEBWE9164863",
+      "id": "DEEBWE9164372",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEEBWE9164862",
+      "id": "DEEBWE9164371",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEBWE9164861",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
@@ -92,6 +81,39 @@
       "paymentMethods": null
     },
     {
+      "id": "DEEBWE9164863",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEBWE9164862",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEBWE9164861",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEEBWE9164312",
       "connectors": [
         {
@@ -134,28 +156,6 @@
       ],
       "authMethods": null,
       "paymentMethods": null
-    },
-    {
-      "id": "DEEBWE9164372",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEBWE9164371",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
     }
   ],
   "facilities": null,
@@ -176,8 +176,8 @@
           "minute": 0
         },
         "periodEnd": {
-          "hour": 23,
-          "minute": 59
+          "hour": 20,
+          "minute": 0
         }
       },
       {
@@ -187,8 +187,8 @@
           "minute": 0
         },
         "periodEnd": {
-          "hour": 23,
-          "minute": 59
+          "hour": 20,
+          "minute": 0
         }
       },
       {
@@ -198,8 +198,8 @@
           "minute": 0
         },
         "periodEnd": {
-          "hour": 23,
-          "minute": 59
+          "hour": 20,
+          "minute": 0
         }
       },
       {
@@ -209,8 +209,8 @@
           "minute": 0
         },
         "periodEnd": {
-          "hour": 23,
-          "minute": 59
+          "hour": 20,
+          "minute": 0
         }
       },
       {
@@ -220,8 +220,8 @@
           "minute": 0
         },
         "periodEnd": {
-          "hour": 23,
-          "minute": 59
+          "hour": 20,
+          "minute": 0
         }
       },
       {
@@ -231,8 +231,8 @@
           "minute": 0
         },
         "periodEnd": {
-          "hour": 23,
-          "minute": 59
+          "hour": 20,
+          "minute": 0
         }
       }
     ]

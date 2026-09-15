@@ -4,17 +4,6 @@
   "name": "Mer Germany GmbH Mer Germany GmbH - Offenberg Neuhausen - Fritz-Schäffer-Straße 32 #2",
   "evses": [
     {
-      "id": "DEMERE00481202",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEMERE00481201",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DEMERE00081502",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00481202",
       "connectors": [
         {
           "type": "type2",

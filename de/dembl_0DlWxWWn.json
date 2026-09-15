@@ -4,22 +4,22 @@
   "name": "mblty Bruchsal Ost",
   "evses": [
     {
-      "id": "DEMBLESO1038DC0021",
+      "id": "DEMBLESO1038DC0022",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 150.0
+          "maxPowerKw": 75.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEMBLESO1038DC0022",
+      "id": "DEMBLESO1038DC0021",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 75.0
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,
@@ -37,10 +37,10 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMBLESO1038DC0012",
+      "id": "DEMBLESO1038DC0013",
       "connectors": [
         {
-          "type": "chademo",
+          "type": "ccs",
           "maxPowerKw": 50.0
         }
       ],
@@ -48,10 +48,10 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMBLESO1038DC0013",
+      "id": "DEMBLESO1038DC0012",
       "connectors": [
         {
-          "type": "ccs",
+          "type": "chademo",
           "maxPowerKw": 50.0
         }
       ],

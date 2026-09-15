@@ -4,17 +4,6 @@
   "name": "Eviny Germany Laatzen FMZ",
   "evses": [
     {
-      "id": "DEEVYELAA2A",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEEVYELAA2B",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DEEVYELAA1A",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEVYELAA2A",
       "connectors": [
         {
           "type": "ccs",

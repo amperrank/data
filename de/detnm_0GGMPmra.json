@@ -4,17 +4,6 @@
   "name": "Shell Recharge OBN 3649 - Shell Inneboltstrasse",
   "evses": [
     {
-      "id": "DETNMEGL49013649012",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGL49013649022",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DETNMEGL49013649021",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49013649012",
       "connectors": [
         {
           "type": "ccs",

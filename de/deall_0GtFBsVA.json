@@ -4,6 +4,17 @@
   "name": "Allego - porta (Möbel Boss) Einbeck",
   "evses": [
     {
+      "id": "DEALLEGO0035802",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEALLEGO0038611",
       "connectors": [
         {
@@ -15,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0035802",
+      "id": "DEALLEGO0038622",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEALLEGO0035801",
       "connectors": [
         {
           "type": "ccs",
@@ -37,33 +59,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0038622",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEALLEGO0038581",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEALLEGO0035842",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,
@@ -81,7 +81,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0035801",
+      "id": "DEALLEGO0035842",
       "connectors": [
         {
           "type": "ccs",

@@ -4,17 +4,6 @@
   "name": "enercity AG enercity - Kleestraße/Scheidestraße - 001",
   "evses": [
     {
-      "id": "DEENCELA000038001B",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEENCELA000038001A",
       "connectors": [
         {
@@ -26,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEENCELA000038A01A",
+      "id": "DEENCELA000038001B",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEENCELA000038A01B",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEENCELA000038A01B",
+      "id": "DEENCELA000038A01A",
       "connectors": [
         {
           "type": "ccs",

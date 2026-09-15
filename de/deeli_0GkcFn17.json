@@ -4,6 +4,17 @@
   "name": "eliso - Flughafen - Paderborn",
   "evses": [
     {
+      "id": "DEELIE3538201",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEELIE3538199",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DEELIE3538202",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEELIE3538201",
       "connectors": [
         {
           "type": "ccs",

@@ -1,0 +1,248 @@
+[
+  {
+    "operatorId": {
+      "countryCode": "DE",
+      "cpo": "AUW"
+    },
+    "currency": "EUR",
+    "validFrom": null,
+    "validTo": null,
+    "updatedAt": "2026-09-15T00:00:00.000",
+    "description": "Allgäuer Überlandwerk (AllgäuStrom) tariff. AllgäuStrom Mobil (own network + cooperation partners): AC Tarifzone I/II 0,49 EUR/kWh, DC bis 50 kW 0,53 EUR/kWh, DC über 50 kW 0,57 EUR/kWh, no base fee. Roaming (charging at third-party/partner stations) is available as a paid add-on (+3,00 EUR/month): AC 0,57 EUR/kWh, DC 0,79 EUR/kWh — not listed as a separate tariff tier since it applies to third-party stations, not AUW's own network. Prices incl. 19% VAT.",
+    "tiers": [
+      {
+        "id": "mobil",
+        "name": "AllgäuStrom Mobil",
+        "role": "standard",
+        "subscriptionFee": null,
+        "requiresMembership": true,
+        "applicableHours": null,
+        "description": "Requires an AllgäuStrom LadeKarte or LadeApp; the LadeKarte can only be requested within the AUW/AllgäuStrom-Kooperation service area (Versorgungsgebiet). A card-less QR-code ad-hoc option exists at the station but has no published price on this page.",
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 0.49,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 0.53,
+            "unit": "kWh",
+            "minPowerKw": 22.01,
+            "maxPowerKw": 50,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 0.57,
+            "unit": "kWh",
+            "minPowerKw": 50.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.05,
+            "unit": "min",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": 180,
+            "condition": "Gilt nur in Tarifzone I; in Tarifzone II entfällt die Standzeitgebühr (aktuelle Tarifzone siehe LadeApp).",
+            "applicableHours": {
+              "isOpen247": false,
+              "regularHours": [
+                {
+                  "weekday": 1,
+                  "periodBegin": {
+                    "hour": 7,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 2,
+                  "periodBegin": {
+                    "hour": 7,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 3,
+                  "periodBegin": {
+                    "hour": 7,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 4,
+                  "periodBegin": {
+                    "hour": 7,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 5,
+                  "periodBegin": {
+                    "hour": 7,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 6,
+                  "periodBegin": {
+                    "hour": 7,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 7,
+                  "periodBegin": {
+                    "hour": 7,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.05,
+            "unit": "min",
+            "minPowerKw": 22.01,
+            "maxPowerKw": 50,
+            "gracePeriodMinutes": 180,
+            "condition": null,
+            "applicableHours": {
+              "isOpen247": false,
+              "regularHours": [
+                {
+                  "weekday": 1,
+                  "periodBegin": {
+                    "hour": 7,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 2,
+                  "periodBegin": {
+                    "hour": 7,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 3,
+                  "periodBegin": {
+                    "hour": 7,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 4,
+                  "periodBegin": {
+                    "hour": 7,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 5,
+                  "periodBegin": {
+                    "hour": 7,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 6,
+                  "periodBegin": {
+                    "hour": 7,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 7,
+                  "periodBegin": {
+                    "hour": 7,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.1,
+            "unit": "min",
+            "minPowerKw": 50.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": 45,
+            "condition": null,
+            "applicableHours": null
+          }
+        ]
+      }
+    ]
+  }
+]

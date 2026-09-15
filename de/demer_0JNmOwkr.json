@@ -4,6 +4,17 @@
   "name": "Mer Germany GmbH Mer Germany GmbH - Regen - Bahnhof 1 #1",
   "evses": [
     {
+      "id": "DEMERE00681401",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 40.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEMERE00077801",
       "connectors": [
         {
@@ -20,17 +31,6 @@
         {
           "type": "type2",
           "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE00681401",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 40.0
         }
       ],
       "authMethods": null,

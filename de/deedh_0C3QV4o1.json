@@ -4,17 +4,6 @@
   "name": "NaturEnergie Community - Konstanz Suedstern",
   "evses": [
     {
-      "id": "DEEDHE000957",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEEDHE000508",
       "connectors": [
         {
@@ -37,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEDHE000509",
+      "id": "DEEDHE000957",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEDHE000505",
       "connectors": [
         {
           "type": "type2",
@@ -59,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEDHE000505",
+      "id": "DEEDHE000509",
       "connectors": [
         {
           "type": "type2",

@@ -1,8 +1,19 @@
 {
   "operatorId": "DE*BPE",
   "geohash": "0GjfarB9",
-  "name": "Aral pulse (Burger King)",
+  "name": "Aral pulse Druseltalstraße 3, 34131 Kassel",
   "evses": [
+    {
+      "id": "DEBPEE3EF0580103",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DEBPEE3EF0580102",
       "connectors": [
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEBPEE3EF0580101",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE3EF0580103",
       "connectors": [
         {
           "type": "ccs",

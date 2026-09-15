@@ -4,6 +4,17 @@
   "name": "Eviny Germany Delitzsch PEP",
   "evses": [
     {
+      "id": "DEEVYEPED2A",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEEVYEPED3A",
       "connectors": [
         {
@@ -26,17 +37,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEVYEPED1A",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEEVYEPED1B",
       "connectors": [
         {
@@ -48,18 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEVYEPED2A",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 200.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEVYEPED4B",
+      "id": "DEEVYEPED3B",
       "connectors": [
         {
           "type": "ccs",
@@ -81,7 +70,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEVYEPED3B",
+      "id": "DEEVYEPED1A",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEVYEPED4B",
       "connectors": [
         {
           "type": "ccs",

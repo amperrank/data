@@ -1,19 +1,8 @@
 {
   "operatorId": "DE*BPE",
   "geohash": "0GJWyJDB",
-  "name": "Aral pulse Friedr.-Engels-Allee 237",
+  "name": "Aral pulse Friedrich-Engels-Allee 237, 42285 Wuppertal",
   "evses": [
-    {
-      "id": "DEBPEE0F9890101",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DEBPEE0F9890103",
       "connectors": [
@@ -37,22 +26,33 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0F9890205",
+      "id": "DEBPEE0F9890206",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 100.0
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0F9890206",
+      "id": "DEBPEE0F9890101",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0F9890205",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,

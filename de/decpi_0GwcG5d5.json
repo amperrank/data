@@ -4,11 +4,11 @@
   "name": "ZOLLAMT STATION DC1",
   "evses": [
     {
-      "id": "DECPIE68459452",
+      "id": "DECPIE68459252",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 150.0
+          "type": "type2",
+          "maxPowerKw": 22.08
         }
       ],
       "authMethods": null,
@@ -37,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE68459252",
+      "id": "DECPIE68459251",
       "connectors": [
         {
           "type": "type2",
@@ -48,11 +48,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE68459251",
+      "id": "DECPIE68459452",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.08
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,

@@ -4,6 +4,17 @@
   "name": "Electra Nordhausen - Netto Gerhart-Hauptmann-Straße",
   "evses": [
     {
+      "id": "DEELDELZTM",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEELDE2G8W",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DEELDEMNX5",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEELDELZTM",
       "connectors": [
         {
           "type": "ccs",

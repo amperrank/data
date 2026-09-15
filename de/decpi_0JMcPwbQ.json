@@ -1,10 +1,21 @@
 {
   "operatorId": "DE*CPI",
   "geohash": "0JMcPwbQ",
-  "name": "WALLBOX SC LEITUNG",
+  "name": "WALLBOX SC KANTINE",
   "evses": [
     {
-      "id": "DECPIE72160351",
+      "id": "DECPIE72159252",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.08
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE72159251",
       "connectors": [
         {
           "type": "type2",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE72159252",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.08
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE72159251",
+      "id": "DECPIE72160351",
       "connectors": [
         {
           "type": "type2",

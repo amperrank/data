@@ -1,0 +1,41 @@
+{
+  "operatorId": "DE*ENC",
+  "geohash": "0Gy2Ho0V",
+  "name": "enercity AG enercity - Hornstraße/Dammstraße - A01",
+  "evses": [
+    {
+      "id": "DEENCELA001015A01B",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 20.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEENCELA001015A01A",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 20.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Gehrden",
+    "street": "Hornstraße",
+    "houseNumber": null,
+    "postcode": "30989",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

@@ -4,6 +4,17 @@
   "name": "Ubitricity Waitzstraße 61, Rechts",
   "evses": [
     {
+      "id": "DEUBIE10022053",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEUBIE10007337",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DEUBIE10028138",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEUBIE10022053",
       "connectors": [
         {
           "type": "type2",

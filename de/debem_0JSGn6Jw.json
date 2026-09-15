@@ -4,6 +4,17 @@
   "name": "Ladestation Sparkasse Schwandorf",
   "evses": [
     {
+      "id": "DEBEME0010386",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEBEME0010389",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DEBEME0010387",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBEME0010386",
       "connectors": [
         {
           "type": "type2",

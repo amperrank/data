@@ -4,6 +4,17 @@
   "name": "Mer Germany GmbH Endres GmbH - Neusäß - Lohwaldstraße 54 #1",
   "evses": [
     {
+      "id": "DEMERE00071701",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEMERE00071601",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DEMERE00071702",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE00071701",
       "connectors": [
         {
           "type": "type2",

@@ -4,22 +4,22 @@
   "name": "DE_Auto Krause GmbH_24BZ2117A_öffentlich (KKT)",
   "evses": [
     {
-      "id": "DEPOWE02130",
+      "id": "DEPOWE02129",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 75.2
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEPOWE02129",
+      "id": "DEPOWE02130",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 75.2
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

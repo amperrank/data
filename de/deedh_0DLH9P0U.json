@@ -4,17 +4,6 @@
   "name": "NaturEnergie Community - Lahr Langenhardvillen",
   "evses": [
     {
-      "id": "DEEDHE001129",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEEDHE001131",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DEEDHE001132",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEDHE001129",
       "connectors": [
         {
           "type": "type2",

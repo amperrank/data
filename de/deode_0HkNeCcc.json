@@ -4,17 +4,6 @@
   "name": "DC-14061-01",
   "evses": [
     {
-      "id": "DEODEEDC140610101",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEODEEDC140610102",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEODEEDC140610201",
+      "id": "DEODEEDC140610101",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEODEEDC140610202",
+      "id": "DEODEEDC140610203",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEODEEDC140610204",
       "connectors": [
         {
           "type": "ccs",

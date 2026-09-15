@@ -4,6 +4,17 @@
   "name": "eliso - EKZ - Beeskow",
   "evses": [
     {
+      "id": "DEELIE3603161",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEELIE3603163",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DEELIE3603160",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEELIE3603161",
       "connectors": [
         {
           "type": "ccs",

@@ -15,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE227773",
+      "id": "DEIOYE227771",
       "connectors": [
         {
           "type": "ccs",
@@ -26,7 +26,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE227771",
+      "id": "DEIOYE227773",
       "connectors": [
         {
           "type": "ccs",
@@ -48,22 +48,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE227774",
+      "id": "DEIOYE227780",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE227701",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
         }
       ],
       "authMethods": null,
@@ -81,7 +70,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE227780",
+      "id": "DEIOYE227701",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE227774",
       "connectors": [
         {
           "type": "ccs",
@@ -100,5 +100,8 @@
     "postcode": "99091",
     "province": null
   },
-  "openingHours": null
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
 }

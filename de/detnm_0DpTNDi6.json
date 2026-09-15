@@ -4,6 +4,17 @@
   "name": "Shell Recharge OBN 7740 - Shell Blaubeurer Strasse",
   "evses": [
     {
+      "id": "DETNMEGL49017740021",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 360.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DETNMEGL49017740022",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DETNMEGL49017740012",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 360.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49017740021",
       "connectors": [
         {
           "type": "ccs",

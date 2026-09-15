@@ -4,22 +4,22 @@
   "name": "Stadtwerke Wunstorf GmbH & Co. KG meerenergie - AH Kahle / Marktkauf - 001",
   "evses": [
     {
-      "id": "DEMEWELA000236001B",
+      "id": "DEMEWELA000236001A",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 12.8
+          "type": "type2",
+          "maxPowerKw": 3.68
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEMEWELA000236001A",
+      "id": "DEMEWELA000236001B",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 3.68
+          "type": "ccs",
+          "maxPowerKw": 12.8
         }
       ],
       "authMethods": null,

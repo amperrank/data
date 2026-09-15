@@ -4,17 +4,6 @@
   "name": "Shell Recharge OBN 2178 - Shell Vor dem Dorfe",
   "evses": [
     {
-      "id": "DETNMEGL49012178011",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGL49012178012",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DETNMEGL49012178021",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49012178011",
       "connectors": [
         {
           "type": "ccs",

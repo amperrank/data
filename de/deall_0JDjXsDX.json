@@ -4,7 +4,18 @@
   "name": "Allego - Bäcker Bachmeier Ampfing A94",
   "evses": [
     {
-      "id": "DEALLEGO0034401",
+      "id": "DEALLEGO0017541",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEALLEGO0034441",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +26,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0034402",
+      "id": "DEALLEGO0034401",
       "connectors": [
         {
           "type": "ccs",
@@ -37,18 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0017541",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEALLEGO0034441",
+      "id": "DEALLEGO0034402",
       "connectors": [
         {
           "type": "ccs",

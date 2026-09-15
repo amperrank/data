@@ -1,10 +1,21 @@
 {
   "operatorId": "DE*RBG",
   "geohash": "0JHHyVsG",
-  "name": "Am Protzenweiher I",
+  "name": "Am Protzenweiher II",
   "evses": [
     {
-      "id": "DERBGE0118",
+      "id": "DERBGE0161",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DERBGE0162",
       "connectors": [
         {
           "type": "type2",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DERBGE0161",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DERBGE0162",
+      "id": "DERBGE0118",
       "connectors": [
         {
           "type": "type2",

@@ -1,8 +1,30 @@
 {
   "operatorId": "DE*ENC",
   "geohash": "0Gy~YB54",
-  "name": "enercity AG enercity - Janusz-Korczak-Allee - A01",
+  "name": "enercity AG enercity - Bischofsholer Damm 121 - 001",
   "evses": [
+    {
+      "id": "DEENCELA000471001A",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEENCELA000471001B",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DEENCELA000860A01B",
       "connectors": [
@@ -26,17 +48,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DEENCELA000860B01A",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEENCELA000860A01A",
       "connectors": [
         {
@@ -48,18 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEENCELA000471001B",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEENCELA000471001A",
+      "id": "DEENCELA000860B01A",
       "connectors": [
         {
           "type": "type2",
@@ -73,8 +73,8 @@
   "facilities": null,
   "address": {
     "city": "Hannover",
-    "street": "Janusz-Korczak-Allee",
-    "houseNumber": null,
+    "street": "Bischofsholer Damm",
+    "houseNumber": "121",
     "postcode": "30173",
     "province": null
   },

@@ -4,17 +4,6 @@
   "name": "Kaufland Braunschweig",
   "evses": [
     {
-      "id": "DEKDLE00001073",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 60.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEKDLE00001074",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DEKDLE00001075",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEKDLE00001073",
       "connectors": [
         {
           "type": "ccs",

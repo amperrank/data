@@ -4,7 +4,7 @@
   "name": "Aral pulse An der B 49 Südseite",
   "evses": [
     {
-      "id": "DEBPEE0F0800204",
+      "id": "DEBPEE0F0800206",
       "connectors": [
         {
           "type": "ccs",
@@ -26,18 +26,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0F0800206",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0F0800103",
+      "id": "DEBPEE0F0800204",
       "connectors": [
         {
           "type": "ccs",
@@ -53,6 +42,17 @@
         {
           "type": "chademo",
           "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0F0800103",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,

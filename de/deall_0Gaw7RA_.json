@@ -4,6 +4,17 @@
   "name": "Allego - Westfalentankstelle Bissendorf A30",
   "evses": [
     {
+      "id": "DEALLEGO0028251",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEALLEGO0028271",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEALLEGO0028272",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEALLEGO0028251",
       "connectors": [
         {
           "type": "ccs",

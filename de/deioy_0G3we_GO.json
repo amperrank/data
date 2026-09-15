@@ -4,7 +4,7 @@
   "name": "IONITY GmbH IONITY Ostetal Süd",
   "evses": [
     {
-      "id": "DEIOYE206604",
+      "id": "DEIOYE206605",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE206601",
+      "id": "DEIOYE206604",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +37,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE206605",
+      "id": "DEIOYE206603",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE206601",
       "connectors": [
         {
           "type": "ccs",
@@ -57,17 +68,6 @@
       ],
       "authMethods": null,
       "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE206603",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
     }
   ],
   "facilities": null,
@@ -78,5 +78,8 @@
     "postcode": "27419",
     "province": null
   },
-  "openingHours": null
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
 }

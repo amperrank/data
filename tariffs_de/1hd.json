@@ -1,0 +1,777 @@
+[
+  {
+    "operatorId": {
+      "countryCode": "DE",
+      "cpo": "1HD"
+    },
+    "currency": "EUR",
+    "validFrom": "2026-02-01T00:00:00.000",
+    "validTo": null,
+    "updatedAt": "2026-09-15T00:00:00.000",
+    "description": "Stadtwerke Heidelberg (heidelberg EMOBIL) tariff at the operator’s own stations, all prices incl. 19% VAT. The base price (ohne heidelberg EMOBIL+) is available to everyone; heidelberg EMOBIL+ (Zusatzvereinbarung for existing heidelberg KLIMA Ökostrom customers) is 5 ct/kWh cheaper. Fair-Use blocking fee on both tiers: AC from minute 241, DC from minute 121 — 0,10 €/min AC and DC daily 08:00–21:59, AC free and DC 0,02 €/min at night (22:00–07:59), capped at 40 € per session and suspended in SWH parking garages. Roaming via Hubject is available to EMOBIL+ customers but is not modelled as a separate tier.",
+    "tiers": [
+      {
+        "id": "standard",
+        "name": "Ad-hoc (ohne heidelberg EMOBIL+)",
+        "role": "standard",
+        "subscriptionFee": null,
+        "requiresMembership": false,
+        "applicableHours": null,
+        "description": null,
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 0.4753,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 0.5359,
+            "unit": "kWh",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.1,
+            "unit": "min",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": 241,
+            "condition": "max 40.00 EUR per session",
+            "applicableHours": {
+              "isOpen247": false,
+              "regularHours": [
+                {
+                  "weekday": 1,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 2,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 3,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 4,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 5,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 6,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 7,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.1,
+            "unit": "min",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": 121,
+            "condition": "max 40.00 EUR per session",
+            "applicableHours": {
+              "isOpen247": false,
+              "regularHours": [
+                {
+                  "weekday": 1,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 2,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 3,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 4,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 5,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 6,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 7,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.02,
+            "unit": "min",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": 121,
+            "condition": "max 40.00 EUR per session",
+            "applicableHours": {
+              "isOpen247": false,
+              "regularHours": [
+                {
+                  "weekday": 1,
+                  "periodBegin": {
+                    "hour": 22,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 23,
+                    "minute": 59
+                  }
+                },
+                {
+                  "weekday": 1,
+                  "periodBegin": {
+                    "hour": 0,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 8,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 2,
+                  "periodBegin": {
+                    "hour": 22,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 23,
+                    "minute": 59
+                  }
+                },
+                {
+                  "weekday": 2,
+                  "periodBegin": {
+                    "hour": 0,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 8,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 3,
+                  "periodBegin": {
+                    "hour": 22,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 23,
+                    "minute": 59
+                  }
+                },
+                {
+                  "weekday": 3,
+                  "periodBegin": {
+                    "hour": 0,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 8,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 4,
+                  "periodBegin": {
+                    "hour": 22,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 23,
+                    "minute": 59
+                  }
+                },
+                {
+                  "weekday": 4,
+                  "periodBegin": {
+                    "hour": 0,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 8,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 5,
+                  "periodBegin": {
+                    "hour": 22,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 23,
+                    "minute": 59
+                  }
+                },
+                {
+                  "weekday": 5,
+                  "periodBegin": {
+                    "hour": 0,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 8,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 6,
+                  "periodBegin": {
+                    "hour": 22,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 23,
+                    "minute": 59
+                  }
+                },
+                {
+                  "weekday": 6,
+                  "periodBegin": {
+                    "hour": 0,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 8,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 7,
+                  "periodBegin": {
+                    "hour": 22,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 23,
+                    "minute": 59
+                  }
+                },
+                {
+                  "weekday": 7,
+                  "periodBegin": {
+                    "hour": 0,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 8,
+                    "minute": 0
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "emobil",
+        "name": "heidelberg EMOBIL+",
+        "role": "promoRestricted",
+        "subscriptionFee": null,
+        "requiresMembership": true,
+        "applicableHours": null,
+        "description": "EMOBIL+ Zusatzvereinbarung for existing heidelberg KLIMA (Ökostrom) customers — 5 ct/kWh off the ad-hoc price at all SWH stations. Registration in the heidelberg EMOBIL app is free.",
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 0.4253,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 0.4859,
+            "unit": "kWh",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.1,
+            "unit": "min",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": 241,
+            "condition": "max 40.00 EUR per session",
+            "applicableHours": {
+              "isOpen247": false,
+              "regularHours": [
+                {
+                  "weekday": 1,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 2,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 3,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 4,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 5,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 6,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 7,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.1,
+            "unit": "min",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": 121,
+            "condition": "max 40.00 EUR per session",
+            "applicableHours": {
+              "isOpen247": false,
+              "regularHours": [
+                {
+                  "weekday": 1,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 2,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 3,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 4,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 5,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 6,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 7,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.02,
+            "unit": "min",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": 121,
+            "condition": "max 40.00 EUR per session",
+            "applicableHours": {
+              "isOpen247": false,
+              "regularHours": [
+                {
+                  "weekday": 1,
+                  "periodBegin": {
+                    "hour": 22,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 23,
+                    "minute": 59
+                  }
+                },
+                {
+                  "weekday": 1,
+                  "periodBegin": {
+                    "hour": 0,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 8,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 2,
+                  "periodBegin": {
+                    "hour": 22,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 23,
+                    "minute": 59
+                  }
+                },
+                {
+                  "weekday": 2,
+                  "periodBegin": {
+                    "hour": 0,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 8,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 3,
+                  "periodBegin": {
+                    "hour": 22,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 23,
+                    "minute": 59
+                  }
+                },
+                {
+                  "weekday": 3,
+                  "periodBegin": {
+                    "hour": 0,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 8,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 4,
+                  "periodBegin": {
+                    "hour": 22,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 23,
+                    "minute": 59
+                  }
+                },
+                {
+                  "weekday": 4,
+                  "periodBegin": {
+                    "hour": 0,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 8,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 5,
+                  "periodBegin": {
+                    "hour": 22,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 23,
+                    "minute": 59
+                  }
+                },
+                {
+                  "weekday": 5,
+                  "periodBegin": {
+                    "hour": 0,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 8,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 6,
+                  "periodBegin": {
+                    "hour": 22,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 23,
+                    "minute": 59
+                  }
+                },
+                {
+                  "weekday": 6,
+                  "periodBegin": {
+                    "hour": 0,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 8,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 7,
+                  "periodBegin": {
+                    "hour": 22,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 23,
+                    "minute": 59
+                  }
+                },
+                {
+                  "weekday": 7,
+                  "periodBegin": {
+                    "hour": 0,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 8,
+                    "minute": 0
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

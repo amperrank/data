@@ -4,6 +4,21 @@
   "name": "Shell Recharge OBN 6731 - Shell Schiffbeker Weg",
   "evses": [
     {
+      "id": "DETNMEGL4901673102",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 70.0
+        },
+        {
+          "type": "ccs",
+          "maxPowerKw": 175.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DETNMEGL4901673101",
       "connectors": [
         {

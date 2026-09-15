@@ -4,17 +4,6 @@
   "name": "Zieglmeier hypercharger",
   "evses": [
     {
-      "id": "DEBEME0010753",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 100.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEBEME0010778",
       "connectors": [
         {
@@ -26,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBEME0010754",
+      "id": "DEBEME0010779",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBEME0010753",
       "connectors": [
         {
           "type": "ccs",
@@ -37,11 +37,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBEME0010779",
+      "id": "DEBEME0010754",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 50.0
+          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,

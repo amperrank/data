@@ -4,6 +4,17 @@
   "name": "Lidl Süderlügum",
   "evses": [
     {
+      "id": "DELDLE00004437",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 43.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DELDLE00004439",
       "connectors": [
         {
@@ -20,17 +31,6 @@
         {
           "type": "ccs",
           "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DELDLE00004437",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 43.0
         }
       ],
       "authMethods": null,
@@ -52,11 +52,11 @@
         "weekday": 7,
         "periodBegin": {
           "hour": 10,
-          "minute": 30
+          "minute": 45
         },
         "periodEnd": {
           "hour": 19,
-          "minute": 30
+          "minute": 15
         }
       },
       {

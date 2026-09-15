@@ -4,22 +4,22 @@
   "name": "[FL-PUB] BMW - Autohaus E.Brinkmann GmbH - DC - Eichrecht - DE*DES*E1004060",
   "evses": [
     {
-      "id": "DEDESE10040601",
+      "id": "DEDESEBMW06712",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEDESEBMW06712",
+      "id": "DEDESE10040601",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

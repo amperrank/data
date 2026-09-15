@@ -4,17 +4,6 @@
   "name": "Mittelbayerisches Rehabilitationszentrum - DC 50kW",
   "evses": [
     {
-      "id": "DECIWE000819",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DECIWE000821",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DECIWE000820",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECIWE000819",
       "connectors": [
         {
           "type": "type2",

@@ -4,17 +4,6 @@
   "name": "Stadtwerke Völklingen Vertrieb GmbH Waldstraße 20",
   "evses": [
     {
-      "id": "DEVKVE18091011",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEVKVE18092201",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DEVKVE18091012",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEVKVE18091001",
       "connectors": [
         {
           "type": "type2",
@@ -59,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEVKVE18091001",
+      "id": "DEVKVE18091011",
       "connectors": [
         {
           "type": "type2",

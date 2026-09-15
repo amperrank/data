@@ -1,19 +1,8 @@
 {
   "operatorId": "DE*POW",
   "geohash": "0GzqaKsS",
-  "name": "DE_VGRD_H_Podbi_30655_NW02 (LM) (öffentlich)",
+  "name": "DE_VGRD_H_Podbi_30655_NW02 (150kW) (LM) (öffentlich) (KKT)",
   "evses": [
-    {
-      "id": "DEPOWE02414",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DEPOWE02412",
       "connectors": [
@@ -31,6 +20,17 @@
         {
           "type": "ccs",
           "maxPowerKw": 75.2
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE02414",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

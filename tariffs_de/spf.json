@@ -1,0 +1,74 @@
+[
+  {
+    "operatorId": {
+      "countryCode": "DE",
+      "cpo": "SPF"
+    },
+    "currency": "EUR",
+    "validFrom": null,
+    "validTo": null,
+    "updatedAt": "2026-09-15T00:00:00.000",
+    "description": "Variable energy prices, split by AC (≤ 22 kW) and DC (> 22 kW), derived from 230 per-kWh prices across 119 DE*SPF stations in the Mobilithek chargecloud stat feed (AC 0.39–0.48–0.48 €/kWh (208), DC 0.6–0.6–0.6 €/kWh (22)). Prices are flat network-wide incl. 19% VAT. Blocking fee: AC 0.10 €/min after 240 min, DC 0.12 €/min after 60 min. Ad-hoc payment (ratePolicy adHoc); price shown in-app before charging.",
+    "tiers": [
+      {
+        "id": "standard",
+        "role": "standard",
+        "name": "Standard",
+        "subscriptionFee": null,
+        "requiresMembership": false,
+        "applicableHours": null,
+        "description": null,
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 0.48,
+            "minPricePerUnit": 0.39,
+            "maxPricePerUnit": 0.48,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 0.6,
+            "minPricePerUnit": 0.6,
+            "maxPricePerUnit": 0.6,
+            "unit": "kWh",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.1,
+            "minPricePerUnit": null,
+            "maxPricePerUnit": null,
+            "unit": "min",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": 240,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.12,
+            "minPricePerUnit": null,
+            "maxPricePerUnit": null,
+            "unit": "min",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": 60,
+            "condition": null,
+            "applicableHours": null
+          }
+        ]
+      }
+    ]
+  }
+]

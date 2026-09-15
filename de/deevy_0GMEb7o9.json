@@ -4,7 +4,7 @@
   "name": "Eviny Germany Essen",
   "evses": [
     {
-      "id": "DEEVYEGES4B",
+      "id": "DEEVYEGES3A",
       "connectors": [
         {
           "type": "ccs",
@@ -26,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEVYEGES3A",
+      "id": "DEEVYEGES4B",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEVYEGES2B",
       "connectors": [
         {
           "type": "ccs",
@@ -49,17 +60,6 @@
     },
     {
       "id": "DEEVYEGES1B",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEVYEGES2B",
       "connectors": [
         {
           "type": "ccs",

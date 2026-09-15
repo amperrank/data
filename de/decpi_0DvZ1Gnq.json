@@ -4,6 +4,17 @@
   "name": "STROM OUTLET STATION03",
   "evses": [
     {
+      "id": "DECPIE68969152",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.08
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DECPIE68969151",
       "connectors": [
         {
@@ -31,17 +42,6 @@
         {
           "type": "ccs",
           "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE68969152",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.08
         }
       ],
       "authMethods": null,

@@ -1,32 +1,10 @@
 {
   "operatorId": "DE*DES",
   "geohash": "0Hi67Q7X",
-  "name": "[FL-PUB] BMW May & Olde GmbH - AC - Eichrecht - DE*DES*E1001567",
+  "name": "BMW - May & Olde GmbH",
   "evses": [
     {
-      "id": "DEDESE10015671",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEDESE10015672",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEDESEBMW06001",
+      "id": "DEDESEBMW06002",
       "connectors": [
         {
           "type": "type2",
@@ -48,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEDESEBMW06002",
+      "id": "DEDESE10014791",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEDESEBMW06001",
       "connectors": [
         {
           "type": "type2",
@@ -59,11 +48,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEDESE10014791",
+      "id": "DEDESE10015672",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEDESE10015671",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

@@ -4,6 +4,17 @@
   "name": "IONITY GmbH IONITY Münster",
   "evses": [
     {
+      "id": "DEIOYE238876",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEIOYE238875",
       "connectors": [
         {
@@ -15,18 +26,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE238871",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE238876",
+      "id": "DEIOYE238874",
       "connectors": [
         {
           "type": "ccs",
@@ -59,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE238874",
+      "id": "DEIOYE238871",
       "connectors": [
         {
           "type": "ccs",
@@ -78,5 +78,8 @@
     "postcode": "48153",
     "province": null
   },
-  "openingHours": null
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
 }

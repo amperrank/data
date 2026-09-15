@@ -4,22 +4,22 @@
   "name": "DE Querfurt 06268 Merseburger Straße 104 Autohaus Jacob Querfurt HYC150 (23BZ8417A) öffentlich KKT",
   "evses": [
     {
-      "id": "DEPOWE03447",
+      "id": "DEPOWE03448",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 75.2
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEPOWE03448",
+      "id": "DEPOWE03447",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 75.2
         }
       ],
       "authMethods": null,

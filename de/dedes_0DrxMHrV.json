@@ -4,18 +4,7 @@
   "name": "Autohaus Reisacher Gruppe - DE*DES*E0152",
   "evses": [
     {
-      "id": "DEDESE01522",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEDESE01525",
+      "id": "DEDESE01524",
       "connectors": [
         {
           "type": "ccs",
@@ -26,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEDESE01524",
+      "id": "DEDESE01526",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEDESE01525",
       "connectors": [
         {
           "type": "ccs",
@@ -48,21 +48,21 @@
       "paymentMethods": null
     },
     {
-      "id": "DEDESE01526",
+      "id": "DEDESE01521",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEDESE01521",
+      "id": "DEDESE01522",
       "connectors": [
         {
-          "type": "ccs",
+          "type": "chademo",
           "maxPowerKw": 50.0
         }
       ],

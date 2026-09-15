@@ -4,6 +4,17 @@
   "name": "Mer Germany GmbH Mer Germany GmbH - Philippsreut - Dorfplatz 2 #2",
   "evses": [
     {
+      "id": "DEMERE00098602",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEMERE00081002",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DEMERE00081001",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE00098602",
       "connectors": [
         {
           "type": "type2",

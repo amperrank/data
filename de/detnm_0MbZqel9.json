@@ -4,6 +4,28 @@
   "name": "Shell Recharge OBN 3124 - Rewe Freienwalder Chaussee",
   "evses": [
     {
+      "id": "DETNMEGL49023124032",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49023124011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DETNMEGL49023124031",
       "connectors": [
         {
@@ -26,17 +48,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49023124012",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGL49023124022",
       "connectors": [
         {
@@ -48,22 +59,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49023124011",
+      "id": "DETNMEGL49023124012",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49023124032",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,

@@ -4,17 +4,6 @@
   "name": "TotalEnergies | RewePenny | Bergisch Gladbach | Sattlerweg 8",
   "evses": [
     {
-      "id": "DETCBE3D9CS452490022",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETCBE3D9CS452490021",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETCBE3D9CS452490011",
+      "id": "DETCBE3D9CS452490022",
       "connectors": [
         {
           "type": "ccs",
@@ -38,6 +27,17 @@
     },
     {
       "id": "DETCBE3D9CS452490012",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETCBE3D9CS452490011",
       "connectors": [
         {
           "type": "ccs",

@@ -4,17 +4,6 @@
   "name": "e-con AG e-con Sonthofen - public",
   "evses": [
     {
-      "id": "DEFLAE12346693772",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEFLAE12346693712",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFLAE12346693071",
+      "id": "DEFLAE12346693072",
       "connectors": [
         {
           "type": "ccs",
@@ -59,7 +48,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFLAE12346693072",
+      "id": "DEFLAE12346693071",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEFLAE12346693772",
       "connectors": [
         {
           "type": "ccs",

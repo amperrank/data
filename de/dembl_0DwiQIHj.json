@@ -4,22 +4,11 @@
   "name": "mblty Kraichgau Süd",
   "evses": [
     {
-      "id": "DEMBLESO1180DC0052",
+      "id": "DEMBLESO1180DC0062",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 75.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMBLESO1180DC0042",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
+          "type": "chademo",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -37,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMBLESO1180DC0041",
+      "id": "DEMBLESO1180DC0051",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMBLESO1180DC0042",
       "connectors": [
         {
           "type": "ccs",
@@ -48,11 +48,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMBLESO1180DC0062",
+      "id": "DEMBLESO1180DC0052",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 50.0
+          "type": "ccs",
+          "maxPowerKw": 75.0
         }
       ],
       "authMethods": null,
@@ -92,18 +92,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMBLESO1180DC0051",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMBLESO1180DC0032",
+      "id": "DEMBLESO1180DC0041",
       "connectors": [
         {
           "type": "ccs",
@@ -115,6 +104,17 @@
     },
     {
       "id": "DEMBLESO1180DC0021",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMBLESO1180DC0032",
       "connectors": [
         {
           "type": "ccs",

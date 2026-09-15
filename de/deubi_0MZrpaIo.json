@@ -1,8 +1,19 @@
 {
   "operatorId": "DE*UBI",
   "geohash": "0MZrpaIo",
-  "name": "Ubitricity Dillgesstraße 10",
+  "name": "Ubitricity Dillgesstraße 8",
   "evses": [
+    {
+      "id": "DEUBIE10009155",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 3.7
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DEUBIE10037515",
       "connectors": [
@@ -30,7 +41,7 @@
   "address": {
     "city": "Berlin",
     "street": "Dillgesstraße",
-    "houseNumber": "10",
+    "houseNumber": "8",
     "postcode": "12247",
     "province": null
   },

@@ -4,17 +4,6 @@
   "name": "FS_108750_INJET_P10769",
   "evses": [
     {
-      "id": "DEFKUEFS10769",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEFKUEFS10770",
       "connectors": [
         {
@@ -26,18 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFKUEFS10167",
+      "id": "DEFKUEFS10769",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEFKUEFS10168",
+      "id": "DEFKUEFS10163",
       "connectors": [
         {
           "type": "type2",
@@ -70,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFKUEFS10163",
+      "id": "DEFKUEFS10167",
       "connectors": [
         {
           "type": "type2",
@@ -81,7 +70,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFKUEFS10165",
+      "id": "DEFKUEFS10168",
       "connectors": [
         {
           "type": "type2",
@@ -93,6 +82,17 @@
     },
     {
       "id": "DEFKUEFS10162",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEFKUEFS10165",
       "connectors": [
         {
           "type": "type2",

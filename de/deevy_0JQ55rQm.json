@@ -4,17 +4,6 @@
   "name": "Eviny Germany Amberg Lidl",
   "evses": [
     {
-      "id": "DEEVYEAMB2B",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEEVYEAMB2A",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEVYEAMB1B",
+      "id": "DEEVYEAMB2B",
       "connectors": [
         {
           "type": "ccs",
@@ -38,6 +27,17 @@
     },
     {
       "id": "DEEVYEAMB1A",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEVYEAMB1B",
       "connectors": [
         {
           "type": "ccs",

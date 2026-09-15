@@ -4,7 +4,18 @@
   "name": "AC Ladestation Rodelbahn St. Englmar",
   "evses": [
     {
-      "id": "DEBEME0011274",
+      "id": "DEBEME0011270",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBEME0011269",
       "connectors": [
         {
           "type": "type2",
@@ -37,29 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBEME0011270",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBEME0011273",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBEME0011269",
+      "id": "DEBEME0011274",
       "connectors": [
         {
           "type": "type2",
@@ -71,6 +60,17 @@
     },
     {
       "id": "DEBEME0011275",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBEME0011273",
       "connectors": [
         {
           "type": "type2",

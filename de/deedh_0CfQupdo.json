@@ -4,6 +4,17 @@
   "name": "NaturEnergie Community - Schopfheim Parkhaus Uehlin",
   "evses": [
     {
+      "id": "DEEDHE000398",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEEDHE000560",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DEEDHE000561",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEDHE000398",
       "connectors": [
         {
           "type": "type2",

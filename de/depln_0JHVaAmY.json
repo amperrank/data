@@ -4,7 +4,7 @@
   "name": "Eni Station - Gewerbegebiet Schafhof 3",
   "evses": [
     {
-      "id": "DEPLNEH0014811",
+      "id": "DEPLNEH0015051",
       "connectors": [
         {
           "type": "ccs",
@@ -15,22 +15,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPLNEH0014813",
+      "id": "DEPLNEH0014812",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEPLNEH0014703",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
+          "type": "chademo",
+          "maxPowerKw": 51.0
         }
       ],
       "authMethods": null,
@@ -53,6 +42,17 @@
         {
           "type": "chademo",
           "maxPowerKw": 51.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPLNEH0014703",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
@@ -92,17 +92,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPLNEH0014983",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEPLNEH0016353",
       "connectors": [
         {
@@ -119,6 +108,17 @@
         {
           "type": "chademo",
           "maxPowerKw": 51.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPLNEH0014983",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
@@ -147,7 +147,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPLNEH0015051",
+      "id": "DEPLNEH0014813",
       "connectors": [
         {
           "type": "ccs",
@@ -158,11 +158,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPLNEH0014812",
+      "id": "DEPLNEH0014811",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 51.0
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,

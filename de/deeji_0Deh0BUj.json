@@ -4,6 +4,17 @@
   "name": "e-jin e-jIn Ladestation Magic Casino Heidesheim",
   "evses": [
     {
+      "id": "DEEJIE12345713772",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 500.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEEJIE12345713751",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DEEJIE12345713752",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 500.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEJIE12345713772",
       "connectors": [
         {
           "type": "ccs",

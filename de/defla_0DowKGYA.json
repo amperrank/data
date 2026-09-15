@@ -4,7 +4,29 @@
   "name": "e-con AG e-con AG / Flughafen Memmingen (AC & DC)",
   "evses": [
     {
-      "id": "DEFLAE10001010533",
+      "id": "DEFLAE10001010531",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEFLAE10001010534",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEFLAE12346693861",
       "connectors": [
         {
           "type": "type2",
@@ -26,17 +48,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFLAE10001010536",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEFLAE10001010532",
       "connectors": [
         {
@@ -48,11 +59,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFLAE10001010531",
+      "id": "DEFLAE10001010533",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 150.0
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEFLAE10001010536",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
         }
       ],
       "authMethods": null,
@@ -70,11 +92,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFLAE10001010534",
+      "id": "DEFLAE12346888911",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 150.0
+          "type": "type2",
+          "maxPowerKw": 3.68
         }
       ],
       "authMethods": null,
@@ -92,28 +114,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFLAE10001010544",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEFLAE12346888911",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 3.68
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEFLAE10001010543",
       "connectors": [
         {
@@ -125,11 +125,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFLAE12346693861",
+      "id": "DEFLAE10001010544",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 7.36
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,

@@ -4,11 +4,11 @@
   "name": "Mer Germany GmbH Energietechnik Sarauer (Pöttmes) - Pöttmes - Galgenfeld 6 #3",
   "evses": [
     {
-      "id": "DEMERE00599202",
+      "id": "DEMERE00599101",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 150.0
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -26,11 +26,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMERE00599101",
+      "id": "DEMERE00599002",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00599202",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,
@@ -53,17 +64,6 @@
         {
           "type": "ccs",
           "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE00599002",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

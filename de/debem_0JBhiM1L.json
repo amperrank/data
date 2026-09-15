@@ -4,17 +4,6 @@
   "name": "Ladestation Gemeinde Ismaning",
   "evses": [
     {
-      "id": "DEBEME0011223",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEBEME0011225",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DEBEME0011222",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBEME0011223",
       "connectors": [
         {
           "type": "type2",

@@ -4,6 +4,17 @@
   "name": "Aral pulse Großostheimer Str. 18",
   "evses": [
     {
+      "id": "DEBPEE3EF1570101",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEBPEE3EF1570204",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEBPEE3EF1570203",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE3EF1570101",
       "connectors": [
         {
           "type": "ccs",

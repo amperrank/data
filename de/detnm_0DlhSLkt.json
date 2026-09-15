@@ -4,6 +4,17 @@
   "name": "Shell Recharge OBN 2129 - Shell B 10 - Kanalstrasse",
   "evses": [
     {
+      "id": "DETNMEGL49012129011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 360.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DETNMEGL49012129012",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DETNMEGL49012129022",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 360.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49012129011",
       "connectors": [
         {
           "type": "ccs",

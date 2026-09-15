@@ -4,28 +4,6 @@
   "name": "Westfalen AG - Hilker Solar Rahden (ChargeCat)",
   "evses": [
     {
-      "id": "DEWAGEE0205",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEWAGEE0208",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEWAGEE0204",
       "connectors": [
         {
@@ -48,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEWAGEE0209",
+      "id": "DEWAGEE0205",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEWAGEE0208",
       "connectors": [
         {
           "type": "ccs",
@@ -60,17 +49,6 @@
     },
     {
       "id": "DEWAGEE0207",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEWAGEE0204",
       "connectors": [
         {
           "type": "type2",
@@ -103,11 +81,33 @@
       "paymentMethods": null
     },
     {
-      "id": "DEWAGEE0205",
+      "id": "DEWAGEE0209",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEWAGEE0204",
       "connectors": [
         {
           "type": "type2",
           "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEWAGEE0208",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,
@@ -125,11 +125,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEWAGEE0208",
+      "id": "DEWAGEE0205",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 150.0
+          "type": "type2",
+          "maxPowerKw": 7.36
         }
       ],
       "authMethods": null,

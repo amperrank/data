@@ -4,6 +4,28 @@
   "name": "IONITY GmbH IONITY Schleiz",
   "evses": [
     {
+      "id": "DEIOYE235071",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE235002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEIOYE235072",
       "connectors": [
         {
@@ -37,33 +59,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE235071",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEIOYE235073",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE235002",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
         }
       ],
       "authMethods": null,
@@ -78,5 +78,8 @@
     "postcode": "07907",
     "province": null
   },
-  "openingHours": null
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
 }

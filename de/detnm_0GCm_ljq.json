@@ -4,6 +4,17 @@
   "name": "Shell Recharge OBN 0869 - Shell WEL Parkallee",
   "evses": [
     {
+      "id": "DETNMEGL49010869022",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DETNMEGL49010869011",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DETNMEGL49010869012",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49010869022",
       "connectors": [
         {
           "type": "ccs",

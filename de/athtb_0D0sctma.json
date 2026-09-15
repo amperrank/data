@@ -4,10 +4,10 @@
   "name": "Ladestation Karlstein Koloseus",
   "evses": [
     {
-      "id": "ATHTBE1000216",
+      "id": "ATHTBE1001122",
       "connectors": [
         {
-          "type": "type2",
+          "type": "ccs",
           "maxPowerKw": 22.0
         }
       ],
@@ -26,18 +26,7 @@
       "paymentMethods": null
     },
     {
-      "id": "ATHTBE1001122",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "ATHTBE1001964",
+      "id": "ATHTBE1000215",
       "connectors": [
         {
           "type": "type2",
@@ -48,7 +37,18 @@
       "paymentMethods": null
     },
     {
-      "id": "ATHTBE1000215",
+      "id": "ATHTBE1000216",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "ATHTBE1001964",
       "connectors": [
         {
           "type": "type2",

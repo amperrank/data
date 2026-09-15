@@ -1,0 +1,285 @@
+[
+  {
+    "operatorId": {
+      "countryCode": "DE",
+      "cpo": "KIE"
+    },
+    "currency": "EUR",
+    "validFrom": null,
+    "validTo": null,
+    "updatedAt": "2026-09-15T00:00:00.000",
+    "description": "Stadtwerke Kiel AG public charging tariff (brutto, incl. VAT). Stromfahrer-Laden (primary, Stromfahrer-App/Ladekarte — free app, no subscription) AC 0.46 EUR/kWh, DC 0.56 EUR/kWh; Spontanladen (secondary, Direct Payment per QR-Code) AC 0.48 EUR/kWh, DC 0.58 EUR/kWh. FairUse blocking fee: AC 0.05 EUR/min (core 08:00-20:00, after the first 180 min); DC 0.10 EUR/min (24/7, after the first 60 min). Start fee free (except 0.70 EUR per session at AC stations in Preetz). Roaming customers pay their own provider's tariff.",
+    "tiers": [
+      {
+        "id": "stromfahrer",
+        "name": "Stromfahrer-Laden (Stromfahrer-App/Ladekarte)",
+        "role": "standard",
+        "subscriptionFee": null,
+        "requiresMembership": false,
+        "applicableHours": null,
+        "description": "Primary rate paid via the free Stromfahrer app (monthly direct debit) or the ePower Ladekarte/Ladechip. The app is freely downloadable with no subscription fee and no membership barrier, so this is the main public walk-up rate.",
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 0.46,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 0.56,
+            "unit": "kWh",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.05,
+            "unit": "min",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": 180,
+            "condition": null,
+            "applicableHours": {
+              "isOpen247": false,
+              "regularHours": [
+                {
+                  "weekday": 1,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 2,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 3,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 4,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 5,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 6,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 7,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.1,
+            "unit": "min",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": 60,
+            "condition": null,
+            "applicableHours": {
+              "isOpen247": true,
+              "regularHours": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "spontan",
+        "name": "Spontanladen (Direct Payment per QR-Code)",
+        "role": "secondary",
+        "subscriptionFee": null,
+        "requiresMembership": false,
+        "applicableHours": null,
+        "description": "Secondary ad-hoc rate for anonymous charging via the QR code at the station, settled by credit card or contactless NFC (chargecloud direct payment).",
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 0.48,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 0.58,
+            "unit": "kWh",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.05,
+            "unit": "min",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": 180,
+            "condition": null,
+            "applicableHours": {
+              "isOpen247": false,
+              "regularHours": [
+                {
+                  "weekday": 1,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 2,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 3,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 4,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 5,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 6,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 7,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.1,
+            "unit": "min",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": 60,
+            "condition": null,
+            "applicableHours": {
+              "isOpen247": true,
+              "regularHours": null
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

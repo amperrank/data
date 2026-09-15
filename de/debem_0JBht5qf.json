@@ -4,18 +4,7 @@
   "name": "Gemeindewerke Ismaning Ladestation",
   "evses": [
     {
-      "id": "DEBEME0011220",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBEME0010037",
+      "id": "DEBEME0010036",
       "connectors": [
         {
           "type": "type2",
@@ -37,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBEME0010036",
+      "id": "DEBEME0010037",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBEME0011220",
       "connectors": [
         {
           "type": "type2",
@@ -51,8 +51,8 @@
   "facilities": null,
   "address": {
     "city": "Ismaning",
-    "street": "Erich-Zeitler-Straße",
-    "houseNumber": "8",
+    "street": "An der Torfbahn",
+    "houseNumber": "2",
     "postcode": "85737",
     "province": null
   },

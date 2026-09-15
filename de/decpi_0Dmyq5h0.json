@@ -4,7 +4,18 @@
   "name": "HAHN AUTOMOBILE VK GP VW DC 17",
   "evses": [
     {
-      "id": "DECPIE64564952",
+      "id": "DECPIE65147652",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE65147651",
       "connectors": [
         {
           "type": "type2",
@@ -20,6 +31,17 @@
         {
           "type": "chademo",
           "maxPowerKw": 75.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE65147751",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -48,18 +70,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE65147652",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE65147651",
+      "id": "DECPIE64564952",
       "connectors": [
         {
           "type": "type2",
@@ -71,17 +82,6 @@
     },
     {
       "id": "DECPIE65147752",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE65147751",
       "connectors": [
         {
           "type": "type2",

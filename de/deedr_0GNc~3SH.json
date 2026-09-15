@@ -4,6 +4,17 @@
   "name": "Billerbeck, Darfelder Straße SD01",
   "evses": [
     {
+      "id": "DEEDRE220141702",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 3.68
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEEDRE220141832",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DEEDRE220141701",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 3.68
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEDRE220141702",
       "connectors": [
         {
           "type": "type2",

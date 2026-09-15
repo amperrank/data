@@ -4,22 +4,22 @@
   "name": "DE_VGRD_WM_AZ_Olympiastr_NW02_öffentlich",
   "evses": [
     {
-      "id": "DEPOWE01633",
+      "id": "DEPOWE01634",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 75.2
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEPOWE01634",
+      "id": "DEPOWE01633",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 75.2
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

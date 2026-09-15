@@ -1,7 +1,7 @@
 {
   "operatorId": "DE*EDR",
   "geohash": "0GM85ZlY",
-  "name": "Bergkamen, Ernst-Schering-Straße WB03",
+  "name": "Bergkamen, Ernst-Schering-Straße WB02",
   "evses": [
     {
       "id": "DEEDRE220142032",
@@ -70,17 +70,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEDRE220142162",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEEDRE320004001",
       "connectors": [
         {
@@ -93,6 +82,17 @@
     },
     {
       "id": "DEEDRE220141911",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEDRE220142162",
       "connectors": [
         {
           "type": "type2",

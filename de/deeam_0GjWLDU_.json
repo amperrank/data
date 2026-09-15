@@ -1,30 +1,8 @@
 {
   "operatorId": "DE*EAM",
   "geohash": "0GjWLDU_",
-  "name": "320 034S Bad Emstal Netto 1",
+  "name": "320 035S Bad Emstal Netto 2",
   "evses": [
-    {
-      "id": "DEEAME0847",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 200.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEAME0846",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 200.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DEEAME0848",
       "connectors": [
@@ -46,12 +24,34 @@
       ],
       "authMethods": null,
       "paymentMethods": null
+    },
+    {
+      "id": "DEEAME0847",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEAME0846",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Bad Emstal",
-    "street": "Neuer Weg",
+    "street": "Kasseler Str.",
     "houseNumber": null,
     "postcode": "34308",
     "province": null

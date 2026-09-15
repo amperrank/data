@@ -4,7 +4,7 @@
   "name": "Kassel Audi Zentrum Wallboxnetzwerk 22kW AC",
   "evses": [
     {
-      "id": "DEGLIE100100177",
+      "id": "DEGLIE100100179",
       "connectors": [
         {
           "type": "type2",
@@ -15,18 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEGLIE100100172",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEGLIE100100179",
+      "id": "DEGLIE100100177",
       "connectors": [
         {
           "type": "type2",
@@ -63,6 +52,17 @@
       "connectors": [
         {
           "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGLIE100100172",
+      "connectors": [
+        {
+          "type": "ccs",
           "maxPowerKw": 22.0
         }
       ],

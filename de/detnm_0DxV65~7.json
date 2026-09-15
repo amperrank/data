@@ -4,18 +4,22 @@
   "name": "Shell Recharge OBN 5497 - Shell Im Mehlsee",
   "evses": [
     {
-      "id": "DETNMEGL49015497032",
+      "id": "DETNMEGL4901549702",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 300.0
+          "maxPowerKw": 175.0
+        },
+        {
+          "type": "chademo",
+          "maxPowerKw": 70.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49015497031",
+      "id": "DETNMEGL49015497042",
       "connectors": [
         {
           "type": "ccs",
@@ -48,7 +52,29 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL4901549702",
+      "id": "DETNMEGL49015497032",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49015497031",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL4901549701",
       "connectors": [
         {
           "type": "ccs",
@@ -57,17 +83,6 @@
         {
           "type": "chademo",
           "maxPowerKw": 70.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49015497042",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
@@ -96,17 +111,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49015497061",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 200.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGL49015497041",
       "connectors": [
         {
@@ -129,15 +133,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL4901549701",
+      "id": "DETNMEGL49015497061",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 175.0
-        },
-        {
-          "type": "chademo",
-          "maxPowerKw": 70.0
+          "maxPowerKw": 200.0
         }
       ],
       "authMethods": null,

@@ -4,7 +4,18 @@
   "name": "Rudolf-Diesel-Straße 18",
   "evses": [
     {
-      "id": "ATHTBE1011855",
+      "id": "ATHTBE1011856",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "ATHTBE1011853",
       "connectors": [
         {
           "type": "type2",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "ATHTBE1011856",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "ATHTBE1011853",
+      "id": "ATHTBE1011855",
       "connectors": [
         {
           "type": "type2",

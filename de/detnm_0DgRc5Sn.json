@@ -4,17 +4,6 @@
   "name": "Shell Recharge OBN 3219 - MTB Wieselsbergstrasse",
   "evses": [
     {
-      "id": "DETNMEGL49013219012",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGL49013219011",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DETNMEGL49013219021",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49013219012",
       "connectors": [
         {
           "type": "ccs",

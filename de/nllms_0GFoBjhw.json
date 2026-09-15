@@ -4,17 +4,6 @@
   "name": "Ecotap Stadtwerke Goch",
   "evses": [
     {
-      "id": "NLLMSE18123082",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "NLLMSE18123711",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "NLLMSE18123081",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "NLLMSE18123082",
       "connectors": [
         {
           "type": "type2",

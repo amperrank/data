@@ -4,6 +4,17 @@
   "name": "bayernwerk e-mobil Ladestation Gemeinde Leiblfing",
   "evses": [
     {
+      "id": "DEBEME0010308",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEBEME0010309",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEBEME0010133",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBEME0010308",
       "connectors": [
         {
           "type": "type2",

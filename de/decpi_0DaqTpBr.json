@@ -4,11 +4,11 @@
   "name": "W006 41B.P13A.DC1",
   "evses": [
     {
-      "id": "DECPIE72232352",
+      "id": "DECPIE67312352",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 300.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -26,18 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE65496351",
+      "id": "DECPIE72232352",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DECPIE67312352",
+      "id": "DECPIE67312351",
       "connectors": [
         {
           "type": "type2",
@@ -70,7 +70,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE67312351",
+      "id": "DECPIE65496351",
       "connectors": [
         {
           "type": "type2",

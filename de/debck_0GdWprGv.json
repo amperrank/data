@@ -4,17 +4,6 @@
   "name": "Backcharge GmbH Backcharge: Autohaus Tekken Emden GmbH & Co. KG",
   "evses": [
     {
-      "id": "DEBCKE10001458531",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 90.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEBCKE10001458532",
       "connectors": [
         {
@@ -31,6 +20,17 @@
         {
           "type": "type2",
           "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBCKE10001458531",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 90.0
         }
       ],
       "authMethods": null,

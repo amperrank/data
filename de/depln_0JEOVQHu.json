@@ -4,18 +4,7 @@
   "name": "Eni Station - Ob. Hauptstraße 5",
   "evses": [
     {
-      "id": "DEPLNEH0005682",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEPLNEH0005681",
+      "id": "DEPLNEH0006711",
       "connectors": [
         {
           "type": "ccs",
@@ -48,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPLNEH0006711",
+      "id": "DEPLNEH0005681",
       "connectors": [
         {
           "type": "ccs",
@@ -68,6 +57,17 @@
       ],
       "authMethods": null,
       "paymentMethods": null
+    },
+    {
+      "id": "DEPLNEH0005682",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
     }
   ],
   "facilities": null,
@@ -79,63 +79,7 @@
     "province": null
   },
   "openingHours": {
-    "isOpen247": false,
-    "regularHours": [
-      {
-        "weekday": 1,
-        "periodBegin": {
-          "hour": 6,
-          "minute": 0
-        },
-        "periodEnd": {
-          "hour": 18,
-          "minute": 0
-        }
-      },
-      {
-        "weekday": 2,
-        "periodBegin": {
-          "hour": 6,
-          "minute": 0
-        },
-        "periodEnd": {
-          "hour": 18,
-          "minute": 0
-        }
-      },
-      {
-        "weekday": 3,
-        "periodBegin": {
-          "hour": 6,
-          "minute": 0
-        },
-        "periodEnd": {
-          "hour": 18,
-          "minute": 0
-        }
-      },
-      {
-        "weekday": 4,
-        "periodBegin": {
-          "hour": 6,
-          "minute": 0
-        },
-        "periodEnd": {
-          "hour": 18,
-          "minute": 0
-        }
-      },
-      {
-        "weekday": 5,
-        "periodBegin": {
-          "hour": 6,
-          "minute": 0
-        },
-        "periodEnd": {
-          "hour": 18,
-          "minute": 0
-        }
-      }
-    ]
+    "isOpen247": true,
+    "regularHours": null
   }
 }

@@ -4,7 +4,18 @@
   "name": "KWS",
   "evses": [
     {
-      "id": "DESELE0005",
+      "id": "DESELE0008",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DESELE0001",
       "connectors": [
         {
           "type": "type2",
@@ -26,17 +37,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DESELE0002",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 11.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DESELE0006",
       "connectors": [
         {
@@ -48,7 +48,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DESELE0008",
+      "id": "DESELE0005",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DESELE0002",
       "connectors": [
         {
           "type": "type2",
@@ -71,17 +82,6 @@
     },
     {
       "id": "DESELE0003",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 11.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DESELE0001",
       "connectors": [
         {
           "type": "type2",

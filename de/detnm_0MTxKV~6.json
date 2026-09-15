@@ -4,6 +4,17 @@
   "name": "Shell Recharge OBN 2646 - Rewe Fehrbelliner Strasse",
   "evses": [
     {
+      "id": "DETNMEGLABBT12400171",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 120.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DETNMEGLABBT12400181",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DETNMEGLABBT12400172",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 120.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGLABBT12400171",
       "connectors": [
         {
           "type": "ccs",

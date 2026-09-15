@@ -4,6 +4,17 @@
   "name": "KRINNER STATION01",
   "evses": [
     {
+      "id": "DECPIE66588351",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DECPIE66020151",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DECPIE66020152",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE66588351",
       "connectors": [
         {
           "type": "type2",

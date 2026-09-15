@@ -1,19 +1,8 @@
 {
   "operatorId": "DE*EAM",
   "geohash": "0GtFDbUt",
-  "name": "200 020 Einbeck Freigeist Hotel",
+  "name": "200 022 Einbeck Freigeist Hotel",
   "evses": [
-    {
-      "id": "DEEAME0287",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 11.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DEEAME0289",
       "connectors": [
@@ -38,6 +27,17 @@
     },
     {
       "id": "DEEAME0290",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEAME0287",
       "connectors": [
         {
           "type": "type2",

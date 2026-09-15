@@ -1,10 +1,21 @@
 {
   "operatorId": "CH*ECU",
   "geohash": "0G0f97rl",
-  "name": "pico 7003035",
+  "name": "8_ACE0329369",
   "evses": [
     {
-      "id": "CHECUEMYCLXHCSNDFGQ3DD9ECTY5RP5Q",
+      "id": "CHECUECN6G5XYVLZJ4QQKPHLU223NH7S",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 12.8
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "CHECUE297N43NV74L9TZS23NCXYS8FGW",
       "connectors": [
         {
           "type": "type2",
@@ -37,18 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "CHECUE297N43NV74L9TZS23NCXYS8FGW",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 12.8
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "CHECUECN6G5XYVLZJ4QQKPHLU223NH7S",
+      "id": "CHECUEMYCLXHCSNDFGQ3DD9ECTY5RP5Q",
       "connectors": [
         {
           "type": "type2",

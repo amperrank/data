@@ -4,21 +4,6 @@
   "name": "Shell Recharge OBN 1222 - Shell Rudower Strasse",
   "evses": [
     {
-      "id": "DETNMEGL4901122201",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 175.0
-        },
-        {
-          "type": "chademo",
-          "maxPowerKw": 70.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGL4901122202",
       "connectors": [
         {
@@ -28,6 +13,21 @@
         {
           "type": "ccs",
           "maxPowerKw": 175.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL4901122201",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 175.0
+        },
+        {
+          "type": "chademo",
+          "maxPowerKw": 70.0
         }
       ],
       "authMethods": null,

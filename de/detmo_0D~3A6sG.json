@@ -4,17 +4,6 @@
   "name": "TMO LP4/5 REWE",
   "evses": [
     {
-      "id": "DETMOE11018005",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETMOE11018001",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DETMOE11018002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETMOE11018005",
       "connectors": [
         {
           "type": "ccs",

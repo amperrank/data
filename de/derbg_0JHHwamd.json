@@ -1,10 +1,21 @@
 {
   "operatorId": "DE*RBG",
   "geohash": "0JHHwamd",
-  "name": "Lieblstraße I (rechts)",
+  "name": "Lieblstraße III (links)",
   "evses": [
     {
-      "id": "DERBGE0287",
+      "id": "DERBGE1391",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DERBGE1392",
       "connectors": [
         {
           "type": "type2",
@@ -16,6 +27,17 @@
     },
     {
       "id": "DERBGE0288",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DERBGE0287",
       "connectors": [
         {
           "type": "type2",
@@ -38,28 +60,6 @@
     },
     {
       "id": "DERBGE1390",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DERBGE1392",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DERBGE1391",
       "connectors": [
         {
           "type": "type2",

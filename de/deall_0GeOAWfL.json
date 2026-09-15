@@ -4,6 +4,17 @@
   "name": "Allego - Autohof 24 Cloppenburg",
   "evses": [
     {
+      "id": "DEALLEGO0039181",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEALLEGO0039142",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEALLEGO0039182",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEALLEGO0039181",
       "connectors": [
         {
           "type": "ccs",

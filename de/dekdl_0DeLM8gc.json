@@ -4,17 +4,6 @@
   "name": "Kaufland Ingelheim am Rhein",
   "evses": [
     {
-      "id": "DEKDLE00002897",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 60.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEKDLE00002904",
       "connectors": [
         {
@@ -37,7 +26,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00002910",
+      "id": "DEKDLE00002897",
       "connectors": [
         {
           "type": "ccs",
@@ -53,6 +42,28 @@
         {
           "type": "type2",
           "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEKDLE00002910",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEKDLE00004153",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 180.0
         }
       ],
       "authMethods": null,
@@ -75,17 +86,6 @@
         {
           "type": "ccs",
           "maxPowerKw": 60.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEKDLE00004153",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 180.0
         }
       ],
       "authMethods": null,

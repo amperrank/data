@@ -4,11 +4,11 @@
   "name": "Langenhan Gruppe - DE*DES*E1007063",
   "evses": [
     {
-      "id": "DEDESE10070631",
+      "id": "DEDESE10070641",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -37,11 +37,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEDESE10070641",
+      "id": "DEDESE10070631",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

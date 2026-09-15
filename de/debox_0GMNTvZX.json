@@ -26,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBOXEAC0941",
+      "id": "DEBOXEAC0945",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBOXEAC0940",
       "connectors": [
         {
           "type": "type2",
@@ -48,18 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBOXEAC0945",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBOXEAC0940",
+      "id": "DEBOXEAC0941",
       "connectors": [
         {
           "type": "type2",

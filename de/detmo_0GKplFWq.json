@@ -4,17 +4,6 @@
   "name": "TMO LP1/2 Herkules",
   "evses": [
     {
-      "id": "DETMOE11408002",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 225.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETMOE11408001",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DETMOE11408004",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 225.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETMOE11408002",
       "connectors": [
         {
           "type": "ccs",

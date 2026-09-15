@@ -1,8 +1,30 @@
 {
   "operatorId": "DE*EAM",
   "geohash": "0GsQajZK",
-  "name": "220 016S Göttingen, Kauf Park 3",
+  "name": "220 005 Kauf Park IMS",
   "evses": [
+    {
+      "id": "DEEAME0038",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEAME0037",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DEEAME0501",
       "connectors": [
@@ -68,34 +90,12 @@
       ],
       "authMethods": null,
       "paymentMethods": null
-    },
-    {
-      "id": "DEEAME0038",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEAME0037",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 11.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Göttingen",
-    "street": "Am Kauf Park",
+    "street": "Am Kaufpark",
     "houseNumber": null,
     "postcode": "37079",
     "province": null

@@ -1,10 +1,10 @@
 {
   "operatorId": "DE*BPE",
   "geohash": "0Gp7Cvda",
-  "name": "Aral pulse (Burger King)",
+  "name": "Aral pulse Gebr.-Franke-Straße 1, 99974 Mühlhausen/Thüringen",
   "evses": [
     {
-      "id": "DEBPEE3EF2850203",
+      "id": "DEBPEE3EF2850101",
       "connectors": [
         {
           "type": "ccs",
@@ -26,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE3EF2850204",
+      "id": "DEBPEE3EF2850203",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 100.0
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,
@@ -48,11 +48,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE3EF2850101",
+      "id": "DEBPEE3EF2850204",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 150.0
+          "type": "chademo",
+          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,

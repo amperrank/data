@@ -4,17 +4,6 @@
   "name": "ESSO Kapellenweg 1",
   "evses": [
     {
-      "id": "DESPIEG0042",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 138.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DESPIEG0043",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DESPIEG0041",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 138.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DESPIEG0042",
       "connectors": [
         {
           "type": "ccs",

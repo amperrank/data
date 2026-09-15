@@ -4,7 +4,18 @@
   "name": "FS_40040837_MENNEKES_P90121",
   "evses": [
     {
-      "id": "DEFKUEFS90122",
+      "id": "DEFKUEFS90124",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEFKUEFS90121",
       "connectors": [
         {
           "type": "type2",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFKUEFS90124",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEFKUEFS90121",
+      "id": "DEFKUEFS90122",
       "connectors": [
         {
           "type": "type2",

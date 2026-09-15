@@ -4,17 +4,6 @@
   "name": "EW Aach - Eigeltingen Krumme Straße 1 - HPC 150 kW",
   "evses": [
     {
-      "id": "DEODRE10000706",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEODRE10000708",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DEODRE10000707",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEODRE10000706",
       "connectors": [
         {
           "type": "ccs",

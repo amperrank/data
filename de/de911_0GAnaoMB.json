@@ -1,25 +1,25 @@
 {
   "operatorId": "DE*911",
   "geohash": "0GAnaoMB",
-  "name": "Porsche Sales & Marketplace Porsche Wallbox Aachen rechts",
+  "name": "Porsche Sales & Marketplace Porsche Wallbox Aachen 2",
   "evses": [
     {
-      "id": "DE911EDE00013400000010000001",
+      "id": "DE911EDE00140300000010000001",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 320.16
+          "type": "type2",
+          "maxPowerKw": 12.8
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DE911EDE00140400000010000001",
+      "id": "DE911EDE00013400000010000001",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 12.8
+          "type": "ccs",
+          "maxPowerKw": 320.16
         }
       ],
       "authMethods": null,
@@ -37,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DE911EDE00140300000010000001",
+      "id": "DE911EDE00140400000010000001",
       "connectors": [
         {
           "type": "type2",
@@ -60,13 +60,13 @@
     "isOpen247": false,
     "regularHours": [
       {
-        "weekday": 4,
+        "weekday": 6,
         "periodBegin": {
-          "hour": 8,
+          "hour": 10,
           "minute": 0
         },
         "periodEnd": {
-          "hour": 17,
+          "hour": 13,
           "minute": 0
         }
       },
@@ -82,18 +82,7 @@
         }
       },
       {
-        "weekday": 6,
-        "periodBegin": {
-          "hour": 10,
-          "minute": 0
-        },
-        "periodEnd": {
-          "hour": 13,
-          "minute": 0
-        }
-      },
-      {
-        "weekday": 5,
+        "weekday": 2,
         "periodBegin": {
           "hour": 8,
           "minute": 0
@@ -104,7 +93,18 @@
         }
       },
       {
-        "weekday": 2,
+        "weekday": 4,
+        "periodBegin": {
+          "hour": 8,
+          "minute": 0
+        },
+        "periodEnd": {
+          "hour": 17,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 5,
         "periodBegin": {
           "hour": 8,
           "minute": 0

@@ -4,11 +4,11 @@
   "name": "TMO LP1/2 Parkplatz Köppe",
   "evses": [
     {
-      "id": "DETMOE11122002",
+      "id": "DETMOE11273004",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -37,18 +37,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DETMOE11273002",
+      "id": "DETMOE11122002",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DETMOE11273004",
+      "id": "DETMOE11273002",
       "connectors": [
         {
           "type": "ccs",

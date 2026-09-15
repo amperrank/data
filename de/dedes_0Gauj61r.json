@@ -4,22 +4,22 @@
   "name": "[FL-PUB] Autohaus Becker-Tiemann Spenge - DC - Eichrecht - DE*DES*E1003307",
   "evses": [
     {
-      "id": "DEDESE10033072",
+      "id": "DEDESE10033071",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEDESE10033071",
+      "id": "DEDESE10033072",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

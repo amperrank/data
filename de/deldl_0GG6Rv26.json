@@ -4,22 +4,22 @@
   "name": "Lidl Filiale Bottrop",
   "evses": [
     {
-      "id": "DELDLE00005560",
+      "id": "DELDLE00005562",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "chademo",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DELDLE00005562",
+      "id": "DELDLE00005560",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

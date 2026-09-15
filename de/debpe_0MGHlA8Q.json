@@ -4,6 +4,17 @@
   "name": "Aral pulse Geltestraße 1",
   "evses": [
     {
+      "id": "DEBPEE0FE500102",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEBPEE0FE500204",
       "connectors": [
         {
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FE500102",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 100.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0FE500206",
+      "id": "DEBPEE0FE500101",
       "connectors": [
         {
           "type": "ccs",
@@ -59,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FE500101",
+      "id": "DEBPEE0FE500206",
       "connectors": [
         {
           "type": "ccs",

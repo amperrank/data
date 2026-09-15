@@ -4,17 +4,6 @@
   "name": "Electra Salzweg - Netto Passauer Straße",
   "evses": [
     {
-      "id": "DEELDEJEFN",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEELDEZ9B4",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DEELDEZ2LA",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEELDEJEFN",
       "connectors": [
         {
           "type": "ccs",

@@ -4,7 +4,7 @@
   "name": "STWALSRODE_Bahnhof_1",
   "evses": [
     {
-      "id": "ATHTBE1008742",
+      "id": "ATHTBE1008743",
       "connectors": [
         {
           "type": "type2",
@@ -15,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "ATHTBE1008743",
+      "id": "ATHTBE1008746",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "ATHTBE1008742",
       "connectors": [
         {
           "type": "type2",
@@ -49,17 +60,6 @@
     },
     {
       "id": "ATHTBE1008744",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "ATHTBE1008746",
       "connectors": [
         {
           "type": "type2",

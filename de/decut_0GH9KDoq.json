@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*CUT",
+  "geohash": "0GH9KDoq",
+  "name": "AW Automatisierungstechnik 1 Stadtlohn",
+  "evses": [
+    {
+      "id": "DECUTE30000011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 160.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECUTE20001451",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECUTE30000012",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 160.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Stadtlohn",
+    "street": "Porschestrasse",
+    "houseNumber": "8",
+    "postcode": "48703",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

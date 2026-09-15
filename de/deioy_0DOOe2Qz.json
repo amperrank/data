@@ -4,22 +4,22 @@
   "name": "IONITY GmbH IONITY Achern",
   "evses": [
     {
-      "id": "DEIOYE239602",
+      "id": "DEIOYE239675",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 350.0
+          "maxPowerKw": 400.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE239675",
+      "id": "DEIOYE239602",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 400.0
+          "maxPowerKw": 350.0
         }
       ],
       "authMethods": null,
@@ -37,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE239672",
+      "id": "DEIOYE239674",
       "connectors": [
         {
           "type": "ccs",
@@ -59,18 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE239676",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE239674",
+      "id": "DEIOYE239672",
       "connectors": [
         {
           "type": "ccs",
@@ -90,6 +79,17 @@
       ],
       "authMethods": null,
       "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE239676",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
     }
   ],
   "facilities": null,
@@ -100,5 +100,8 @@
     "postcode": "77855",
     "province": null
   },
-  "openingHours": null
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
 }

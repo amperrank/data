@@ -4,6 +4,17 @@
   "name": "Kaufland Chemnitz",
   "evses": [
     {
+      "id": "DEKDLE00001116",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 120.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEKDLE00001115",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEKDLE00001117",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 120.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEKDLE00001116",
       "connectors": [
         {
           "type": "ccs",

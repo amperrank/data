@@ -4,7 +4,7 @@
   "name": "IONITY GmbH IONITY Überlingen",
   "evses": [
     {
-      "id": "DEIOYE233873",
+      "id": "DEIOYE233874",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE233803",
+      "id": "DEIOYE233805",
       "connectors": [
         {
           "type": "ccs",
@@ -37,17 +37,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE233871",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEIOYE233804",
       "connectors": [
         {
@@ -59,44 +48,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE233805",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE233806",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE233872",
+      "id": "DEIOYE233871",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE233801",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
         }
       ],
       "authMethods": null,
@@ -125,11 +81,55 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE233874",
+      "id": "DEIOYE233803",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE233873",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE233872",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE233806",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE233801",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
         }
       ],
       "authMethods": null,
@@ -144,5 +144,8 @@
     "postcode": "88662",
     "province": null
   },
-  "openingHours": null
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
 }

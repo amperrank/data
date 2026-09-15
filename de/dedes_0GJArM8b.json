@@ -4,7 +4,7 @@
   "name": "BMW - Autohaus Kaltenbach GmbH & Co. KG",
   "evses": [
     {
-      "id": "DEDESEBMW05822",
+      "id": "DEDESEBMW05821",
       "connectors": [
         {
           "type": "type2",
@@ -15,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEDESEBMW05821",
+      "id": "DEDESE10033932",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEDESEBMW05822",
       "connectors": [
         {
           "type": "type2",
@@ -31,17 +42,6 @@
         {
           "type": "ccs",
           "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEDESE10033932",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

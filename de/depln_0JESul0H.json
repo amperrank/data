@@ -4,11 +4,22 @@
   "name": "Eni Station - Am Hochfeldweg 2",
   "evses": [
     {
-      "id": "DEPLNEH0013042",
+      "id": "DEPLNEH0016371",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 51.0
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPLNEH0016373",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
@@ -26,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPLNEH0016372",
+      "id": "DEPLNEH0013042",
       "connectors": [
         {
           "type": "chademo",
@@ -59,7 +70,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPLNEH0016371",
+      "id": "DEPLNEH0013041",
       "connectors": [
         {
           "type": "ccs",
@@ -81,22 +92,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPLNEH0013041",
+      "id": "DEPLNEH0016372",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEPLNEH0016373",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
+          "type": "chademo",
+          "maxPowerKw": 51.0
         }
       ],
       "authMethods": null,
@@ -112,63 +112,7 @@
     "province": null
   },
   "openingHours": {
-    "isOpen247": false,
-    "regularHours": [
-      {
-        "weekday": 1,
-        "periodBegin": {
-          "hour": 6,
-          "minute": 0
-        },
-        "periodEnd": {
-          "hour": 18,
-          "minute": 0
-        }
-      },
-      {
-        "weekday": 2,
-        "periodBegin": {
-          "hour": 6,
-          "minute": 0
-        },
-        "periodEnd": {
-          "hour": 18,
-          "minute": 0
-        }
-      },
-      {
-        "weekday": 3,
-        "periodBegin": {
-          "hour": 6,
-          "minute": 0
-        },
-        "periodEnd": {
-          "hour": 18,
-          "minute": 0
-        }
-      },
-      {
-        "weekday": 4,
-        "periodBegin": {
-          "hour": 6,
-          "minute": 0
-        },
-        "periodEnd": {
-          "hour": 18,
-          "minute": 0
-        }
-      },
-      {
-        "weekday": 5,
-        "periodBegin": {
-          "hour": 6,
-          "minute": 0
-        },
-        "periodEnd": {
-          "hour": 18,
-          "minute": 0
-        }
-      }
-    ]
+    "isOpen247": true,
+    "regularHours": null
   }
 }

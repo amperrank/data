@@ -4,7 +4,7 @@
   "name": "CutPower CutPower Hannover-Lahe",
   "evses": [
     {
-      "id": "DECPWE12348651351",
+      "id": "DECPWE12348651352",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPWE12348651352",
+      "id": "DECPWE12348651372",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 500.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPWE12348651351",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPWE12348651372",
+      "id": "DECPWE12348651362",
       "connectors": [
         {
           "type": "ccs",
@@ -71,17 +82,6 @@
     },
     {
       "id": "DECPWE12348651371",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 500.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPWE12348651362",
       "connectors": [
         {
           "type": "ccs",

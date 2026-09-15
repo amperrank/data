@@ -4,17 +4,6 @@
   "name": "Aral pulse Nikola-Tesla-Straße 1",
   "evses": [
     {
-      "id": "DEBPEE0FT590101",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEBPEE0FT590205",
       "connectors": [
         {
@@ -37,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FT590204",
+      "id": "DEBPEE0FT590103",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0FT590101",
       "connectors": [
         {
           "type": "ccs",
@@ -59,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FT590103",
+      "id": "DEBPEE0FT590204",
       "connectors": [
         {
           "type": "ccs",

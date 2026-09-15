@@ -4,17 +4,6 @@
   "name": "Fastned Pilsting",
   "evses": [
     {
-      "id": "DEFASE4902203",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEFASE4902202",
       "connectors": [
         {
@@ -46,6 +35,17 @@
     },
     {
       "id": "DEFASE4902201",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEFASE4902203",
       "connectors": [
         {
           "type": "ccs",

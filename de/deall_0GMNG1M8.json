@@ -4,6 +4,17 @@
   "name": "Allego - LUEG Bochum",
   "evses": [
     {
+      "id": "DEALLEGO0041312",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEALLEGO0041302",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DEALLEGO0041301",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEALLEGO0041312",
       "connectors": [
         {
           "type": "ccs",

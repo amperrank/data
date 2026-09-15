@@ -4,17 +4,6 @@
   "name": "MERCEDES-BENZ HYC 5",
   "evses": [
     {
-      "id": "DECPIE28308751",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DECPIE28308951",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DECPIE28308952",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE28308751",
       "connectors": [
         {
           "type": "type2",
@@ -70,11 +70,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE66461251",
+      "id": "DECPIE28308852",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 300.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -92,18 +92,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE28308852",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE66421451",
+      "id": "DECPIE68059451",
       "connectors": [
         {
           "type": "ccs",
@@ -114,7 +103,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE68059451",
+      "id": "DECPIE66461251",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE66421451",
       "connectors": [
         {
           "type": "ccs",

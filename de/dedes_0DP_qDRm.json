@@ -4,6 +4,17 @@
   "name": "BMW - Uwe Ratzel GmbH & Co. KG - Linkenheim-Hochstetten - AC - DE*DES*E*BMW*0310",
   "evses": [
     {
+      "id": "DEDESE10014102",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEDESEBMW03111",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEDESE10014101",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEDESE10014102",
       "connectors": [
         {
           "type": "type2",

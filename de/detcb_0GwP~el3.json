@@ -4,7 +4,18 @@
   "name": "658580-DN | Löhne | Ringstrasse 36",
   "evses": [
     {
-      "id": "DETCBE3D9CS900650022",
+      "id": "DETCBE3D9CS900650021",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETCBE3D9CS900650011",
       "connectors": [
         {
           "type": "ccs",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETCBE3D9CS900650021",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETCBE3D9CS900650011",
+      "id": "DETCBE3D9CS900650022",
       "connectors": [
         {
           "type": "ccs",

@@ -4,6 +4,36 @@
   "name": "SLE-MBK-PF KRONE-DC 02",
   "evses": [
     {
+      "id": "DECPIE65009451",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 62.5
+        },
+        {
+          "type": "chademo",
+          "maxPowerKw": 62.5
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE65009351",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 31.25
+        },
+        {
+          "type": "ccs",
+          "maxPowerKw": 31.25
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DECPIE65009251",
       "connectors": [
         {
@@ -26,7 +56,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE65009252",
+      "id": "DECPIE65009152",
       "connectors": [
         {
           "type": "type2",
@@ -37,37 +67,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE65009351",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 31.25
-        },
-        {
-          "type": "ccs",
-          "maxPowerKw": 31.25
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE65009451",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 62.5
-        },
-        {
-          "type": "chademo",
-          "maxPowerKw": 62.5
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE65009152",
+      "id": "DECPIE65009252",
       "connectors": [
         {
           "type": "type2",

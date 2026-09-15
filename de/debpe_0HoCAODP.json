@@ -1,14 +1,14 @@
 {
   "operatorId": "DE*BPE",
   "geohash": "0HoCAODP",
-  "name": "Aral pulse Bremer Straße 300",
+  "name": "Aral pulse Bremer Straße 300, 21077 Hamburg",
   "evses": [
     {
-      "id": "DEBPEE0F2280103",
+      "id": "DEBPEE0F2280205",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 300.0
+          "type": "chademo",
+          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,
@@ -37,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0F2280205",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 100.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE0F2280206",
+      "id": "DEBPEE0F2280103",
       "connectors": [
         {
           "type": "ccs",
@@ -60,6 +49,17 @@
     },
     {
       "id": "DEBPEE0F2280101",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0F2280206",
       "connectors": [
         {
           "type": "ccs",

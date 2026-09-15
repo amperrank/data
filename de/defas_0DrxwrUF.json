@@ -4,21 +4,6 @@
   "name": "Fastned Friedberg",
   "evses": [
     {
-      "id": "DEFASE4900304",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 50.0
-        },
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEFASE4900302",
       "connectors": [
         {
@@ -34,8 +19,12 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFASE4900303",
+      "id": "DEFASE4900304",
       "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        },
         {
           "type": "ccs",
           "maxPowerKw": 300.0
@@ -46,6 +35,17 @@
     },
     {
       "id": "DEFASE4900301",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEFASE4900303",
       "connectors": [
         {
           "type": "ccs",

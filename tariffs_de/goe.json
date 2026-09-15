@@ -1,0 +1,674 @@
+[
+  {
+    "operatorId": {
+      "countryCode": "DE",
+      "cpo": "GOE"
+    },
+    "currency": "EUR",
+    "validFrom": null,
+    "validTo": null,
+    "updatedAt": "2026-09-15T00:00:00.000",
+    "description": "Stadtwerke Göttingen AG (SWG) charging tariff. Three tiers: Basistarif (standard ad-hoc), Basistarif mit GöStrom-Rabatt (discount for GöStrom electricity customers), and Pendlertarif (commuter subscription). Prices at SWG stations incl. VAT.",
+    "tiers": [
+      {
+        "id": "standard",
+        "name": "Basistarif",
+        "role": "standard",
+        "subscriptionFee": null,
+        "requiresMembership": false,
+        "applicableHours": null,
+        "description": "SWG Basistarif: standard ad-hoc charging at Stadtwerke Göttingen stations.",
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 0.46,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 0.52,
+            "unit": "kWh",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "session",
+            "pricePerUnit": 0.7,
+            "unit": "session",
+            "minPowerKw": null,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.06,
+            "unit": "min",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": 240,
+            "condition": null,
+            "applicableHours": {
+              "isOpen247": false,
+              "regularHours": [
+                {
+                  "weekday": 1,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 2,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 3,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 4,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 5,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 6,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 7,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.06,
+            "unit": "min",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": 120,
+            "condition": null,
+            "applicableHours": {
+              "isOpen247": false,
+              "regularHours": [
+                {
+                  "weekday": 1,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 2,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 3,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 4,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 5,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 6,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 7,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "goestrom",
+        "name": "Basistarif mit GöStrom-Rabatt",
+        "role": "promoRestricted",
+        "subscriptionFee": null,
+        "requiresMembership": true,
+        "applicableHours": null,
+        "description": "Discounted tariff for GöStrom electricity customers (2 ct/kWh discount). Available from 1 January 2026.",
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 0.44,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 0.5,
+            "unit": "kWh",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "session",
+            "pricePerUnit": 0.7,
+            "unit": "session",
+            "minPowerKw": null,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.06,
+            "unit": "min",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": 240,
+            "condition": null,
+            "applicableHours": {
+              "isOpen247": false,
+              "regularHours": [
+                {
+                  "weekday": 1,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 2,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 3,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 4,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 5,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 6,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 7,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.06,
+            "unit": "min",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": 120,
+            "condition": null,
+            "applicableHours": {
+              "isOpen247": false,
+              "regularHours": [
+                {
+                  "weekday": 1,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 2,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 3,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 4,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 5,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 6,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 7,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "pendler",
+        "name": "Pendlertarif",
+        "role": "secondary",
+        "subscriptionFee": 14.99,
+        "requiresMembership": true,
+        "applicableHours": null,
+        "description": "Commuter subscription tariff with monthly base fee and flat energy rate.",
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 0.4,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 0.4,
+            "unit": "kWh",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.06,
+            "unit": "min",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": 240,
+            "condition": null,
+            "applicableHours": {
+              "isOpen247": false,
+              "regularHours": [
+                {
+                  "weekday": 1,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 2,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 3,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 4,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 5,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 6,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 7,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.06,
+            "unit": "min",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": 120,
+            "condition": null,
+            "applicableHours": {
+              "isOpen247": false,
+              "regularHours": [
+                {
+                  "weekday": 1,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 2,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 3,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 4,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 5,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 6,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 7,
+                  "periodBegin": {
+                    "hour": 9,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 20,
+                    "minute": 0
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

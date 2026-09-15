@@ -1,10 +1,21 @@
 {
   "operatorId": "DE*EAM",
   "geohash": "0GjfNae1",
-  "name": "100 009 Kassel, Monteverdistraße",
+  "name": "100 007 Kassel, Monteverdistraße",
   "evses": [
     {
-      "id": "DEEAME0197",
+      "id": "DEEAME0193",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEAME0194",
       "connectors": [
         {
           "type": "type2",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEAME0193",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEAME0194",
+      "id": "DEEAME0197",
       "connectors": [
         {
           "type": "type2",

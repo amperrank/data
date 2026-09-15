@@ -1,8 +1,30 @@
 {
   "operatorId": "DE*AUP",
   "geohash": "0D8p0yRw",
-  "name": "10303",
+  "name": "10301",
   "evses": [
+    {
+      "id": "DEAUPE1030102",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEAUPE1030101",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DEAUPE1030301",
       "connectors": [
@@ -46,34 +68,12 @@
       ],
       "authMethods": null,
       "paymentMethods": null
-    },
-    {
-      "id": "DEAUPE1030102",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEAUPE1030101",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Theres",
-    "street": "Steinsäcker Süd",
+    "street": "A70 - Steinsäcker Süd",
     "houseNumber": null,
     "postcode": "97531",
     "province": null

@@ -4,11 +4,22 @@
   "name": "Greenflash Charge Senger Rheine VW",
   "evses": [
     {
-      "id": "DEGFCE12348751052",
+      "id": "DEGFCE12348751051",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGFCE12348751072",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -26,22 +37,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEGFCE12348751051",
+      "id": "DEGFCE12348751052",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 200.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEGFCE12348751072",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

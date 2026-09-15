@@ -1,7 +1,7 @@
 {
   "operatorId": "DE*911",
   "geohash": "0MLkWqc2",
-  "name": "Porsche Sales & Marketplace PZ_Dresden Wallbox rechts",
+  "name": "Porsche Sales & Marketplace Porsche Zentrum Dresden Ladesäule 1",
   "evses": [
     {
       "id": "DE911EDE00083500000010000001",
@@ -9,6 +9,17 @@
         {
           "type": "type2",
           "maxPowerKw": 12.8
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE911EDE00014500000010000001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 320.16
         }
       ],
       "authMethods": null,
@@ -37,11 +48,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DE911EDE00014500000010000001",
+      "id": "DE911EDE00083500000010000001",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 320.16
+          "type": "type2",
+          "maxPowerKw": 12.8
         }
       ],
       "authMethods": null,
@@ -60,7 +71,18 @@
     "isOpen247": false,
     "regularHours": [
       {
-        "weekday": 3,
+        "weekday": 2,
+        "periodBegin": {
+          "hour": 7,
+          "minute": 30
+        },
+        "periodEnd": {
+          "hour": 18,
+          "minute": 0
+        }
+      },
+      {
+        "weekday": 4,
         "periodBegin": {
           "hour": 7,
           "minute": 30
@@ -93,17 +115,6 @@
         }
       },
       {
-        "weekday": 4,
-        "periodBegin": {
-          "hour": 7,
-          "minute": 30
-        },
-        "periodEnd": {
-          "hour": 18,
-          "minute": 0
-        }
-      },
-      {
         "weekday": 1,
         "periodBegin": {
           "hour": 7,
@@ -115,7 +126,7 @@
         }
       },
       {
-        "weekday": 2,
+        "weekday": 3,
         "periodBegin": {
           "hour": 7,
           "minute": 30

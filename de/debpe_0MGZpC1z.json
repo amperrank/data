@@ -4,17 +4,6 @@
   "name": "Aral pulse An der B 100 32",
   "evses": [
     {
-      "id": "DEBPEE0FE020205",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 100.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEBPEE0FE020101",
       "connectors": [
         {
@@ -48,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FE020206",
+      "id": "DEBPEE0FE020103",
       "connectors": [
         {
           "type": "ccs",
@@ -70,7 +59,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FE020103",
+      "id": "DEBPEE0FE020206",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE0FE020307",
       "connectors": [
         {
           "type": "ccs",
@@ -92,11 +92,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBPEE0FE020307",
+      "id": "DEBPEE0FE020205",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 300.0
+          "type": "chademo",
+          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,

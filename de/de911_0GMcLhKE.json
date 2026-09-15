@@ -4,33 +4,22 @@
   "name": "Porsche Sales & Marketplace PZ_Recklinghausen_Wallbox_4",
   "evses": [
     {
+      "id": "DE911EDE00090200000010000001",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 12.8
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DE911EDE00145300000010000001",
       "connectors": [
         {
           "type": "type2",
           "maxPowerKw": 12.8
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE911EDE00145500000010000001",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 12.8
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE911EDE00005300000020000001",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 475.0
         }
       ],
       "authMethods": null,
@@ -48,6 +37,28 @@
       "paymentMethods": null
     },
     {
+      "id": "DE911EDE00005300000010000001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 475.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE911EDE00005300000020000001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 475.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DE911EDE00145400000010000001",
       "connectors": [
         {
@@ -59,22 +70,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DE911EDE00090200000010000001",
+      "id": "DE911EDE00145500000010000001",
       "connectors": [
         {
           "type": "type2",
           "maxPowerKw": 12.8
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE911EDE00005300000010000001",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 475.0
         }
       ],
       "authMethods": null,

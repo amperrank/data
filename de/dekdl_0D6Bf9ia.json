@@ -4,10 +4,10 @@
   "name": "Kaufland Ansbach",
   "evses": [
     {
-      "id": "DEKDLE00000381",
+      "id": "DEKDLE00000382",
       "connectors": [
         {
-          "type": "chademo",
+          "type": "ccs",
           "maxPowerKw": 50.0
         }
       ],
@@ -15,10 +15,10 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00000382",
+      "id": "DEKDLE00000381",
       "connectors": [
         {
-          "type": "ccs",
+          "type": "chademo",
           "maxPowerKw": 50.0
         }
       ],
@@ -37,22 +37,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00000380",
+      "id": "DEKDLE00001346",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 180.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00001346",
+      "id": "DEKDLE00000380",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 180.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

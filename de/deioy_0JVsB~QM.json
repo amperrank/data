@@ -4,11 +4,11 @@
   "name": "IONITY GmbH IONITY Berg / Bad Steben",
   "evses": [
     {
-      "id": "DEIOYE235104",
+      "id": "DEIOYE235175",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 350.0
+          "maxPowerKw": 400.0
         }
       ],
       "authMethods": null,
@@ -26,22 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE235175",
+      "id": "DEIOYE235104",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE235172",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
+          "maxPowerKw": 350.0
         }
       ],
       "authMethods": null,
@@ -49,39 +38,6 @@
     },
     {
       "id": "DEIOYE235177",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE235102",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE235103",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE235171",
       "connectors": [
         {
           "type": "ccs",
@@ -103,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE235178",
+      "id": "DEIOYE235171",
       "connectors": [
         {
           "type": "ccs",
@@ -114,7 +70,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE235174",
+      "id": "DEIOYE235178",
       "connectors": [
         {
           "type": "ccs",
@@ -134,6 +90,50 @@
       ],
       "authMethods": null,
       "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE235174",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE235172",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE235103",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE235102",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
     }
   ],
   "facilities": null,
@@ -144,5 +144,8 @@
     "postcode": "95180",
     "province": null
   },
-  "openingHours": null
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
 }

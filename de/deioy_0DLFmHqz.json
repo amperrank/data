@@ -4,7 +4,7 @@
   "name": "IONITY GmbH IONITY Mahlberg Ost",
   "evses": [
     {
-      "id": "DEIOYE200603",
+      "id": "DEIOYE200605",
       "connectors": [
         {
           "type": "ccs",
@@ -26,7 +26,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE200601",
+      "id": "DEIOYE200603",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE200602",
+      "id": "DEIOYE200601",
       "connectors": [
         {
           "type": "ccs",
@@ -59,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE200605",
+      "id": "DEIOYE200602",
       "connectors": [
         {
           "type": "ccs",
@@ -78,5 +78,8 @@
     "postcode": "77972",
     "province": null
   },
-  "openingHours": null
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
 }

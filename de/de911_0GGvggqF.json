@@ -1,10 +1,10 @@
 {
   "operatorId": "DE*911",
   "geohash": "0GGvggqF",
-  "name": "Porsche Sales & Marketplace PZ_ Porsche Zentrum Essen_4 Rechts Straße",
+  "name": "Porsche Sales & Marketplace Porsche Zentrum Essen Ladesäule 1",
   "evses": [
     {
-      "id": "DE911EDE00148600000010000001",
+      "id": "DE911EDE00148500000010000001",
       "connectors": [
         {
           "type": "type2",
@@ -15,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DE911EDE00148500000010000001",
+      "id": "DE911EDE00148600000010000001",
       "connectors": [
         {
           "type": "type2",
@@ -35,12 +35,23 @@
       ],
       "authMethods": null,
       "paymentMethods": null
+    },
+    {
+      "id": "DE911EDE00011100000010000001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 320.16
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Essen",
-    "street": "Altendorferstraße",
+    "street": "Altendorfer Straße",
     "houseNumber": "52",
     "postcode": "45143",
     "province": null

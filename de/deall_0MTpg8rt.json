@@ -4,17 +4,6 @@
   "name": "Allego - Brandenburg an der Havel",
   "evses": [
     {
-      "id": "DEALLEGO0017031",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEALLEGO0031392",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0017052",
+      "id": "DEALLEGO0017042",
       "connectors": [
         {
           "type": "type2",
@@ -37,7 +26,29 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0017041",
+      "id": "DEALLEGO0031381",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEALLEGO0017031",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEALLEGO0017052",
       "connectors": [
         {
           "type": "type2",
@@ -70,17 +81,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0031391",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEALLEGO0031382",
       "connectors": [
         {
@@ -92,22 +92,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0017042",
+      "id": "DEALLEGO0031391",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 7.36
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0031381",
+      "id": "DEALLEGO0017041",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 300.0
+          "type": "type2",
+          "maxPowerKw": 7.36
         }
       ],
       "authMethods": null,

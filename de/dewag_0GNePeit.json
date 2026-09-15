@@ -4,17 +4,6 @@
   "name": "Westfalen AG - Ferienpark Baumberge Billerbeck WB1",
   "evses": [
     {
-      "id": "DEWAGEE0119",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 3.68
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEWAGEE0117",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DEWAGEE0118",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 3.68
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEWAGEE0119",
       "connectors": [
         {
           "type": "type2",

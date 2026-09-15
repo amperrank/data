@@ -4,17 +4,6 @@
   "name": "Westfalen Ladestation Westfalen AG - Düren, Kölner Landstr.",
   "evses": [
     {
-      "id": "DEWAGEE2029",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEWAGEE1029",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DEWAGEE1029",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEWAGEE2029",
       "connectors": [
         {
           "type": "ccs",

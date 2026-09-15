@@ -4,11 +4,11 @@
   "name": "Lidl Filiale Mühldorf am Inn",
   "evses": [
     {
-      "id": "DELDLE00005486",
+      "id": "DELDLE00004740",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "chademo",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -26,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DELDLE00004740",
+      "id": "DELDLE00005486",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

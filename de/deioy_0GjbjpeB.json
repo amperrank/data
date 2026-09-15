@@ -4,7 +4,7 @@
   "name": "IONITY GmbH IONITY Guxhagen",
   "evses": [
     {
-      "id": "DEIOYE236977",
+      "id": "DEIOYE236984",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +15,40 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE236984",
+      "id": "DEIOYE236975",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE236985",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE236981",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE236978",
       "connectors": [
         {
           "type": "ccs",
@@ -48,40 +81,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE236979",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE236980",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE236973",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE236985",
+      "id": "DEIOYE236971",
       "connectors": [
         {
           "type": "ccs",
@@ -103,29 +103,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE236981",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE236971",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE236983",
+      "id": "DEIOYE236976",
       "connectors": [
         {
           "type": "ccs",
@@ -147,7 +125,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE236976",
+      "id": "DEIOYE236983",
       "connectors": [
         {
           "type": "ccs",
@@ -158,7 +136,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE236978",
+      "id": "DEIOYE236977",
       "connectors": [
         {
           "type": "ccs",
@@ -169,7 +147,29 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE236975",
+      "id": "DEIOYE236980",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE236979",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE236973",
       "connectors": [
         {
           "type": "ccs",
@@ -188,5 +188,8 @@
     "postcode": "34302",
     "province": null
   },
-  "openingHours": null
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
 }

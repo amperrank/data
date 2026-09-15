@@ -4,28 +4,6 @@
   "name": "Mer Germany GmbH Mer Germany (DNetz) - Fulda - Michelsrombacher Str. 4 #1",
   "evses": [
     {
-      "id": "DEMERE01565502",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE01562502",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEMERE01562501",
       "connectors": [
         {
@@ -48,22 +26,33 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMERE00102303",
+      "id": "DEMERE01562502",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 300.0
+          "maxPowerKw": 400.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEMERE00102304",
+      "id": "DEMERE01565502",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00102502",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
@@ -103,6 +92,17 @@
       "paymentMethods": null
     },
     {
+      "id": "DEMERE00102304",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEMERE00102501",
       "connectors": [
         {
@@ -114,7 +114,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMERE00102401",
+      "id": "DEMERE00102303",
       "connectors": [
         {
           "type": "ccs",
@@ -125,7 +125,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMERE00102502",
+      "id": "DEMERE00102401",
       "connectors": [
         {
           "type": "ccs",

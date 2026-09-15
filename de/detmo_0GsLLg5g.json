@@ -4,17 +4,6 @@
   "name": "TMO LP1/2 REWE",
   "evses": [
     {
-      "id": "DETMOE11461003",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETMOE11461004",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DETMOE11461001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETMOE11461003",
       "connectors": [
         {
           "type": "ccs",

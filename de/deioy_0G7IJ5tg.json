@@ -4,7 +4,7 @@
   "name": "IONITY GmbH IONITY Wolfsburg Detmeroder Markt",
   "evses": [
     {
-      "id": "DEIOYE218303",
+      "id": "DEIOYE218301",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE218301",
+      "id": "DEIOYE218303",
       "connectors": [
         {
           "type": "ccs",
@@ -56,5 +56,8 @@
     "postcode": "38444",
     "province": null
   },
-  "openingHours": null
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
 }

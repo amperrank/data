@@ -4,7 +4,18 @@
   "name": "IONITY GmbH IONITY Haidt Süd",
   "evses": [
     {
-      "id": "DEIOYE212104",
+      "id": "DEIOYE212103",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE212101",
       "connectors": [
         {
           "type": "ccs",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE212103",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE212101",
+      "id": "DEIOYE212104",
       "connectors": [
         {
           "type": "ccs",
@@ -56,5 +56,8 @@
     "postcode": "97355",
     "province": null
   },
-  "openingHours": null
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
 }

@@ -4,28 +4,6 @@
   "name": "Kaufland Jettingen",
   "evses": [
     {
-      "id": "DEKDLE00001042",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 60.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEKDLE00001055",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 60.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEKDLE00001056",
       "connectors": [
         {
@@ -37,11 +15,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00001041",
+      "id": "DEKDLE00001057",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 60.0
         }
       ],
       "authMethods": null,
@@ -59,7 +37,29 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00001057",
+      "id": "DEKDLE00001041",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEKDLE00001042",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEKDLE00001055",
       "connectors": [
         {
           "type": "ccs",

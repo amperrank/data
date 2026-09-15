@@ -4,17 +4,6 @@
   "name": "DC-10036-01",
   "evses": [
     {
-      "id": "DEODEEDC100360101",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEODEEDC100360102",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DEODEEDC100360204",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEODEEDC100360101",
       "connectors": [
         {
           "type": "ccs",

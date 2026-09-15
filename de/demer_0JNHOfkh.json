@@ -4,17 +4,6 @@
   "name": "Mer Germany GmbH Kinderhotel Simmerl - Sankt Englmar - Maibrunn 8 #3",
   "evses": [
     {
-      "id": "DEMERE00610501",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEMERE00610301",
       "connectors": [
         {
@@ -37,7 +26,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMERE00610302",
+      "id": "DEMERE00610202",
       "connectors": [
         {
           "type": "ccs",
@@ -48,7 +37,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMERE00610202",
+      "id": "DEMERE00610501",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00610302",
       "connectors": [
         {
           "type": "ccs",

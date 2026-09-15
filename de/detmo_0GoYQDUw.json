@@ -4,7 +4,18 @@
   "name": "TMO LP3/4 KIK",
   "evses": [
     {
-      "id": "DETMOE11308003",
+      "id": "DETMOE11308001",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETMOE11308004",
       "connectors": [
         {
           "type": "ccs",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETMOE11308001",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETMOE11308004",
+      "id": "DETMOE11308003",
       "connectors": [
         {
           "type": "ccs",

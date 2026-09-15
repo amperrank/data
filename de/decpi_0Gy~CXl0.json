@@ -4,17 +4,6 @@
   "name": "MB-HANNOVER ZEISSTR. 16 B",
   "evses": [
     {
-      "id": "DECPIE64503351",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.08
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DECPIE64503051",
       "connectors": [
         {
@@ -26,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE64503052",
+      "id": "DECPIE64503351",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.08
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE64503151",
       "connectors": [
         {
           "type": "type2",
@@ -37,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE64503151",
+      "id": "DECPIE64503052",
       "connectors": [
         {
           "type": "type2",

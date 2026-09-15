@@ -4,17 +4,6 @@
   "name": "Minden Wallboxnetzwerk GW Platz 22kW AC",
   "evses": [
     {
-      "id": "DEGLIE100100311",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEGLIE100100314",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DEGLIE100100313",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGLIE100100311",
       "connectors": [
         {
           "type": "type2",

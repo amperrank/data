@@ -1,10 +1,21 @@
 {
   "operatorId": "DE*RBG",
   "geohash": "0JHXEd6T",
-  "name": "Im Naabtalpark BUL Stellplatz 3",
+  "name": "Im Naabtalpark BUL Stellplatz 2",
   "evses": [
     {
-      "id": "DERBGE1083",
+      "id": "DERBGE1082",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DERBGE1084",
       "connectors": [
         {
           "type": "type2",
@@ -48,18 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DERBGE1084",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 11.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DERBGE1082",
+      "id": "DERBGE1083",
       "connectors": [
         {
           "type": "type2",

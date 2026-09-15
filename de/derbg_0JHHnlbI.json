@@ -1,10 +1,21 @@
 {
   "operatorId": "DE*RBG",
   "geohash": "0JHHnlbI",
-  "name": "Schwanenplatz II",
+  "name": "Schwanenplatz I",
   "evses": [
     {
-      "id": "DERBGE1441",
+      "id": "DERBGE0217",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 11.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DERBGE0218",
       "connectors": [
         {
           "type": "type2",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DERBGE0217",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 11.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DERBGE0218",
+      "id": "DERBGE1441",
       "connectors": [
         {
           "type": "type2",

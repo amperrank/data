@@ -1,10 +1,21 @@
 {
   "operatorId": "DE*RBG",
   "geohash": "0JHHw9km",
-  "name": "Am Protzenweiher VI",
+  "name": "Am Protzenweiher V",
   "evses": [
     {
-      "id": "DERBGE0584",
+      "id": "DERBGE0586",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DERBGE0585",
       "connectors": [
         {
           "type": "type2",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DERBGE0586",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DERBGE0585",
+      "id": "DERBGE0584",
       "connectors": [
         {
           "type": "type2",

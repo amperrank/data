@@ -19,8 +19,12 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFASE4907003",
+      "id": "DEFASE4907002",
       "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        },
         {
           "type": "ccs",
           "maxPowerKw": 300.0
@@ -41,12 +45,8 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFASE4907002",
+      "id": "DEFASE4907003",
       "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 50.0
-        },
         {
           "type": "ccs",
           "maxPowerKw": 300.0

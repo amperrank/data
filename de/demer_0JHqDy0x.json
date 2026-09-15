@@ -4,7 +4,18 @@
   "name": "Mer Germany GmbH Mer Germany GmbH - Straubing - Antoniusberg 22 #1",
   "evses": [
     {
-      "id": "DEMERE00430802",
+      "id": "DEMERE00430801",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEMERE00430901",
       "connectors": [
         {
           "type": "type2",
@@ -37,7 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMERE00430801",
+      "id": "DEMERE00430802",
       "connectors": [
         {
           "type": "type2",
@@ -49,17 +60,6 @@
     },
     {
       "id": "DEMERE00430902",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEMERE00430901",
       "connectors": [
         {
           "type": "type2",

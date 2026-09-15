@@ -1,0 +1,441 @@
+[
+  {
+    "operatorId": {
+      "countryCode": "DE",
+      "cpo": "MS1"
+    },
+    "currency": "EUR",
+    "validFrom": null,
+    "validTo": null,
+    "updatedAt": "2026-09-15T00:00:00.000",
+    "description": "Stadtwerke Münster tariff, valid from 01.04.2026 (brutto, incl. VAT). Momente Card (loyalty) AC 0.42 EUR/kWh, DC 0.47 EUR/kWh; Kreditkarte/Ad-Hoc-Ladung AC 0.47 EUR/kWh, DC 0.52 EUR/kWh. Blocking fee charged only 06:00-22:00, free for the first 240 min (AC) / 60 min (DC). Roaming customers pay their own provider's tariff.",
+    "tiers": [
+      {
+        "id": "standard",
+        "name": "Kreditkarte / Ad-Hoc-Ladung",
+        "role": "standard",
+        "subscriptionFee": null,
+        "requiresMembership": false,
+        "applicableHours": null,
+        "description": null,
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 0.47,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 0.52,
+            "unit": "kWh",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.05,
+            "unit": "min",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": 240,
+            "condition": null,
+            "applicableHours": {
+              "isOpen247": false,
+              "regularHours": [
+                {
+                  "weekday": 1,
+                  "periodBegin": {
+                    "hour": 6,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 2,
+                  "periodBegin": {
+                    "hour": 6,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 3,
+                  "periodBegin": {
+                    "hour": 6,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 4,
+                  "periodBegin": {
+                    "hour": 6,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 5,
+                  "periodBegin": {
+                    "hour": 6,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 6,
+                  "periodBegin": {
+                    "hour": 6,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 7,
+                  "periodBegin": {
+                    "hour": 6,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.05,
+            "unit": "min",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": 60,
+            "condition": null,
+            "applicableHours": {
+              "isOpen247": false,
+              "regularHours": [
+                {
+                  "weekday": 1,
+                  "periodBegin": {
+                    "hour": 6,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 2,
+                  "periodBegin": {
+                    "hour": 6,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 3,
+                  "periodBegin": {
+                    "hour": 6,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 4,
+                  "periodBegin": {
+                    "hour": 6,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 5,
+                  "periodBegin": {
+                    "hour": 6,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 6,
+                  "periodBegin": {
+                    "hour": 6,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 7,
+                  "periodBegin": {
+                    "hour": 6,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "momente",
+        "name": "Momente Card",
+        "role": "promoRestricted",
+        "subscriptionFee": null,
+        "requiresMembership": true,
+        "applicableHours": null,
+        "description": "Discounted rate for Stadtwerke Münster customers (energy, fiber, or transit subscription) with the free Stadtwerke Momente loyalty card and the \"Strom-Tanken\" benefit activated via the münster:app or online customer portal.",
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 0.42,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 0.47,
+            "unit": "kWh",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.02,
+            "unit": "min",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": 240,
+            "condition": null,
+            "applicableHours": {
+              "isOpen247": false,
+              "regularHours": [
+                {
+                  "weekday": 1,
+                  "periodBegin": {
+                    "hour": 6,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 2,
+                  "periodBegin": {
+                    "hour": 6,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 3,
+                  "periodBegin": {
+                    "hour": 6,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 4,
+                  "periodBegin": {
+                    "hour": 6,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 5,
+                  "periodBegin": {
+                    "hour": 6,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 6,
+                  "periodBegin": {
+                    "hour": 6,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 7,
+                  "periodBegin": {
+                    "hour": 6,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.04,
+            "unit": "min",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": 60,
+            "condition": null,
+            "applicableHours": {
+              "isOpen247": false,
+              "regularHours": [
+                {
+                  "weekday": 1,
+                  "periodBegin": {
+                    "hour": 6,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 2,
+                  "periodBegin": {
+                    "hour": 6,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 3,
+                  "periodBegin": {
+                    "hour": 6,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 4,
+                  "periodBegin": {
+                    "hour": 6,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 5,
+                  "periodBegin": {
+                    "hour": 6,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 6,
+                  "periodBegin": {
+                    "hour": 6,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 7,
+                  "periodBegin": {
+                    "hour": 6,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 22,
+                    "minute": 0
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

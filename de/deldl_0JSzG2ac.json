@@ -4,11 +4,11 @@
   "name": "Lidl Filiale Oberviechtach",
   "evses": [
     {
-      "id": "DELDLE00004320",
+      "id": "DELDLE00004318",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -26,11 +26,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DELDLE00004318",
+      "id": "DELDLE00004320",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

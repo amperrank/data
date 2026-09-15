@@ -4,7 +4,18 @@
   "name": "Shell Recharge OBN 0741 - Shell Christian Ritter Strasse",
   "evses": [
     {
-      "id": "DETNMEGL49010741012",
+      "id": "DETNMEGL49010741022",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49010741011",
       "connectors": [
         {
           "type": "ccs",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETNMEGL49010741022",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETNMEGL49010741011",
+      "id": "DETNMEGL49010741012",
       "connectors": [
         {
           "type": "ccs",

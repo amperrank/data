@@ -4,11 +4,11 @@
   "name": "Wilburgstetten, Bahnhofstraße",
   "evses": [
     {
-      "id": "DEEDRE320000581",
+      "id": "DEEDRE320000583",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 225.0
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,
@@ -26,22 +26,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEDRE320000591",
+      "id": "DEEDRE320000581",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 7.36
+          "type": "ccs",
+          "maxPowerKw": 225.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEEDRE320000583",
+      "id": "DEEDRE320000591",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 150.0
+          "type": "type2",
+          "maxPowerKw": 7.36
         }
       ],
       "authMethods": null,

@@ -4,7 +4,7 @@
   "name": "Eviny Germany Dülmen",
   "evses": [
     {
-      "id": "DEEVYEDUL2B",
+      "id": "DEEVYEDUL1A",
       "connectors": [
         {
           "type": "ccs",
@@ -15,11 +15,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEVYEDUL1A",
+      "id": "DEEVYEDUL4B",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 200.0
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEVYEDUL3B",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
         }
       ],
       "authMethods": null,
@@ -48,33 +59,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEVYEDUL3B",
+      "id": "DEEVYEDUL2B",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEVYEDUL4B",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEVYEDUL4A",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
+          "maxPowerKw": 200.0
         }
       ],
       "authMethods": null,
@@ -86,6 +75,17 @@
         {
           "type": "ccs",
           "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEVYEDUL4A",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
         }
       ],
       "authMethods": null,

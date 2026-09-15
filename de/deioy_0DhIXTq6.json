@@ -4,17 +4,6 @@
   "name": "IONITY GmbH IONITY Neckarburg Ost",
   "evses": [
     {
-      "id": "DEIOYE200806",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEIOYE200803",
       "connectors": [
         {
@@ -26,18 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE200802",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE200801",
+      "id": "DEIOYE200804",
       "connectors": [
         {
           "type": "ccs",
@@ -59,7 +37,29 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE200804",
+      "id": "DEIOYE200802",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE200806",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE200801",
       "connectors": [
         {
           "type": "ccs",
@@ -78,5 +78,8 @@
     "postcode": "78661",
     "province": null
   },
-  "openingHours": null
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
 }

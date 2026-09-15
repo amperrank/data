@@ -4,29 +4,18 @@
   "name": "Niebüll, Ostring 51 - 55 LIS 3",
   "evses": [
     {
-      "id": "DETMEE30166",
+      "id": "DETMEE30162",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DETMEE30167",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETMEE30165",
+      "id": "DETMEE30163",
       "connectors": [
         {
           "type": "ccs",
@@ -48,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETMEE30162",
+      "id": "DETMEE30165",
       "connectors": [
         {
           "type": "ccs",
@@ -59,11 +48,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DETMEE30163",
+      "id": "DETMEE30167",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETMEE30166",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

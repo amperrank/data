@@ -4,7 +4,18 @@
   "name": "Stadtwerke Bochum, P6 Hauptbahnhof (Buddenbergplatz), Ferdinandstraße 13",
   "evses": [
     {
-      "id": "DEBOXEAC0754",
+      "id": "DEBOXEAC0755",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBOXEAC0750",
       "connectors": [
         {
           "type": "type2",
@@ -26,29 +37,18 @@
       "paymentMethods": null
     },
     {
+      "id": "DEBOXEAC0754",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEBOXEAC0752",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBOXEAC0755",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBOXEAC0750",
       "connectors": [
         {
           "type": "type2",

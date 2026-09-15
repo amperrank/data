@@ -4,15 +4,15 @@
   "name": "Fastned Hochstraße",
   "evses": [
     {
-      "id": "DEFASE4940101",
+      "id": "DEFASE4940102",
       "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 50.0
-        },
         {
           "type": "ccs",
           "maxPowerKw": 300.0
+        },
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -30,15 +30,15 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFASE4940102",
+      "id": "DEFASE4940101",
       "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        },
         {
           "type": "chademo",
           "maxPowerKw": 50.0
+        },
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,

@@ -4,6 +4,17 @@
   "name": "DE Lübbecke 32312 Am Dornbusch 5 Autohaus Gebr.Schwarte GmbH & Co. KG (DC Station 1) öffentlich",
   "evses": [
     {
+      "id": "DEPOWE2359",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEPOWE02357",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEPOWE02360",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEPOWE2359",
       "connectors": [
         {
           "type": "ccs",

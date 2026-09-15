@@ -4,17 +4,6 @@
   "name": "go2zero charging solutions gmbh Valora Grundstücks + Verwaltungsges. mbH & Co. KG",
   "evses": [
     {
-      "id": "DELMSE12346256292",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DELMSE12346256302",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DELMSE12346256291",
+      "id": "DELMSE12346256292",
       "connectors": [
         {
           "type": "type2",
@@ -38,6 +27,17 @@
     },
     {
       "id": "DELMSE12346256301",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELMSE12346256291",
       "connectors": [
         {
           "type": "type2",

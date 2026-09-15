@@ -1,43 +1,10 @@
 {
   "operatorId": "DE*BOX",
   "geohash": "0GMSoyQK",
-  "name": "Stadtwerke Bochum, Parkhaus Hannibal Center Dorstener Str. 400",
+  "name": "Stadtwerke Bochum, Hannibal Center Dorstener Straße 400",
   "evses": [
     {
-      "id": "DEBOXEAC0886",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBOXEAC0887",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBOXEAC0823",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBOXEAC0824",
+      "id": "DEBOXEAC0827",
       "connectors": [
         {
           "type": "ccs",
@@ -81,11 +48,44 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBOXEAC0827",
+      "id": "DEBOXEAC0824",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBOXEAC0823",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBOXEAC0887",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBOXEAC0886",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

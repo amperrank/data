@@ -4,22 +4,22 @@
   "name": "Eni Station - Erdinger Allee 2, 85356 München-Flughafen",
   "evses": [
     {
-      "id": "DEPLNEH0012293",
+      "id": "DEPLNEH0006001",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 12.8
+          "type": "ccs",
+          "maxPowerKw": 110.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEPLNEH0006001",
+      "id": "DEPLNEH0012293",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 110.0
+          "type": "type2",
+          "maxPowerKw": 12.8
         }
       ],
       "authMethods": null,
@@ -67,5 +67,8 @@
     "postcode": "80331",
     "province": null
   },
-  "openingHours": null
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
 }

@@ -4,17 +4,6 @@
   "name": "Autohaus Tiedemann GmbH HYC 49,9 100142659 öffentlich",
   "evses": [
     {
-      "id": "DEPOWE03580",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 49.9
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEPOWE03578",
       "connectors": [
         {
@@ -31,6 +20,17 @@
         {
           "type": "type2",
           "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPOWE03580",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 49.9
         }
       ],
       "authMethods": null,

@@ -4,21 +4,21 @@
   "name": "Nelhiebel 50 kW DC LINKS",
   "evses": [
     {
-      "id": "ATHTBE1005811",
+      "id": "ATHTBE1006553",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "ATHTBE1024991",
+      "id": "ATHTBE1022894",
       "connectors": [
         {
-          "type": "chademo",
+          "type": "ccs",
           "maxPowerKw": 50.0
         }
       ],
@@ -27,17 +27,6 @@
     },
     {
       "id": "ATHTBE1006555",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "ATHTBE1022893",
       "connectors": [
         {
           "type": "chademo",
@@ -59,10 +48,10 @@
       "paymentMethods": null
     },
     {
-      "id": "ATHTBE1006553",
+      "id": "ATHTBE1022893",
       "connectors": [
         {
-          "type": "ccs",
+          "type": "chademo",
           "maxPowerKw": 50.0
         }
       ],
@@ -70,10 +59,21 @@
       "paymentMethods": null
     },
     {
-      "id": "ATHTBE1022894",
+      "id": "ATHTBE1005811",
       "connectors": [
         {
-          "type": "ccs",
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "ATHTBE1024991",
+      "connectors": [
+        {
+          "type": "chademo",
           "maxPowerKw": 50.0
         }
       ],

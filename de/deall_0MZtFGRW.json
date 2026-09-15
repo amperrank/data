@@ -4,6 +4,17 @@
   "name": "Allego - JET Tankstelle Berlin-Spandau",
   "evses": [
     {
+      "id": "DEALLEGO0017132",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEALLEGO0017122",
       "connectors": [
         {
@@ -37,40 +48,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0028761",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEALLEGO0028822",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEALLEGO0017112",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEALLEGO0017121",
+      "id": "DEALLEGO0017111",
       "connectors": [
         {
           "type": "type2",
@@ -103,7 +81,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0017111",
+      "id": "DEALLEGO0017141",
       "connectors": [
         {
           "type": "type2",
@@ -114,7 +92,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0028641",
+      "id": "DEALLEGO0028651",
       "connectors": [
         {
           "type": "ccs",
@@ -125,11 +103,44 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0028762",
+      "id": "DEALLEGO0028761",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEALLEGO0017121",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEALLEGO0028822",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEALLEGO0017112",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
         }
       ],
       "authMethods": null,
@@ -147,29 +158,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0017132",
+      "id": "DEALLEGO0028762",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 7.36
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEALLEGO0017141",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEALLEGO0028651",
+      "id": "DEALLEGO0028641",
       "connectors": [
         {
           "type": "ccs",

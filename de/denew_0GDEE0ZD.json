@@ -4,17 +4,6 @@
   "name": "NEW Alfred-Wirth-Str. Erk - P&R Parkplatz",
   "evses": [
     {
-      "id": "DENEWE10001383672",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 100.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DENEWE10001383692",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DENEWE10001383691",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DENEWE10001383672",
       "connectors": [
         {
           "type": "ccs",

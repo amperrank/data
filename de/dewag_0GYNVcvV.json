@@ -4,17 +4,6 @@
   "name": "Westfalen AG - Ochtrup",
   "evses": [
     {
-      "id": "DEWAGEE0089",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 110.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEWAGEE0278",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DEWAGEE0278",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 110.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEWAGEE0089",
       "connectors": [
         {
           "type": "ccs",

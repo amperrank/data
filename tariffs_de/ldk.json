@@ -1,0 +1,299 @@
+[
+  {
+    "operatorId": {
+      "countryCode": "DE",
+      "cpo": "LDK"
+    },
+    "currency": "EUR",
+    "validFrom": null,
+    "validTo": null,
+    "updatedAt": "2026-09-15T00:00:00.000",
+    "description": "BS|Energy Löwenladen (Braunschweig) tariff. Standard AC 0,53 EUR/kWh, DC 0,59 EUR/kWh. Stromkunde AC 0,46 EUR/kWh, DC 0,56 EUR/kWh (restricted to existing BS|ENERGY electricity customers). Shared idle fees: AC 0,05 EUR/min after 240 min (08:00–23:00), DC ≤ 50 kW 0,05 EUR/min after 90 min, DC ≥ 51 kW 0,05 EUR/min after 60 min. Prices incl. 19% VAT.",
+    "tiers": [
+      {
+        "id": "standard",
+        "name": "Standard",
+        "role": "standard",
+        "subscriptionFee": null,
+        "requiresMembership": false,
+        "applicableHours": null,
+        "description": null,
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 0.53,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 0.59,
+            "unit": "kWh",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.05,
+            "unit": "min",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": 240,
+            "condition": null,
+            "applicableHours": {
+              "isOpen247": false,
+              "regularHours": [
+                {
+                  "weekday": 1,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 23,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 2,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 23,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 3,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 23,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 4,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 23,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 5,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 23,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 6,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 23,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 7,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 23,
+                    "minute": 0
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.05,
+            "unit": "min",
+            "minPowerKw": 22.01,
+            "maxPowerKw": 50,
+            "gracePeriodMinutes": 90,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.05,
+            "unit": "min",
+            "minPowerKw": 50.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": 60,
+            "condition": null,
+            "applicableHours": null
+          }
+        ]
+      },
+      {
+        "id": "stromkunde",
+        "name": "Stromkunde",
+        "role": "promoRestricted",
+        "subscriptionFee": null,
+        "requiresMembership": true,
+        "applicableHours": null,
+        "description": "Restricted to existing BS|ENERGY electricity customers with a valid customer number registered in the Löwenladen app.",
+        "prices": [
+          {
+            "type": "energy",
+            "pricePerUnit": 0.46,
+            "unit": "kWh",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "energy",
+            "pricePerUnit": 0.56,
+            "unit": "kWh",
+            "minPowerKw": 22.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": null,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.05,
+            "unit": "min",
+            "minPowerKw": null,
+            "maxPowerKw": 22,
+            "gracePeriodMinutes": 240,
+            "condition": null,
+            "applicableHours": {
+              "isOpen247": false,
+              "regularHours": [
+                {
+                  "weekday": 1,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 23,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 2,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 23,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 3,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 23,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 4,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 23,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 5,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 23,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 6,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 23,
+                    "minute": 0
+                  }
+                },
+                {
+                  "weekday": 7,
+                  "periodBegin": {
+                    "hour": 8,
+                    "minute": 0
+                  },
+                  "periodEnd": {
+                    "hour": 23,
+                    "minute": 0
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.05,
+            "unit": "min",
+            "minPowerKw": 22.01,
+            "maxPowerKw": 50,
+            "gracePeriodMinutes": 90,
+            "condition": null,
+            "applicableHours": null
+          },
+          {
+            "type": "idle",
+            "pricePerUnit": 0.05,
+            "unit": "min",
+            "minPowerKw": 50.01,
+            "maxPowerKw": null,
+            "gracePeriodMinutes": 60,
+            "condition": null,
+            "applicableHours": null
+          }
+        ]
+      }
+    ]
+  }
+]

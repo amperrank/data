@@ -1,14 +1,14 @@
 {
   "operatorId": "DE*WAG",
   "geohash": "0GM2w94f",
-  "name": "Autohaus Marianne Schmidt - Lünen",
+  "name": "Autohaus Marianne Schmidt Skoda - Lünen",
   "evses": [
     {
-      "id": "DEWAGE305142",
+      "id": "DEWAGE279800",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 7.36
         }
       ],
       "authMethods": null,
@@ -37,11 +37,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEWAGE279800",
+      "id": "DEWAGE305142",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 7.36
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

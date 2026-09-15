@@ -4,17 +4,6 @@
   "name": "Jochen Hauser #01",
   "evses": [
     {
-      "id": "DECIWE001516",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DECIWE001414",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DECIWE001515",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECIWE001516",
       "connectors": [
         {
           "type": "ccs",

@@ -15,11 +15,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPLNEH0014732",
+      "id": "DEPLNEH0014731",
       "connectors": [
         {
-          "type": "chademo",
-          "maxPowerKw": 51.0
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEPLNEH0014863",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
@@ -37,22 +48,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEPLNEH0014731",
+      "id": "DEPLNEH0014732",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEPLNEH0014863",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
+          "type": "chademo",
+          "maxPowerKw": 51.0
         }
       ],
       "authMethods": null,
@@ -78,5 +78,8 @@
     "postcode": "73563",
     "province": null
   },
-  "openingHours": null
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
 }

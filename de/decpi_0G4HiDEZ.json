@@ -4,6 +4,17 @@
   "name": "DAIMLERRING 6 22KW.2-RECHT",
   "evses": [
     {
+      "id": "DECPIE67588051",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DECPIE67588451",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DECPIE67588052",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE67588051",
       "connectors": [
         {
           "type": "type2",

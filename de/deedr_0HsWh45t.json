@@ -1,8 +1,19 @@
 {
   "operatorId": "DE*EDR",
   "geohash": "0HsWh45t",
-  "name": "Gettorf, Eichkoppel HYC",
+  "name": "Gettorf, Eichkoppel EBG3",
   "evses": [
+    {
+      "id": "DEEDRE320000191",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DEEDRE510007201",
       "connectors": [
@@ -26,7 +37,29 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEDRE320000191",
+      "id": "DEEDRE510007202",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEDRE510007181",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEDRE320000192",
       "connectors": [
         {
           "type": "ccs",
@@ -49,39 +82,6 @@
     },
     {
       "id": "DEEDRE510007182",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEDRE510007202",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEDRE320000192",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEDRE510007181",
       "connectors": [
         {
           "type": "type2",

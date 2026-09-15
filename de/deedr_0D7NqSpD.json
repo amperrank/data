@@ -4,6 +4,17 @@
   "name": "Höchstadt a.d. Aisch, Parkplatz Engelgarten",
   "evses": [
     {
+      "id": "DEEDRE110001521",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 14.26
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEEDRE110001522",
       "connectors": [
         {
@@ -13,17 +24,6 @@
         {
           "type": "ccs",
           "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEDRE110001521",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 14.26
         }
       ],
       "authMethods": null,

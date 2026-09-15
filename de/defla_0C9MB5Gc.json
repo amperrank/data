@@ -4,11 +4,11 @@
   "name": "e-con AG e-con Oberstaufen",
   "evses": [
     {
-      "id": "DEFLAE12346888942",
+      "id": "DEFLAE12346888941",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 300.0
+          "maxPowerKw": 99.2
         }
       ],
       "authMethods": null,
@@ -26,18 +26,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFLAE12346888941",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 99.2
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEFLAE12346888582",
+      "id": "DEFLAE12346888942",
       "connectors": [
         {
           "type": "ccs",
@@ -53,6 +42,17 @@
         {
           "type": "ccs",
           "maxPowerKw": 99.2
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEFLAE12346888582",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,

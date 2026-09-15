@@ -4,6 +4,17 @@
   "name": "IONITY GmbH IONITY Hamminkeln",
   "evses": [
     {
+      "id": "DEIOYE217701",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEIOYE217706",
       "connectors": [
         {
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE217703",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE217701",
+      "id": "DEIOYE217702",
       "connectors": [
         {
           "type": "ccs",
@@ -59,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE217702",
+      "id": "DEIOYE217703",
       "connectors": [
         {
           "type": "ccs",
@@ -78,5 +78,8 @@
     "postcode": "46499",
     "province": null
   },
-  "openingHours": null
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
 }

@@ -1,36 +1,14 @@
 {
   "operatorId": "DE*EIC",
   "geohash": "0GsLOuUR",
-  "name": "EIC000032--Heilbad Heiligenstadt, Vitalpark Leine Aue 1",
+  "name": "EIC000053--Heilbad Heiligenstadt, Vitalpark Leine Aue 1",
   "evses": [
     {
-      "id": "DEGUCEEIC0071",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEGUCEEIC0072",
+      "id": "DEGUCEEIC0129",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEGUCEEIC0073",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -48,11 +26,33 @@
       "paymentMethods": null
     },
     {
-      "id": "DEGUCEEIC0129",
+      "id": "DEGUCEEIC0072",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGUCEEIC0071",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGUCEEIC0073",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

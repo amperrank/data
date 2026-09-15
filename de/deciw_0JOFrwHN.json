@@ -4,6 +4,17 @@
   "name": "wattline GmbH, Fischhaus #02",
   "evses": [
     {
+      "id": "DECIWE001248",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DECIWE001245",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DECIWE001246",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECIWE001248",
       "connectors": [
         {
           "type": "type2",

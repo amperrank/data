@@ -4,6 +4,17 @@
   "name": "Allego - REWE Bad Doberan",
   "evses": [
     {
+      "id": "DEALLEGO0036582",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEALLEGO0036611",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DEALLEGO0036612",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEALLEGO0036582",
       "connectors": [
         {
           "type": "ccs",

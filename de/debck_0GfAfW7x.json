@@ -1,19 +1,8 @@
 {
   "operatorId": "DE*BCK",
   "geohash": "0GfAfW7x",
-  "name": "Backcharge GmbH Backcharge: Büsing AC",
+  "name": "Backcharge GmbH Backcharge: Büsing",
   "evses": [
-    {
-      "id": "DEBCKE10001276041",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 3.68
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DEBCKE10001154642",
       "connectors": [
@@ -31,6 +20,17 @@
         {
           "type": "ccs",
           "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBCKE10001276041",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 3.68
         }
       ],
       "authMethods": null,

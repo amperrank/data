@@ -4,28 +4,6 @@
   "name": "STWW_Friedrich-Ebert-Str. 116, 58454 Witten_DC_Oe",
   "evses": [
     {
-      "id": "DEWITE0109",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEWITE0232",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEWITE0108",
       "connectors": [
         {
@@ -38,6 +16,28 @@
     },
     {
       "id": "DEWITE0233",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEWITE0109",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEWITE0232",
       "connectors": [
         {
           "type": "ccs",

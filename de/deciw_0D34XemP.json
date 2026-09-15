@@ -4,7 +4,7 @@
   "name": "CITYWATT Eichenzell #02 - 300 kW",
   "evses": [
     {
-      "id": "DECIWE001223",
+      "id": "DECIWE001231",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DECIWE001224",
+      "id": "DECIWE001226",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECIWE001223",
       "connectors": [
         {
           "type": "ccs",
@@ -37,6 +48,17 @@
       "paymentMethods": null
     },
     {
+      "id": "DECIWE001224",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DECIWE001225",
       "connectors": [
         {
@@ -48,7 +70,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECIWE001222",
+      "id": "DECIWE001227",
       "connectors": [
         {
           "type": "ccs",
@@ -59,7 +81,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECIWE001227",
+      "id": "DECIWE001222",
       "connectors": [
         {
           "type": "ccs",
@@ -82,28 +104,6 @@
     },
     {
       "id": "DECIWE001228",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECIWE001231",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECIWE001226",
       "connectors": [
         {
           "type": "ccs",

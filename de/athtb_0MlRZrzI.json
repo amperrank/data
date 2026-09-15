@@ -4,6 +4,17 @@
   "name": "Typ 2/22kW",
   "evses": [
     {
+      "id": "ATHTBE1002564",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "ATHTBE1002563",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "ATHTBE1002561",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "ATHTBE1002564",
       "connectors": [
         {
           "type": "type2",

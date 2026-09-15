@@ -4,17 +4,6 @@
   "name": "TotalEnergies | RewePenny | Berlin | Fehrbelliner Strasse 29",
   "evses": [
     {
-      "id": "DETCBE3D9CS452220012",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETCBE3D9CS452220022",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DETCBE3D9CS452220021",
+      "id": "DETCBE3D9CS452220012",
       "connectors": [
         {
           "type": "ccs",
@@ -38,6 +27,17 @@
     },
     {
       "id": "DETCBE3D9CS452220011",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETCBE3D9CS452220021",
       "connectors": [
         {
           "type": "ccs",

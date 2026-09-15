@@ -4,17 +4,6 @@
   "name": "Hotel St. Georg",
   "evses": [
     {
-      "id": "ATHTBE1010327",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "ATHTBE1010328",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "ATHTBE1010326",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "ATHTBE1010327",
       "connectors": [
         {
           "type": "type2",

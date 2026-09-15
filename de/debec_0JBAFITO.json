@@ -1,32 +1,10 @@
 {
   "operatorId": "DE*BEC",
   "geohash": "0JBAFITO",
-  "name": "Charge Green OnSite GmbH, Julie-Mayr-Str. 4, 82256 Fürstenfeldbruck, P1+P2",
+  "name": "Charge Green OnSite GmbH, Julie-Mayr-Str. 4, 82256 Fürstenfeldbruck, P3+P4",
   "evses": [
     {
-      "id": "DEGUCEBEC0189",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 60.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEGUCEBEC0190",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 60.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEGUCEBEC0041",
+      "id": "DEBECECGO0032",
       "connectors": [
         {
           "type": "type2",
@@ -37,11 +15,33 @@
       "paymentMethods": null
     },
     {
-      "id": "DEGUCEBEC0109",
+      "id": "DEBECECGO0031",
       "connectors": [
         {
           "type": "type2",
           "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBECECGO0029",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBECECGO0030",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 60.0
         }
       ],
       "authMethods": null,

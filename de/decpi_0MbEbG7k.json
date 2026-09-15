@@ -4,7 +4,18 @@
   "name": "GEWOBAG ED LINDENSTR. B",
   "evses": [
     {
-      "id": "DECPIE64767652",
+      "id": "DECPIE64767751",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE64767752",
       "connectors": [
         {
           "type": "type2",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE64767751",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE64767752",
+      "id": "DECPIE64767652",
       "connectors": [
         {
           "type": "type2",

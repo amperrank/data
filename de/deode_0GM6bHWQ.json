@@ -4,18 +4,7 @@
   "name": "DC-10030-01",
   "evses": [
     {
-      "id": "DEODEEDC100300101",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEODEEDC100300204",
+      "id": "DEODEEDC100300203",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEODEEDC100300203",
+      "id": "DEODEEDC100300204",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEODEEDC100300101",
       "connectors": [
         {
           "type": "ccs",

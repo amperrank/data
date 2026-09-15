@@ -4,17 +4,6 @@
   "name": "CCEL-WSW-Muskauer Straße",
   "evses": [
     {
-      "id": "DECCEE150011",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DECCEE150012",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DECCEE150012",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECCEE150011",
       "connectors": [
         {
           "type": "type2",

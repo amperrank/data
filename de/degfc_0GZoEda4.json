@@ -4,6 +4,17 @@
   "name": "Greenflash Charge Modehaus Schulte (öffentlich)",
   "evses": [
     {
+      "id": "DEGFCE12346501722",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEGFCE12346501492",
       "connectors": [
         {
@@ -26,40 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEGFCE12346501722",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEGFCE12346501511",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEGFCE12346501721",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEGFCE12346501461",
+      "id": "DEGFCE12346501491",
       "connectors": [
         {
           "type": "type2",
@@ -81,11 +59,33 @@
       "paymentMethods": null
     },
     {
-      "id": "DEGFCE12346501491",
+      "id": "DEGFCE12346501511",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGFCE12346501461",
       "connectors": [
         {
           "type": "type2",
           "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEGFCE12346501721",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

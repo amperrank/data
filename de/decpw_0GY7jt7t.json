@@ -4,7 +4,7 @@
   "name": "CutPower CutPower HPC Ladestation Burger King Ibbenbüren",
   "evses": [
     {
-      "id": "DECPWE12348786352",
+      "id": "DECPWE12348786342",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPWE12348786321",
+      "id": "DECPWE12348786341",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 500.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPWE12348786332",
       "connectors": [
         {
           "type": "ccs",
@@ -48,40 +59,29 @@
       "paymentMethods": null
     },
     {
+      "id": "DECPWE12348786321",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 500.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPWE12348786352",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 500.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DECPWE12348786331",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 500.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPWE12348786332",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 500.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPWE12348786342",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 500.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPWE12348786341",
       "connectors": [
         {
           "type": "ccs",

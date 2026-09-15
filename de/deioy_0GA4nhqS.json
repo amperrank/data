@@ -4,18 +4,7 @@
   "name": "IONITY GmbH IONITY Aachener Land Nord",
   "evses": [
     {
-      "id": "DEIOYE206703",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE206704",
+      "id": "DEIOYE206702",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE206702",
+      "id": "DEIOYE206704",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE206703",
       "connectors": [
         {
           "type": "ccs",
@@ -56,5 +56,8 @@
     "postcode": "52249",
     "province": null
   },
-  "openingHours": null
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
 }

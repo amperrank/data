@@ -4,6 +4,17 @@
   "name": "go2zero charging solutions gmbh Hof Hausen vor der Sonne",
   "evses": [
     {
+      "id": "DELMSE12349102121",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 3.68
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DELMSE12349102141",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DELMSE12349102151",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 3.68
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DELMSE12349102121",
       "connectors": [
         {
           "type": "type2",

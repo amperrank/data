@@ -1,0 +1,52 @@
+{
+  "operatorId": "DE*451",
+  "geohash": "0HrDO3MO",
+  "name": "EMIL0011",
+  "evses": [
+    {
+      "id": "DE451EMIL001102",
+      "connectors": [
+        {
+          "type": "chademo",
+          "maxPowerKw": 62.5
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE451EMIL001103",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 130.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DE451EMIL001101",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 130.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    }
+  ],
+  "facilities": null,
+  "address": {
+    "city": "Lübeck",
+    "street": "Geniner Straße",
+    "houseNumber": null,
+    "postcode": "23560",
+    "province": null
+  },
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
+}

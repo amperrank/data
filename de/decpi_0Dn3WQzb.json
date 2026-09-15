@@ -4,6 +4,17 @@
   "name": "IMS NEUENSTEIN PARKPLATZ 1",
   "evses": [
     {
+      "id": "DECPIE67286051",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DECPIE67286851",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DECPIE67286852",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE67286051",
       "connectors": [
         {
           "type": "type2",

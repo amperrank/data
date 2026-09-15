@@ -1,30 +1,8 @@
 {
   "operatorId": "DE*EAM",
   "geohash": "0GjeE215",
-  "name": "320 023S Baunatal Kino",
+  "name": "640 016 Baunatal, Friedrich-Ebert-Allee Kino",
   "evses": [
-    {
-      "id": "DEEAME0713",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEAME0714",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DEEAME0142",
       "connectors": [
@@ -42,6 +20,28 @@
         {
           "type": "type2",
           "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEAME0713",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEEAME0714",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
         }
       ],
       "authMethods": null,
@@ -74,7 +74,7 @@
   "address": {
     "city": "Baunatal",
     "street": "Friedrich-Ebert-Allee",
-    "houseNumber": null,
+    "houseNumber": "8a",
     "postcode": "34225",
     "province": null
   },

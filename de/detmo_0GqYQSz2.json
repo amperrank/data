@@ -4,18 +4,7 @@
   "name": "TMO LP1/2 LIDL",
   "evses": [
     {
-      "id": "DETMOE11015001",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETMOE11015004",
+      "id": "DETMOE11015005",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DETMOE11015005",
+      "id": "DETMOE11015004",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETMOE11015001",
       "connectors": [
         {
           "type": "ccs",

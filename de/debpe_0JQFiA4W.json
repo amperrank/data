@@ -1,8 +1,19 @@
 {
   "operatorId": "DE*BPE",
   "geohash": "0JQFiA4W",
-  "name": "Aral pulse Mimbergerstr. 43",
+  "name": "Aral pulse Mimberger Straße 43, 90559 Burgthann",
   "evses": [
+    {
+      "id": "DEBPEE3EF1490203",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DEBPEE3EF1490101",
       "connectors": [
@@ -27,17 +38,6 @@
     },
     {
       "id": "DEBPEE3EF1490204",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBPEE3EF1490203",
       "connectors": [
         {
           "type": "ccs",

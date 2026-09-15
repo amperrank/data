@@ -4,6 +4,17 @@
   "name": "enercity AG Kastens Hotel Luisenhof - Tiefgarage - T01",
   "evses": [
     {
+      "id": "DEENCELA000036001B",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEENCELA000036001A",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DEENCELA000036T01B",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEENCELA000036001B",
       "connectors": [
         {
           "type": "type2",

@@ -4,7 +4,7 @@
   "name": "IONITY GmbH IONITY Lonetal Ost",
   "evses": [
     {
-      "id": "DEIOYE200401",
+      "id": "DEIOYE200405",
       "connectors": [
         {
           "type": "ccs",
@@ -15,18 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE200403",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE200404",
+      "id": "DEIOYE200406",
       "connectors": [
         {
           "type": "ccs",
@@ -48,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE200405",
+      "id": "DEIOYE200404",
       "connectors": [
         {
           "type": "ccs",
@@ -59,7 +48,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE200406",
+      "id": "DEIOYE200401",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE200403",
       "connectors": [
         {
           "type": "ccs",
@@ -78,5 +78,8 @@
     "postcode": "89537",
     "province": null
   },
-  "openingHours": null
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
 }

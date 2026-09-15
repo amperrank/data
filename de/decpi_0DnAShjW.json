@@ -15,6 +15,21 @@
       "paymentMethods": null
     },
     {
+      "id": "DECPIE65280952",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        },
+        {
+          "type": "chademo",
+          "maxPowerKw": 44.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DECPIE65062051",
       "connectors": [
         {
@@ -37,17 +52,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE66286852",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 75.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DECPIE66286851",
       "connectors": [
         {
@@ -59,15 +63,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE65280952",
+      "id": "DECPIE66286852",
       "connectors": [
         {
           "type": "chademo",
-          "maxPowerKw": 44.0
-        },
-        {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "maxPowerKw": 75.0
         }
       ],
       "authMethods": null,

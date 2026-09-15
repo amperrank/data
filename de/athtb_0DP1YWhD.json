@@ -4,7 +4,18 @@
   "name": "Energie_Suedwest_73",
   "evses": [
     {
-      "id": "ATHTBE1023153",
+      "id": "ATHTBE1013244",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "ATHTBE1023152",
       "connectors": [
         {
           "type": "type2",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "ATHTBE1013244",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "ATHTBE1023152",
+      "id": "ATHTBE1023153",
       "connectors": [
         {
           "type": "type2",

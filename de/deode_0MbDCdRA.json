@@ -4,6 +4,17 @@
   "name": "DC-10020-02",
   "evses": [
     {
+      "id": "DEODEEDC100200204",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEODEEDC100200203",
       "connectors": [
         {
@@ -27,17 +38,6 @@
     },
     {
       "id": "DEODEEDC100200101",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEODEEDC100200204",
       "connectors": [
         {
           "type": "ccs",

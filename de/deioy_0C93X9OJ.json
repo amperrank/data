@@ -4,7 +4,7 @@
   "name": "IONITY GmbH IONITY Dietmannsried",
   "evses": [
     {
-      "id": "DEIOYE228871",
+      "id": "DEIOYE228874",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE228806",
+      "id": "DEIOYE228812",
       "connectors": [
         {
           "type": "ccs",
@@ -26,7 +26,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE228812",
+      "id": "DEIOYE228806",
       "connectors": [
         {
           "type": "ccs",
@@ -48,11 +48,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE228873",
+      "id": "DEIOYE228871",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 200.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE228807",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
         }
       ],
       "authMethods": null,
@@ -70,11 +81,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE228807",
+      "id": "DEIOYE228873",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 350.0
+          "maxPowerKw": 200.0
         }
       ],
       "authMethods": null,
@@ -103,17 +114,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE228810",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEIOYE228811",
       "connectors": [
         {
@@ -125,11 +125,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE228874",
+      "id": "DEIOYE228810",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 200.0
+          "maxPowerKw": 350.0
         }
       ],
       "authMethods": null,
@@ -144,5 +144,8 @@
     "postcode": "87463",
     "province": null
   },
-  "openingHours": null
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
 }

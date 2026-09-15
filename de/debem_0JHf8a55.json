@@ -4,17 +4,6 @@
   "name": "Ladestation Autohaus Lacher",
   "evses": [
     {
-      "id": "DEBEME0011019",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEBEME0011018",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DEBEME0011017",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBEME0011019",
       "connectors": [
         {
           "type": "ccs",

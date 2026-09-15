@@ -4,17 +4,6 @@
   "name": "Kirchenplatz_Neu",
   "evses": [
     {
-      "id": "DEINEE100002",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEINEE100003",
       "connectors": [
         {
@@ -26,7 +15,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEINEE100009",
+      "id": "DEINEE100002",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEINEE100010",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEINEE100010",
+      "id": "DEINEE100009",
       "connectors": [
         {
           "type": "ccs",

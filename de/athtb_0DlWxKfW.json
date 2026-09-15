@@ -4,7 +4,29 @@
   "name": "Ronal_FO_AC_4_W20",
   "evses": [
     {
-      "id": "ATHTBE1004222",
+      "id": "ATHTBE1004219",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "ATHTBE1004218",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "ATHTBE1008133",
       "connectors": [
         {
           "type": "type2",
@@ -26,11 +48,11 @@
       "paymentMethods": null
     },
     {
-      "id": "ATHTBE1008125",
+      "id": "ATHTBE1004222",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -59,33 +81,11 @@
       "paymentMethods": null
     },
     {
-      "id": "ATHTBE1004218",
+      "id": "ATHTBE1008125",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "ATHTBE1004219",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "ATHTBE1008133",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

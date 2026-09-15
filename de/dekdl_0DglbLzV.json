@@ -4,21 +4,21 @@
   "name": "Kaufland Tuttlingen",
   "evses": [
     {
-      "id": "DEKDLE00000568",
+      "id": "DEKDLE00000567",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00000569",
+      "id": "DEKDLE00000568",
       "connectors": [
         {
-          "type": "chademo",
+          "type": "ccs",
           "maxPowerKw": 50.0
         }
       ],
@@ -37,11 +37,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00000567",
+      "id": "DEKDLE00000569",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "chademo",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,

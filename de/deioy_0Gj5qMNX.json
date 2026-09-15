@@ -4,7 +4,7 @@
   "name": "IONITY GmbH IONITY Hessisch Lichtenau",
   "evses": [
     {
-      "id": "DEIOYE237772",
+      "id": "DEIOYE237774",
       "connectors": [
         {
           "type": "ccs",
@@ -37,6 +37,17 @@
       "paymentMethods": null
     },
     {
+      "id": "DEIOYE237772",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEIOYE237771",
       "connectors": [
         {
@@ -57,17 +68,6 @@
       ],
       "authMethods": null,
       "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE237774",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
     }
   ],
   "facilities": null,
@@ -78,5 +78,8 @@
     "postcode": "37235",
     "province": null
   },
-  "openingHours": null
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
 }

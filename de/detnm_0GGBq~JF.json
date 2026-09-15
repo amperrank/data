@@ -4,17 +4,6 @@
   "name": "Shell Recharge OBN 3666 - Shell Otto-Schott-Strasse",
   "evses": [
     {
-      "id": "DETNMEGL49013666021",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGL49013666011",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DETNMEGL49013666022",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49013666021",
       "connectors": [
         {
           "type": "ccs",

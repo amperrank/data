@@ -4,17 +4,6 @@
   "name": "Mer Germany GmbH DB RegioNetz Verkehrs GmbH - Mühldorf am Inn - Bahnhofsplatz 6 #1",
   "evses": [
     {
-      "id": "DEMERE00054412",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEMERE00054321",
       "connectors": [
         {
@@ -37,6 +26,17 @@
       "paymentMethods": null
     },
     {
+      "id": "DEMERE00054421",
+      "connectors": [
+        {
+          "type": "unknown",
+          "maxPowerKw": 3.6
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEMERE00054322",
       "connectors": [
         {
@@ -48,11 +48,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMERE00054421",
+      "id": "DEMERE00054412",
       "connectors": [
         {
-          "type": "unknown",
-          "maxPowerKw": 3.6
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -70,22 +70,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DEMERE00054312",
+      "id": "DEMERE00054311",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "unknown",
+          "maxPowerKw": 3.6
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEMERE00054311",
+      "id": "DEMERE00054312",
       "connectors": [
         {
-          "type": "unknown",
-          "maxPowerKw": 3.6
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

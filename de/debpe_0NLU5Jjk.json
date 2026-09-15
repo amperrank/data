@@ -1,25 +1,25 @@
 {
   "operatorId": "DE*BPE",
   "geohash": "0NLU5Jjk",
-  "name": "Aral pulse (Burger King)",
+  "name": "Aral pulse Koitenhäger Landstraße 20, 17491 Greifswald",
   "evses": [
-    {
-      "id": "DEBPEE3EF0060103",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DEBPEE3EF0060102",
       "connectors": [
         {
           "type": "chademo",
           "maxPowerKw": 100.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBPEE3EF0060103",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,

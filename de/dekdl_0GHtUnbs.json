@@ -4,11 +4,11 @@
   "name": "Kaufland Borken",
   "evses": [
     {
-      "id": "DEKDLE00003008",
+      "id": "DEKDLE00003504",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
@@ -26,7 +26,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00003006",
+      "id": "DEKDLE00003008",
       "connectors": [
         {
           "type": "type2",
@@ -37,11 +37,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEKDLE00003504",
+      "id": "DEKDLE00003006",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

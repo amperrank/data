@@ -4,22 +4,22 @@
   "name": "Mer Germany GmbH Hotel Postwirt - Grafenau - Rosenau 48 #2",
   "evses": [
     {
-      "id": "DEMERE00589701",
+      "id": "DEMERE00589601",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 11.0
+          "type": "ccs",
+          "maxPowerKw": 30.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEMERE00589601",
+      "id": "DEMERE00589701",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 30.0
+          "type": "type2",
+          "maxPowerKw": 11.0
         }
       ],
       "authMethods": null,

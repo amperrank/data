@@ -4,17 +4,6 @@
   "name": "[FL-PUB] Rita Billermann Lennis Eierhof - DC - Eichrecht - DE*DES*E1003868",
   "evses": [
     {
-      "id": "DEDESE10038681",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 75.2
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEDESE10038683",
       "connectors": [
         {
@@ -27,6 +16,17 @@
     },
     {
       "id": "DEDESE10038682",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 75.2
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEDESE10038681",
       "connectors": [
         {
           "type": "ccs",

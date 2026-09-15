@@ -1,8 +1,19 @@
 {
   "operatorId": "DE*EDR",
   "geohash": "0MaUudnm",
-  "name": "Hotel Townhouse Dahlewitz, Blankenfelde SBD3",
+  "name": "Hotel Townhouse Dahlewitz, Blankenfelde SBD2",
   "evses": [
+    {
+      "id": "DEEDRE220109101",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 3.68
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
     {
       "id": "DEEDRE220140771",
       "connectors": [
@@ -37,17 +48,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEDRE220140772",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 3.68
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEEDRE220139942",
       "connectors": [
         {
@@ -59,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEDRE220139941",
+      "id": "DEEDRE220140772",
       "connectors": [
         {
           "type": "type2",
@@ -70,7 +70,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEDRE220109101",
+      "id": "DEEDRE220139941",
       "connectors": [
         {
           "type": "type2",

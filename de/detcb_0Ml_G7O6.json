@@ -4,6 +4,17 @@
   "name": "222170-DN | Guben | Cottbuser Strasse 13",
   "evses": [
     {
+      "id": "DETCBE3D9CS500230021",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DETCBE3D9CS500230022",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DETCBE3D9CS500230012",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETCBE3D9CS500230021",
       "connectors": [
         {
           "type": "ccs",

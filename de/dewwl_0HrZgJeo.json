@@ -1,19 +1,8 @@
 {
   "operatorId": "DE*WWL",
   "geohash": "0HrZgJeo",
-  "name": "9900101",
+  "name": "9900102",
   "evses": [
-    {
-      "id": "DEWWLE990010104",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DEWWLE990010204",
       "connectors": [
@@ -27,6 +16,17 @@
     },
     {
       "id": "DEWWLE990010404",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEWWLE990010104",
       "connectors": [
         {
           "type": "type2",
@@ -59,7 +59,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEWWLE990010704",
+      "id": "DEWWLE990010804",
       "connectors": [
         {
           "type": "type2",
@@ -70,7 +70,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEWWLE990010804",
+      "id": "DEWWLE990010704",
       "connectors": [
         {
           "type": "type2",

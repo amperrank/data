@@ -4,6 +4,17 @@
   "name": "DC-14052-01",
   "evses": [
     {
+      "id": "DEODEEDC140520204",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEODEEDC140520102",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEODEEDC140520203",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEODEEDC140520204",
       "connectors": [
         {
           "type": "ccs",

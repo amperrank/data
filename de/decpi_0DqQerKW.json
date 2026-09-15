@@ -4,6 +4,17 @@
   "name": "E-CON AG THERME 5",
   "evses": [
     {
+      "id": "DECPIE68757752",
+      "connectors": [
+        {
+          "type": "type1",
+          "maxPowerKw": 7.68
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DECPIE68757751",
       "connectors": [
         {
@@ -15,11 +26,22 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE68757752",
+      "id": "DECPIE68757451",
       "connectors": [
         {
           "type": "type1",
-          "maxPowerKw": 7.68
+          "maxPowerKw": 22.08
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE68757152",
+      "connectors": [
+        {
+          "type": "type1",
+          "maxPowerKw": 22.08
         }
       ],
       "authMethods": null,
@@ -48,7 +70,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE68757152",
+      "id": "DECPIE68757151",
       "connectors": [
         {
           "type": "type1",
@@ -60,17 +82,6 @@
     },
     {
       "id": "DECPIE68757652",
-      "connectors": [
-        {
-          "type": "type1",
-          "maxPowerKw": 22.08
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE68757151",
       "connectors": [
         {
           "type": "type1",
@@ -96,17 +107,6 @@
       "connectors": [
         {
           "type": "type2",
-          "maxPowerKw": 22.08
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE68757451",
-      "connectors": [
-        {
-          "type": "type1",
           "maxPowerKw": 22.08
         }
       ],

@@ -4,11 +4,22 @@
   "name": "e-con AG e-con Memmingerberg - public",
   "evses": [
     {
-      "id": "DEFLAE12346692112",
+      "id": "DEFLAE12346692121",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEFLAE12346692111",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 99.2
         }
       ],
       "authMethods": null,
@@ -26,22 +37,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEFLAE12346692121",
+      "id": "DEFLAE12346692112",
       "connectors": [
         {
           "type": "ccs",
           "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEFLAE12346692111",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 99.2
         }
       ],
       "authMethods": null,

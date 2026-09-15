@@ -4,6 +4,17 @@
   "name": "HAHN AUTOMOBILE VK SD AU ABB 12",
   "evses": [
     {
+      "id": "DECPIE65923451",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 43.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DECPIE65923452",
       "connectors": [
         {
@@ -13,17 +24,6 @@
         {
           "type": "chademo",
           "maxPowerKw": 44.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE65923451",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 43.0
         }
       ],
       "authMethods": null,

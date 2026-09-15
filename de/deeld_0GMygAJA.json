@@ -4,6 +4,17 @@
   "name": "Electra Dortmund - Moods Hotel",
   "evses": [
     {
+      "id": "DEELDEBRRT",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEELDE25TR",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEELDENYCU",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEELDEBRRT",
       "connectors": [
         {
           "type": "ccs",

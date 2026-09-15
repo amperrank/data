@@ -4,7 +4,18 @@
   "name": "VISUS Health IT GmbH Hinten - Linke Säule",
   "evses": [
     {
-      "id": "DEBOXEAC0328",
+      "id": "DEBOXEAC0319",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEBOXEAC0326",
       "connectors": [
         {
           "type": "type2",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEBOXEAC0319",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEBOXEAC0326",
+      "id": "DEBOXEAC0328",
       "connectors": [
         {
           "type": "type2",

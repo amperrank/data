@@ -4,7 +4,7 @@
   "name": "e-mobilio SchnellDC Wilnsdorf",
   "evses": [
     {
-      "id": "DEEMCE12347070202",
+      "id": "DEEMCE12347070201",
       "connectors": [
         {
           "type": "ccs",
@@ -15,11 +15,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEMCE12347070201",
+      "id": "DEEMCE12347070221",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 150.0
+          "type": "type2",
+          "maxPowerKw": 7.36
         }
       ],
       "authMethods": null,
@@ -37,11 +37,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DEEMCE12347070221",
+      "id": "DEEMCE12347070202",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 7.36
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,

@@ -4,17 +4,6 @@
   "name": "STW_Stingbert_10_Schmelzer_Parkplatz",
   "evses": [
     {
-      "id": "ATHTBE1013212",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "ATHTBE1013211",
       "connectors": [
         {
@@ -26,7 +15,7 @@
       "paymentMethods": null
     },
     {
-      "id": "ATHTBE1008151",
+      "id": "ATHTBE1013212",
       "connectors": [
         {
           "type": "type2",
@@ -38,6 +27,17 @@
     },
     {
       "id": "ATHTBE1008152",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "ATHTBE1008151",
       "connectors": [
         {
           "type": "type2",

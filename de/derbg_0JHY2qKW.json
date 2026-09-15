@@ -1,10 +1,21 @@
 {
   "operatorId": "DE*RBG",
   "geohash": "0JHY2qKW",
-  "name": "Gemeinde Wenzenbach II",
+  "name": "Gemeinde Wenzenbach I",
   "evses": [
     {
-      "id": "DERBGE0216",
+      "id": "DERBGE0435",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DERBGE0436",
       "connectors": [
         {
           "type": "type2",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DERBGE0435",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DERBGE0436",
+      "id": "DERBGE0216",
       "connectors": [
         {
           "type": "type2",

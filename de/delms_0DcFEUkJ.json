@@ -4,7 +4,18 @@
   "name": "SI Energy Bad Bertrich Vulkaneifeltherme",
   "evses": [
     {
-      "id": "DELMSE12348662152",
+      "id": "DELMSE1234570062",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELMSE1234570061",
       "connectors": [
         {
           "type": "type2",
@@ -26,29 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DELMSE12348662142",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DELMSE12348662141",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DELMSE12348662151",
+      "id": "DELMSE1234570052",
       "connectors": [
         {
           "type": "type2",
@@ -64,6 +53,17 @@
         {
           "type": "ccs",
           "maxPowerKw": 25.2
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DELMSE1234570051",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
         }
       ],
       "authMethods": null,

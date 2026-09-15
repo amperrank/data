@@ -1,30 +1,8 @@
 {
   "operatorId": "DE*RBG",
   "geohash": "0JHShlbS",
-  "name": "Lappersdorf Mitte",
+  "name": "Lappersdorf Mitte II",
   "evses": [
-    {
-      "id": "DERBGE0100",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DERBGE0099",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
     {
       "id": "DERBGE0453",
       "connectors": [
@@ -46,12 +24,34 @@
       ],
       "authMethods": null,
       "paymentMethods": null
+    },
+    {
+      "id": "DERBGE0100",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DERBGE0099",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
     }
   ],
   "facilities": null,
   "address": {
     "city": "Lappersdorf",
-    "street": "Oppersdorfer Str.",
+    "street": "Oppersdorferstraße",
     "houseNumber": null,
     "postcode": "93138",
     "province": null

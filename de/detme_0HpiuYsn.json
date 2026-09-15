@@ -4,11 +4,11 @@
   "name": "Bad Oldesloe, Hamburger Str. 75 LIS 2",
   "evses": [
     {
-      "id": "DETMEE30151",
+      "id": "DETMEE30237",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 300.0
+          "type": "chademo",
+          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,
@@ -20,17 +20,6 @@
         {
           "type": "ccs",
           "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DETMEE30237",
-      "connectors": [
-        {
-          "type": "chademo",
-          "maxPowerKw": 100.0
         }
       ],
       "authMethods": null,
@@ -49,6 +38,17 @@
     },
     {
       "id": "DETMEE30148",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETMEE30151",
       "connectors": [
         {
           "type": "ccs",

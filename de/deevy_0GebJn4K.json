@@ -4,6 +4,17 @@
   "name": "Eviny Germany Garrel",
   "evses": [
     {
+      "id": "DEEVYEGAR1A",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEEVYEGAR2B",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEEVYEGAR1B",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEEVYEGAR1A",
       "connectors": [
         {
           "type": "ccs",

@@ -4,22 +4,22 @@
   "name": "[FL-PUB] BMW - Autohaus Becker-Tiemann Bielefeld GmbH & Co. KG - AC/DC - Eichrecht SAM - DE*DES*E1003313",
   "evses": [
     {
-      "id": "DEDESE10033132",
+      "id": "DEDESE10033131",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 50.0
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEDESE10033131",
+      "id": "DEDESE10033132",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 50.0
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

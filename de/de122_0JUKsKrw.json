@@ -4,6 +4,17 @@
   "name": "BayWa Mobility Charging",
   "evses": [
     {
+      "id": "DE122E7010503",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 400.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DE122E7010501",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DE122E7010504",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 400.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DE122E7010503",
       "connectors": [
         {
           "type": "ccs",

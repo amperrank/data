@@ -26,17 +26,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DECKEEXD040931021",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DECKEEXD040931022",
       "connectors": [
         {
@@ -48,7 +37,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DECKEEXD040931022",
+      "id": "DECKEEXD040931021",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECKEEXD040931012",
       "connectors": [
         {
           "type": "chademo",
@@ -81,7 +81,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECKEEXD040931012",
+      "id": "DECKEEXD040931022",
       "connectors": [
         {
           "type": "chademo",

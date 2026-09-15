@@ -4,29 +4,7 @@
   "name": "IONITY GmbH IONITY Merenberg",
   "evses": [
     {
-      "id": "DEIOYE237574",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 250.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE237573",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 250.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE237575",
+      "id": "DEIOYE237571",
       "connectors": [
         {
           "type": "ccs",
@@ -48,7 +26,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE237571",
+      "id": "DEIOYE237575",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 250.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE237573",
       "connectors": [
         {
           "type": "ccs",
@@ -68,6 +57,17 @@
       ],
       "authMethods": null,
       "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE237574",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 250.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
     }
   ],
   "facilities": null,
@@ -78,5 +78,8 @@
     "postcode": "35799",
     "province": null
   },
-  "openingHours": null
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
 }

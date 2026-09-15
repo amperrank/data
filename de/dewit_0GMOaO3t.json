@@ -4,7 +4,18 @@
   "name": "STWW Uthmannstr. 17, 58452 Witten AC",
   "evses": [
     {
-      "id": "DEWITE0023",
+      "id": "DEWITE0009",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEWITE0010",
       "connectors": [
         {
           "type": "type2",
@@ -26,18 +37,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEWITE0009",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEWITE0010",
+      "id": "DEWITE0023",
       "connectors": [
         {
           "type": "type2",

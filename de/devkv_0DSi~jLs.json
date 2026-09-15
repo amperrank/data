@@ -4,6 +4,17 @@
   "name": "Stadtwerke Völklingen Vertrieb GmbH Pasteurstraße 13",
   "evses": [
     {
+      "id": "DEVKVE17076052",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 7.36
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DEVKVE17080462",
       "connectors": [
         {
@@ -16,17 +27,6 @@
     },
     {
       "id": "DEVKVE17080461",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 7.36
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEVKVE17076052",
       "connectors": [
         {
           "type": "type2",

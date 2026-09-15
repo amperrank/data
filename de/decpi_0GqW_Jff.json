@@ -4,6 +4,17 @@
   "name": "ALPHAR RECHARGE NL GTH DC4-50",
   "evses": [
     {
+      "id": "DECPIE70650651",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 50.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
       "id": "DECPIE70650652",
       "connectors": [
         {
@@ -15,11 +26,33 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE70650651",
+      "id": "DECPIE70650452",
       "connectors": [
         {
           "type": "ccs",
-          "maxPowerKw": 50.0
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE70650551",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DECPIE70650451",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 150.0
         }
       ],
       "authMethods": null,
@@ -37,11 +70,11 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE70650451",
+      "id": "DECPIE69779951",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 150.0
+          "type": "type2",
+          "maxPowerKw": 22.08
         }
       ],
       "authMethods": null,
@@ -70,17 +103,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE69779952",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.08
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DECPIE69779852",
       "connectors": [
         {
@@ -103,7 +125,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE69779951",
+      "id": "DECPIE69779952",
       "connectors": [
         {
           "type": "type2",
@@ -114,29 +136,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE70650551",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE70650452",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 150.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DECPIE70650851",
+      "id": "DECPIE70650852",
       "connectors": [
         {
           "type": "ccs",
@@ -147,7 +147,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DECPIE70650852",
+      "id": "DECPIE70650851",
       "connectors": [
         {
           "type": "ccs",

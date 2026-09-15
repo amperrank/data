@@ -4,11 +4,11 @@
   "name": "[FL-PUB] BMW Langenhan Jena GmbH - DC - Eichrecht - DE*DES*E1002955",
   "evses": [
     {
-      "id": "DEDESE10029551",
+      "id": "DEDESE10011102",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 75.2
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,
@@ -37,17 +37,6 @@
       "paymentMethods": null
     },
     {
-      "id": "DEDESE9731",
-      "connectors": [
-        {
-          "type": "type2",
-          "maxPowerKw": 22.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DEDESE9732",
       "connectors": [
         {
@@ -59,7 +48,18 @@
       "paymentMethods": null
     },
     {
-      "id": "DEDESE10011102",
+      "id": "DEDESE10029551",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 75.2
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEDESE9731",
       "connectors": [
         {
           "type": "type2",

@@ -4,17 +4,6 @@
   "name": "Shell Recharge OBN 7481 - Shell Jagdschaenkenstrasse",
   "evses": [
     {
-      "id": "DETNMEGL49017481021",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 300.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "DETNMEGL49017481022",
       "connectors": [
         {
@@ -38,6 +27,17 @@
     },
     {
       "id": "DETNMEGL49017481012",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 300.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DETNMEGL49017481021",
       "connectors": [
         {
           "type": "ccs",

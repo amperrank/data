@@ -4,22 +4,22 @@
   "name": "DE Berlin 14167 Goerzallee VGRD PP03 (öffentlich) (AOTFUI)",
   "evses": [
     {
-      "id": "DEPOWE01638",
+      "id": "DEPOWE01637",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "ccs",
+          "maxPowerKw": 75.2
         }
       ],
       "authMethods": null,
       "paymentMethods": null
     },
     {
-      "id": "DEPOWE01637",
+      "id": "DEPOWE01638",
       "connectors": [
         {
-          "type": "ccs",
-          "maxPowerKw": 75.2
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

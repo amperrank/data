@@ -4,17 +4,6 @@
   "name": "Rieden Dorfplatz",
   "evses": [
     {
-      "id": "ATHTBE1001755",
-      "connectors": [
-        {
-          "type": "unknown",
-          "maxPowerKw": 3.68
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
       "id": "ATHTBE1001753",
       "connectors": [
         {
@@ -26,11 +15,11 @@
       "paymentMethods": null
     },
     {
-      "id": "ATHTBE1001754",
+      "id": "ATHTBE1001755",
       "connectors": [
         {
-          "type": "type2",
-          "maxPowerKw": 22.0
+          "type": "unknown",
+          "maxPowerKw": 3.68
         }
       ],
       "authMethods": null,
@@ -42,6 +31,17 @@
         {
           "type": "unknown",
           "maxPowerKw": 3.68
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "ATHTBE1001754",
+      "connectors": [
+        {
+          "type": "type2",
+          "maxPowerKw": 22.0
         }
       ],
       "authMethods": null,

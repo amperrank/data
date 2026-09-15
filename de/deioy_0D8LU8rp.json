@@ -4,7 +4,7 @@
   "name": "IONITY GmbH IONITY Werneck",
   "evses": [
     {
-      "id": "DEIOYE225004",
+      "id": "DEIOYE225012",
       "connectors": [
         {
           "type": "ccs",
@@ -15,7 +15,40 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE225009",
+      "id": "DEIOYE225008",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE225002",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE225007",
+      "connectors": [
+        {
+          "type": "ccs",
+          "maxPowerKw": 350.0
+        }
+      ],
+      "authMethods": null,
+      "paymentMethods": null
+    },
+    {
+      "id": "DEIOYE225004",
       "connectors": [
         {
           "type": "ccs",
@@ -37,7 +70,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE225010",
+      "id": "DEIOYE225006",
       "connectors": [
         {
           "type": "ccs",
@@ -59,7 +92,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE225006",
+      "id": "DEIOYE225009",
       "connectors": [
         {
           "type": "ccs",
@@ -92,40 +125,7 @@
       "paymentMethods": null
     },
     {
-      "id": "DEIOYE225007",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE225002",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE225008",
-      "connectors": [
-        {
-          "type": "ccs",
-          "maxPowerKw": 350.0
-        }
-      ],
-      "authMethods": null,
-      "paymentMethods": null
-    },
-    {
-      "id": "DEIOYE225012",
+      "id": "DEIOYE225010",
       "connectors": [
         {
           "type": "ccs",
@@ -144,5 +144,8 @@
     "postcode": "97440",
     "province": null
   },
-  "openingHours": null
+  "openingHours": {
+    "isOpen247": true,
+    "regularHours": null
+  }
 }
